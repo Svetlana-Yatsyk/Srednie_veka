@@ -1,0 +1,316 @@
+УДК 930(485+470)+94(485)“4/14”
+A.J. Щеглов*
+БЫЛ JIM ФЕОДАЛИЗМ В ШВЕЦИИ?
+
+Являлась ли Швеция феодальной страной? Специалисты, признающие наличие фео-
+дальных отношений в средневековой Швеции, основываются на различных кон-
+цепциях феодального общества. Некоторые историки в качестве ключевого элемен-
+та феодализма рассматривают вассально-ленные связи, другие подчеркивают роль
+местных форм феодальной ренты, третьи акцентируют значимость делегирования
+судебных полномочий короны, четвертые — важность средневековых горизонтальных
+связей. При всех различиях подходы и точки зрения дополняют друг друга. Пред-
+ставляется уместным рассматривать средневековый шведский социум как локальный
+вариант феодального общества, принимая BO внимание, в частности, такие важные
+черты, как вассально-ленные отношения, присутствие вотчин, наличие крестьянской
+ренты и роль замков как военных, фискальных и административных центров.
+
+Ключевые слова: история, историография, Средние века, Швеция, феодализм.
+
+DOI: 10.7868/50131878020010092
+
+WAS THERE FEUDALISM IN SWEDEN?
+
+Was medieval Sweden a feudal country? Specialists who acknowledge the presence of
+
+feudal relations in medieval Sweden base themselves on different definitions of feudalism.
+
+Some historians regard fiefs as the key elements of feudalism, some underline the role of
+
+the local forms of feudal rent, some stress the importance of the delegation of the judicial
+
+prerogatives of the Crown, and some highlight the significance of medieval horizontal con-
+nections. In spite of the differences, historians’ approaches and viewpoints, in fact, com-
+plement each other. It seems appropriate to view the medieval Swedish society as a local
+form of feudal society, due to the presence of such essential features as the fiefs, the noble
+estates, the peasant rent and the role of castles as administrative, fiscal and military centres.
+
+Keywords: history, historiography, the Middle Ages, Sweden, feudalism.
+
+* Андрей Джолинардович Щеглов — доктор исторических наук, ведущий научный
+сотрудник Отдела западноевропейского Средневековья и раннего Нового времени
+ИВИ PAH (r. Москва), профессор Московского педагогического государственно-
+ro университета. E-mail: ascheglov@mail.ru. WOS Research ID: AAC-6960-2020.
+
+Andrey Scheglov — Doctor of Sciences in History; Leading Researcher, Department
+of Medieval and Early Modern Studies, Institute of World History, Russian Academy
+of Sciences (Moscow), professor, Moscow Pedagogical State University. E-mail:
+asheglov@mail.ru. WOS Research ID: AAC-6960-2020.
+
+Средние века. 2020. 81 (1)
+
+80 AJ]. Щеглов
+
+СУЩССТВОВЗЛ JIH феОДаЛИЗМ B СреДНСВСКОВОЙ ШВСЦИИ, и какого
+мнения на этот cuer придерживаются шведские ИСТОРИКИ? ОбСУЖДе-
+ние вопроса уместно начать с ОПРСДСЛСНИЙ. Согласно одному H3 IIO—
+пулярных СЛОВЗРСЙ шведского языка, фСОДаЛИЗМ — 5r0 «иерархиче-
+ская ОбЩССТВСННЗЯ система, где земля жалуется (ЖаЛОВЗЛЗСЬ) B лен
+сверху в обмен на клятву верности и рыцарскую службу» (hierarkiskt
+samhallssystem dar jord férlana(de)s uppifran i utbyte mot trohetsed och
+rusttjanst)'. Национальная энциклопедия — одно U3 наиболее востре-
+бованных справочных ИЗДЗНИЙ ШВСЦИИ — дает следующее опреде-
+ление: «Феодализм [...] — термин, употребляемый в исторической
+науке для обозначения средневековых ленных связей c UX специ-
+фИЧССКИМИ правовыми отношениями. ТСРМИН УПОТРСбЛЯСТСЯ также
+в более широком смысле для обозначения ОбЩССТВСННОЙ системы,
+которая господствовала главным o0pa30M B 3anaqHon И ЦентраЛЬ—
+HOW Espone в течение большей части СРСДНСВСКОВЬЯ‚ а в некоторых
+случаях — H ОбЩССТВСННЬ1Х систем в других регионах в определен-
+ные ПСРИОДЫ»2. Указанная энциклопедия утверждает: фСОДаЛИЗМ как
+правовая и административная система в странах ССВСРНОЙ ЕВРОПЬ1
+был развит слабо: «Feodalism som rattsligt och administrativt system
+var svagt utvecklad i Norden»’.
+
+OtTmetTuM, uTO B ШВСЦИИ такие MOHATHA, Kak «cpeowasibHaa эпоха»
+WIM «(peoasIbHbIi период» He играют СУЩССТВСННОЙ роли в периодиза-
+ции истории. В университетских курсах и научно-популярных издани-
+ях периодизация истории ШВСЦИИ осуществляется: a) по эпохам (Древ-
+ность, эпоха викингов, Средневековье, раннее Новое время и т.д.); 6) no
+династиям и важным факторам политической жизни (эпоха Фолькун-
+ros — Folkungatiden, эпоха Унии — Unionstiden, эпоха Стуре — Sturetiden,
+! См.: Norstedts stora svenska ordbok. Stockholm, 1995. $. 293. В свою очередь,
+
+многотомный словарь шведского языка — Svenska akademiens ordbok (SAOB)
+определяет феодализм Kak систему вассально-ленных отношений (https://www.
+saob.se/artikel/?unik=F_0443—0057.7hzM&pz=8). Примеры употребления терми-
+Ha, приведенные в SAOB, в основном заимствованы из трудов, опубликован-
+ных в период c ХУШ no начало XX B., и отражают представления, имевшие
+место в историографии на протяжении указанного периода.
+
+? «Feodalism [...], term som inom historisk forskning anvands fér att beteckna det
+medeltida lansvasendet med dess specifika rattsliga forhallanden. Termen anvands
+ocksa i vidare bemarkelse för att beteckna det samhällssystem som radde 1 framf6r
+allt Vast- och Mellaneuropa under större delen av medeltiden samt ibland även
+samhallssystem 1 andra omraden och under skilda perioder». Цитируется no элек-
+тронному изданию: https://www.ne.se/uppslagsverk/encyklopedi/lang/feodalism
+(дата обращения: 12.01.2020).
+
+3 Feodalism // Uppslagsverket. URL: https://www.ne.se/uppslagsverk/encyklopedi/
+lang/feodalism#feodalism-i-norden (дата обращения: 12.01.2020).
+
+Был ли феодализм в Швеции? 61
+эпоха Baca — Vasatiden, эпоха великодержавия — Stormaktstiden, и т.п.);
+в) по культурным явлениям и идейным течениям (эпоха Средневековья,
+эпоха Ренессанса и Реформации, эпоха барокко и др.).
+
+Схожая ситуация присутствует в периодизации истории Дании,
+где критериями могут выступать политические события, периоды
+правления отдельных династий, факторы социально-политической
+истории. Понятия «феодальная эпоха» и «феодальный период» при
+этом не используются. Для периодизации истории Норвегии и Фин-
+ляндии — стран, долгое время находившихся под иноземным влады-
+чеством, — существенное значение имеет, среди прочего, вопрос
+о политическом статусе страны в ту или иную эпоху. При этом тер-
+мин «феодальная эпоха» и другие подобные термины также не игра-
+ют существенной роли.
+
+Так или иначе некоторые шведские историки используют терми-
+ны «феодализм» и «феодальный» применительно к истории своей
+страны, часто под феодальными отношениями подразумевая отно-
+шения вассально-ленные. Сами эти отношения в Швеции имели ряд
+особенностей, в том числе: а) срочный характер ленных держаний,
+He передававшихся автоматически по наследству; 0) за некоторыми
+исключениями, отсутствие феодальной иерархии (как правило, все
+представители социальной элиты являлись непосредственными вас-
+салами короля и держателями первой руки). Важной чертой средневе-
+ковой истории Швеции являлось отсутствие тяжелых форм крестьян-
+ской зависимости. Существовали две основные категории сельского
+населения — бонды (тягловые крестьяне, обязанные платить налог
+в пользу короны) и ландбу (арендаторы помещичьей земли). Обе ка-
+тегории были лично свободны, но ландбу находились в поземельной
+зависимости от собственника арендуемого участка. В связи с этим
+некоторые историки отрицают наличие феодализма в Швеции; дру-
+гие пытаются углубить понимание проблемы, найти новые подходы.
+
+В монографии Т. Линдквиста «Грабежи, налоги и возникно-
+вение феодального государства» (1988; 2-е изд. 1995) феодализм
+трактуется в социально-историческом, фактически марксистском
+ключе. Автор считает: 1) церковную десятину, 2) налоги свободных
+крестьян — бондов и 3) арендную плату ландбу — местными форма-
+ми феодальной ренты. Создавая концепцию, Линдквист учел опыт
+как западноевропейских исследователей, так и российских авторов —
+A.A. Гуревича, С.Д. Ковалевского, И.П. Шаскольского*. С иных
+4 Lindkvist Т. Plundring, skatter och den feodala statens framvaxt: Organisatoriska
+
+tendenser i 6vergangen fran vikingatid till tidig medeltid. Uppsala, 1995.
+
+62 AJ]. Щеглов
+
+позиций подходит к проблеме феодализма У. Ферм. Он высказывает
+
+мнение, что одним H3 признаков феодализма B ШВСЦИИ являлось де-
+
+легирование вассалам СУДСбНЬ1Х TIOJIHOMOUHM короны — права взима-
+ния штрафов с ландбу, права суда над крестьянами`.
+
+В новейшей шведской историографии сохраняются как разно-
+гласия по поводу применения термина «феодализм», Tak и различия
+в интерпретации обозначаемого им феномена. Tak, примечатель-
+ная трактовка феодальных отношений содержится в монографии
+Д. Линдстрёма (1991), посвященной скандинавским ремесленным
+цехам. По мнению автора, «ОДНОЙ из OCHOBHBIX черт фСОДЭ.ЛЬНОГО об-
+щества» являлось наличие горизонтальных СВЯЗСЙ, ОбЪСДИНЯЮЩИХ
+ЛЮДСЙ в группы — в частности, в городские профессионалыше объ-
+единения°. Kak известно, подобную точку зрения на роль горизон-
+тальных связей и ОбЪСДИНСНИЙ в средневековом социуме разделяют
+многие специалисты — Kak ЗарубеЖНЬ1е, таки ОТСЧССТВСННЬ1С7.
+
+Как легко убедиться‚ воззрения историков относительно наличия
+и CyIHHOCTH феодализма B ШВСЦИИ различны. Они отражают разно-
+образие интересов и стилей ученых, а также множественность под-
+XOJIOB K Проблеме феодализма. Вместе с тем мнения дополняют друг
+друга, H3 них выстраивается ОбЩ&Я картина. В принципе мы можем,
+применительно к ШВСЦИИ, либо отказаться от термина «фСОДЭ.ЛИЗМ»,
+либо его УПОТРСбЛЯТЬ. Mue представляется уместным рассматривать
+шведское общество примерно ХШ-ХУ BB. xax один из вариантов
+фСОДаЛЬНОГО ОбЩССТВЭ.. Мы видим следующие признаки феодально-
+го социума: 1) наличие вассально-ленных связей (И ленов как тако-
+вых); 2) наличие вотчин (швед. frä/segods); 3) наличие крестьянской
+ренты в форме арендной платы крестьян-ландбу; 4) условный ха-
+рактер земельной собственности; 5) наличие рыцарства, рыцарско-
+TO BOlicka, pbiljapcKon HJIeOJIOTHH; 6) наличие множества замков Kak
+административных, фИСКЗЛЬНЫХ и военных центров. Что касается
+особенностей данной формы феодального общества (личная свобо-
+да крестьян, отсутствие тяжелых фОРМ КреСТЬЯНСКОЙ зависимости,
+отсутствие «феодальной лестницы» H жестких сословных границ,
+слабо выраженная и лишь на отдельных, достаточно кратковремен-
+$ Ferm О. Feodalism i Sverige? Hégfralsets gardsratter under medeltiden och
+
+1500-talet // Historisk tidskrift. Stockholm,1983. Bd. 103. $. 132-139.
+
+* «Ett av det feodala samhillets grunddrag ar de horisontella, personliga bindningar
+mellan människor som konstituerade en sammanhallen gemenskap. Skrana аг ett
+exempel pa denna organisationsform» (Lindstrom D. Skra, stad och stat: Stockholm,
+Malmö och Bergen ca 1350-1622. Uppsala, 1991).
+
+7 Cm. например: Уваров П.Ю. Общины, общности и медиевисты // Средние Beka.
+М., 2017. Вып. 78 (3). С. 41-62.
+
+Boia ли феодализм в Швеции? 83
+ных этапах присутствующая феодальная раздробленность), TO у yKa-
+занных явлений имеются аналоги в ряде других регионов ЕВРОПЬ1.
+
+В связи с вопросом, возможно ли употреблять термин «феода-
+лизм» в OTHOIHCHHH ШВСЦИИ, уместно процитировать высказыва-
+ние отечественного медиевиста Ю.Л. Beccmepruoro: «Kak известно,
+о терминах не спорят, о них договариваются. Такая договоренность
+по поводу средневековой общественной системы давно достигну-
+Ta: историки самых разных Направлений называют ее “феодаль-
+ной”». Ilo мнению Бессмертного, «видеть BO фьефно-вассальных
+связях образующую клеточку феодализма [...] нельзя, HO и отрицать
+их важность B ОбЪСДИНСНИИ правящего класса и обеспечении его го-
+сподствующего положения не приходится.. .»8. В данном случае, при-
+менительно к ШВСЦИИ‚ MBI HaOsiroaeM He только вассально-ленные OT-
+ношения, HO и другие существенные элементы фСОДЭ.ЛЬНОГО ОбЩССТВЭ„
+
+Что касается процесса генезиса того ОбЩССТВЗ, которое мы мо-
+жем называть феОДаЛЬНЬ1М‚ TO B Ulsennun, B силу ПСРИФСРИЙНОСТИ
+и исторического консерватизма этой страны, УКЗЗЗННЫЙ процесс на-
+чался значительно позже, чем в ряде других регионов ЕВРОПЬ1 — при-
+мерно в середине XIII в., и завершился в первой половине XIV в.?
+Важнейшими составляющими процесса явилось строительство мно-
+жества замков как военных, административных и (PHCKasIbHBIX цент-
+ров, создание рыцарского войска, формирование церковной иерар-
+XHIH И ЦСРКОВНОЙ СОбСТВСННОСТИ‚ возникновение светской земельной
+coOcTBeHHOCTH, a также KogMdukalna 3aKOHOB и правовые новшества,
+отразившие указанные ОбЩССТВСННЬ1е переменыю. Катализатором
+перемен стало вовлечение ШВСЦИИ в систему международных OTHO-
+ШСНИЙ‚ влияние опыта более развитых стран и ориентация на зару-
+бежные образцы''!.
+
+5 См.: Бессмертный Ю.Л. «Феодальная революция» X—XI веков? // Вопросы
+истории. 1984. Т. 1. С. 52-68.
+
+9 Относительно особенностей формирования и функционирования системы зам-
+ковых ленов в Швеции cM. классическое исследование: Fritz В. Hus, land och lan:
+Forvaltningen 1 Sverige 1250—1434. Stockholm, 1972-1974. Bd. I—II. Результаты
+исследований автора представлены также в статье: Fritz В. The building of castles
+and the administration of Sweden // Средние века. М., 1997. Вып. 59. С. 89-95.
+
+10 Относительно начальной стадии указанных процессов CM. коллективную мо-
+нографию: Birger jarls tid — en brytningstid? Sex forelasningar fran ett symposium
+i Stockholm varen 2001 / Red. L. Annerback. Stockholm, 2002. Cm. также o6—
+зор материалов указанной книги: Щеглов А.Д. «Феодальная мутация»: швед-
+ский вариант? (Обзор материалов сборника: Birger jarls tid — en brytningstid?
+Stockholm, 2002) // Средние века. М., 2005. Buin. 66. С. 128-140.
+
+!! Cp.: Lindkvist Т. Sveriges medeltida europeisering // Forskning om europafragor
+vid Géteborgs universitet. Géteborg, 2005. Bd. 18. $. 125-154.
+
+64 AJ]. Щеглов
+БИБЛИОГРАФИЯ
+
+Бессмертный Ю.Л. «Феодальная революция» X—XI веков? // Вопросы
+истории. 1984. Т. 1. С. 52—68.
+
+Уваров II.IO. Общины, общности и медиевисты // Средние века. 2017.
+Вып. 78 (3). С. 41-62.
+
+Щеглов А.Д. «Феодальная мутация»: шведский вариант? (Обзор мате-
+риалов сборника: Birger jarls tid — en brytningstid? Stockholm, 2002) // Сред-
+Hue Beka. М., 2005. Вып. 66. С. 128-140.
+
+Birger jarls tid — en brytningstid? Sex forelasningar fran ett symposium
+1 Stockholm varen 2001 / red. L. Annerback. Stockholm, 2002.
+
+Ferm О. Feodalism i Sverige? Hégfralsets gardsratter under medeltiden och
+1500-talet // Historisk tidskrift. Stockholm, 1983. Bd. 103. 5. 132-139.
+
+Fritz В. Hus, land och Jan: Forvaltningen i Sverige 1250-1434. Stockholm,
+1972-1974. Bd. I—II.
+
+Fritz В. The building of castles and the administration of Sweden // Сред-
+Hue века. М., 1997. Вып. 59. С. 89-95.
+
+Lindkvist T. Plundring, skatter och den feodala statens framvaxt: Organisatoriska
+tendenser i 6vergangen fran vikingatid till tidig medeltid. Uppsala, 1995.
+
+Lindkvist T. Sveriges medeltida europeisering // Forskning om europafragor
+vid Géteborgs universitet. Gdteborg, 2005. Bd. 18. $. 125-154.
+
+Lindstrém D. Skra, stad och stat: Stockholm, Malm6 och Bergen ca 1350—
+1622. Uppsala, 1991.
+
+REFERENCES
+
+Bessmertnyj Yu.L. «Feodlnaya revolyutsiya» X—XI vekov? // Voprosy istorii.
+1984. Т. 1. $. 52-68.
+
+Birger jarls tid — en brytningstid? Sex forelasningar fran ett symposium
+1 Stockholm varen 2001 / red. L. Annerback. Stockholm, 2002.
+
+Ferm О. Feodalism i Sverige? Hégfralsets gardsratter under medeltiden och
+1500-talet // Historisk tidskrift. Stockholm, 1983. Bd. 103. 5. 132-139.
+
+Fritz В. Hus, land och Jan: Forvaltningen i Sverige 1250-1434. Stockholm,
+1972-1974. Bd. I—II.
+
+Fritz B. The building of castles and the administration of Sweden // Srednie
+veka. М., 1997. Vyp. 59. $. 89-95.
+
+Lindkvist Т: Plundring, skatter och den feodala statens framvaxt: Organisatoriska
+tendenser i 6vergangen fran vikingatid till tidig medeltid. Uppsala, 1995.
+
+Lindkvist Т. Sveriges medeltida europeisering // Forskning om europafragor
+vid Géteborgs universitet. Gdteborg, 2005. Bd. 18. $. 125-154.
+
+Lindstrom D. Skra, stad och stat: Stockholm, Malm6 och Bergen ca 1350—
+1622. Uppsala, 1991.
+
+Scheglov A.D. «Feodalnaya mutatsiya»: shvedsky variant? (Obzor
+materialov sbornika: Birger jarls tid — en brytningstid? Stockholm, 2002) //
+Srednie veka. М., 2005. Vyp. 66. $. 128-140.
+
+Uvarov P.Yu. Obschiny, obschnosti i medievisty // Srednie veka. 2017.
+Vyp. 78 (3). S. 41-62.
+

@@ -1,0 +1,1153 @@
+СРЕДНЕВЕКОВОЕ ПРАВО: ТЕКСТЫ И ОБЫЧАИ
+УДК 94(460)“9/10”
+ALIT. Сафронова
+LIBER IUDICIORUM В ЛЕОНСКИХ ДОКУМЕНТАХ
+X—XI BEKOB
+В статье рассматривается бытование вестготского кодекса Liber Гийстогит В co—
+циальной практике Леонского королевства X—XI BB. Данный анализ позволяет
+предположить, что использование этого свода законов He ограничивалось ero
+формальным цитированием в документах этого времени. В Леонском королев-
+стве к вестготскому кодексу обращались непосредственно в ходе судебных раз-
+бирательств, и в то же время их участники едва ли воспринимали содержащиеся
+в нем нормы Kak прескриптивные. Liber /udiciorum имела высокий авторитет
+как источник права, однако решение конфликтов в этот период основывалось
+скорее на неписаных правилах, чем на установлениях /ex scripta. В X—XI Bs.
+вестготский кодекс применялся для того, чтобы квалифицировать и описывать
+те или иные действия как нарушение социального порядка, а также представ-
+лять легитимным принуждение по отношению к преступникам.
+Ключевые слова: Леонское королевство, раннесредневековое право, Liber
+Iudiciorum, «Вестготская правда», решение конфликтов, неписанные правила,
+lex scripta.
+
+Вестготский социальный и политический порядок был pa3-
+
+рушен мусульманским завоеванием, однако кодифицированный
+в VII в. свод законов, известный Kak Liber Iudiciorum (в русско-
+язычной традиции — «Книга приговоров» или «Вестготская правда»),
+долгое время после падения вестготской монархии упоминался
+в документах христианских королевств севера ПИРСНСЙСКОГО полу-
+ОСТРОВЗ‘. В грамотах Леонского королевства пик обращения к нему
+приходится на Х-Х BB., когда составители документов активно
+ссылались на вестготские законы и приводили развернутые цитаты
+из них. Не лишенный внутренних противоречий свод, скорее все-
+!Наиболее полное издание см.: Liber Iudiciorum sive Lex Visigothorum / Ed.
+K. Zeumer // Monumenta Germaniae Historica. Legum section I. Hannover, 1902.
+Т. I: Leges Visigothorum. P. 33-456 (далее — LI). Перевод на русский язык: Вест-
+готская правда (Книга приговоров): Латинский текст. Перевод. Исследование /
+под ред. О.В. Аурова, A.B. Марея. М., 2012.
+
+94 ALIT. Сафронова
+
+TO, никогда He применялся в СУДСбНОЙ практике регулярно и во всей
+
+свой полноте. Liber Гийстогит изначально He была сугубо право-
+
+вым кодексом, HO имела также религиозное и идеологическое 3Ha-
+
+ЧСНИС2. В Леонском королевстве к ней обращались B HOBbIX COHH—
+
+альных и политических условиях, которые существенно отличались
+
+от вестготских. В период после завоевания в ситуации правового
+плюрализма Liber ludiciorum использовалась крайне избирательно
+
+И НСПОСЛСДОВЗТСЛЬНОЗ. Многие ссылки на кодекс HOCAT СУГубО тех-
+
+нический характер, а известные no документам X—XI BB. разбира-
+
+тельства, например, ВНССУДСбНОГО характера, порой BXOJAT B ABHOC
+противоречие с предписаниями вестготских ЗЗКОНОВ4.
+
+Большинство современных ИССЛСДОВЗТСЛСЙ признают вариатив-
+ность практики правоприменения в Леонском королевстве, HO при
+этом He ставят под сомнение правовой характер использования Liber
+Iudiciorum в этот период. В представленной в 3TOM своде римско-
+вестготской традиции принято видеть основу, на которой форми-
+ровалось новое леонское законодательство. В соответствии с HOp-
+мативным IIOJIXOJIOM, KOTOpBIit долгое время преобладал в изучении
+ДаННОЙ ПробЛСМЫ, кодекс рассматривался в качестве источника пре-
+скриптивных норм, которые определяли СУДСбНУЮ практику первых
+веков Реконкистьы?”. ДЛЯ обоснования этой точки зрения историки,
+? Martin С. Le Liber Tudiciorum et ses différentes versions // Mélanges de la Casa
+
+de Velazquez. 2011. Vol. 41, N 2. P. 17-34; Петит K. Вестготское право VII в.:
+Попытка синтеза и интерпретации / пер. A.B. Mapes, E.C. Криницыной // Вест-
+готская правда (Книга приговоров). С. 229—242.
+
+3 Bowman J.A. From Galicia to the Rhéne: Legal practice in Northern Spain around
+the year 1000 // Culture and society in medieval Galicia: A cultural crossroads at the
+edge of Europe / Ed. J. D’Emilio. Leiden; Boston, 2015. P. 349-350. Более подроб-
+HO тематический анализ см.: Rodino Carames С. A lex götica е o Liber Iudicum
+no Reino de Leon // Cuadernos de estudios gallegos. 1997. Vol. 44, N 109. P. 25-38,
+47-49.
+
+‘Isla Frez A. La pervivencia de la tradicion legal visigötica en el reino asturleonés //
+Melanges de la Casa de Velazquez. 2011. Vol. 41, N 2. P. 83-84. Противоречия
+такого рода неоднократно упоминались B историографии, например, см.: Prieto
+Morera А. El proceso en el гето de Leon a la luz de los diplomas // El тето de Leon
+en la Alta Edad Media: Ordenamiento juridico del reino / Ed.M. Lucas Alvarez.
+Leon, 1992. Т. II. P. 482-483; Alvarado Planas J. A modo de conclusiones: el Liber
+Iudiciorum у 1а aplicacion del Derecho en los siglos VI a XI // Mélanges de la Casa
+de Velazquez. 2011. Vol. 41, N 2. P. 116.
+
+5 Упоминания вестготских законов в документах первых веков Реконкисты тради-
+ционно вызывали большой интерес в контексте истории права (см.: Orlandis J.
+Huellas visigoticas en el derecho de la Alta Edad Media // Anuario de historia
+del derecho espafiol. 1944. N15. P. 644-658; Alvarado Planas J. El problema del
+germanismo en el Derecho езрайо! (siglos V—XI). Madrid, 1997; Idem. A modo de
+
+Liber Iudiciorum в леонских документах X—XI веков 95
+как правило, указывают на описанные в леонских документах су-
+Дебные процедуры (qame всего на установление свидетельских
+показаний и принесение КЛЯТВЬ1), которые OHH считают наиболее
+очевидным проявлением РИМСКО-ВССТГОТСКОЙ ТраДИЦИИб. СПОР гер-
+манистов и романистов о характере леонского права принято счи-
+тать оконченным, однако вопрос о происхождении Tex или иных
+СУДСбНЬ1Х практик по-прежнему остается на повестке WHA, несмотря
+на то, что его решение затруднено СУГубО ИСТОЧНИКОВСДЧССКИ7.
+
+conclusiones. P. 109-127; Martinez Sopena P. El uso de la Ley Gotica en el гето de
+Leon // Remploi, citation, plagiat: Conduites et pratiques médiévales, X*—XII* siécle /
+Eds. P. Toubert, P. Moret. Madrid, 2009. P. 97-114; Isla Frez А. La pervivencia de la
+tradicion legal visigotica en el reino asturleonés. P. 75-86). Данная проблема так-
+»xe отчасти затрагивалась в исследованиях, посвященных изучению судебного
+процесса VIII—XI вв. (cm.: Lopez Ortiz J. El proceso en los reinos cristianos de
+nuestra Reconquista antes de la recepcion romano-canonica // Anuario de historia del
+derecho espanol. 1942-1943. N 14. P. 190; Prieto Morera A. Е1 proceso en el reino
+de Leon a la luz de los diplomas. P. 381-518; Collins R. Visigothic law and regional
+custom in disputes in early medieval Spain // The settlement of disputes in early
+medieval Europe / Eds. W. Davies, P. Fouracre. Cambridge, 1986. P. 85-104; /dem.
+«Sicut Lex Gothorum continent»: Law and Charters in Ninth- and Tenth-Century
+Leon and Catalonia // English Historical Review. 1985. Vol. 100, N 396. P. 489—
+512; Minguez Fernandez J.M. Justicia y poder en el marco de la feudalizacion de
+la sociedad leonesa // La guistizia nell’ Alto Medioevo (secoli IX—XI), 11-17 aprile
+1996, Settimane 44. Spoleto, 1997. P. 491-548; Martinez Sopena P. La justicia en la
+época asturleonesa: entre el Liber y los mediadores sociales // El lugar de campesino:
+En torno a la obra de Reyna Pastor / Ed. A. Rodriguez. Valencia, 2007. Р. 239-260).
+При этом в большинстве случаев исследователей занимало вестготское право-
+вое наследие как таковое, а не проблема бытования конкретного законодатель-
+Horo кодекса. В более узком плане TO, xax представлен текст Liber ludiciorum
+B документах IX—XI BB., отчасти анализировалось в работах, посвященных
+текстуальной традиции памятника (cM. примеч. 8), в TO время как в истори-
+ческих исследованиях практический аспект бытования рассматривался редко
+и главным образом в связи с проблемой компетенции судей (см. примеч. 16).
+
+° Например,см.: Collins В. «Sicut Lex Gothorum continent». Р. 494; Alvarado Planas J.
+A modo de conclusiones. P. 117.
+
+На актуальность «разграничения германских и римских элементов внутри пра-
+ва» указывает, например, П. Мартинес Сопена (Martinez Sopena P. Е1 uso de la
+Ley Gotica. P. 103). Современный этап обсуждения этой проблемы отличается
+от предшествующей дискуссии тем, что теперь историки наряду с германскими
+и римскими составляющими права выделяют также «новые» элементы, кото-
+рые сформировались в результате адаптации римско-готской традиции к нуж-
+дам общества первых веков Реконкисты (например, см.: Alvarado Planas J.
+А modo de conclusiones. P. 116; /s/a Frez A. La pervivencia de la tradicion legal.
+P. 76-77). Некоторые исследователи рассматривают отличные OT римской
+и германской традиций элементы как проявление местной правовой культуры,
+которая существовала Ha севере полуострова и He была подвержена UX влия-
+нию (например, см.: Minguez Fernandez J.M. Justicia у poder. Р. 516—517).
+
+96 ALIT. Сафронова
+Во-первых, составленный в VII B. текст Liber Iudiciorum X0
+
+Hac He дошел, поскольку рукописи вестготского периода He со-
+
+хранились. Известный нам кодекс является либо реКОНСТРУКЦИСЙ
+
+первоначального текста, либо одним H3 ero вариантов, которые
+бытовали в более ПОЗДНИЙ период. НСКОТОРЬ1С из дошедших до
+
+Hac рукописей Liber Iudiciorum восходят именно к Х-Х BB., так
+
+что мы можем предполагать, что представляла собой текстуаль-
+
+Had традиция данного памятника B этот ПСРИОДЗ. ПРИ этом, OJ—
+
+нако, мы Hc знаем, C каким именно нормативным текстом имели
+
+дело составители леонских документов в каждом отдельном слу-
+чае, поэтому сопоставление известного нам по традиции кодекса
+
+с отраженной в грамотах X—XI BB. судебной практикой едва ли
+
+оправданно. K TOMY же из-за отсутствия вестготских докумен-
+
+тальных источников мы HE знаем, KaK этот кодекс мог применять-
+
+ся для разрешения КОНфЛИКТОВ до мусульманского завоевания.
+Во-вторых, общее соответствие судебной практики Х-Х Bp.
+
+известному no реконструкции тексту Liber /udiciorum, Tak »xe
+
+Kak и противоречия между ними, на Halll взгляд, недостаточно
+
+показательно в TOM, что касается фУНКЦИИ закона в этот период.
+
+В ситуации 1BH0M правовой гетерогенности мы едва ли можем
+
+определенно связывать происхождение Tex WIM иных практик
+
+с вестготскими законами, даже если они в них прописаны. Такие
+
+элементы процедуры, Kak, например, принесение клятвы HJIH IIO—
+
+лучение свидетельских ПОКЗЗЗНИЙ, представленные в наших до-
+кументах без отсылок к Liber ludiciorum, вовсе He обязательно
+являются признаком того, что современники ориентировались
+при UX проведении на кодекс или рассматривали STU практики
+как установленные им. Если же какая-либо судебная процедура
+или решение суда эксплицитно связаны B грамотах с вестготским
+законом, можно ли в этом случае рассматривать Liber Judiciorum
+
+в качестве той нормы, КОТОРОЙ современники в ДСЙСТВИТСЛЬНОСТИ
+
+руководствовались в ходе СУДСбНЬ1Х разбирательств?
+
+% Эта проблема ждет дальнейшего изучения, хотя отчасти рассматривалась в ра-
+ботах, посвященных текстуальной традиции кодекса. Подробнее см.: Diaz у
+Diaz М.С. La Lex Visigothorum у sus manuscritos: Un ensayo de reinterpretacion //
+Anuario de historia del derecho espafiol. 1976. N 46. P. 163-224; Garcia Lopez Y.
+Estudios criticos y literarios de la «Lex Wisigothorum». Alcala de Henares, 1996;
+Попова I-A. «Вестготская правда» («Книга приговоров»): рукописная традиция
+и история издания // Вестготская правда: (Книга приговоров). С. 108—133; Она
+ace. Сунна христиан, Lex Visigothorum, Книга судей, Фуэро Хузго: новая жизнь
+вестготского права // Historia animata: Сборник статей / под ред. И.И. Варьяш,
+Г.А. Поповой, E.H. Кирилловой. М., 2004. Ч. 1. С. 149-150.
+
+Liber Iudiciorum в леонских документах X—XI веков 97
+
+В ориентированной на процессуальный антропологический
+TOAXO ucTopvorpadun последних ДССЯТИЛСТИЙ, в частности в ра-
+ботах Ф. ШСЙСТТЗ, был поставлен вопрос о TOM, существовало ли
+B принципе в период раннего СРСДНСВСКОВЬЯ право как «осознан-
+Had, BepOaIH30BaHHad система норм», которая регулярно и «pa-
+ционально» применялась для решения КОНфЛИКТОВ‘). СТОРОННИКИ
+такой точки зрения указывают на то, что право в это время не со-
+ставляло СПСЦИЗЛЬНОЙ области знания, а также не было отделено
+от моральных и религиозных HODM, ОбЬ1ДСННЬ1Х правил поведения.
+По словам С. Рейнольдс, оно представляло собой «недифферен-
+ЦИРОВЗННЫЙ свод правил о TOM, что хорошо и что плохо, и O пра-
+вильных процедурах для установления этого»'°. Критики этих
+положений, в частности С. Уайт и В. Дэвис, напротив, утверж-
+дали, uro Wake Te раннесредневековые разбирательства, которые
+проходили вне «фОРМаЛЬНОГО>> суда и завершались соглашением
+сторон, были основаны на особых «правилах», которые вовсе не
+были идентичны обыденной морали или обычаям'!. Хотя источ-
+ники почти никогда HE указывают прямо на такие «правила», CaM
+XOJI, разбирательств свидетельствует о наличии неких правовых
+норм, которые участники этих тяжб сочли подходящими для pe-
+шения конкретного дела. Такие нормы чаще всего были неписа-
+HbIMH H имплицитно разделяемыми B 06U.[€CTB€, порой противоре-
+чивыми H взаимоисключающими, однако наряду с социальными
+практиками (Например, посредничеством или компромиссным
+решением) они играли важную роль в урегулировании конфлик-
+TOB.
+
+В To же время писаные законы раннего СРСДНСВСКОВЬЯ редко
+рассматриваются историками в качестве таких «правил», поскольку
+роль /ех scripta в суде этого времени исследователи определяют CKO-
+рее как символическую, чем как практическую. IIpu этом Южная
+EBpona довольно часто приводится B ИСТОРИОГрафИИ данной про-
+* Cheyette F. «Suum cuique tribuere» // French historical studies. 1970. N 6. Р. 288—
+
+289.
+
+® Reynolds $. Kingdoms and communities in Western Europe, 900-1300. Oxford,
+1984. P. 19. Cm. также: Гуревич A.A. Категории средневековой культуры. М.,
+1984. С. 140-141.
+
+"White $. «Pactum... legem vincit et amor judicium»: The settlement of disputes by
+compromise in eleventh-century Western France // The American Journal of Legal
+History. 1978. Vol. 22, N 4. P. 281-308; Jdem. Inheritances and legal arguments in
+Western France, 1050-1150 // Traditio. 1987. Vol. 43. P. 55-103; Davies И/ Local
+participation and legal ritual in early medieval law courts // The moral world of the
+law / Ed. P. Coss. Cambridge, 2000. P. 48-61.
+
+98 ALIT. Сафронова
+
+блемы в качестве исключения'?. ПРИМСНСНИС вестготских законов
+
+на ПИРСНСЙСКОМ полуострове в первые века Реконкисты варьиро-
+
+вало no регионам“, HO многочисленные ссылки Ha Liber ludiciorum
+
+в документации христианских королевств, в частности ЛСОНСКОГО,
+
+ДСЙСТВИТСЛЬНО свидетельствуют O TOM, что в основе СУДСбНЬ1Х раз-
+
+бИРЗТСЛЬСТВ здесь лежала вполне конкретная правовая норма, а не
+
+неписаные «правила». ВОПРОС, однако, B TOM, что CTOHT за этими
+упоминаниями законов. ОЧСВИДНО, что многие из них представляют
+собой фОРМУЛЬ1‚ которые были унаследованы от вестготов, и отра-
+жают не столько судебную практику X—XI BB., сколько нотариаль-
+ную культуру этого времени. В научной литературе такие ссылки
+
+и цитаты принято рассматривать как символические и противопо-
+
+ставлять UX TCM, которые предполагают правовое применение ко-
+
+декса в ходе конкретных судебных разбирательств'“.
+
+Ilo дошедшим до Hac рукописям Liber Гифстогит, выПпол-
+ненным на севере ПИРСНСЙСКОГО полуострова после завоевания,
+а также по различным упоминаниям об этом своде в леонских
+документах мы знаем, AUTO CaM текст кодекса (a He только ero пе-
+реложения или вестготские формулы) был в распоряжении у со-
+временников в X—XI BB., HO в какой Mepe они использовали ero
+B СУДСбНОЙ практике? Обращались ли OHH K тексту закона непо-
+средственно в ходе самого разбирательства или только B момент
+составления документа? Играла ли Liber Гийстогит какую-либо
+роль в разрешении конфликтов в этот период?
+
+В Wormald P. Lex scripta and verbum regis: Legislation and Germanic kingship,
+from Euric to Cnut // Idem. Legal culture in the early Medieval West: Law as text,
+image and experience. L., 1999. P. 24—25; Collins R. Visigothic Spain, 409-711.
+Oxford, 2004. P. 223-224. Критику тезиса об исключительно символическом
+значении варварских законов и аргументы в пользу их практической роли см.:
+McKitterick R. The Carolingians and the written word. Cambridge, 1989. P. 37—40.
+Подробнее 0630p историографии на тему применения варварских законов см.:
+Taylor А. Lex scripta and the problem of enforcement: Anglo-Saxon, Welsh and
+Scottish law compared // Legalism: Community and justice / Ed. F. Pirie, J. Scheele.
+Oxford, 2014. P. 47-49.
+
+3 Подробнее о региональной специфике см.: Попова Г.А. Сунна христиан, Lex
+Visigothorum, Книга судей, Фуэро Хузго. C. 142—155 (особенно c. 151—152).
+
+“ Подробная классификация ссылок и цитат из Liber Iudiciorum в раннесредневе-
+ковых документах была изначально разработана на каталонском материале (см.:
+Zimmermann М. L’usage du Droit wisigothique en Catalogne du 1Х° au ХП° siécle:
+Approches d’une signification culturelle // Mélanges de la Casa de Velazquez. 1973.
+N 9. Р. 237-238, 255-256; Idem. Ecrire et lire en Catalogne: IX*—XII: siécle. Madrid,
+2003. Т. П. P. 648-649). К леоно-кастильским грамотам ee применил К. Родиньо
+Карамес (см.: Rodifio Caramés С. A lex gotica. Р. 16—19, 21—22).
+
+Liber Iudiciorum в леонских документах X—XI веков 99
+
+В данной статье мы попробуеМ проследить бытование этого ко-
+декса в леонской СОЦИЗЛЬНОЙ практике и, в частности, рассмотрим,
+как процитированный в самих документах X—XI вв. текст Liber
+ludiciorum соотносится с описанными в них »xe судебными разби-
+рательствами. Леонские грамоты едва ли позволяют C TOUHOCTbIO
+реконструировать проведение судебных ассамблей, тем не менее,
+анализируя документы, мы можем предположить, какое значение
+современники придавали вестготскому кодексу в разбирательствах,
+а также как они использовали текст вестготских законов при фОРМИ-
+ровании дискурса документов. ДРУГЗЯ существенная источниковед-
+ческая проблема B исследовании этой темы заключается в TOM, 4TO
+известные HaM cyneOHbIe казусы вырваны U3 более широкого контек-
+ста и описаны B грамотах ретроспективно c позиции выигравшей
+стороны. В нашем анализе мы HCXOJHM H3 TOTO, что аргументы H об-
+стоятельства, которые приводятся в источниках, He отражают всей
+правовой ситуации, HO именно OHH, с точки зрения современников,
+являются существенными для TOTO, чтобы разрешить КОНфЛИКТ.
+
+В научной литературе можно найти высказанную К. Санчес-
+Альборносом гипотезу о раннесредневековом «суде по Книге»
+(испан. juicio del Libro), который специализировался на разбира-
+тельствах no Liber ludiciorum и к которому участники спора могли
+обратиться в ходе рассмотрения ena’. В основе этого предположе-
+ния лежит аналогия с известной no гораздо более поздним (XIII—
+XIV BB.) источникам практикой, которая едва ли подтверждается
+ранними текстами. В Х-Х вв. судьи (iudices), возможно, могли об-
+ладать НСКОТОРОЙ СПСЦИЗЛЬНОЙ ПОДГОТОВКОЙ, которая отличала их
+от остальных участников судебных собраний'°. Однако гипотеза
+O СПСЦИЗЛЬНОЙ юрисдикции, связанной с применением вестготского
+кодекса, H TCM более о TOM, что OH использовался для рассмотрения
+апелляций, является анахронизмом по отношению к этому време-
+Hu’. Тем He MeHee cama процедура обращения участников конфлик-
+та к Liber ludiciorum находит подтверждение в раннесредневековых
+источниках.
+
+'S Sanchez Albornoz C. El «juicio del Libro» en Leon durante el siglo Х у un feudo
+castellano del XIII // Anuario de historia del derecho espafiol. 1924. N 1. P. 382-390.
+
+® Collins В. Literacy and the laity in early medieval Spain // The uses of literacy in early
+medieval Europe / Ed. В. McKitterick. Cambridge, 1990. P. 129-131; Rodino Сагате С.
+A lex gotica. P. 39-43; Isla Frez A. La pervivencia de la tradicion legal. P. 81.
+
+" Prieto Morera A. Е1 proceso en el reino de Leon. P. 444-447; Martinez Diez G. Los
+fueros leoneses: 1017-1336 // El reino de Leon en la Alta Edad Media: Cortes,
+concilios у fueros / Ed.M. Lucas Alvarez. Leon, 1988. Т. I. Р. 292. Подробнее о
+более поздней (XIII—XIV Bs.) практике «суда no Книге» cm.: Martinez Sopena P.
+El uso de 1а Ley Gotica. Р. 114.
+
+100 ALIT. Сафронова
+
+Гипотеза К. Санчес-Альборноса была основана Ha извест-
+
+ном документе 952 г. из Леонского кафедрального архива; в этой
+грамоте описано разбирательство между аббатом монастыря CBA-
+тых Космы и Дамиана и неким Веласко Ханнисом по поводу на-
+следования земельных ВЛЗДСНИЙ. По словам аббата, имущество
+было передано его конгрегации по завещанию Mapnn И АрбОРИО
+Его противник утверждал, что STH люди завещали спорные зем-
+ли CMY самому, прежде чем передать UX B пользу монастыря. На
+ассамблее перед епископом H клиром аббат представил докумен-
+ты, подтверждающие его притязания на спорные владения, в TO
+время как Веласко Ханнис ОбСЩЗЛ подкрепить CBOH доводы гра-
+мотой, HO He смог ее найти'$. Ситуация, когда светский участник
+спора, в отличие от представителя церкви, He подал письменного
+свидетельства, вполне типична для этого времени. В таком случае
+судьи, Kak правило, предписывали обладателю грамоты подтвер-
+IMTb ee КЛЯТВОЙ, после чего решали дело B ero пользу. В данном
+казусе спор ДСЙСТВИТСЛЬНО был решен в пользу аббата, HO XO
+pa30upatesBcTBa был нехарактерным: оно, по словам составителя
+грамоты, было проведено «TAK, xax если бы OH, [Веласко Ханнис. —
+Д.С.], представил грамоту». На судебном собрании участники
+тяжбы «воззвали к Книге» (proclamauerunt... ad Librum), с Tem
+чтобы решить конфликт, следуя ee предписаниям'””. Затем в до-
+кументе процитированы несколько законов Hs Liber Iudiciorum,
+посвященных наследованию имущества. Все приведенные здесь
+сентенции подкрепляют права аббата и довольно точно COOTBeT—
+ствуют данному казусу, так что этот СЛУЧЗЙ цитирования можно
+рассматривать Kak правовой”.
+
+'8Coleccién documental del archivo de la catedral de Leon / Ed. Е. Saez. Leon, 1987.
+Т. I. Doc. 256 (далее - CDL I): «At uero, sedente domno episcopo cum clero in
+concilio, ad Sanctum Felicem, super ripam fluminis Turio, ubi festiuitatem celebra-
+bant, dedit Seuerus abba testamentum suum et ilium placitum, et Uelasco nichil
+adibuit, set dilacionem apponebat, dicendo eo quod in recluso de illa infante suam
+kartam abuisset; unde perrexit illuc cum Seuero abbate et inquisierunt una pariter
+cum ilia infante suos kartarizios, et nichil inuenerunt quod in concilio prestaset».
+
+® Tbid.: «Et tanquam si karta presentasset in concilio, proclamauerunt se uterque ambo
+ad Librum (здесь и далее курсив мой. — Д.С.), et qualem ex his Liber mandasset
+stabilire, abuisset roborem et stabilitatem firmissimam sicut et de presente mox
+impletum fuit in libro ILI, titulo secundo, kapitula VI...».
+
+2° В документе процитирован текст из LI IV, 2, 20 и LI V, 2, 6, rre соответственно
+утверждается право завещателя распоряжаться своим имуществом и менять свою
+волю на протяжении жизни таким образом, что силу имеет его последнее решение.
+
+Liber Iudiciorum в леонских документах X—XI веков 101
+
+Таким образом, вместо клятвы, которая была неотъемлемым
+элементом подтверждения письменных свидетельств B STOT пе-
+риод, дело решается на основании /ex scripta. Однако контекст
+цитирования вестготских законов, связанный с защитой имуще-
+ственных прав церкви, а также позднее происхождение самого ис-
+точника, который дошел до нас в сомнительной копии XII B., сви-
+детельствуют скорее о том, что описанное в нем обращение к Liber
+
+Iudiciorum является результатом позднейших интерполяций.
+
+Не cnyqaüHo похожие примеры цитирования вестготских норм
+
+0 наследовании можно найти в известном своими фаЛЬСИфИКЗЦИ-
+
+ями овьедском картулярии Liber Testamentorum. Ero составители,
+
+чтобы подкрепить имущественные притязания Кафедры, MOLJIH.
+
+B каждом отдельном Ka3yCe приводить OT 3 X0 5 ССНТСНЦИЙ, KOTO-
+
+рые затрагивают самые разные аспекты наследственного права21.
+
+Можно было бы предположить, что сама процедура «воззва-
+ния» участников к кодексу (proclamauerunt... ad Librum), пред-
+ставленная в документе 952 I., также является анахронизмом, HO
+
+ПОДОбНЗЯ практика обращения к законам находит подтверждение
+
+и B ОРИГИНЗЛЬНОЙ традиции. Не связанные с интересами церкви
+
+случаи применения Liber Гийстогит в судебной практике мож-
+
+но найти в коллекции монастыря Отеро-де-Дуэньяс. Так, в ори-
+гинальном документе 21 июня 1022 г. описана тяжба по поводу
+похищения служанки (cubileira) графа Фруэлы Муньоса. Пред-
+ставители графа выступили по этому делу с обвинениями про-
+
+THB некого ЭНСГО, КОТОРЫЙ B самом начале разбирательства при-
+
+знал свою вину в форме manifestum. Затем стороны договорились
+
+о предстоящем суде: «...Мы обратимся к закону (vadamus ad lege)
+
+с этими утверждениями и этим признанием (manifesto) [Энего. —
+
+Д.С.]; и на третий день вернемся к судьям с законом из Libra
+
+Iudicum; что закон указывает, TO мы сделаем»”?. В качестве до-
+
+?! Colecciön de documentos de la catedral de Oviedo / Ed. S.G. Larragueta. Oviedo,
+1962. Doc. 74; Ibid.. Doc. 87. В литературе высказывались предположения, что
+эрудиция, с КОТОРОЙ составители этих грамот цитируют законы, не характерна
+для данного периода и является результатом интерполяции начала ХП в. (cM.:
+Fernandez Conde EJ. Е1 Libro de los testamentos de la catedral de Oviedo. Roma,
+1971. P. 265).
+
+? Coleccion diplomatica de Santa Maria de Otero de las Duefias (Leon) (854-1037) /
+Ed. С. del Ser Quijano. Salamanca, 1994 (далее - CDOt). Doc. 118: «Didago et
+Enego rouoramus placitu, per manu saione Quintila, per scriptura ligauile firmitatis,
+in presencia iudices nostros Pelaio Asurizi et Martino Lilazi, que vadamus ad lege
+con istos asertos et isto manifesto; et in III die reuertamus ante ipsos iudices cum
+lege de Libra Iudicum, que lex ordinare, et nos faciamus».
+
+102 ALIT. Сафронова
+
+полнения к этой грамоте следует цитата из кодекса, предваряемая
+словами: «Мы нашли в книге Ш (invenimus in libra), титуле III, сен-
+тенции I: “Если свободный похитит свободную женщину...”»?.
+Kak и в предыдущем леонском документе, к закону здесь ОбраТИ-
+лись стороны конфликта (vadamus ad lege), HO разыскали его в KO-
+дексе, скорее всего, судьи или составитель документа. ПРОЦИТИ-
+рованная норма отражает характер совершенного преступления,
+хотя, возможно, расходится с казусом в деталях: закон описывает
+похищение СВОбОДНОЙ женщины, тогда как B данном случае она
+могла находиться в зависимости от Графа.
+
+Решение этого дела мы находим в датированном тремя днями
+позднее (24 июня 1022 г.) документе из той же коллекции мона-
+стыря ОТСРО-ДС-ДУЭНЬЯС, что соответствует ОбЯЗ&ТСЛЬСТВУ сторон
+«вернуться к судьям на третий день»”*. Судебные разбиратель-
+ства B этот период, без сомнения, проходили He единовременно,
+а B несколько этапов, однако в данном случае мы Hc можем быть
+уверены, что JAOBOJILHO (þOpMaHI/IBOBaHHLIC тексты из коллекции
+ОТСРО-ДС-ДУЭНЬЯС отражают реальную практику: вполне возмож-
+HO, 4TO обе грамоты были составлены ПОСТфаКТУМ по результатам
+0JHOrO СОбраНИЯ. Как бы то ни бЬ1ЛО, источник предполагает, что
+ОбраЩСНИС к закону произошло в ходе самого разбирательства до
+вынесения решения, XOTA H после признания вины проигравшим.
+Согласно ПСРВОЙ грамоте по этому делу, закон при этом носит
+ИМПСРЗТИВНЬ1Й характер («4TO закон указывает, TO мы СДСЛЗСМ))),
+однако КОНфЛИКТ решается скорее в соответствии с духом закона,
+HO He с ero буквой. Процитированная в документе норма Liber
+Iudiciorum предполагает, что нарушитель получает удары плетью,
+а также лишается своего имущества и СВОбОДЬ1 B пользу женщи-
+ны, которую похитил. В решении данного спора вопросы имуще-
+ства и телесного наказания не упоминаются вовсе, а нарушитель
+вместе с ПОХИЩСННОЙ MM ЖСНЩИНОЙ, которая по собственной воле
+остается с ним, признает себя зависимым от графа Фруэлы Му-
+3 Tbid.: «Invenimus in libra II, titulo III, et sentencia II: “Si ingenus ingenua rapit
+
+muliere, liceat ilia uirginitate perdere et tamen non ualeat. Si uero ad inmundicia
+quam uoluer[...] potueri peruenire in coniungio puele uel uidue et mulieris quam
+rapuerat, per nunla conposicione iungantur et cum omnibus rebus suis tradatur ei
+cui uiolentus fuerit, et [...] in conspectum omnium accipia flagelorum et careant
+ingenuitatis sue”». Данная цитата избирательно, HO в целом достоверно отража-
+eT текст известного по реконструкции кодекса (LI III, 3, 1 (Erv)), оставляя без
+внимания некоторые детали наказания, например количество ударов, которые
+должен был получить преступник.
+** CDOt. Doc. 120.
+
+Liber Iudiciorum в леонских документах X—XI веков 103
+ньоса”. Изменение статуса Энего эксплицитно связано c совер-
+шенным им преступлением, но вопреки норме, ПРОЦИТИРОВЗННОЙ
+в документе, нарушитель теряет свою свободу в пользу графа,
+а He 2KepTBBI*®.
+
+Взаимодействие вестготских законов с социальной практикой
+можно также проследить по другому казусу 1019 г. из коллек-
+ции монастыря Отеро-де-Дуэньяс. В этой грамоте описана тяжба
+между графом Педро Флаинесом и человеком, который нарушил
+власть (mandacione) этого графа, дарованную ему королем в Лор-
+Me, а также перешел к другому господину и увел у Графа скот. Ilo
+этому делу стороны скрепили предварительное соглашение, C TCM
+чтобы «разыскать закон из Книги» (pro inquirere lege de libro)’.
+Далее в документе приводится сентенция w Liber Iudiciorum
+о грабеже со сговором, которая в качестве наказания предписы-
+вает компенсацию ущерба в одиннадцатикратном размере28. Хотя
+*Tbid.: «Enego rouoro placitum uel pactum per scriptum firmitatis [... Froila]
+
+Monuzi et de Amuna pro ipso rapto que fecit... Pro inde rouoramus uobis
+placitum ut faciamus [...] ad Froila Monuzi et de sua muliere Amuna [...] et nos,
+si Froila Monuzi et Amuna migrarent de oc seculum [...] que nos ingenui et liueri
+remanescamus. Et si ego Enego et Midona, conomento Uita, de uestro mandato
+exierimus, aut ad alio domno raptus fuerimus in fuga, aut ad alio domino no nos
+[...Juerimus [...] Froila Monuzi et Amuna fueritis, tunc abeatis licitum adprendere
+nos ubi nos inueneritis...».
+
+°6 Данный документ He позволяет с точностью установить первоначальный ста-
+тус жертвы похищения. В научной литературе высказывались предположения,
+что до того, как эта женщина вместе с Энего признала зависимость от графа,
+она была «юридически свободной», поскольку в данном казусе приводится
+норма о похищении свободной (ingenua) (см.: Astarita С. Practicas del conde у
+formacion del feudalismo. Siglos VII а XI // Anales de la Universidad de Alicante:
+Historia medieval. 2003-2006. N 14. P. 49). Ha наш взгляд, с учетом того, каким
+образом вестготские законы применялись B ITOT период, можно предположить,
+что и до похищения жертва уже могла находиться в зависимости от графа.
+
+*7CDOt. Doc. 87: «Teniente Pedru Flainiz mandacione de dado de reie domno
+Adefonso, ic in Lorma, in suo iure cum ganado et omines, quantum in sua nodicia
+resona, si se leuabit Zidi, gognomento Andrias, per uiolencia e derubit ipsa
+mandacione et sakabit inde ganado de iure de Pedru Flainiz, quantum in nodicia
+resona, et adflamauise Zidi ad alia podestade... Et pro tali kausa rouorauit... placido
+pro inquirere lege de libro».
+
+25 Tbid.: «Siquis ad eribiendum alios inuidare reperiuntur, ad unde cunpla sacdifacione
+conpeladur exolbere». Данный парафраз очень избирательно и в искаженном
+Be, HO в целом адекватно отражает содержание известного HaM по реконструк-
+ции вестготского закона (LI VIII, 1, 6): «Si ad diripiendum quisque alios invitasse
+repperiatur. Si quis ad diripiendum alios invitaverit, ut cuiuscumque rem evertat
+aut pecora vel animalia quecumque diripiat, illi, cuius res direpta est in undecuplum
+que sunt sublata restituat. Hii vero, qui cum ipso fuerint, si ingenui sunt, quinos
+
+104 ALIT. Сафронова
+вестготский закон касается только материального ущерба, HO He
+власти графа, данный парафраз в целом отражает суть рассма-
+триваемого дела. Из этого документа мы HE узнаем, учитывалась
+ли прописанная в ДаННОЙ сентенции пропорция возмещения, но
+характер наказания также соответствует нормативному тексту:
+нарушитель передал Графу CBOH земли в качестве компенсации 3a
+нанесенный ущерб”.
+
+Таким ОбраЗОМ, здесь мы, казалось OBI, имеем дело с право-
+вым использованием кодекса, HO B TO же время CaM ход pa30upa-
+тельства H тип заключенного TIO ero итогам соглашения (atiba)
+указывают Ha TO, что JaHHbIn закон если и был З&ДСЙСТВОВ&Н (КаК
+STO описывает Halll MCTOUHHR), TO скорее в качестве ОТПР&ВНОЙ TOU—
+KH для дальнейших переговоров. Урегулирование этого конфлик-
+Ta, которое произошло на второй судебной ассамблее, потребо-
+вало вмешательства посредников — homines boni (per colacione de
+omines bonos). Заключенное с UX помощью соглашение обозначе-
+HO в документе термином арабского происхождения atiba (ativa),
+что, возможно, отражает HE только лексическую, HO H правовую
+эклектику этого Ka3yca*”.
+
+Более явное расхождение между процитированным в гра-
+mote текстом Liber ludiciorum и судебной практикой X—XI Bs.
+можно найти в оригинальном документе 1020 г. из Леонского ка-
+федрального архива. На суд короля Альфонсо У (999-1028) при-
+вели ЛЮДСЙ, совместно совершивших убИЙСТВО, H заставили UX
+выполнить TO, «что готский закон предписывал» (quod lex godiga
+отатаиа!)`!. В связи с этим делом в источнике была процитиро-
+вана норма Liber Iudiciorum, которая устанавливает смертную
+
+solidos conponere conpellantur, aut si non habuerint, unde conponant, quinquagena
+flagella suscipiant. Si vero servi hoc sine domini volumtate conmiserint, centenis
+quinquagenis flagellis verberentur, et ab eis res onmis in statu reddatur.
+
+*°CDOt. Doc. 87: «Et pro tali kausa deuenimus inde per colacione de omines bonos
+ad atiba per probrias nostras uoluntades. Et dedit Zidi, gonnomento A[n]drias,
+pro ipso pacto que abuit ad pactare, ubi dicet “Siquis ad eribiendu alios inuidare
+reperiuntur”. Dedit pro inde in atiua terras qui sunt in terridurio Lormensis».
+
+% Garcia Arias X.L. Arabismos nel dominiu llingüisticu Astur. Uviéu, 2006. P. 140;
+Lexicon latinitatis medii aevi regni Legionis (s. УШ-1230) imperfectum = Léxico
+latinorromance del reino de Leon (s. VHI-1230) / Ed. М. Pérez Gonzalez, E. Pérez
+Rodriguez. Turnout, 2010. P. 81.
+
+3! Coleccion documental del archivo de la catedral de Leon / Ed. J.M. Ruiz Asencio.
+Leon, 1987. Т. HI (далее - CDL Ш). Doc. 772: «Et pro tali caussa perdusserunt
+nos ante ille rex hic [лакуна в документе. — Д.С.] gas et dedit nos ille rex ad Cidi
+Donelliz ut conplesemus nos ad eum quod lex godiga ordinauat...».
+
+Liber Iudiciorum в леонских документах X—XI веков 105
+казнь за убийство CO сговором*?. DroT закон представлен в доку-
+менте как основание для наказания, однако, вопреки ПРИВСДСННОЙ
+в самой грамоте сентенции, Ka3Hb была заменена на земельное
+дарение в пользу указанного королем реципиента: «...МЬ1, KOTO-
+рые состояли в сговоре, даруем BaM за ущерб (calumnia) от этого
+убИЙСТВЗ, согласно TOMY, как готский закон нас принуждает (nos
+lex godiga continet), rne говорится в книге VI...»*°. При этом co-
+ставитель этого источника He указал прямо на несоответствие
+такого решения закону, HO показал, как обвиняемые его ДОбИ-
+лись: «И мы отправили к нему [реципиенту. — Д.С.] просителей
+(rogatores) Ариаса Фернандеса и Нуньо Бермудеса и всех маг-
+натов дворца (omnen togam palacii), и [он. — Д.С.] отпустил Ham
+другие обвинения (calumnias)»**. Takum образом, вмешательство
+авторитетных посредников привело к TOMY, что изменились уже
+He детали установленного в Liber ludiciorum наказания, HO CaM
+ero характер. Camo существование закона рассматривалось совре-
+менниками как основание для привлечения НЗРУШИТСЛСЙ к ответ-
+ственности, при этом, однако, соответствующая норма если H Hc—
+пользовалась в ходе решения КОНфЛИКТЗ, TO cyry0o (opMasIbHO.
+
+В контексте слабой централизации Леонского королевства
+и формирующейся политической идеологии вестготский кодекс
+как инструмент принуждения, возможно, был особенно востребо-
+ван B делах о мятежах. Не СЛУЧЗЙНО ОДНИМ H3 наиболее цитируемых
+в этот период стал закон о Tex, KTO предал короля (LI П, 1, 8)*°. Из
+всех перечисленных B этой норме мер (ТСЛССНОС наказание, ссыл-
+Ka, потеря СВОбОДЫ) составители леонских документов, за редким
+исключением, приводили только Ty, которая предусматривает ли-
+шение имущества в пользу короля. Как неоднократно отмечалось
+У° Тый.: «Si ingenus occiderit ingenuum. Nam si ingenui quilibet ex gumuni consilio
+omicidium ... it deliuerauerit illi qui fortasse percusserint auc quoquomque hactum
+ominem interfecerint morte damnandi sunt». Текст 3aKoHa, по всей видимости,
+был несколько искажен составителем этого документа (или в традиции, ко-
+торой OH пользовался), HO в целом цитата сохраняет смысл, который можно
+найти в известном по реконструкции кодексе (LI VI, 5, 12): «Nam si ingenui
+quilibet ex communi consilio homicidium perpetrare deliberaverint, illi, qui fortasse
+percusserint aut quocumque hictu hominem interfecerint, morte damnadi sunt».
+33CDL Ш. Doc. 772: «...Uobis damus adque concedimus pro ipsa calumnia de ipso
+omicidio quos nos fuimus in consilio, sicut nos lex godiga continet ubi dicit in libro
+VI, titulo V, sententia XII...».
+34 Tbid.: «Et missimus nos ad eum rogatores Arias Fredenandiz et Nuno Ueremudiz et
+omnen togam palacii sicut et dimisit nobis alias calumnias».
+35 Rodiio Caramés С. A lex gotica. P. 26-27, 47.
+
+106 ALIT. Сафронова
+
+B ucTopuorpadun, этот вестготский закон использовался в первую
+
+очередь для того, чтобы представить легитимным изъятие зем-
+
+ли у мятежников“°. На наш взгляд, HE менее важно, что кодекс
+позволял также дать моральную оценку ДСЙСТВИЯМ предателей.
+
+Называя их «отступниками» (refugi), «надменными» (insolentes)
+
+и «нечестивыми нарушителями» (nefarii transgressores), следуя за
+
+текстом кодекса, составители документов давали понять, AUTO пре-
+
+ступления этих ЛЮДСЙ He сводятся к материальному ущербу
+
+ЭТУ сентенцию MOOKHO НаЙТИ, например, в оригинальном до-
+кументе 1012 r. Hs коллекции Отеро-де-Дуэньяс”’. В данной гра-
+моте описан суд над графом Аблабелем, который бунтовал против
+короля Бермудо II (985—999). Текст закона был использован здесь
+
+He TOJIBKO AJA обоснования изъятия y rpadha земель, HO также при
+
+описании совершенных HM H ero сподвижниками ЗЛОДСЯНИЙ, KO-
+
+Topoe WuTaTou B строгом смысле He является: «.. ‚Замыслив He-
+
+доброе, возбудили возмущение и волнение (sollicitaverunt...
+
+scandalum et conturvacione) против короля в пределах ero ко-
+ролевства (infra fines regni eius) и покинули ero, и избрали дру-
+гого патрона, ГЗРСИЮ ФСРНЗНДССЗ>>. В тексте известного HaM
+по реконструкции кодекса мятеж представлен таким ОбраЗОМі
+
+«...Захотел бы совершить какое-либо волнение или возмущение
+
+(conturbationem aut scandalum) против королевства нашего или
+
+народа в пределах страны готов (infra fines patrie Gothorum)...»°®.
+
+36 Например, см.: Orlandis J. Huellas visigöticas en el derecho. P. 651.
+
+37CDOt. Doc. 69a: «In ipsa setencia dicit [......] uius tamen nefarie transgressoris in
+regis ad integrun potestate persistant, et cui danate fuerit, ita perpetim secure pos-
+sideat, ut nullus unquam succedencium regnum causam suam et gentis uiciaturus
+ullatenus auferre presumat». LI H, 1, 8 (Erv): «Res tamen omnes huius tam nefarii
+transgressoris in regis ad integrum potestate persistant, et cui donate fuerint, ita
+perpetim secure possideat, ut nullus umquam succedentium regum, causam suam et
+gentis vitiaturus, has ullatenus auferre presumat».
+
+38 CDOt. Doc. 69a: «...Iniquo consilio sollicitaverunt contra regem scandalum et con-
+turvacione infra fines regni eius, et derelinquerunt eum et elegerunt alius padronum,
+Garsea Fredenandizi». LI II, 1, 8 (Erv): «Ut ergo tam dira temeritas tandem victa
+depereat, et in huiusmodi transgressoribus manifesta scelera non relinquantur ulte-
+rius inpunita, hac omne per evum valitura lege sancimus, ut quicunque ex tempore
+reverende memorie Chintilani principis usque ad annum regni nostri Deo favente se-
+cundum vel amodo et ultra ad adversam gentem vel extraneam partem perrexit sive
+perrexerit aut etiam ire voluit vel quandoque voluerit, ut sceleratissimo ausu con-
+tra gentem Gothorum vel partriam ageret aut fortasse conetur aliquatenus agere, et
+captus sive detectus extitit vel extiterit, seu ab anno regni nostri primo vel deinceps
+quispisam infra fines patrie Gothorum quameumque conturbationem aut scandalum
+in contrarietatem regni nostri vel gentis facere voluerit...».
+
+Liber Iudiciorum в леонских документах X—XI веков 107
+В документах Х-Х BB., составители которых He опирались на
+текст закона, действия мятежников, как правило, изложены с ис-
+пользованием гораздо более простой лексики. Например, в леон-
+ской rpamote 1040 r. мятеж Феликса против Бермудо III (1028—
+1037) описан скорее в категориях личной неверности: «...Оставил
+господина своего и совершил мятеж (fuit in revelio), и 3a этот
+проступок (scelus) ero лишили [имущества. — Д.С.]»`°. В научной
+литературе неоднократно отмечалось, что леонская монархия
+опиралась на понятийный аппарат вестготского права“. Ham xo-
+телось бы обратить внимание на то, какое воплощение на практи-
+ке могла иметь Tak называемая политика «неоготицизма».
+Учитывая идеологическую значимость дел о мятежниках,
+ссылки на этот закон можно было бы рассматривать как сугу-
+бо символические, т.е. как проявление так называемой ученой
+традиции, a He практики правоприменения. В ббльшей части
+известных нам случаев разбирательства такого рода были заоч-
+ными, r. e. проходили без участия самого изменника. К Tomy »xe
+рассказ о подобных казусах мы, как правило, находим в той ча-
+сти грамоты, которая представляет собой скорее исторический
+нарратив, чем отражение судебной практики. Все это справедли-
+во по отношению к приведенному выше документу 1012 г.; тем
+He менее этот источник предполагает, что обращение к кодексу
+произошло непосредственно на судебной ассамблее: «После
+того как король об этом узнал, когда он находился на своем тро-
+He (solio) и все остальные Ha собрании (sinodo), было проведе-
+HO разыскание (questio) по всей рукописи закона (volumine legis)
+“О тех отступниках и надменных, кто выступит против государя,
+или народа, или страны”»“*!. Даже если описанная таким обра-
+зом процедура является не более чем риторическим приемом,
+современникам такое публичное «разыскание» представлялось
+в принципе возможным. Источники Х-Х BB. содержат довольно
+много свидетельств о TOM, что тексты грамот были прочитаны
+вслух и изучены на судебных собраниях, тогда как поиск необ-
+39 Colecciön documental del archivo de la catedral de Leon / Ed. J.M. Ruiz Asencio.
+Leon, 1990. T. IV. Doc. 989: «...Et fuit ipsa corte de Felix sartore, qui relinquit
+domno suo et fuit in revelio, et propter hanc scelus caruit eam...».
+*° Общий 0630p темы cm.: Martinez Sopena P. El uso de la Ley Gotica. P. 101-102.
+4 CDOt. Doc. 69a: «Et dum talia preuideret rex, sedente in solio suo, et omnis cetus
+in sinodo, facta est questio per omnem volumine legis “De is contra princibem, uel
+gentem, aut padriam refugi uel insolentes exsitunt”». LI Ц, 1, 8: «De his, qui contra
+principem vel gentem aut patriam refugi sive insolentes existunt».
+
+108 ALIT. Сафронова
+ходимых законов в кодексе был CKOpee прерогативой судей (как
+показывают приведенные выше примеры). В литературе выска-
+зывалось предположение, что, кроме СУДСЙ, мало кто из романо-
+язычных участников разбирательств B этот период был способен
+понять CJIOOKHEIH НОРМЗТИВНЫЙ текст ЗЗКОНОВ42. ВОЗМОЖНО, такая
+процедура публичного обращения к Liber Iudiciorum имела сим-
+волическое значение; TCM He менее использованная для ее опи-
+сания лексика (facta est questio) предполагает, что современники
+воспринимали этот кодекс Kak текст, а HE только как материаль-
+ный атрибут правосудия.
+
+Что »xe касается практического применения Liber Гифтстогит
+nocme VII B., TO принято считать, что OHA сохранила CBOe зна-
+чение главным образом Kak процессуальный кодекс“*. Состави-
+тели леонских документов довольно часто подчеркивают в виде
+фОРМаЛЬНЬ1Х отсылок, что Ta HIM иная СУДСбНЗЯ процедура отве-
+чает требованиям закона. В оригинальном документе 1067 г. из
+коллекции монастыря Саагун можно найти развернутую цитату
+из Liber Iudiciorum, которая регламентирует порядок получения
+свидетельских показаний. В этой грамоте описано разбиратель-
+ство по случаю поземельного КОНфЛИКТЗ между аббатом этого
+монастыря Гонсало и неким Муньо Нуньесом. После того как аб-
+бат подал жалобу «в Леоне перед взором славнейшего государя
+Альфонсо [VI.— Д.С.]», стороны представили свои письменные
+свидетельства «перед названным королем и его судьями, и [ОНИ. —
+Д.С.] нашли Bo П книге (invenerunt in Libro)...w^.
+
+I[anee в документе приводятся три цитаты из разных законов
+кодекса, первая из которых, «О разыскании справедливости»,
+предписывает основывать СУДСбНОС решение на показаниях двух
+® Rodino Caramés С. A lex gotica. Р. 43.
+
+“ Lopez Ortiz J. El proceso en los reinos cristianos. P. 190; Zimmermann М. L’usage
+du Droit wisigothique. P. 235; Isla Frez А. La pervivencia de la tradicion legal.
+P. 80; Alvarado Planas J. A modo de conclusiones. P. 116.
+
+“ Coleccion diplomatica del monasterio de Sahagun / Ed.M. Herrero de la Fuente.
+Leon, 1988. Т. П (далее - CDS H). Doc. 663: «Tunc fecerunt querimonia ipse
+abbas domno Gundissaluus abba et omnem congregationem ipsius in Legione, ante
+conspectu gloriosisimi principis Adefonsi... Postremo uero dederunt testamentum
+ipsius superius dicte atque relatas una de Oueto et aliarum multarum scripturarum
+testimonium iudicum, ante predictum regis et eius iudicibus, et invenerunt in Libro
+Iudicum Il, titulus HII, sentential III, De Inuestiganda Iustitia, dicit: “Quia in
+duobus testibus quod prisca legum sanxit auctoritas deuet firmare iudicium”; et alia
+sententia in titulo У, sententia VII: *Deus iudex iustus”; et in titulo I, sententia V:
+“Ut nulla res ab alio possessa absque iudicio usurpet^».
+
+Liber Iudiciorum в леонских документах X—XI веков 109
+СВИДСТСЛСЙ45. Согласно нашему источнику, B ходе данного раз-
+бИраТСЛЬСТВЗ эта норма была воспринята бУКВЗЛЬНО H B TOUHOCTH
+реализована Ha практике: по указанию СУДСЙ аббат принес клятву
+с двумя соприсяжниками. Р. Коллинз называл ПОДОбНЬ1С цитаты
+«баНЗЛЬНЬ1МИ>>, поскольку предписанные ими процедуры были
+известны и понятны современникам и без обращения K Konexcy*®°.
+CymeOHaa практика этого времени очень pa3HooOpa3Ha в плане
+числа СВИДСТСЛСЙ‚ Tak что, Ha Halll взгляд, приведенная норма,
+устанавливающая их определенное количество, по Крайней мере,
+He воспринималась людьми TOTO времени Kak единственно BO3—
+можный способ решения КОНфЛИКТа. Этот закон, без сомнения,
+был ЗЗДСЙСТВОВЗН здесь Jian TOTO, чтобы представить легитимной
+судебную процедуру, и вполне вероятно, что с этой целью судьи
+могли использовать ero KaK практическое руководство непосред-
+ственно в ходе разбирательства.
+
+Но также нельзя исключать, что процедура была приведена
+в соответствие с ПРОЦИТИРОВЗННОЙ НОРМОЙ уже на этапе состав-
+ления документа; иными словами, мы здесь имеем дело скорее
+с текстуальной практикой. В пользу символической интерпрета-
+ЦИИ этой сентенции свидетельствует контекст, в котором она при-
+ведена. ДВЗ других процитированных здесь закона («bor — спра-
+ВСДЛИВЬ1Й судья» H «Чтобы не изымали никакое имущество из
+чужого владения без суда») в принципе не предполагают какого-
+либо бУКВЗЛЬНОГО исполнения, но постулируют ОбЩИС положения
+МИРОУСТРОЙСТВЗ и права СООТВСТСТВСННО47. Первая M3 HHX является
+4 Tbid.: «De Inuestiganda Iustitia, dicit: “Оша in duobus testibus quod prisca legum
+sanxit auctoritas deuet firmare iudicium”». Данный текст He имеет точного ана-
+лога в известной нам реконструкции кодекса и, возможно, представляет coool
+парафраз следующего закона (LI П, 4, 3): «In duobus autem idoneis testibus, quos
+prisca legum recipiendos sancsit auctoritas, non solum considerandum est, quam
+sint idonei genere, hoc est indubitanter ingenue, sed etiam, si sint honestate mentis
+perspicui adque rerum plenitudine opulenti». Характерно, что из всех требова-
+ний, предъявляемых к свидетелям в кодексе (социальный статус, материаль-
+ное положение и репутация), в традиции XI B., отраженной в этом документе,
+мы находим только указание на то, что их должно быть двое.
+*° Collins R. «Sicut Lex Gothorum continent». Р. 494.
+47CDS II. Doc. 663: «...et alia sententia in titulo V, sentential VII: “Deus iudex
+iustus”; et in titulo I, sententia V: “Ut nulla res ab alio possessa absque iudicio
+usurpet”». OTH сентенции дословно совпадают с известным HaM no рекон-
+струкции текстом законов соответственно LI IV, 5, 6: «Deus iudex iustus, qui
+iustitiam intemporaliter diligit, non vult servire iustitiam tempori, sed tempora
+potius equitatis lege concludi» и LI УШ, 1, 5: «Ut nulla res ab alio possessa absque
+iudicio usurpetur».
+
+110 ALIT. Сафронова
+
+одновременно цитатой из Псалмов (Psalm 7:12), Ho представлена
+в этом документе как выдержка из нормативного, а не сакрально-
+го текста, что наряду с прочими факторами указывает на то зна-
+чение, которое современники придавали кодексу в этот период.
+
+Леонское королевство, без сомнения, унаследовало от вестготов
+высокий авторитет /ex scripta, HO судебная практика X—XI BB. очень
+часто He соответствует предписаниям Liber Iudiciorum. Одни истори-
+ки объясняли это TEM, что современники недостаточно хорошо знали
+вестготское право или He умели ero применять“. Другие исследовате-
+ли видели причину в недостатке рукописей кодекса: в их отсутствие
+судьи были вынуждены восстанавливать текст no памяти“. Устная
+традиция вестготского права, возможно, имела место, но источники
+представляют обращение к законам скорее как разыскание по тексту,
+которое судьи производили непосредственно в ходе разбирательства.
+По тому, как приведенные выше документы описывают эту проце-
+дуру (invenimus in libra, inquirere lege de libro, facta est questio per
+omnem volumine legis), можно допустить, что в глазах современников
+эти действия не были сугубо символическими, но предполагали дис-
+курсивное обращение к тексту. Однако даже в тех судебных казусах,
+когда судьи, no всей видимости, располагали экземпляром кодекса
+и могли найти в HEM подходящую HOPMY, OHH едва ли считали необхо-
+димым приводить ее в исполнение на практике.
+
+Заметное исключение из этого составляют те случаи цитиро-
+вания Liber Iudiciorum, которые встречаются в грамотах в связи
+с проблемами церковного землевладения. Правовое применение
+кодекса в таком контексте не оставляет сомнений, но доверия не
+вызывает достоверность источников, которые содержат информа-
+цию o них. Дошедшие до Hac в копиях XII в. документы, Ha Halll
+взгляд, отражают более поздние устремления клириков защитить
+церковное имущество путем интерполяции грамот, а также при-
+сущую этой среде ученую традицию, а не судебную практику Х—
+XI BB.
+
+В оригинальных грамотах этого времени вестготские законы
+часто приводятся избирательно и порой в искаженном виде; и все
+же процитированные в них нормы в целом отвечают сути рас-
+сматриваемых дел. Современники (по крайней мере, составители
+грамот) более или менее понимали этот текст и ориентировались
+в ero содержании. В To »xe время OHH даже Ha пергамене He пыта-
+48 Rodino Caramés С. A lex gotica. Р. 42.
+® Alvarado Planas J. A modo de conclusiones. P. 116.
+
+Liber Iudiciorum в леонских документах X—XI веков 111
+лись привести решение КОНфЛИКТЗ в соответствие с бУКВОЙ зако-
+Ha, на котором, по UX же словам, OHO было основано. В некоторых
+случаях складывается впечатление, что процитированные в доку-
+ментах сентенции вовсе не учитывались при вынесении реше-
+НИЯ. ИСТОРИКИ права часто объясняют это МОДИфИКЗЦИСЙ 3aKOHOB,
+которая неизбежно происходит в судебной практике“°. Рискнем
+пойти дальше и предположить, что Liber Гийстогит в принципе
+He воспринималась современниками как норма, согласно КОТОРОЙ
+конфликт должен быть урегулирован. Даже в тех случаях, когда
+судьи обращались к /ex scripta, разрешение спора, no всей види-
+MOCTH, происходило согласно неписаным правилам.
+
+При stom Liber Iudiciorum сохраняла свой авторитет Kak
+источник права, HO только B TOM смысле, что с ee HOMOIHLIO CO-
+временники признавали и описывали Te или иные ДСЙСТВИЯ как
+нарушение социального порядка, a также представляли леги-
+тимным принуждение по отношению к преступникам. Ilostomy
+BOCTpeOOBaHHBIMH в X—XI BB. оказываются He многочисленные
+детали правовых СИТуаЦИЙ, скрупулезно прописанные B вестгот-
+CKHX законах, HO самые ОбЩИС положения, например, O TOM, что
+убИЙЦЬ1 должны понести наказание, или O TOM, что имущество
+нельзя изъять у владельца без суда. Такая фУНКЦИЯ писаного за-
+кона, возможно, объясняет наряду с другими факторами, почему
+Liber Iudiciorum чаще всего фигурирует в графском и королев-
+ском суде`!. Именно здесь рассматривались дела, в которых 00-
+винителем выступала не пострадавшая сторона, а представитель
+власти; COOTBCTCTBCHHO, наказание налагалось He 3a нанесенный
+ущерб, но за нарушение социального порядка. ПОЭТОМУ в первую
+очередь именно графЬ1 и короли нуждались в вестготских зако-
+нах, которые обосновывали их право следить за его СОбЛЮДеНИСМ.
+
+Современники использовали Liber Iudiciorum Kak источник
+ПОНЯтТИйЙ для описания социального порядка, несмотря Ha TO что
+50 Cm. примеч. 7.
+
+5! Сторонники традиционного нормативного подхода связывают это с TEM, что
+суд «публичной» юрисдикции (в отличие от внесудебных форм решения кон-
+фликтов) функционировал на основе кодекса, который представлял собой
+единственный в этот период «публичный» свод права (Martinez Sopena P. La
+justicia en la época asturleonesa. Р. 240—241). Другие исследователи объясняют
+это TEM, что власть поддерживала обращение к кодексу потому, что OH имел
+идеологическое и политическое значение. И к тому же именно в графском
+и королевском суде с ббльшей вероятностью могли быть люди, которые об-
+ладали необходимой для использования вестготских законов подготовкой
+(Zimmermann М. Ecrire et lire en Catalogne. Р. 659).
+
+112 ALIT. Сафронова
+
+этот кодекс происходил из иной политической и социальной pe-
+альности. Некоторые из приведенных в леонских документах
+нормативных цитат могут иметь религиозное значение (напри-
+мер, «Бог — справедливый судья»), другие подразумевают мораль-
+ную оценку тех или иных действий (например, закон «О тех от-
+ступниках и надменных...»). Все »xe большая часть таких цитат
+лежит в области права. Наряду со свидетельствами источников
+о бытовании кодекса в суде это дает нам основания полагать, что
+обращение к Liber Гийстогит выходило за рамки сугубо тексту-
+альной практики. Иными словами, описанная выше функция ко-
+декса вполне могла быть востребована не только при составлении
+документов, HO непосредственно в судебной практике X—XI] Bs.
+
+БИБЛИОГРАФИЯ
+
+Вестготская правда (Книга приговоров): Латинский текст. Перевод.
+Исследование / под ред. О.В. Аурова, А.В. Марея. М., 2012.
+
+Гуревич А.Я. Категории средневековой культуры. М., 1984.
+
+Петит К. Вестготское право VII в.: Попытка синтеза и интерпрета-
+yuu / пер. A.B. Mapes, Е.С. Криницыной // Вестготская правда (Кни-
+га приговоров): Латинский текст. Перевод. Исследование / под ред.
+О.В. Аурова, А.В. Марея. М., 2012. С. 229—242.
+
+Попова ГА. Сунна христиан, Lex Visigothorum, Книга судей, Фуэро
+Хузго: новая жизнь вестготского права // Historia animate: Сборник ста-
+тей / под ред. И.И. Варьяш, Г.А. Поповой, Е.Н. Кирилловой. М., 2004.
+Ч. 1. С. 142-155.
+
+Попова I-A, «Вестготская правда» («Книга приговоров»): рукопис-
+ная традиция и история издания // Вестготская правда (Книга пригово-
+ров): Латинский текст. Перевод. Исследование / под ред. О.В. Аурова,
+A.B. Mapes. M., 2012. С. 108-133.
+
+Alvarado Planas J. Е1 problema del germanismo en el Derecho езрайо!
+(siglos V—XI). Madrid, 1997.
+
+Alvarado Planas J. A modo de conclusiones: el Liber Iudiciorum у 1а
+aplicacion del Derecho en los siglos VI a XI // Mélanges de la Casa de Ve-
+lazquez. 2011. Vol. 41, N 2. P. 109-127.
+
+Astarita С. Practicas del conde у formacion del feudalismo: Siglos VHI
+a XI // Anales de la Universidad de Alicante: Historia medieval. 2003-2006.
+N 14. P. 21-52.
+
+Bowman J.A. From Galicia to the Rhéne: Legal practice in Northern Spain
+around the year 1000 // Culture and society in medieval Galicia: A cultural cross-
+roads at the edge of Europe / Ed. J. D’ Emilio. Leiden; Boston, 2015. P. 343-360.
+
+Cheyette F. «Suum cuique tribuere» // French historical studies. 1970.
+N 6. P. 287-299.
+
+Liber Iudiciorum в леонских документах X—XI веков 113
+
+Colecciön de documentos de la catedral de Oviedo / Ed. S.G. Larragu-
+eta. Oviedo, 1962.
+
+Coleccion diplomatica de Santa Maria de Otero de las Duefias (Leon)
+(854-1037) / Ed. С. del Ser Quijano. Salamanca, 1994.
+
+Coleccion diplomatica del monasterio de Sahagun / Ed. М. Herrero de la Fuente.
+Leon, 1988. Т. П.
+
+Coleccion documental del archivo de la catedral de Leon / Ed. E. Saez.
+Leon, 1987. T. I.
+
+Coleccion documental del archivo de la catedral de Leon / Ed. J.M. Ruiz
+Asencio. Leon, 1987-1990. Т. III—IV,.
+
+Collins R. «Sicut Lex Gothorum continent»: Law and Charters in Ninth-
+and Tenth-Century Leon and Catalonia // English Historical Review. 1985.
+Vol. 100, N 396. P. 489-512.
+
+Collins R. Visigothic law and regional custom in disputes in early me-
+dieval Spain // The settlement of disputes in early medieval Europe / Eds.
+W. Davies, P. Fouracre. Cambridge, 1986. Р. 85—104.
+
+Collins R. Literacy and the laity in early medieval Spain // The uses of
+literacy in early medieval Europe / Ed. R. McKitterick. Cambridge, 1990.
+P. 109-133.
+
+Collins R. Visigothic Spain, 409-711. Oxford, 2004.
+
+Davies W. Local participation and legal ritual in early medieval law courts //
+The moral world of the law / Ed. P. Coss. Cambridge, 2000. P. 48-61.
+
+Diaz y Diaz M.C. La Lex Visigothorum y sus manuscritos: Un ensayo de re-
+interpretacion // Anuario de historia del derecho espanol. 1976. N 46. P. 163-224.
+
+Fernandez Conde F.J. Е1 Libro de los testamentos de la catedral de Ovie-
+do. Roma, 1971.
+
+Garcia Arias X.L. Arabismos nel dominiu llingiiisticu Astur. Uviéu, 2006.
+
+Garcia Lopez Y. Estudios criticos y literarios de la «Lex Wisigothorum».
+Alcala de Henares, 1996.
+
+Isla Frez A. La pervivencia de la tradicion legal visigotica en el reino а5-
+turleonés // Mélanges de la Casa de Velazquez. 2011. Vol. 41, N 2. P. 75-86.
+
+Lexicon latinitatis medii aevi regni Legionis (s. УШ-1230) imperfec-
+tum: Léxico latinorromance del reino de Leon (s. УШ-1230) / Ed. М. Pérez
+Gonzalez, E. Pérez Rodriguez. Turnout, 2010.
+
+Liber Iudiciorum sive Lex Visigothorum / Ed. K. Zeumer // Monumenta
+Germaniae Historica. Legum sectio I. Hannover, 1902. T. I: Leges Visigo-
+thorum. P. 33-456.
+
+Lopez Ortiz J. El proceso en los reinos cristianos de nuestra Reconquista
+antes de la recepcidn romano-canonica // Anuario de historia del derecho
+espanol. 1942-1943. N 14. P. 184-226.
+
+Martin С. Le Liber Iudiciorum et ses différentes versions // Mélanges de
+la Casa de Velazquez. 2011. Vol. 41, N 2. P. 17-34.
+
+Martinez Diez G. Los fueros leoneses: 1017-1336 // Е1 reino de Leon en
+la Alta Edad Media: Cortes, concilios у fueros / Ed. М. Lucas Alvarez. Leén,
+1988. Т. I. Р. 283-352.
+
+114 ALIT. Сафронова
+
+Martinez Sopena P. La justicia en la época asturleonesa: entre el Liber y
+los mediadores sociales // El lugar de campesino: En torno a la obra de Reyna
+Pastor / Ed. A. Rodriguez. Valencia, 2007. P. 239-260.
+
+Martinez Sopena P. El uso de la Ley Gotica en el тето de Leon // Rem-
+ploi, citation, plagiat: Conduites et pratiques médiévales, X*—XII* siécle /
+Eds. P. Toubert, P. Moret. Madrid, 2009. P. 97-114.
+
+McKitterick R. The Carolingians and the written word. Cambridge, 1989.
+
+Minguez Fernandez J.M. Justicia y poder en el marco de la feudalizacion
+de la sociedad leonesa // La guistizia nell’Alto Medioevo (secoli [X—XI),
+11-17 aprile 1996, Settimane 44. Spoleto, 1997. Р. 491-548.
+
+Orlandis J. Huellas visigöticas en el derecho de 1а Alta Edad Media //
+Anuario de historia del derecho espafiol. 1944. N 15. Р. 644-658.
+
+Prieto Morera A. Е1 proceso en el reino de Leon a la luz de los diplomas //
+El reino de Leon en la Alta Edad Media: Ordenamiento juridico del reino /
+Ed. М. Lucas Alvarez. Leon, 1992. Т. П. P. 381-518.
+
+Reynolds 5. Kingdoms and communities in Western Europe, 900-1300.
+Oxford, 1984.
+
+Rodino Caramés С. A lex gotica e о Liber Iudicum no Reino de Leon //
+Cuadernos de estudios gallegos. 1997. Vol. 44, N 109. P. 9-52.
+
+Sanchez Albornoz С. El «juicio del Libro» en Leon durante el siglo Х у
+un feudo castellano del ХШ // Anuario de historia del derecho espafiol. 1924.
+N 1. P. 382-390.
+
+Taylor A. Lex scripta and the problem of enforcement: Anglo-Saxon, Welsh
+and Scottish law compared // Legalism: Community and justice / Eds. Е. Pirie,
+J. Scheele. Oxford, 2014. P. 47-75.
+
+White 5. «Pactum... legem vincit et amor judicium»: The settlement of
+disputes by compromise in eleventh-century Western France // The American
+Journal of Legal History. 1978. Vol. 22, N 4. Р. 281-308.
+
+White 5. Inheritances and legal arguments in Western France, 1050-1150 //
+Traditio. 1987. Vol. 43. P. 55-103.
+
+Wormald P. Lex scripta and verbum regis: Legislation and Germanic
+kingship, from Euric to Cnut // Idem. Legal culture in the early Medieval
+West: Law as text, image and experience. L., 1999. P. 1-44.
+
+Zimmermann М. L’usage du Droit wisigothique en Catalogne du 1Х° au XII°
+si¢cle: Approches d’une signification culturelle // Mélanges de la Casa de Ve-
+lazquez. 1973. N 9. Р. 233-281.
+
+Zimmermann М. Ecrire et lire en Catalogne: IX*—XII* siécle. Madrid,
+2003. Т. П.
+

@@ -1,0 +1,1244 @@
+УДК 94(47)“1331”
+П.В. Лукин
+“300 ЗОЛОТЫХ ПОЯСОВ” И ВЕЧЕ.
+НЕМЕЦКИЙ ДОКУМЕНТ 1331 ГОДА
+О ПОЛИТИЧЕСКОМ СТРОЕ ВЕЛИКОГО НОВГОРОДА*
+В статье анализируются сведения о вече средневекового Новгорода, содержа-
+щиеся в донесении немецких ганзейских купцов (1331 г.) в Ригу. В этом донесе-
+нии речь идет о конфликте в Новгороде между немецкими купцами и местными
+жителями и содержатся важные сведения о новгородском политическом строе
+и системе управления. Статья состоит из двух частей: исследования, полной
+публикации и перевода с нижненемецкого языка на русский самого документа и
+анализа его содержания.
+Вече (упомянутое в документе xax dinc), вопреки известной концепции В.Л. Яни-
+Ha, не может быть отождествлено с “300 золотыми поясами” (гапакс этого доку-
+мента: CCC guldene gordele). Состав вечевых собраний, которые упоминаются
+в этом источнике, He был полностью элитарным. “300 золотых поясов”, скорее
+всего, принадлежали к новгородской элите и, возможно, были новгородской
+элитой в целом. Контекст документа свидетельствует, по-видимому, о том, что
+от имени “300 золотых поясов” мог выступать либо представитель правящего
+в то время клана Неревского конца, либо — что более вероятно — представитель
+влиятельного, но оппозиционного клана (например, Славенского конца). “300 зо-
+лотых поясов” скорее принадлежали сфере политической риторики, чем сфере
+политической практики (cp.: wisesten — “мудрейшие” из похожего документа
+1337 r., термин, который ABHO обозначал Ty »xe самую элитарную группу).
+Ключевые слова: Новгород, Ганза, Древняя Русь, вече, “300 золотых поясов”, “Со-
+Bet Господ”, политический строй, источниковедение, нижненемецкий язык, XIV в.
+Датирующийся 10 ноября 1331 г. и написанный, не считая
+латинских фОРМУЛ в начале и конце, на средненемецком языке
+(на котором говорили в Северной Германии и который широко
+использовался в ганзейской переписке) документ представляет со-
+бой донесение в Pury о столкновении между немецкими купцами,
+* Исследование выполнено при финансовой поддержке РГНФ, проект Ne 08-01-
+00440а. Эта статья не могла бы быть написана без консультаций с Е.Р. Сквайрс, ко-
+торой я приношу огромную благодарность за помощь в переводе нижненемецких
+текстов. Работа была обсуждена на заседании Центра по истории Древней Руси
+ИРИ PAH 7 июля 2009 r. За советы, рекомендации и замечания благодарю всех
+ero участников, особенно B.A. Кучкина и П.С. Стефановича, a также Б.Н. Фло-
+рю, ознакомившегося с первым вариантом текста и высказавшим ряд чрезвы-
+чайно ценных замечаний. И. Рёслер я признателен за присланную ею статью.
+
+“300 золотых поясов” и вече 267
+находившимися в Новгороде, и местными жителями. Результатом
+этого столкновения стало довольно длительное расследование, в
+котором участвовали самые разные органы и должностные лица
+Новгородской республики. В этом смысле документ уникален: ни
+летописные известия, записывавшиеся в рамках определенной
+нарративной традиции, ни актовые источники, в которых речь идет
+не столько о сущем, сколько о должном, не дают столь живой кар-
+тины того, как на практике функционировал политический строй
+Новгорода. Уникален этот документ и среди довольно большого
+корпуса документов, отразивших отношения ганзейских городов с
+русским Северо-Западом: ни один из них не отличается такой же
+подробностью и вниманием именно ко внутреннему политическо-
+му устройству.
+Неудивительно, что в историографии сохранялся к нему стой-
+кий интерес. Более того, выясняется, что ряд известных историо-
+графических концепций, для которых в русских источниках нет
+решительно никакой почвы, в конечном счете базируется именно
+на документе 1331 г.
+Пергаменный оригинал хранится в Pure, в архиве Латвийской
+Республики, но сам текст еще в Х1Х в. был издан (в рамках науч-
+ных публикаций) трижды: в 1868 r. в сборнике русско-ливонских
+документов К.Э. Напьерским', в 1873 r. в VI томе многотомного
+издания прибалтийских средневековых документов Ф.Г. фон Бун-
+re (далее: LECUB)’ и в 1879 r. Bo II томе другого многотомного
+издания собственно ганзейских документов, подготовленного
+К. Хёльбаумом (далее: HUB)’. У всех изданий есть свои досто-
+инства и недостатки: в издании К.Э. Напьерского лучше всего от-
+ражены особенности оригинала, в НОВ учтены некоторые необ-
+ходимые поправки и конъектуры, наконец, в LECUB наибольшим
+образом стандартизирована орфография, что облегчает работу с
+этим изданием неспециалистам по нижненемецкой лингвистике.
+В 1893 r. в очередной книге “Чтений в обществе истории и
+древностей российских” появился подготовленный А. Чумико-
+вым перевод документа 1331 г. на русский язык*. Несмотря на то
+! Napiersky K.E. Russisch-livlandische Urkunden (= Русско-ливонские акты, со-
+бранные K.E. Напьерским). СПб., 1868. C. 55-61.
+
+? Liv-, Est- und Curlandisches Urkundenbuch nebst Regesten / Hrsg. von F.G. von
+Bunge. Riga, 1873. Bd. VI, N 3077. Sp. 491-499.
+
+3 Hansisches Urkundenbuch / Bearb. von K. Héhlbaum. Halle, 1879. Bd. П. $. 222-227.
+
+4 Urenna B UmnepatopcKom o6mlecTBe истории и древностей РОССИЙСКИХ при
+Московском университете. 1893 r. М., 1893. Ku. I (164). Смесь. С. 1-8.
+
+268 П.В. Лукин
+
+что такой опыт, безусловно, ценен, его нельзя признать в целом
+
+удачным. Многие места оригинала переведены неверно, другие
+
+неточно. Классическим примером может служить известный
+фрагмент с золотыми поясами. А. Чумиков решил, что речь идет
+именно о поясах, а не о людях с поясами, хотя в тексте посол
+
+Борис Сильвестров сын говорит, что “его послали 300 золотых
+
+поясов” (ene hedden utgesant CCC guldene gordele). А. Чумиков xe,
+
+вопреки грамматическому строю фразы, переводит: “Им присла-
+но 300 золотых поясов”. Справедливости ради надо сказать, что
+текст действительно местами сложен для понимания; как отмечал
+сам переводчик: “Язык этой грамоты до того неправилен и ис-
+порчен, что несколько выражений не только не поняты издателем
+
+Urkundenbuch, бывшим проф. дерптского университета Бунге, HO
+
+и не могли быть мне объяснены другими хорошими знатоками
+
+языка древних немецких летописей”.
+
+Неудивительно, что историки, которые в дальнейшем обра-
+щали внимание на этот источник, практически никогда He ис-
+пользовали перевод А. Чумикова, а М. Бережков и В.О. Ключев-
+ский даже дали довольно подробные пересказы интересовавших
+MX мест, BO многих случаях принципиально отличающиеся no
+смыслу от перевода А. Чумикова. В недавнее время отдельные
+фрагменты были переведены Е.И. Чебановой и И. Рёслер (на не-
+мецкий). Тем не менее полного адекватного перевода документа
+1331 г. на русский язык не существует до сих пор. В связи с этим
+я считаю возможным привести здесь мой собственный (безуслов-
+но, предварительный) вариант вместе с текстом оригинала. При
+подготовке перевода использовались все три издания; для удобо-
+читаемости здесь приводится нижненемецкий текст по LECUB
+с поправками по другим изданиям, которые специально не ого-
+вариваются. Надо оговориться, что это не публикация источника
+(для этого необходимо обращение к оригиналу, кроме того, текст
+давно и неоднократно опубликован), а первая полная публикация
+перевода на русский язык`.
+
+Торговый двор в Новгороде сообщает Рижскому Совету о на-
+беге русских на немецких купцов и о заключенном вскоре согла-
+шении (10 ноября 1331 г.).
+
+5 В переводе новгородские денежные единицы передаются Kak “гривны”, хотя
+тогда новгородский рубль уже существовал. (См.: Кучкин В.А. Рубль и его
+фракции по документальным данным XIV — 1-й трети XVI вв. // Поволжье в
+Средние века: Te3. докл. Всероссийской научной конференции, посвященной
+70-летию co дня рождения Г.А. Федорова-Давыдова. М., 2001. С. 141-147.)
+
+\ “300 золотых поясов” и вече 269
+\
+\
+[— [ fn
+I
+\ Honorabilibus viris ас discretis, Почтенным и мудрым э мужам,
+proconsulibus ac consulibus civitatis | бургомистрам и членам Совета города
+Rygensis, dd. Риги, датировано.
+
+Weten scole alle degene, de dessen Пусть Bce люди знают, которые
+breif sen und horen, dat de schelinge | увидят и услышат это письмо, что меж-
+tuschen den Duschen und den Ruscen| ду немцами и русскими уже возникла
+to Nogarden aldus alreist up stunt. De| распря sor таким образом. Немцы,
+Duschen, de in der Goten hove stunden, | которые находились Ha Готском дворе,
+de scolden ere knapen in sunte Peters] должны были отправить своих слуг
+hof brengen eines avendes, ein beir to J Ha двор святого Петра для варки пива,
+cockende, wenne vorbrachtent vor de J когда русским было сообщено, что они
+Ruscen, dat se kerkenslepere in den hof | (немцы. — П.Л.) отправили Ha двор цер-
+brachten, uppe dat unse recht de beter | ковных ночных сторожей, c TeM, чтобы
+were. Do se weder to der Goten hove] порядок у Hac был лучше. Когда они
+gan scolden, und quemen tuschen @е | шли назад на Готский двор и проходи-
+holtenen kerken und de grydnissen, do | ли между деревянной церковью и грид-
+worden de Ruscen der Duschen ware, de | ницей, когда русские заметили немцев,
+to der grydnissen horden, und lepen 10 | которые остановились у гридницы и
+und slogen de Duschen; des werden sich | бежали туда и били немцев; a немцы
+de Duschen. Do gengit over de Duschen | защищали себя. Тут немцы были поби-
+und repen: Tyodute. Dat vornemen de J ты, и ong (немцы. — П.Л.) кричали: Tyo-
+Duschen, de in der Goten hove standen | dute [?]. Sto заметили немцы, которые
+und in anderen hoven, und lepen аг | стояли на Готском дворе и Ha других
+to mit knopelen und mit swerden; йаг | дворах, и побежали туда с дубинами
+worden Duschen und Ruscen реупп!|и мечами; там немцы и русские были
+und ein Rusce blef do dot. Do у10-|ранены, и один русский погиб. Тут
+gen de Duschen, de ut anderen Боуеп | бросились немцы, которые были из
+weren, ein del in der Goten hof, und| других дворов, все вместе в Готский
+bleven darinne de nacht. Des morgens | двор и оставались в HEM ночью. YTPOM
+genk malk weder in den hof, dar he inne | каждый пошел обратно Ha [свой] двор,
+stont. Do worden de Duschen gewarnt|rge все находились внутри. TyT немцы
+van Ruscen, de er vrent weren, dat se ere | были предупреждены русскими, KOTO-
+gut vlogeden in de kerken und gengen to | рые были их друзьями, чтобы OHH OT-
+male in sunte Peters hof, wente it wolde | несли свое имущество в церковь и по-
+dar ovele gan, de Ruscen wapenden sich | шли Bce вместе Ha двор святого Петра,
+alto male. Do deden de Duschen na ег | Tak kak могла случиться беда, русские
+Ruscen rade, de se warnet hadden. Do | вооружились Bce вместе. Тогда немцы
+ludden de Ruscen ein dinc, und brachten | поступили в соответствии с советом
+de doden Ruscen in dat dinc. Dar weren | pycckux, которые ux (немцев. — П.Л.)
+de meinen Naugarder komen  alto J предупреждали. Тогда русские созвали
+male wapent, und mit upgerechteden| Beye и принесли мертвого русского Ha
+banyren in dat dinc uppe des koniges|9ro Beye. Тут пришли Bce новгородцы
+hove. Des sanden se boden ute deme | Bce BMecTe, вооружившись и c разверну-
+dinge to den Duschen, einen de heit| тыми знаменами, Ha Bede Ha княжеский
+Phylippe, und einen de heit Zyder, йеп | двор. Тогда они послали посланцев
+
+270 П.В. Лукин
+
+olderman, und andere Ruscen darmede, | с веча к немцам, одного звали Филипп,
+de spreken aldus: dat men altohant @е j а второго звали Сидор, староста, и дру-
+schuldegen utgeve, ede gi scholen al- | гих русских с ними, которые говорили
+tomale also vort sterwen. Do spreken | Tax: чтобы тотчас »xe выдали виновных,
+de Duschen, dat men en rechtede па den| или вы все вместе тотчас же умрете.
+breven und na der crucekussinge, de 5е | Тогда немцы говорили, что He было
+10 hope hedden. Do spreken de Ruscen, | суда согласно грамотам и крестному
+se en kerden sich nicht an de breve, noch | целованию, которые OHH совместно со-
+an de crucekussinge; men gevet altohant | вершили. Тогда русские говорили, что
+ut de schuldegen eder gi sit alle dot. Do ] они He обращают внимания ни на гра-
+beden de Duschen, dat men en geve eine | моты, HH Ha крестное целование; OHH
+tit, dat de Duschen шег Goten hove to | (немцы. — П.Л.) тотчас »xe выдают BH-
+en mochten komen, so mochten se de | новных или “вы все будете мертвы”. To-
+hantdadegen soken, went se nicht еп J гда немцы предложили, чтобы MM дали
+wisten, we he were. Des wolden de J какое-то время, чтобы немцы с Готского
+Ruscen den Duschen neine tit geven, | двора смогли к ним прийти, так чтобы
+wenne spreken jo aldus: Gevet us @е |они могли разыскать виновников, так
+schuldegen eder gi scolen alle ster-| kak OHH He знали, кто OH был [такой].
+ven, und worpen en Jowanen vor, de| Тогда русские He захотели давать нем-
+to Darbete slagen wart. Do spreken @е | цам времени, HO говорили Tak: дайте
+Duschen: Gi hebbet des wol macht, dat | Ham виновных или вы все будете мерт-
+gi uns to male dot slan, wi sin jo komen | вы, и сослались Ha Иоанна, который
+uppe des groten koniges hant und der] был убит в Дерпте. Тогда немцы го-
+meine Naugarder. Do sprach ein Rusce, | ворили: BbI, можете Hac всех вместе
+de heit Thyrentekey: de tit is nu komen, | убить, [хотя] мы ведь приезжаем под
+dat gi altomale sterven scolen van unser | рукой великого князя и всех новго-
+hant. Dar mede lepen se weder in dat|pogues. Тогда говорил один русский
+dinc. Do sloten de Duschen eren hof 10. | mo имени Терентий: пришло теперь
+Darna quemen de Ruscen ut deme dinge | Bpema, чтобы вы BCe умерли OT нашей
+mit wapenen und mit banyren, und ho-| pyku. С этим они побежали назад Ha
+wen planken und porten. Do de Duschen | Beye. Тогда немцы заперли свой двор.
+dat horden, do lepen se in ere kerke und | После этого пришли русские с веча с
+sloten de to, und satten ere dinc also, | оружием и знаменами, и рубили ограду
+dat se lif und gut in der kerken weren|u Bopota. Когда немцы это услышали,
+wolden. Do der planken ein del nider|Torga они побежали в свою церковь
+weren und de porte des boves dor ho-| заперли ee, и поместили [Tam] свои
+wen was, do lepen de Ruscen mit wapen | вещи, Tak xax OHH хотели защитить в
+nicht to der kerken, wenne to den cleten, | церкви свою жизнь и имущество. Ko-
+und howen de up, und nemen, ууа{ |гда часть ограды лежала уже внизу, H
+darinne was, neden und boven. Darna| ворота двора были рассечены, тогда
+quam des koniges rechter ein und sloch| русские побежали с оружием He к
+de Ruscen ut deme hove. Darna sanden | церкви, HO к клетям и порубили их и
+de Ruscen echter ut deme dinge апфег | взяли To, что было внутри, снизу и
+boden, einen de heit Matphe Coseken, | сверху. После этого пришел в TO же
+und einen Zylvester, und Oliferien, | время судья князя и прогнал русских CO
+
+“300 золотых поясов” и вече 271
+den olderman, to den Duschen,und| двора. После этого русские опять
+spreken, dat de Duschen to еп ut дие- | послали с веча других посланников,
+
+en, se wolden mit en degedingen, und | одного no имени Матфей Козка, одно-
+deden den Duschen sikerheit. Do gen- | ro — Сильвестр и Олферья, старосту, к
+gen der Duschen iiij uter kerken to en, | немцам и говорили, чтобы немцы к HUM
+do spreken de Ruscen: Gevet rasch de | вышли, OHH хотят с ними вести перего-
+schuldegen ut, eder gi scolen altomale ] воры и обеспечивают немцам безопас-
+sterven. Do spreken de Duschen: Rich-|Hocts. Тогда четыре немца вышли из
+tet uns na usen breven. Dar en wolden| церкви к ним, тогда говорили русские:
+sich de Ruscen nicht an keren, wente J Выдайте быстро виновных, или вы TOT-
+se spreken de rede, de se vore hadden| час xe умрете. Тогда говорили немцы:
+gesproken. Do spreken de Duschen: Lat] Судите Hac no нашим грамотам. Тут
+uns herre komen de Duschen uter Goten | русские He захотели обращать [Ha это]
+hove, dat wi iu de rechtsschuldegen mo- | внимания, HO говорили OHM речи, KOTO-
+gen antworden. Do spreken de Ruscen: | рые они говорили раньше. Тогда нем-
+ij man wele wi ju halen laten uter Со- | цы говорили: пусть немцы с Готского
+ten hove, und neine mer. Des worden ij | двора придут к HaM, чтобы мы смогли
+man geledet шег kerken in der Goten| представить BaM BHHOBHBIX по закону.
+hof, to vragende umme den dotslach. | Тогда говорили русские: двух человек
+De segeden so, se ne wisten des nicht; | мы хотим BaM позволить привести с
+wenne sanden van erer wegene ij тап j Готского двора и He больше. Тогда два
+to den Duschen in de kerken, und geven | человека были отведены из церкви на
+en volle macht to donde und to latende, | Готский двор, для Toro, чтобы рассле-
+uppe lif und uppe gut. Do de ij man que- | довать убийство. Тогда они (немцы Ha
+men in de kerken, do sochten de Duschen | Готском дворе. — П.Л.) сказали Tak: OHH
+de schuldegen, und vonden einen, dem | He знают об этом (06 убийстве. — П.Л.);
+was sine swert vore blodich. Och hadde | Ho послали co своей стороны двух че-
+he sproken des avendes, do de slacht- | ловек к немцам в церкви и дали им всю
+inge schein was: were Got ein recht Got, | власть распоряжаться жизнью и иму-
+he heddes eime also vele geven, dat he | ществом. Тогда два человека пришли в
+nein brot mer en ete. Dit tugeden gude | церковь, искали там немцы виновных
+knapen, de van eme de rede horden. | и нашли одного, у которого острие ero
+Na desser bekantnisse wart he utgeant- | меча было окровавлено. Также OH го-
+wordet. Do men des neinen ummegank | ворил вечером, когда произошло убий-
+hebben mochte, do antworde en men ut} ство: пусть bor будет истинным borom,
+den Ruscen. Do spreken de Ruscen, se | oH дал бы ему столько, что OH бы боль-
+en wolden es nicht, it were ein hanen-| ше He смог есть хлеба. Это засвиде-
+bredere; wenne se wolden hebben [1 |тельствовали добрые слуги, которые
+man, und escheden unschuldege lude ut, | слышали ero слова. Ha основании этого
+und spreken, se hedden mit eime here | признания он был выдан. Tak kak нельзя
+wesen vor erer grydenisse. Daranne blef | было этого избежать, тогда ero выдали
+dit bestanden den dach, und de Ruscen| русским. Тогда русские говорили, что
+satten ere bodelt in den hof, und andere | они этого He хотят, это — hanenbreder
+Ruscen darmede, de Duschen to war- | (выражение презрения. — П.Л.), HO OHM
+ende. Des nachtes gengen iij Duschen| хотят получить 50 человек, и настоя-
+vor den hertogen und legerden den j тельно потребовали выдачи невиновных
+
+272 П.В. Лукин
+sakwolden dor пой mit LXXX stucken|u говорили, что они (немцы. — П.Л.)
+silvers, wenne se weren gewarnet, queme | были толпой перед ux гридницей. Ha
+de dode Rusce in dat dinc des morgens, | TOM это осталось днем, и русские от-/
+ere sake were vele de arger worden. Och | правили своих судебных служителей
+in derseleven nacht wart de borchreve|(qocn.: палачей. — П.Л.) Bo двор, и
+legert mit Х stucken silvers, und den | других русских с ними для того, чтобы
+namestnicke mit V stucken; de hertoge| охранять немцев. Ночью три немца
+ne wolde nein gelt. Dit schach al in @ег | предстали перед тысяцким и заплати-
+ersten nacht. Des anderen dages do lud-| ли истцу no необходимости 80 гривен
+den de Ruscen echter ein dinc, wenne de| серебра, HO ux предупредили, что,
+dode en wart nicht in dat dinc gebracht. | если мертвый русский окажется утром
+Do sanden de Ruscen de selven boden ut | Ha Beye, Hx дело будет обсуждаться с
+deme dinge to den Duschen, de escheden | еще большим гневом. Однако в Ty »xe
+L man ut, de se beschreven hadden, un-| ночь посаднику был выплачен штраф
+schuldeger lude, eder driddehalf dusent | в 10 гривен серебра, и наместнику — 5
+stucke silvers, den Naugarteren dusent|rpuBeH, тысяцкий He захотел никакой
+stucke, dem konige dusent stucke, deme | выплаты. Bce 9To случилось в первую
+sakwolden vifhundert stucke. Do spreken | Hous. B другой день русские опять co—
+de Duschen: Wi hebbet gelegert еп | звали Beye, HO мертвый He был прине-
+sakwolden. Des wart den boden mal-| cen Ha Beye. Тогда русские послали Tex
+kem lovet ein phyolittes cleit, und dar | »xe самых посланников c веча к немцам,
+en boven ein tunne wines dor noyt. Do ] которые потребовали 50 человек, [име-
+gengen de boden wedder in dat dinc, und | Ha] которых OHH записали, невиновных
+segeden den Naugarderen, de Duschen | людей, или две с половиной тысячи,
+hedden sich vorliket mit dem sakwolden. | новгородцам тысячу гривен, князю
+Do worden de Naugarder erre, und | тысячу гривен, истцу 500 гривен. Torna
+spreken, warumme dat he sich vorliket | говорили немцы: Мы заплатили истцу.
+hedde mit den Duschen an ere hete. Des | Поэтому всем послам было обещано
+quemen de boden weder ut deme dinge, | фиолетовое платье, и eme сверх Toro
+und escheden echter twe dusent stucke| им, no необходимости, — бочка вина.
+silvers vor ere smaheit, den Naugarderen | Тогда пошли посланники обратно на
+dusent und dem konige dusent stucke. | Beye и сказали новгородцам, что немцы
+Do wart en geboden XL stucke; а150 | примирились c истцом. Тогда новго-
+na legeden se it den Duschen, dat was | родцы разъярились и сказали: Почему
+en sere unmere, und lepen tornich van] он договорился c немцами 6e3 их пове-
+danne. Hir bi blep dit bestanden bit des | ления? Тут снова пришли посланники
+avendes. Des selven avendes do quam|c веча и опять потребовали две тысячи
+ein, de heit Boris Zylvesters sone, und | гривен cepeOpa за ux бесчестье, новго-
+sprach, ene hedden utgesant CCC gul-| родцам тысячу и князю тысячу гривен.
+dene gordele; groten Naugarden hedde | Тогда было um послано 40 гривен, тогда
+gudes genauch, se en wolden nein gut, | после этого OHH заявили немцам, что это
+wenne se wolden hebben de L hovede, | очень Mano, и побежали в гневе оттуда.
+de se beschriven hedden. Och sprach | На этом это осталось до вечера. Tem »xe
+he, eme were bevolen aldus, wi seget, ] вечером тогда пришел некто no имени
+dat gi uns den Herman also bewaren, @е | Борис Сильвестров сын, и говорил, что
+iu olderman is, und den Conrade, dat gi j ero послали 300 золотых поясов; что у
+uns morgens se utantworden. Mit dessen | великого Новгорода есть достаточно
+
+l “300 золотых поясов” и вече 273
+\
+worden stunt he up mit tornigem mode | имущества, OHH He хотят имущества, HO
+und wolde en wech, des wart he weder | они хотят получить 50 человек, [имена]
+nedertogen mit saphten reden. Do satte | которых OHM записали. OH также гово-
+he sich echter nidere; und sprach: Noch | pun, что ему было приказано Tak: Мы
+gi gevet us gut, noch gi ne wellen uns|ropopuM, чтобы вы поручились перед
+de hovede utgeven: provet selven, wer} Hamu за Германа, старосту, который
+gi recht sin eder nicht. Och is mi aldus J находится у Bac, и за Конрада, 4TO вы
+bevolen to wervende: de unschuldegen | yrpom ux Ham передадите. После этих
+gan mit erme gude шег kerken und laten | слов он встал в rHeBe и хотел уйти, по-
+de schuldegen in der kerken; wi willet}TomM oH был вновь удержан кроткими
+us mit en wol beweten; nicht min welle | речами. Тогда он снова сел и говорил:
+wi och hebben. Do spreke de Duschen: | вы He даете нам имущества и He хотите
+De rechtschuldegen hadde wi iu utge-| выдать HaM людей: судите сами, правы
+geven, des ne wolde nicht, wenne gi| H вы или нет. И BoT что мне приказа-
+wolden hebben de L hovede, de gi be-| Ho передать: Невиновные выходят CO
+schreven hedden. Got wet dat wol, dat gi] своим добром из церкви и оставляют
+unschuldege lude utescheden. Do sprach | виновных в церкви; мы XOTHM с HHMH
+de Rusce, also he vore hadde gesproken, | 10 возможности сами иметь дело; He
+mit sere harden worden. Do worden еп | меньше же мы XOTHM получить. Тогда
+geboden С stucke silvers dor noit, wente | немцы говорили: виновных no закону
+wi nicht mer vormogen, und beden, dat | мы BaM выдали, TaK вы не XOTHTe, HO
+he dat segede den dren hundert guldenen | вы хотите получить 50 человек, ко-
+gordelen, de en utgesant hadden, und|Topsix вы записали. Ведь bor знает,
+worve unse beste, wi wolden eme geven|4To BbI TpeOyeTe выдачи невиновных
+ein phyollittes cleit. Dar mede sched-| mogeHi. Тогда говорил русский Tak,
+ede he van danne. In derselven nacht} kak oH говорил прежде, очень резкими
+do sante de borchgreve an de Duschen| словами. Тогда было ему предложено
+und boden aldus: wolden se der sake ein | no необходимости 100 гривен серебра,
+ende hebben, so scolden de Duschen em | Tak kak больше мы He смогли, и пред-
+geven XX stucke silvers und ij scharlak- | ложили, чтобы OH это сказал тремстам
+ens cleit, nicht min wolde he och hebben. | золотым поясам, которые ero послали,
+Och warf deselve Olyferie, de olderman, | и чтобы он представил наше дело наи-
+men scholde eme geven V stucke, und} лучшим образом, [3a что] мы хотели
+Sylvester У stucke, und Matphe СозеКеп | ему дать фиолетовое платье. С этим
+ein scarlakens cleit. Aldus ne wolde sich] он ушел оттуда. В Ty xe ночь послал
+de borchgreve und desse anderen in ere | тогда посадник к немцам и уведомил о
+ersten lovede nicht genogen laten. Do | следующем: OHM XOTAT положить конец
+sanden de Duschen in derselven nacht | делу, Tak что немцы дадут uM 20 гривен
+einen anderen Ruscen an den borch-|cepeOpa и два багряных платья, однако
+greven, to horende de warheit, ofte it] меньше OH He хочет иметь. Также TOT
+also were. Do sprach de borchgreve,|campii Олферий, староста, передал,
+it ne scolde anders nicht wesen, und | чтобы emy дали 5 гривен и Сильвестру
+sprach och, dit scolde wi don, so wolde| 5 гривен и Матфею Козке — багряное
+he alle sake uppe sich nemen. Aldus | платье. Takum образом, посадник и 9TH
+wart das gelovet dor noit. Och scoldame | другие He захотели удовольствоваться
+eime, de heit Zacharie Phyfilate, und|cBoumu первыми обещаниями. Torna
+eime, de heitet Jacove Symonen sone, | немцы послали в TY »xe ночь другого
+
+274 П.В. Лукин
+
+possatnicke, malkeme loven ein phyo-| русского к посаднику для того, чтобы
+lettes cleit. Des morgens do quemen de | услышать правду, Tak ли обстоит дело.
+selven iij, mit dessen andern ij, den desse | Тогда посадник говорил, uro это ge MO-
+gifte gelovet weren, und spreken aldus, | жет быть по-другому, и говорил также,
+dat de Naugarder wolden nemen @е С | 4To, если мы 570 сделаем, TO OH все это
+stucke vor ere smaheit, und wolden @е | дело возмет Ha себя. Takum образом
+Duschen begenaden. Do sprach ein des | было это no необходимости обещано.
+koniges wegene, de darbi sat, de konig| Также пришлось одному по имени
+scolde och also vele hebben. Do sprach | Захария Феофилактович и другому no
+ein, de heit Matphe Coseke, wat deme|uMeHu Akos сын Симона посадника
+namesnicke lovet were, dat scolde men | каждому пообещать фиолетовое пла-
+eme geven, de Nogarder wolden de C| Tbe. Утром тогда пришли Te же Tpoe
+stucke behalden, und se wolden sich mit|c этими другими двумя, которым 9TH
+dem konige wol beweten. Wa[n] over de | дары были обещаны, и говорили TO, что
+Duschen segeden van der welde, de en | новгородцы хотят получить 100 гривен
+geschein was, so stunden up und wolden | за ux бесчестье и хотят немцев поми-
+en wech und ne wolden des io nicht ho- | ловать. Тогда говорил один из прибли-
+ren, dat de Duschen vro weren, dat se | женных князя, который присутствовал
+swegen. Wenne de Ruscen spreken а!- | при этом, что князь должен столько
+dus, wat den Duschen were geschein, | xe получить. Тогда говорил один no
+dat scolden se altomale under wegene | имени Матфей Козка: Что было обе-
+laten, und solden dar up dat cruce kus- | щано наместнику, TO нужно дать eMy,
+sen, dat se nicht wreken ne wolden. Och | новгородцы xoTaT сохранить 100 гри-
+sprach de borchgreve, er desse lickinge | BeH, и OHH сами договорятся с князем.
+togenc, siner suster kindere utgeven de | Когда затем немцы сказали о насилии,
+LXXX stucke silvers und solden treden | которое c ними случилось, тогда они
+in des sakwolden stede, und eschede L| встали и захотели уйти и вообще He
+hovede ut, dat siner suster kindere eren | захотели этого слушать, Tak что немцы
+vader an den Duschen wreken wolden, | были довольны, что OHM молчали. Tak-
+de to Darbete slagen wart, de dar heitet | xe русские говорили таким образом о
+Jowane Cypowe, des mochten se an den | Tom, что случилось с немцами: что OHH
+heren van Nogarden nicht hebben. Do | должны тотчас оставить это и должны
+quam de borchgreve darna und eschede | тогда Ha 3TOM поцеловать крест, что они
+van Jowanen kindere wegene, sines ] He хотят мстить. Также говорил посад-
+swagers, L stucke silvers. Do зргеКеп | ник, раньше, чем вступит в силу это
+de Duschen, se ne hedden mit Jowanen | соглашение, дети ero сестры должны
+nicht to donde, se weren geste van over | получить 80 гривен серебра и должны
+sei. Do legedet de borchgreve van sin- | тотчас встать Ha место истцов, и потре-
+er suster kinder wegene den Duschen | бовал выдачи 50 человек, чтобы дети
+also na, dat se dor noit eme de L stucke | ero сестры могли отомстить за своего
+boden, und spreken, dat he provede, dat | отца, который был убит в Дерпте, ко-
+de crucekussinge nicht dar mede broken | торого звали Иоанн Сып, немцам; Ha
+were. Darna do let de borchgreve de L|9To немцы He шли no отношению K
+stucke boden uppe XXX stucke, darna | господам Новгорода. Тогда снова при-
+ХХХ uppe XX stucke, dar helt he sich | men посадник и потребовал OT имени
+waste uppe. Do spreken de Duschen, | детей Иоанна, своего зятя, 50 гривен
+
+\
+
+“300 золотых поясов” и вече 275
+dat se dat gelt wolden utgeven, wolde|cepe6Opa. Тогда говорили немцы, что
+he en geven einen bref, dat siner suster| они ничего He делали с Иоанном, что
+kindere eren vader nicht mer vorderen | они — гости из-за моря. Тогда посадник
+scolden uppe de van Darbete, noch uppe | назначил CO стороны детей своей сест-
+dat stichte. Do quemen de heren van| ры немцам таким образом следующее:
+Nogarden und vorgeven den Duschen de | чтобы они по нужде предоставили ему
+XX stucke sulvers, ane des borchgreven | 50 гривен, и OHH говорили, чтобы OH
+dank, und spreken, de Duschen hedden | гарантировал, что 9THM He нарушается
+mit den landen nicht to donde, se weren| крестное целование. После этого по-
+geste over sei. Ok spreken de Ки5сеп, | садник тогда пошел Ha предложение
+se ne wolden eren bojernen Jowanen | 30 гривен вместо 50, потом 20 вместо
+noch nicht geven umme dusent stucke | 30, здесь он твердо остановился. Тогда
+silvers. Do dankeden en de Duschen,|HemubI говорили, что OHH XOTAT 9TH
+und spreken, dat se sich nicht beworen | деньги отдать, если OH даст HM грамо-
+darmede. Och spreken de Ruscen, se|Ty o TOM, 4TO дети ero сестры больше
+wolden scriven einen bref, dar scolden| He будут выдвигать требования HU
+de Duschen dat cruce up kussen. по отношению к TeM, KTO из Дерпта,
+
+ни по отношению к епископии. Тогда
+пришли господа Новгорода и простили
+немцам 20 гривен серебра, благодаря
+помощи посадника, и говорили немцы,
+что [они] не имеют никакого отноше-
+ния к этой земле, они — гости из-за
+моря. Также русские говорили, что они
+все еще не хотят отдать своего боярина
+Иоанна за тысячу гривен серебра. Тогда
+поблагодарили их немцы и говорили,
+что они к этому не имели отношения.
+Также русские говорили, что они хотят
+написать грамоту, на которой немцы
+должны поцеловать крест.
+
+De bref is aldus: Грамота гласит:
+
+De Duschen gengen vor der solt- Немцы проходили мимо гридницы
+mengere grydnissen bi nacht gewapent, | торговцев солью ночью вооруженные
+und hebben lude tohowen und gewun- | и побили и ранили людей; всякого, KTO
+det; we dar quam to deme clocken slage, | приходил Ha удар колокола, когда уда-
+do de clocke geslagen wart, eder 10 J рили в колокол, или Ha KPHK, HX самих
+deme ruchte, deselven wolden se och| хотели OHH тоже побить и гнались за
+tohowen, und jageden se mit swerden. | ними с мечами. Утром тогда новгород-
+Des morgens do ludden de Nogarder ein | цы созвали Beye и послали к немцам:
+dinc und sanden to den Duschen: Komet | придите и посмотрите раненых, a так-
+und seit de wunden und och de doden; | же и мертвых, почему вы вооруженной
+warumme si gi mit eime here utgelopen | толпой убегали ночью? Вы у Hac He
+in der nacht? Gi sit uns neine herlude, | воины, вы — гости. Тогда He захотели
+
+276 П.В. Лукин |
+/
+gi sit geste. Do ne wolden de Duschen| немцы идти Ha Beye и смотреть, что
+nicht gan to dinge, und sen, wat dar ge- | Tam произошло,— с мертвыми и paHe-
+schen were, van doden und van wunden. | ными. Немцы тогда говорили Tak: Мы
+De Duschen spreken also: Wi sit schul- | виноваты, мы были пьяны, и BAM, гос-
+dich; wi weren vordrunken, und ju heren | пода, 6bemM челом, мы виноваты, CMH-
+sla wi unse hovet, wi sint schuldich, | лостивитесь Hay Hamu! To, что безрас-
+vorbarmet ju over uns! Wat dorichteges | судный русский народ устроил Haber
+volkes van Ruscen hevet gelopen sunder | 6e3 новгородского слова на немецкий
+der Nogarder wort uppe der Duschen hof, | двор, о TOM немцы He должны больше
+dat scolen de Duschen nicht mer den-| думать. И новгородцы простили нем-
+ken. Und de Nogarder hebbet sich over | цев, cormacHo ux просьбе и согласно их
+de Duschen vorbarmet, na ere bede und | челобитью за убитого [досл.: за мерт-
+na erme hovetslande vor dat dode hovet, | вую голову], это OHH, немцы, доконча-
+dat hebben se geendeget, de Duschen, | ли без ведома новгородцев. Также нем-
+sunder der Nogarder witschap. Och] us должны выплатить новгородцам
+scolen de Duschen den Nogarder реуеп | сто гривен серебра за ux бесчестье.
+hundert stucke silvers vor ere smaheit.| То, что немцы обещали наместнику, и
+Wat de Duschen gelovet hebben dem| посаднику, и тысяцкому, и послам, TO
+namesnicke und dem borchgreven und | они должны отдать. И мир no старым
+dem hertogen und dem boden, dat scolen | грамотам и по старому обычаю [дол-
+se utgeven. Und de vrede na den alden} жен быть установлен]. Ночью немцы
+breven und den alden sede. In der nacht | He должны ходить, и OHM HE должны
+scolen de Duschen nicht gan, noch up| стоять на улице. За человекоубийство,
+der strate scolen se nicht staen. Vor йеп |и за раненых, a также за побитых —
+maenslacht und vor de wunden und och| это новгородцы He должны больше
+vor slagenen dat en scholen de Nogarder | требовать OT ответчиков и OT всех
+nicht mer vorderen van den sakwolden, | немцев, это должно быть выплачено
+und van al den Duschen, dat scal tomale | единовременно. И To, что случилось
+wesen gelegeret. Und wat den Duschen | с немцами Ha HX дворе, и TO, что HOB-
+an erme hove geschen is, und wat @е | городцы захватили у немцев Ha UX
+Nogarder den Duschen genomen heb- | дворе, этого немцы He должны больше
+bet in erme hove, dat scolen de Duschen | требовать и об этом думать. Ha этом
+nicht mer vorderen eder denken. Darup|u на всех [этих] вещах новгородцы
+und uppe alle dinc hebbet de Nogarder | целовали крест немцам, и немцы це-
+dat cruce den Duschen gekust, und de| ловали, в свою очередь, крест новго-
+Duschen weder dat cruce gekust den J родцам, чтобы ничего такого у русских
+Nogarder, sunder girleie sake uppe de | He требовать.
+
+Ruscen to vorderen”.
+
+Do de Duschen desse bref horden, Когда немцы выслушали эту грамо-
+do spreken sie: It is uns swarlich to J Ty, тогда они говорили: Это нам тяжело
+donde, dat wi hir dat cruce up kussen | выполнить, TO, Ha чем мы здесь должны
+scolen, und uns tomale unrecht machen. | целовать крест, и поступить по отноше-
+Darmede blef dit bestanden bit des mor- | нию к себе совсем несправедливо. Ha
+gens. Hir en binnen scriven de Duschen | этом осталось это Tak до утра. Tem вре-
+einen bref, also de sake geschen was, | менем немцы написали грамоту, Tak, Kak
+und sanden ij Duschen mede to den J обстояло дело, и послали одновременно
+
+“300 золотых поясов” и вече 277
+hertogen, und leten em den bref vorstan, | двух немцев к тысяцкому, и поручили
+und spreken: aldus sit de sake, hir wille | um огласить ee, и говорить: так обстоит
+wi dat cruce up kussen. дело, Ha 9TOM мы XOTHM целовать крест.
+
+De bref was aldus: Грамота гласит:
+
+It schach eines avendes, dat de Однажды вечером случилось, что
+Duschen шег Goten hove scolden ere J немцы должны были с Готского двора
+knapen brengen in sunte Peters hof. | своих слуг привести Ha двор cB. Петра.
+Do se weder quemen uppe des koniges | Когда они пришли обратно Ha княже-
+hof, tuschen de holtenen kerken und | ский двор между деревянной церковью
+de grydnissen, do worden de Ruscen|u гридницей, тогда русские заметили
+der Duschen ware, de in der grydnis-|HemMueB, которые пили в гриднице, и
+sen drunken, und lepen to und slogen ] побежали туда, и побили немцев, и pa-
+de Duschen, und wunden erer iiij. Des | нили из них четырех человек. Немцы
+werden sich de Duschen und з1ореп | xe защищались и убили одного pyc-
+einen Ruscen doit, und wunden iij. Des} ского насмерть, и ранили трех. YTpom
+morgens quemen de Ruscen mit eime | русские пришли толпой, вооруженные,
+here wapent vor den hof, und howen| ko двору и рубили ограду и ворота, и
+porten und planken, und howen ok up| порубили также клети сверху и снизу,
+de cleten boven und beniden, und пе-|и взяли, что OHH нашли внутри. ITO
+men, wat se darinne vonden. Dat is| q0mKHO быть урегулировано таким
+vorliket also, dat men dat cruce dar пр | образом, чтобы было совершено кре-
+kussen scal vor doden und vor wunden, | стоцелование за убитого и раненых, и
+und breven dar up to besegelende, dat} чтобы были скреплены печатью гра-
+dar nein wrake mer af en schei, noch] моты в TOM, что с их стороны He будет
+van Ruscen, noch van Duschen. РВо /|больше никакого мщения, HH CO CTO-
+de hertoge dessen bref hort hadde, do| роны pycckux, HH CO стороны немцев.
+spreken de Duschen altohant: Hertoge, | Когда тысяцкий выслушал эту грамоту,
+lat uns uppe dessen bref dat cruce kus- | тогда немцы тотчас сказали: Тысяцкий,
+sen, wente us de bref aldus recht dunket | давай, мы поцелуем крест Ha этой гра-
+wesen, wente uppe iuwen bref is us dat | Mote, так Kak грамота кажется ведь HAM
+cruce swar to kussene, wante he maket| справедливой, Tak xax Bally грамоту
+uns tomale unrecht. Des wart de her-| aa Hac тяжело целовать, так как она
+toge erre uppe de Duschen, de to eme|HamM делает большую несправедли-
+sant weren mit den breve, und sprak, de | вость. Тогда тысяцкий разгневался Ha
+bref en dochte nicht, se spreken quade | немцев, которые были посланы K нему
+wort, dat se vro weren, dat se swegen.|c грамотой, и говорил, что грамота им
+Darmede blef it bestanden, bit de her-| He нужна, OHH говорят недоброе сло-
+toge witlich dede den borchgreven und] Bo, что OHM были ObI довольны, если
+den heren van Nogarden der Duschen | 6£ они молчали. Ha этом все остано-
+bref. Des sanden deselven boden to den| вилось, пока тысяцкий He изложил
+Duschen, de se en och er gesant hadden, | грамоту немцев посаднику и господам
+und spreken, also de hertoge sproken| Новгорода. Тогда они послали Tex »xe
+hadde: de bref, de gi vor dem hertoge | посланников к немцам, которых OHH
+lesen, de en dochte nicht. Groten Nogar- | также посылали paHee, и говорили
+den is up iu erre, wenne uppe den bref, | Tax, Kak говорил тысяцкий: грамота,
+
+278 П.В. Лукин
+
+den wi iu gysteren lesen leten, dar 5со- | которую вы читали перед тысяцким,
+
+len alle de Duschen dat cruce up kussen, | им He нужна. Великий Новгород pa3-
+
+оЙ und iunc, dat wille wi also hebben, | гневан Ha Bac, Tak xax Ha грамоте, KOTO-
+
+und des mach och nicht min wesen. рую мы BaM вчера зачитали, все немцы
+должны поцеловать крест, стар и млад,
+мы хотим, чтобы это обстояло Tak, и He
+меньше того.
+
+Hir kusten de Duschen dat cruce Тут немцы поцеловали крест, по
+up, bi dwange. Darna geven de Nog- | принуждению. После этого новгород-
+arden ere hundert stucke quid. Mer dat | цы отсчитали свои cro rpuBeH. Еще Ham
+kostede uns XX stucke, de wi vorlove- | это стоило 20 гривен, которые мы обе-
+den solken heren van Nogarden, und | щали Tem господам Новгорода, a также
+och den roperen bi der heren rade, йеп | служителям [биричам?] при совете
+wi lovede lovet hadden. Hirna, do desse | господ, которым мы дали обещания.
+dine tomale geendeget weren mit den | Затем, когда об этом было окончатель-
+Ruscen, do gengen de sakwolden, de in| Ho договорено с русскими, тогда тя-
+vlocke und in verde wesen hadden, tosa- | жущиеся, которые были участниками
+mende, und vorliketen sik mit minne mit | насильственного действия, пошли BMe-
+demegegen, de den Ruscen utgegeven|cTe и примирились c любовью с TeM,
+wart, na siner egenen bekantnisse und | который был выдан русским, Ha OCHO-
+na tuge, und na den wartekene, dat ап | вании ero собственного признания, и
+eme vonden wart, aldusdane wis, wente | свидетельств, и признака, который Ha
+he bekant hadde in einer meinen steve-| нем был обнаружен, таким образом,
+nen up genade. Und sprak och, he пе |что он признался Ha общем собрании
+vermochte nicht mer wenne XV stucke | ради помилования. И говорил on, что
+silvers, de wolde he dar to geven, und|oH He может [выплатить] больше 15
+bat, dat men ene quid lete. Aldus beden | гривен серебра, которые OH хочет тут
+sine vrent och vor ene, de he in sine} заплатить, и попросил, чтобы ero от-
+achte korn hadde. Desse bede nemen | пустили. Takum »xe образом просили и
+degene, de in vlocke und in verde wesen | ero друзья за Hero, которых OH избрал
+hadden, und leten ene leddich und los, | в связи с тем, что OH был объявлен BHE
+und nemen dat ander gelt up sich to sa- | закона. OHM просили B3ATb людей, ко-
+mende. Hirna leten de sakwolden uppe | торые были участниками насильствен-
+VII man, we se it likeden, dat wolden | ных действий, и освободить их, и 4TO-
+steden laten, bi L marken silvers. Des | бы они (русские. — П.Л.) взяли себе эти
+gengen de VII man, de se gekoren had- | другие [дополнительные] деньги вме-
+den tosamende, und satten malken па ] cre [c уже выплаченными!]. Затем истцы
+ere samwittegeit, also se eren eit dar J позволили [русским выдать] 7 человек,
+to don wolden. To den ersten setten se | Ha Koro OHH в этом отношении согласят-
+ij Duschen, de utlepen van den andern| ca, при [выплате] 50 марок серебром.
+Duschen und makeden den kif, an ете | Тогда пошли 7 человек, которых OHH
+kumpenie dank, einen iuwelken uppe XI | совместно избрали, и установили каж-
+stucke silvers; den dat beir tohorde, der | дый в соответствии CO своей совестью,
+weren iij, de worden sat to IX stucken;|B соответствии с клятвой, которую
+de mitten swerden sat to V stucken,}oHH дали. Сначала они определили,
+
+“300 золотых поясов” и вече 279
+mede weren, de worden 10 iij stucke| остальных немцев и устроили ссору,
+silvers gesat, viij soltnicken min. De|c согласия ux товарищества, заплати-
+summe der slachtinge was С stucke sil- | ли каждый по 11 гривен серебра; Tex,
+vers und LXXX. Aldus sit desse sake en-| koro возбудило пиво, которых было
+deget, also hir vore bescriven steit. Dit} 3, um было определено 9 гривен, Tex,
+hebbe wi dar umme dan und scriven, dat | kro [был] с мечами, — 5 гривен, Ha 15
+gi proven, wo wi bi rechte sin to Nogar- | золотников меньше, TEM, KTO TaM был
+den mit den Ruscen. Dit schach allet па | с дубинами, было определено 3 гривен
+der gebort unses Heren M°CCC°XXXI°, | серебра, на 8 золотников меньше. Пла-
+in vigilia beati Martini episcopi. та за убийство составила 180 гривен
+
+серебра. Таким образом было решено
+это дело Tak, xax здесь выше записано.
+Это мы сделали и написали для того,
+чтобы вы судили, как у нас на самом
+деле обстоит дело с русскими в Новго-
+роде. Это все произошло от Рождества
+нашего Господа в 1331 г., накануне дня
+блаженного епископа Мартина.
+* о* *
+
+В этом тексте содержится много разнообразных сведений о
+новгородских политических институтах и должностных лицах.
+Меня же будут интересовать два основных (и взаимосвязанных)
+аспекта: Beye (dinc) и загадочные “300 золотых поясов” (CCC
+guldene gordele).
+
+Историография вопроса вполне адекватно изложена в OTHOCH-
+тельно недавней статье Е.И. Чебановой, специально посвященной
+проблеме и имеющей в основном как раз историографический
+характер (хотя, как будет говориться ниже, в ней высказан PAT
+ценных замечаний и собственно по проблеме)°. Поэтому здесь
+целесообразно ограничиться кратким обзором существующих
+точек зрения.
+
+Ошибочная интерпретация “300 золотых поясов” в переводе
+А. Чумикова была отвергнута очень быстро: еще до его выхода
+A.M. Никитский понимал их как “coBeT бояр” и отождествлял c
+также встречающимся в этом документе “советом господ” (der
+6 Чебанова E.H. “300 золотых поясов”: проблемы интерпретации термина //
+
+Проблемы социального и гуманитарного знания: Сб. научных работ. СПб.,
+1999. Вып. I. С. 169-179.
+
+280 II.B. Лукин
+
+heren rad)’. Позже А.И. Никитский изменил, правда, свое мнение
+
+и стал считать “золотые пояса” “знатнейш(ими] купц[ами]”.®
+
+М. Бережков называл CCC guldene gordele тремястами золоты-
+
+ми кушаками и думал, что это были бояре?. B.O. Ключевский,
+
+напротив, считал “золотых поясов” не членами совета господ, a
+
+руководящим элементом веча, представлявшим собой “всю со-
+
+вокупность новгородских ВЛ&СТСЙ‚ присутствовавших на вече”.
+
+В то же время “золотые пояса”, по его мнению, не были членами
+
+“совета господ”. Число 300 историк полагал условным, “прибли-
+
+зительно определявшим количество всех местных H ОбЩИХ город-
+
+ских властей”!°. Аргументация B.O. Ключевского строилась на
+
+анализе требований‚ которые выдвигали разные органы власти B
+
+НОВГОРОДС немцам, 4TO стало впоследствии ОбЩСПРИНЯТЬ1М при
+
+изучении этого документа.
+
+ДОЛГОС время никаких НОВЭ‚ЦИЙ в исследовании сюжета не
+бЬ1ЛО, ПРИЧИНОЙ чего, несомненно, было незнание большинством
+советских историков (B отличие OT HX дореволюционных пред-
+шественников, учившихся в классических ГИМН&ЗИЯХ) иностран-
+ных языков, что делало невозможным самостоятельную интер-
+претацию ганзейских документов. ОДНЗКО в начале 70-х TOJOB
+XX B. совершенно HOBOe истолкование предложил В.Л. Янин.
+Не анализируя сам источник (оригинальный текст которого он
+себе представлял, по-видимому, He вполне точно!!), ученый на
+основании археологических данных пришел K выводу O TOM, что,
+во-первых, “совет господ” никак He MOF насчитывать в Новго-
+роде более нескольких десятков человек, во-вторых, количество
+* Никитский А.И. Правительственный совет в Новгороде // Журнал Министер-
+
+ства народного просвещения. 1869. Окт. С. 300-301.
+
+% On же. История экономического быта Великого Новгорода. М., 1893. С. 95.
+
+9 Бережков М. О торговле с Ганзой до конца XV века. СПб., 1879. (Записки
+Историко-филологического факультета С.-Петербургского университета.
+Ч. 3). С. 250.
+
+0 Ключевский В.О. Боярская Дума древней Руси. М., 1909. С. 545—547.
+
+!! В.Л. Янин, например, считает, что в документе 1331 r. говорится о посадниче-
+стве Варфоломея Юрьевича, названного в нем Олферием (см.: Янин В.Л. Нов-
+городские посадники. М., 2003. С. 253), тогда kak в действительности посад-
+ник TaM no имени He назван, а Олферий упоминается Kak староста (olderman)
+и выступает он в качестве посла, что было бы немыслимо для посадника. Имя
+Олферий происходит от греческого 'ЕЛео@вёртюс и He имеет ничего общего с
+именем Варфоломей (см.: Унбегаун Б.О. Русские фамилии. М., 1989. С. 46). 8
+декабря 1331 г. Варфоломей действительно упоминается как посадник (ПСРЛ.
+Т. III. С. 344) и on, вероятнее всего, занимал этот пост и 10 ноября Toro xe
+года, HO к старосте Олферию он никакого отношения He имеет.
+
+“300 золотых поясов” и вече 281
+вечников было очень ограниченным (не более 300—400 человек):
+именно столько человек могло разместиться сидя на небольшом
+пространстве к западу от Николо-Дворищенского собора, кото-
+рое В.Л. Янин по ряду оснований считал новгородской вечевой
+площадью. “300 золотых поясо” вроде бы идеально соответству-
+ют 300-400 вечникам, поэтому В.Л. Янин предложил “золотые
+пояса” и вече отождествить'?.
+Решительной критике эту гипотезу В.Л. Янина подверг дат-
+ский ученый К. Расмуссен. Он исходил из показаний самого до-
+кумента и сделал вывод, что “300 золотых поясов” нельзя отож-
+дествлять ни с “советом господ”, ни с вечем. Вече в источнике
+совершенно определенно называется dinc и помещается там, куда
+его обычно помещают русские летописи — на княжеский (Яро-
+славов) двор (uppe des koniges hove): «Нет никаких оснований
+думать, что OHM называли Beye TO dinc, To CCC guldene gordele.
+Поскольку, no мнению K. Расмуссена, требования “золотых поя-
+COB” He совпадают с требованием веча к немцам, TO неверным
+оказывается и предположение В.О. Ключевского о “поясах” как о
+части веча. Сам К. Расмуссен предложил новое понимание ССС
+guldene gordele He kak “300 золотых поясов”, а как “TPH сотни
+с золотыми поясами”, предлагая видеть в них трех старост от
+житьих людей, “которые вместе с тысяцким были судьями при
+Иванском сто”»'3.
+В 1999 г. появилась статья молодой исследовательницы
+Е.И. Чебановой, в которой она подметила некоторые слабые ме-
+ста гипотез В.Л. Янина и К. Расмуссена. В частности, она убеди-
+тельно показала, что чтение, предлагаемое последним, неудачно
+по чисто грамматическим основаниям. Е.И. Чебанова полагает,
+что “300 золотых поясов” «тесно связаны как с вечем, так и с
+посадником и с “новгородскими господами”»'“. Сказать более
+конкретно, кем были эти “золотые пояса”, она затрудняется. На-
+конец, в недавно опубликованной работе, посвященной главным
+образом лингвистическим аспектам темы, немецкая специали-
+стка по нижненемецкому языку Ирмтрауд Рёслер предполагает
+2 Янин В.Л. Проблемы социальной организации Новгородской республики //
+История CCCP. 1970. Ne 1. С. 50; Янин B.JI, Алешковский М.Х. Происхож-
+дение Новгорода (к постановке проблемы) // История СССР. 1971. № 2.
+С. 58.
+
+В Расмуссен К. “300 золотых поясов” древнего Новгорода // Scandoslavica.
+Copenhagen, 1979. Т. 25. С. 95—100.
+
+14 Чебанова E.H. Указ. соч. С. 177—178, 181.
+
+282 IT.B. Лукин
+(Ho безо всякого обоснования и подробного обсуждения), что это
+могли быть новгородские бояре'5.
+Таким образом, вопрос о соотношении веча и “300 золотых
+поясов” остается открытым.
+Сформулирую теперь в виде тезисов мои собственные наблю-
+дения над текстом этого документа, относящиеся исключительно
+к этому вопросу.
+Есть ли какие-то основания, опираясь на данный текст, отож-
+дествлять Beye и “300 золотых поясов”? Полагаю, что здесь был
+прав К. Расмуссен, и таких оснований нет. И главными аргумен-
+тами тут служат следующие два обстоятельства.
+Во-первых, характер действий вечников — попытка стихий-
+ной расправы с тем, кого вече считало преступниками, вряд ли
+может свидетельствовать в пользу элитарного его состава. Более
+того, разгром немецкого двора, на что уже обращал внимание
+А.И. Никитский'°, был впоследствии охарактеризован самими же
+новгородскими властями в проекте составленной ими грамоты
+kak “набег без новгородского слова на немецкий двор” (sunder
+der Nogarder wort), инициатором которого был “безрассудный
+русский народ” (dorichteges volkes van Ruscen). Здесь противо-
+поставляется “новгородское слово” действиям “безрассудного
+русского народа”, в которых отчетливо просматривается хорошо
+известный в Древней Руси способ вершить правосудие — “поток и
+разграбление”. Трудно себе представить, что “без новгородского
+слова” громили немецкий двор принадлежавшие к элите (кем бы
+конкретно они ни были!) “золотые пояса”.
+Ход событий в этом конфликте напоминает хорошо известные
+по новгородскому летописанию ситуации, в которых действова-
+ли разные слои местного общества. И действия “безрассудного
+народа” живо напоминают действия черных людей. Так, в 6850
+(1343!”) r. после Toro, xax в Новгороде стало известно о гибели
+в Заволочье боярина Луки Варфоломеевича, начались волнения
+среди черных людей: «Въсташа чорныи люди на ОндрЪшка, на
+Федора на посадника Данилова, а ркуци, яко тЪ заслаша на Луку
+!5 Résler I. De schelinghe tuschen den duschen vnde den Ruscen to Naugarden.
+Ein Bericht aus dem Jahre 1331: Textgestalt und Sprache // Deutsche Sprache in
+Europa. Geschichte und Gegenwart. Festschrift fiir Про Tapani Piirainen zum 60.
+Geburtstag / Hrsg. von J. Meier und A. Ziegler. Wien, 2001. S. 57, 60.
+
+6 Никитский А. Очерк внутренней истории Пскова. СПб., 1873. С. 43.
+
+П О nate см.: Бережков Н.Г. Хронология русского летописания. М., 1963.
+С. 297.
+
+“300 золотых поясов” и вече 283
+убити; и пограбиша ихъ домы и села... И в то время прииха Он-
+цифоръ (Лукинич, сын Луки Варфоломеевича. — П.Л.), би чоломъ
+Новуграду на Федора и на ОндрЪшка, и ONS приихаша и ркоша: “He
+думалъЪ есме на брата своего Ha Луку, что ero убити, ни засылати на
+ero”. И Онцифоръ с МатфЪемъ (Матфей Варфоломеевич Козка. —
+П.Л.) созвони вЪце у святЪи СофЪи, а Федоръ и ОндрЪшко другое
+созвониша на Ярославли дворЪ. И посла Онцифоръ с МатфЪемъ
+владыку Ha вФце и, He дождавше владыц® с того вЪца, и удариша
+на Ярослаль дворъ, и яша Ty МатфЪя Козку и сына ero Игната, и
+всадиша Bb церковь, а Онцифоръ убЪжа Cb своими пособникы;
+TO »xe бысть в утрЪ, а no обЪдЪ доспЪша всь город, сия страна
+собъ, а cua собЪ; и владыка Василии с намЪстником Борисом до-
+концаша миръ межи ими; и възвеличанъ бысть кресть, a диаволъ
+посрамленъ бысть»'8. Любопытно, что здесь фигурирует Матфей
+Козка, несомненно, тот же самый, что упоминается в немецком
+документе как посол от веча, а потом — от посадника.
+
+Движение тут начинают “черные люди”, потом собираются
+два противостоящих друг другу вечевых собрания, потом (вероят-
+но, также на вече) происходит примирение. Точно так же заметно,
+как изначально народное движение берут под контроль предста-
+вители элиты и, с одной стороны, используют ero, чтобы распра-
+виться с политическими противниками, с другой, — вводят его в
+относительно безопасные рамки и постепенно восстанавливают
+стабильность, используя традиционные способы политической
+коммуникации.
+
+Черные люди не были при этом просто объектом манипу-
+ляции, из другого летописного сообщения мы видим, что они
+обладали определенным политическим весом и просто так на-
+вязать им свою волю новгородская элита не могла. Это хорошо
+видно из сообщения НПЛ примерно того же времени — под 6848
+(1340'?) r. — о волнениях в Торжке, начавшихся в связи CO сбором
+Симеоном Гордым ордынской дани. Новоторжцы обратились за
+помощью к Новгороду, HO она He пришла: “И посылаху в Новъго-
+род uc Торжьку, что быша новгородцЪ всЪли на конЪ в Торжокъ;
+и He восхотЪша чернь. Посем xe видЪвше новоторжци, даждь He
+прибудет из Новаграда рати, въсташа чернь на бояръ”?°. Чернь
+здесь упоминается дважды, в первом случае речь идет о черни
+'8 ПСРЛ. Т. Ш. С. 356.
+® О mare cm.: Бережков Н.Г. Хронология... С. 296.
+
+20 Tam xe. С. 352-353.
+
+284 П.В. Лукин
+
+новгородской, во втором — новоторжской, нас интересует первое
+упоминание. Совершенно очевидно, что даже если ссылку на не-
+желание черни участвовать в походе рассматривать Kak уловку, TO
+ясно, что такой довод мог оцениваться как весьма серьезный и не
+вызывать удивления, т.е. чернь действительно имела возможность
+уклониться от участия в военных действиях, если считала их для
+себя нежелательными.
+
+Это вроде бы не имеет прямого отношения к вечу: в летописи
+прямо не говорится об участии черных людей в вече, а “безрас-
+судный народ” немецкого документа, о котором ясно сказано,
+что OH пришел громить немцев “с веча” (ut deme dinge), четко в
+социальном отношении не определен. Более того, нет оснований
+считать, что вечники были исключительно представителями низ-
+ших слоев новгородского общества: в другом месте они названы
+“всеми новгородцами” (de meinen Naugarder).
+
+Однако несомненный факт участия черных людей в вечевых
+собрания подтверждается еще одним документальным свидетель-
+CTBOM, правда, существенно более поздним и относящимся He к
+Новгороду, а к Пскову. Речь идет об обнаруженном М.М. Кромом
+в петербургской части бывшего Радзивилловского архива списке
+расспросных “речей” беглецов из Пскова в Великое княжество
+Литовское, датирующемся сентябрем 1534 г. Беглые псковичи,
+некие дьяк Родивон, Гриша и Тонкий, показали, что к моменту их
+бегства детей боярских во Пскове “зостало толко сорок голов, а
+болши тых нияких людей BO Пскове HeT, кроме купцов, KOTOPBIH 3
+Москвы приведены, а чорных людей-пскович. Ино деи тыи люди
+чорный часто ся сходят у вечо, чого ж им намесники и дьяки бо-
+ронят и на торгу кликати кажуть, жебы cg у вечо HE сходили, 6o
+не ведают, што думают”?!.
+
+Из этого краткого сообщения следует, прежде всего, что
+вече в Пскове было настолько обыденным явлением, что и по-
+сле утраты независимости псковичи продолжали собираться на
+вечевые собрания. И самое главное: этот документ убедительно
+и безусловно доказывает, что даже в XVI в. в вече участвовали и
+притом весьма активно, не только представители элиты, “феода-
+лы”, знать и т.д., HO и рядовые горожане. Более Toro, в условиях,
+когда собственного элитного слоя в Пскове после присоединения
+к Москве не осталось, черные люди-псковичи стали практически
+2! Памятники истории Восточной Европы: Источники ХУ-ХУП Bs. M.; Варша-
+
+ва, 2002. Т. УТ: Радзивилловские акты из собрания Российской национальной
+библиотеки: Первая половина XVI в. С. 115.
+
+“300 золотых поясов” и вече 285
+единственными участниками вечевых собраний, которые, с их
+точки зрения (но, конечно, вразрез с позицией московских вла-
+стей), видимо, сохраняли легитимность. Принимая во внимание
+многочисленные летописные данные о политической активности
+черных людей в Новгороде, их упоминания в качестве участни-
+ков “веча на Ярославле дворе” в грамотах, наконец, сведения о
+“безрассудном народе” — участнике веча и вечевой расправы —
+немецкого документа 1331 г., надо полагать, что и в новгород-
+ском вече черные люди были представлены. Важно и следующее
+обстоятельство: несмотря на то, что в проекте крестоцеловаль-
+ной грамоты, предложенном новгородскими послами, действия
+вечников, разграбивших немецкий двор, формально осуждаются,
+фактически они легитимизируются: имущество немцам не возвра-
+щается, более того, последним запрещается не только этого тре-
+бовать, но даже и думать об этом. Тут, как кажется, нельзя видеть
+ничего другого, кроме стремления новгородской элиты сохранить
+популярность среди основной массы свободных новгородцев.
+
+Все это решительным образом подрывает гипотезы, отожде-
+ствляющие вечников и “300 золотых поясов”.
+
+Во-вторых, обращает на себя внимание то обстоятельство, что
+посол от “золотых поясов” Борис, сын Сильвестра, не упомина-
+ется не только как посол от “господ” (это уже отмечал В.О. Клю-
+чевский??), HO и xax посол от веча. В роли последних выступают:
+
+а) Сначала Филипп и староста Сидор, а также “другие русские
+с ними”, среди которых называется некто Терентий. В 1338 г. в
+переговорах с немецкими купцами участвовали два Филиппа,
+один представлял великого князя, другой — новгородцев. В 1342 г.
+договорную грамоту с немцами о торговле воском “докончал”
+наряду с другими с новгородской стороны купеческий староста
+Сидор, и представлял он “всех новгородских купцов” (Aldus
+hevet geendighet ... de olderman Cider der koplude unde de meynen
+coplude to Nougarden)*’. Под 6841 (1333) и 6848 (13407) rr. в НПЛ
+упоминается Терентий Данилович именно как новгородский
+посол?`, причем в одном случае OH действует вместе с Матфеем
+Варфоломеевичем Козкой. Полной уверенности, что это одни и те
+же лица, однако, нет. В Новгороде в то время могли одновременно
+22 Ключевский В.О. Указ. соч. С. 546.
+
+23 Грамоты Великого Новгорода и Пскова / Под peg. C.H. Валка. M.; Л., 1949.
+С. 71, 73.
+
+4 O датах cm.: Бережков Н.Г. Хронология... С. 292-293.
+
+25 ПСРЛ. Т. Ill. С. 345, 352.
+
+286 П.В. Лукин
+
+действовать разные Филиппы, Сидоры и Терентии. Если же это
+отождествление верно, то у нас в распоряжении прямое свиде-
+тельство об активном участии в вече купеческого старосты — еще
+один аргумент против гипотезы o ero чисто боярском составе.
+
+6) 3arem: Матфей ““Козекен”, Сильвестр, crapocta Олферий.
+Кто такие двое последних, неизвестно. Под 6847 (1339)* r. в HIIJI
+мл. упоминается как посол Новгорода к Ивану Калите Селивестр
+Волошевич?”, HO относительно ero возможной идентификации с
+Сильвестром нашего документа нужно сказать то же самое, что
+выше было сказано о Филиппах, Сидорах и Терентиях. Матфей
+“Козекен” — это Матфей Варфоломеевич Козка, скорее Bcero, сын
+посадника Варфоломея, cax занявший пост посадника в 1332/3 г.?®
+Впоследствии эти трое представляют уже посадника, вече при
+этом не упоминается. Таким образом, вечевые послы (по край-
+ней мере, второго веча) и послы посадника оказываются теми же
+самыми людьми. Bce это может свидетельствовать только O TOM,
+что посадник заменяет собой вече, иными словами, вече, которое
+не может функционировать постоянно, а собирается время от вре-
+мени для обсуждения и решения какого-то конкретного вопроса,
+делегирует именно посаднику свои полномочия. С “золотыми
+поясами” ситуация другая. Их представляет совсем другой чело-
+век, не упоминающийся более нигде. Характер его требований,
+как уже отмечал К. Расмуссен, все-таки несколько иной, чем у
+представителей веча; действует он фактически одновременно с
+послами посадника.
+
+Кто же такие “золотые пояса”? Остроумный выход из положе-
+HHA, предложенный датским ученым (представители сотен), к со-
+жалению, не находит подтверждений, так как, по справедливому
+замечанию Е.И. Чебановой, выражение den dren hundert guldenen
+gordelen означает именно “тремстам золотым поясам”, a He “трем
+сотням с золотыми поясами”. Предложение видеть в них то же, что
+и “совет господ”, также сталкивается с серьезными проблемами.
+Помимо того, о чем писал В.Л. Янин, не очень понятно, что такое
+вообще этот “совет господ”. Kak таковой (der heren rad) on, xax и
+“золотые пояса”, упоминается только в этом документе, хотя сам
+термин “совет” (тай) применительно к новгородским властным
+структурам в ганзейских документах встречается. Например, в
+26 См.: Бережков Н.Г. Хронология... С. 293.
+
+27 Там же. С. 350.
+28 Tam xe. С. 345.
+
+“300 золотых поясов” и вече 287
+документе 1337 г. решение новгородского веча характеризуется
+Tak: Grote Nogarden is des to rade worden (“Великий Новгород
+решил”)??. Русские источники такого органа власти He знают.
+Е.И. Чебановой и — в более радикальной форме — шведским ис-
+ториком Ю. Гранбергом были высказаны скептические суждения
+относительно реальности существования такого органа власти,
+kak “совет господ”, в Новгороде вообще“°. С одной стороны, на-
+личие у этого “совета господ” “служителей”/“глашатаев” (roperen,
+биричей?) заставляет думать о том, что это не могла быть просто
+фикция, с другой, — обращает на себя внимание тот факт, что “со-
+вет господ”, как и “300 золотых поясов”, фигурирует только в из-
+ложении событий, в проекте русской грамоты — официальном до-
+кументе, который должен был быть скреплен крестоцелованием,
+они не упоминаются, что было бы крайне странным, если бы это
+были настоящие, постоянно фУНКЦИОНИРУЮЩИС органы власти.
+В грамоте последовательно упоминаются Bede, новгородцы как
+политическая ОбЩНОСТЬ, наместник, посадник, ТЬ1СЯЦКИй‚ послы.
+
+Вопрос о “совете господ” заслуживает отдельного рассмот-
+peHHs!, Ho о Tom, 4To “300 золотых поясов” органом власти He
+были, можно сказать вполне определенно. Таким образом, при-
+ходится искать другое объяснение. Конечно, это в известной сте-
+пени область гаданий. CCC guldene gordele — это гапакс данного
+источника. Мы знаем, во-первых, что это были представители
+элиты (y кого emme могли быть золотые пояса?3?), во-вторых, что
+
+29 LECUB. Bd. VI, N 2807. Sp. 113.
+
+30 Чебанова E.H. Указ. cou. С. 181-182 (предполагает, что ганзейские купцы мог-
+ли перенести обозначение своих городских учреждений — “советов” — на нов-
+городские); Гранберг Ю. Совет господ Новгорода в немецких источниках //
+Древнейшие государства Восточной Европы. 1998. М., 2000 (исходя из син-
+таксиса фразы bi der heren rade, он, опираясь на консультацию Е.Р. Сквайрс,
+приходит к выводу, что это был не постоянно действующий, а однократный,
+срочно собранный совет).
+
+31 Возможно, вернее говорить He о “совете господ”, а о “господах Новгорода”,
+которые упоминаются в ряде ганзейских документов XV в. и под которыми
+понимались архиепископ, посадник, тысяцкий и старосты NATH концов (см.:
+Клейненберг И.Э. Известия о новгородском Beye первой четверти XV Beka в
+ганзейских источниках // История CCCP. 1978. Ne 6. С. 172—173). “Coser roc-
+под” (der heren rad), xax и предполагал IO. Гранберг, скорее всего, был не Ha3Ba-
+нием органа власти, а наименованием совещаний этих “новгородских господ”.
+
+32 В XIV-XV bp. золотые пояса завещают московские князья в духовных грамо-
+тах; широко известна роль, которую сыграл спор о золотом поясе во время меж-
+доусобной войны в Московском княжестве в ХУ в. (см.: Мурашёва В.В. Древ-
+нерусские ременные наборные украшения (Х-ХШ вв.). М., 2000. С. 79-80).
+
+288 П.В. Лукин
+
+каким-то определенным политическим институтом они не яв-
+
+лялись, в-третьих, что их представлял посол, который более ни
+
+в каком контексте не упоминается, и удовлетворения интересов
+
+которого другие контрагенты немцев не требуют, в-четвертых,
+
+это были люди влиятельные, от них, как мы узнаем из того же
+документа, зависела судьба двух немцев: Конрада и Германа.
+
+Все это вместе приводит к заключению о том, что 300 золотых
+поясов — это какая-то группа элиты, а, может быть, как уже пред-
+полагал А.И. Никитский, и боярская элита в целом. Подтвержде-
+ние такой гипотезе находим у шведского историографа ХУП в.
+Юхана Видекинда, автора известного сочинения о “шведско-мос-
+ковитской” войне. В историческом экскурсе о Новгороде он рас-
+сказывает о его присоединении к Москве: “Взяв город, государь
+(Иван Ш. — П.Л.) предал казни 300 знатнейших горожан, кон-
+фисковал их имущество, а с остальных взыскал четверть иму-
+щества”33. Информация, HECOMHEHHO, ложная (о массовых казнях
+новгородцев при Иване Ш ничего не известно, возможно, здесь
+произошла контаминация с походом его внука на Новгород).
+Ho почему 300? Вероятно, потому что в Новгороде сохранялась
+устойчивая память о 300 наиболее могущественных и выдающих-
+ся представителях элиты. В.О. Ключевский при разборе нашего
+источника обращал внимание`* на известие псковского летописа-
+ния о том, что после присоединения Пскова к Москве москвичи
+“взяша псковичь 300 семеи”. Это была псковская элита, проти-
+вопоставленная “молодшим людям”, в ee состав входили псков-
+ские посадники, бояре и купцы``. В принципе, такая цифра He
+должна удивлять: Kak бы HH оценивать ее реальность, мы знаем,
+что в другой древнерусской земле насчитывали и больше бояр. В
+1211 г.3°, согласно сообщению Галицко-Волынской летописи, no
+наущению князей Игоревичей “избьени быша” галицкие бояре,
+всего “числомъ 500, а инии разбЪгошася”>”.
+
+Именно на представительство этой неформальной могуще-
+ственной группировки и претендовал, очевидно, Борис Сильве-
+33 Видекинд FO. История шведско-московитской войны XVII века. М., 2000.
+
+С. 500.
+
+34 Ключевский B.O. Указ. cou. С. 546—547.
+
+55 ПСРЛ. Т. У. Bam. 1. С. 95.
+
+36 O дате см.: Грушевський М.С. Хронольогя novi Галицько-Волиньско? niro—
+писи // Записки наукового товариства 1мени Шевченка. Льв1в, 1901. Т. XLI,
+Кн. 3. С. 11-12.
+
+37 ПСРЛ. Т. П. Стб. 723-724.
+
+“300 золотых поясов” и вече 289
+стров сын. Кого он представлял на самом деле, сказать сложно.
+В пользу его связи с правящим в то время новгородским кланом
+может свидетельствовать его вероятная — хотя и не обязатель-
+ная — родственная связь с послом от веча Сильвестром, а также
+TO, что OH апеллирует к тому »xe списку 50 немцев, требовать
+выдачи которых было решено на вече, и на который ссылалась
+представлявшая вече вторая группа послов (в нее входил и его
+возможный отец). Не исключено, что он мог представлять одну
+из групп новгородской знати, не принадлежавшую к господство-
+вавшему тогда клану, представленному посадником Варфоломе-
+em, Матфеем Козкой, возможно, Терентием и др. и связанному
+с Неревским концом`. Представителем одного из таких кланов
+был, вероятно, сын посадника Семёна AKOB, которого немцы
+вынуждены были одарить фиолетовым платьем. Это мог быть
+только сын посадника Семёна Климовича, связанного с Прус-
+ской улицей`””. Вместе с ним такой »xe подарок получил Захария
+Phyfilate (Феофилактович?), а в Лавочной книге 1583 г., Фефи-
+латьевы названы былыми жителями Людина и Загородского
+концов, что позволило В.Л. Янину отнести действовавшего
+BO второй половине XV в. посадника Захарию Фефилатовича
+(полного тезку нашего героя!) к “прусско-плотницкому бояр-
+ству”'°. Эти двое также ведут переговоры с немцами, HO He вы-
+ступают как послы от веча, представители Славенского конца
+вообще не упомянуты (Борис Сильвестров сын вполне мог
+быть и им).
+OO остроте внутриполитической борьбы в Новгороде в это
+время свидетельствует летописная статья за следующий 6840
+(1332/1333) r.1!, из которой ясно следует, что за это время на по-
+сту посадника сменились четыре человека, а в уже упоминавшей-
+ca статье за 1343 г. ясно говорится о TOM, как это борьба выли-
+лась в прямое противостояние. В такой нестабильной ситуации
+представители не распоряжавшихся в то время посадничеством
+кланов (той же Прусской улицы или Славенского конца), могу-
+щественные, но в то же время не имевшие четких полномочий от
+определенного органа власти, могли стремиться также восполь-
+38 Cm. об этом: Янин В.Л. Новгородская феодальная вотчина (историко-генеало-
+гическое исследование). М., 1981. С. 44—46; O» же. Новгородские посадники.
+С. 253—262.
+
+39 Cm. 06 этом: Янин В.Л. Новгородские посадники. С. 242, 278.
+
+40 Tam xe. С. 401—402.
+
+41 ПСРЛ. Т. Ш. С. 344-345. О дате см.: Бережков Н.Г. Хронология... С. 294.
+
+10. Средние века. Вып. 71 (3-4)
+
+290 П.В. Лукин
+
+зоваться ситуацией и получить свою долю. На вопрос немцев,
+кого он представляет, их посол мог, в принципе, ответить, что он
+делегирован “всеми новгородцами” (но это было невозможно,
+так как немцы уже имели дела с послами от веча, и в их роли
+выступили другие люди), либо апеллировать к могущественным
+силам, которые за ними стоят вообще, — в этой роли и выступили
+вызвавшие столько историографической полемики “300 золотых
+поясов”.
+
+В любом случае, “300 золотых поясов” принадлежат, судя по
+всему, в большей степени к сфере политической риторики, чем
+к сфере реальной политической практики. Это предположение
+подкрепляется данными близкого по хронологии источника —
+датирующегося предположительно 1337 г. дефектного фрагмента
+сообщения немецких купцов о притеснениях, чинимых им рус-
+скими в Новгороде. Текст по содержанию очень похож на рас-
+смотренный выше: там также идет речь о столкновениях немцев с
+новгородцами, также фигурируют разные органы власти и долж-
+ностные лица Великого Новгорода (в том числе неоднократно упо-
+минается Beye — “@тс”), также повествование вращается вокруг
+тяжбы о том, кто, сколько, кому должен заплатить за нанесенный
+ущерб. “Золотых поясов” там, как и во всех прочих источниках,
+нет; зато там к новгородской элите применяется другой термин —
+“de wisesten” (“мудрейшие”). Новгородские “мудрейшие” упоми-
+наются в документе 1337 г. в следующем контексте. После того,
+как представители новгородской ганзейской конторы вернулись
+из Ревеля, Дерпта и других городов, Kya они ездили для того,
+чтобы донести до сведения партнеров требования новгородцев,
+они “были приглашены [предстать] перед мудрейшими на вече и
+объявили о своем посольстве...” (worden geladen vor de wisesten
+in dat dinc und openbareden ere bodeschop)*”. U3 этого упомина-
+HHA становится ACHO, 4TO “мудрейшие” — это элита новгородского
+общества, распоряжавшаяся на вече. Очень вероятно, что этот
+эпитет соответствует древнерусскому “вячшие”/“старЪишие” —
+понятиям, широко применявшимся к новгородской верхушке в
+XIII—XIV вв. В To »xe время, как и применительно к документу
+1331 г., нет оснований считать, что в 1337 г. wisesten — это все
+вечники. Tak, послы, пришедшие к немцам с веча (ut deme dinge),
+заявляют, что новые, более мягкие, условия примирения вы-
+двигает Великий Новгород (Grote Novgorod hevet sich enbarmet
+42 LECUB. Bd. VI, N 2807. Sp. 113.
+
+“300 золотых поясов” и вече 291
+over iu...)S, т.е. “Великий Новгород” в данном случае выступает
+как синоним веча.
+
+В документе 1331 г. He упоминаются wisesten, в документе
+1337 r. — CCC guldene gordele. Ничто, думается, He мешает отож-
+дествить оба понятия и прийти к выводу o TOM, что Tak Mor обо-
+значаться высший социальный слой Великого Новгорода, прежде
+всего, боярство — слой, который управлял Новгородом, выделял
+из себя главных должностных лиц, главенствовал на вече. Тем не
+менее, Her оснований отождествлять ero HH с вечем как таковым,
+состав которого был более широким, ни с каким либо конкретным
+органом власти или какой-либо конкретной социально-политиче-
+ской структурой Великого Новгорода.
+
+43 Tbid. Sp. 112.
+10*
+

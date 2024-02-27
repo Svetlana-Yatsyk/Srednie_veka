@@ -1,0 +1,1073 @@
+ПРИГЛАШЕНИЕ К ДИСКУССИИ
+УДК 94(430+437).027
+Н.Н. Наумов
+«STATUS» И «ORDO» В СВЯЩЕННОЙ
+РИМСКОЙ ИМПЕРИИ ПЕРВОИ ТРЕТИ XV В.
+На основании трактатов о светской и церковной реформе, а также королевских гра-
+мот римских и чешских королей в статье рассматриваются особенности локального
+употребления латинских терминов «status» и «ordo», взятых в социально-полити-
+ческом смысле. Исследуется вопрос, какого рода субъекты в немецких и чешских
+землях первой трети ХУ в. обозначались данными терминами и в какой мере этим
+терминам семантически соответствует русское понятие «сословие».
+Ключевые слова: сословие, сословное деление, социально-политическая терми-
+нология, Священная Римская империя, Чешское королевство, первая треть XV B.
+DOT: 10.7868/S013 1878019030073
+THE LATIN TERMS «STATUS» AND «ORDO»
+IN THE HOLY ROMAN EMPIRE
+IN THE FIRST THIRD OF THE 1578 CENTURY
+
+The paper studies the usage of the Latin terms «status» and «ordo» in the royal charters
+and political writings issued in the German and Bohemian parts of the Holy Roman Em-
+pire. Chronologically the study is focused on the reign of Luxemburg dynasty in the first
+third of the 15" century.
+The Latin «status» and its vernacular derivatives («stant» in the Middle High German /
+«stav» in the Old Czech language) signified a large group characterized by a certain social
+function. John Schele Bishop of Liibeck considered the whole society to be divided into
+the people whose «status» was either secular or ecclesiastical. The same two-estate model
+of society has been applied in «Concordantia catholica» by Nicholas of Cusa (1433), in
+* Николай Николаевич Наумов — главный специалист научного отдела
+
+исторического факультета МГУ um. М.В. Ломоносова (r. Москва). E-mail:
+
+nn-naumov@mail.ru.
+
+Nikolay Naumov — specialist-in-chief for the Science Department, Faculty of
+
+History, Moscow State University. E-mail: nn-naumov@mail.ru.
+
+Средние века. 2019. 80(3)
+
+«Status» и «ordo» в Священной Римской империи в первой трети XV e. — 115
+the anonymous «Emperor Sigismund’s Reformation» (1439) and in the charters issued
+by Emperor Sigismund himself, with the reason to emphasize the idea of mutual assis-
+tance between the secular and ecclesiastical powers socially presented by the clergy and
+knighthood («priesterlicher stant» / «ritterlicher stant»). On the other hand, two preach-
+ers from contemporary Bohemia Thomas Stitny and Peter Cheléicky have been working
+on the so called three-estate model considering the society to be represented by clergy,
+noblemen and common people.
+
+The Latin «ordo» and its vernacular derivatives («orden / ordenung» in the Middle High
+German / «fad» in the Old Czech language) signified an amount of persons being privi-
+leged and therefore integrated into the political hierarchy with the king / emperor at
+the head and connected to him by direct vassalage. Nicholas of Cusa considered the
+imperial body to consist of three following ranks: 1) the patricians, i.e. the kings and
+princes-electors; 2) the imperial dukes; 3) the margraves and the landgraves. Therefore
+Cusanus considered the counts, barons, knights and imperial towns excluded from the
+imperial body. On the other hand, Emperor Sigismund’s Reformation mentions three
+socio-political powers considered to be the most influential in the Empire: 1) the princes;
+2) the knighthood («ritterlicher orden»); 3) the imperial towns. The Bohemian secular
+ranks according to the royal charters were represented by the lords and knights with the
+king at the head. However, as well as the Imperial one the royal Bohemian hierarchy has
+shown its disputability during the Hussite wars when the Old and New towns of Prague
+have declared themselves to possess the first rank in the Kingdom and to be authorized
+even to depose the king.
+
+Keywords: estate, estate system, socio-political terms, Holy Roman Empire, Kingdom
+of Bohemia, the first third of the 15 century.
+
+Пять лет назад на страницах журнала «Средние Beka» M.A. Бой-
+ЦОВ ОПУбЛИКОВЗЛ статью, которая заставляет переосмыслить подход
+РУССКОЯЗЬШНОЙ науки к тем средневековым социально-политическим
+терминам (лат. Status, досл. «состояние» / ordo, досл. «порядок»),
+для перевода которых B ряде случаев используется понятие «COCIIO-
+вие». В статье утверждается, что «в русском слове иначе расставле-
+ны смысловые акценты, чем B HCXOJIHOM латинском — образ группы,
+притом большой, выходит на первый план, идея ранга, статуса, уров-
+Ha, чина, наоборот, уходит на второй»'!. Кроме Toro, no оценке ци-
+тируемого автора, «в Священной Римской империи отдельным Ordo
+(“чином”) еще в ХУ в. считается каждый город, а не “города” вооб-
+ще, каждый граф, a He “графы” вообще и т.д.». Отсюда следует, что
+будет неверно понимать и переводить Kak «сословие» TOT латинский
+термин, который в свое время, по мнению М.А. Бойцова, обозначал
+вовсе не социально-правовые или политические группы, но отдель-
+! Бойцов M.A. Сословно-представительная монархия: ошибка в переводе? //
+
+Средние века. 2014. Вып. 75 (3-4). С. 71-72.
+
+116 Н.Н. Haymoe
+
+HO взятые привилегированные персоны и корпорации — «партику-
+
+лярные единицы и политические ИНДИВИДЬ1>>2.
+
+Настолько ли велики семантические несоответствия меж-
+my «status» / «отао», c одной стороны, и русскоязычным «сосло-
+вием» — с другой, чтобы последним, Kak полагает M.A. Бойцов,
+в применении к СреДНСВСКОВОЙ СВРОПСЙСКОЙ истории «K сегодняш-
+нему дню стало очень трудно пользоваться»? ДСЙСТВИТСЛЬНО, уже
+этимология слова (церк.-слав. съсловие, от греч. ODAAOYOS — «COHM,
+СОбраНИе») непроизвольно приводит русскоязычных медиеви-
+CTOB K TOMY, чтобы рассматривать «сословия», a по ассоциации —
+и «status» / «ordinesyy латинских текстов в качестве обозначений
+для человеческих ГРУППЗ. ОДНЗКО нельзя сказать, что этому подхо-
+ду противоречит изречение, которое приписывают Св. Ансельму,
+архиепископу Кентерберийскому (1030-1109): «Существуют три
+порядка / разряда людей (mat. ordines hominum): молящиеся, паха-
+ри и защитники. Они были поставлены Богом в этом мире на pa3-
+ные СЛУЖбЫ, ПОДОбНО тому, как отец семейства распределяет овец,
+быков и собак в OMe своём»“. В «Песни к королю Роберту Фран-
+цузскому» епископ Адальберон Ланский (ym. 1030) точно таким
+же образом делит человеческое общество, которое именует «трой-
+ственным домом Божьим» (mat. triplex Dei domus): «одни молятся,
+другие воюют, третьи »xe трудятся»`. Трехчастной модели посвя-
+? Tam xe. С. 72-73.
+
+3 Фасмер М. Этимологический словарь русского языка. СПб., 1996. Т. 3. С. 726.
+
+* «Tres quippe sunt ordines hominum: orantes, agricultores et defensores. Hos
+autem ordines sic ad diversa officia Deus in hoc mundo disposuit, quaemadmodum
+quidam paterfamilias oves et boves et canes maximos in domo suo distribuit».
+Sancti Anselmi ex Beccensi abbate Cantuariensis archiepiscopi Opera nec non
+Eadmeri monachi Cantuariensis historia novorum et alia opuscula / Labore ac
+studio D. Gabrielis Gerberon. Lutetiae Parisiorum, 1721. P. 179. Данное изре-
+чение Ансельму приписал Эадмер, монах из Toro »xe Кентербери (ox. 1060 —
+ок. 1124), который не только составил житие архиепископа, но и записал его
+изречения в отдельной книге «Об уподоблениях». Из недавних работ об Ан-
+сельме Кентерберийском и Эадмере см.: Ward В. Anselm of Canterbury: his life
+and legacy. L., 2009; Kauffmann C.M. New images for Anselm’s table talk: ап
+illustrated manuscript of the «Liber de similitudinibus» // Journal of the Warburg
+and Courtauld Institutes. 2011. Vol. 74. P. 87-119.
+
+5 «Triplex ergo Dei domus est, quae creditur una: nunc orant, alii pugnant, aliique
+laborant» (Carmen panegyricvm de lavdibvs Berengarii avg. et Adalberonis
+episcopi Lavdvnensis ad Rotbertvm regem Francorvm carmen / Ab Hadriano
+Valesio Historiographo Regio e veteribus codicibus eruta ac notis illustrata. Parisiis,
+1663. P. 249). Об Адальбероне Ланском см.: Regnier А. Adalbéron, appelé aussi
+Ascelin (Azelinus), évéque de Laon // Dictionnaire d’histoire et de géographie
+ecclésiastiques. P., 1912. T. 1. Col. 437-438.
+
+«Status» и «ordo» в Священной Римской империи e первой трети XV e. — 117
+щена обширная литература, в том числе — в контексте истории не-
+мецких и чешских ЗСМСЛЬб.
+
+Цель настоящей статьи — выявить и сформулировать, кого обо-
+значали термины «status» и «ordo» в Священной Римской империи
+первой трети ХУ в.: группы лиц повторяющегося правового стату-
+са и титула, как, например, имперских курфюрстов и князей, па-
+нов / баронов Чешского королевства и маркграфов Империи, либо
+же королей Чешских, маркграфов Мейсенских, панов из Вартен-
+берка И ПОДОбНЬ1Х «политических HHJIHBHJIOB», КаЖДЬ1Й из которых
+обладал собственным НабОРОМ ПРИВИЛСГИЙ‚ а соответственно и ме-
+стом BO властной иерархии? Время церковных соборов в Констан-
+це и Базеле (1414—1439) представляет для исследования полити-
+ческой терминологии особенный интерес уже B силу TOTO, что UX
+участниками и свидетелями были как прелаты, TaK и миряне из
+многих территорий тогдашней Империи. Некоторые из них остави-
+ли после себя трактаты с предложениями ЦСРКОВНОЙ И ИМПСРСКОЙ
+рефОРМЬ1‚ B которых были применены рассматриваемые средневе-
+ковые IIOHSTHMS.
+
+НСОбХОДИМО принять во внимание ту правовую неоднородность,
+которая характеризовала элиты B немецких и чешских землях. Пони-
+мались ли термины «status» и «ordo» одинаковым образом B тракта-
+Tax епископов Иоганна Любекского (ок. 1380/1390—-1439)’ и Николая
+Кузанского (1401—1464), а также у базельского бюргера — анонимно-
+ro автора «Реформации императора Сигизмунда»“? В Tom ли смысле
+эти же понятия использовали Томаш Штитный и Петр Хельчицкий,
+° Дюби Ж. Трехчастная модель или представления средневекового общества
+
+о самом себе / пер. Ю.А. Гинзбург. М., 2000; /warczak И. Ludzie miecza,
+ludzie modlitwy i ludzie pracy. Tröjpodzial spoteczenstwa w sredniowieczniej
+mysli czeskiej. Kielce, 1989; Oexle O.G. Die funktionale Dreiteilung der «Gesell-
+schaft» bei Adalbero von Laon: Deutungsschemata der sozialen Wirklichkeit im
+friiheren Mittelalter // Frihmittelalterliche Studien: Jahrbuch des Instituts fir
+Frihmittelalterforschung der Universitat Minster. 1978. Bd. 12. $. 50-51.
+
+706 Иоганне, епископе Любекском см.: Höd/ G. Zur Reichspolitik des Basler
+Konzils: Bischof Johannes Schele von Lübeck (1420-1439) // Mitteilungen
+des Instituts fiir 6sterreichische Geschichtsforschung. 1967. Jg. 75. $. 46-65;
+Koller H. Kaiserliche Politik und Reformplane des 15. Jahrhunderts // Festschrift
+fiir Hermann Heimpel zum 70. Geburtstag. Géttingen, 1972. Bd. 2. $. 61-79.
+
+% Личность автора «Реформации» остается неустановленной, однако к настоя-
+щему моменту признается общепризнанным, что источник составил чело-
+век, присутствовавший Ha Базельском соборе, HO принадлежавший к город-
+ским кругам, a He к духовенству. Подробнее см.: Koller Н. Untersuchungen zur
+Reformatio Sigismundi II // Deutsches Archiv fiir Erforschung des Mittelalters.
+1958. Heft 2. S. 428.
+
+118 H.H. Haymoe
+
+проповедники H3 Чешского королевства, в котором в рассматривае-
+
+мое время назревал МОЩНЬ1Й СОЦИЗЛЬНЫЙ взрыв ГУСИТСКОЙ револю-
+
+ции? Можно ли утверждать, что социально-дифференцированные
+властные элиты различных частей Империи первой трети XV в. уже
+говорили на ОбЩСМ политическом языке — хотя бы в применении
+
+K этим двум базовым понятиям «конституционного мышления» (HeM.
+
+Verfassungsdenken в терминологии Петера Mopasa)?? Исследование
+
+основано на привлечении трактатов с предложениями рефОРМЬ1 свет-
+
+cKOH H ДУХОВНОЙ власти, а также материалов КОРОЛСВСКОЙ / импера-
+
+ТОРСКОЙ дипломатики.
+
+В латинском языке ПОЗДНССРСДНСВСКОВОЙ ИМПСРИИ к северу от
+АЛЬП, равно как и в местных народных языках (СРСДНСВСРХНСНС-
+мецком и старочешском ЯЗЬ1КС)‚ существовали, по крайней Mepe, два
+понятия, для перевода которых B ряде случаев напрашивается рус-
+ский термин «сословие». Одно Hs них (лат. status, средневерхненем.
+stant / stat, ст.-чеш. stav) восходит к латинскому существительному,
+произведенному OT глагола «Стоять», обозначая не только социаль-
+но-правовое, «сословное», HO H фИЗИЧССКОС состояние TOTO WIM HHOrO
+индивида. Трактаты о церковной и светской реформе представляют
+ОбЩССТВО DIIOXH СИГИЗМУНДЗ составленным из двух «СОСТОЯНИЙ» —
+разрядов людей. Епископ Любека и участник Базельского собора,
+Иоганн Шеле в 1433 г. предложил «реформу папской курии и обо-
+их сословий (лат. in utroque statu; выделено мной. — Н.Н.), духов-
+Horo и светского»'°. Очевидец Toro »xe собора, базельский бюргер
+и анонимный автор «Реформации императора Сигизмунда» (1439)
+начинает свой трактат с молитвы об ОбРСТСНИИ «такого УСТРОЙСТВЗ
+духовного и светского сословия, B KOTOPOM бы явилось священное
+uma Господа и ero божественная природа»!!. В других местах автор
+«Реформации» употребляет термины «священническое / рыцарское
+сословие» (средневерхненем. priesterlicher stant / ritterlicher stant)'.
+* Moraw P. Politische Sprache und Verfassungsdenken bei ausgewahlten Ge-
+
+schichtsschreibern der deutschen 14. Jahrhunderts // Geschichtsschreibung und
+GeschichtsbewuBtsein im spaten Mittelalter / Hrsg. von Hans Patze. Sigmaringen,
+1987. $. 695-726. (Vorträge und Forschungen; Bd. 31).
+
+10 Johannes Schele. Avisamenta reformacionis in curia et extra in utroque statu,
+ecclesiastico et seculari // Acta ad ecclesiam in generalibus saeculi XV. conciliis
+reformandam spectantia. Darmstadt, 2002. Pars 2 / Collegerunt et ediderunt
+J. Miethke et L. Weinrich. $. 206-208.
+
+!! «ein ordenung zu haben geystlichs und weltlichs stats, in der dein heyliger name
+und gotheyt bekennet werde» (Die Reformation Kaiser Siegmunds / Hrsg. von
+H. Koller. Stuttgart, 1964. S. 50).
+
+!2 Tbid. $. 285, 290-291. Издатель «Реформации» Генрих Коллер утверждает,
+что в ее тексте существуют параллели с вышеупомянутым трактатом Иоган-
+
+«Status» и «ordo» в Священной Римской империи в первой трети XV e. — 119
+Реформа Империи была естественным продолжением реформы цер-
+ковной. Средневековый дуализм светской и духовной власти («меча
+светского и меча духовного», согласно языку трактатов Яна Гуса
+и Николая Кузанского, равно как и грамот Сигизмунда Люксембург-
+СКОГОВ) проходил красной нитью через дуализм канонического / лен-
+ного права, в соответствии с нормами которого производилось су-
+допроизводство. ДУЭ‚ЛИЗМ властей естественным образом отражался
+в TOM, что имперское устройство мыслилось бинарным — составлен-
+ным из духовенства H рыцарства, B TO время Kak существование не-
+благородной части светского сословия, по-видимому, не акцентирова-
+JIOCb. IIpeazctapnenue о бИНЭ.РНОЙ структуре ОбЩССТВЭ. господствовало
+в политическом языке немецких земель ИМПСРИИ.
+
+Иным образом ОбЩССТВО делили светские и духовные лица
+
+в Чешском королевстве. Рыцарь, обучавшийся на факультете ис-
+
+кусств Пражского университета, Томаш Штитный из Штитного!“
+на Шеле. Более того, именно латинский трактат о реформе, по всей веро-
+ATHOCTH, лежит в основе «Реформации», чей анонимный автор BO вступле-
+HHH утверждает, что переложил свою книгу с латыни на немецкий язык (Ibid.
+$. 18).
+
+В Епископ Любека и участник Базельского собора Иоганн Шеле начал свой
+трактат 1433 г. «о реформе папской курии и обоих сословий, духовного и свет-
+ского» с обличения симонии и практики папских резерваций, повторив тем са-
+мым тезисы «О церкви», предложенные Яном Гусом. Другой участник собора,
+епископ Николай Кузанский, подобно Гусу отстаивал неразумность притяза-
+ний римских понтификов на светскую власть в Европе: «Церковь как община
+верующих имеет Ba Meda, однако одна лишь часть ee, рыцарство, смеет ис-
+пользовать меч телесный, в первую очередь — для защиты завета Христа и его
+церкви, в TO время как духовенство должно владеть только мечом духовным,
+словом Божьим против рыцарей Антихриста» (A. Гус). Sty мысль продол-
+жает Николай Кузанский, когда утверждает, что наличие власти обоих мечей
+(т.е. духовного и телесного) в руках папы римского освобождает императо-
+ра OT обязанности пользоваться собственным, светским, мечом для защиты
+папского престола; в таком случае он (император) станет пользоваться им по
+собственному усмотрению (Н. Кузанский). Kybal V. М. Jan Hus: Zivot a uceni.
+Praha, 1926. D. 2, &. 2. $. 14; Nicolai de Cusa. De concordantia catholica liber П /
+Edidit С. Kallen // Idem. Opera omnia. Hamburg, 1975. Т. XIV. P. 462. В 1434 г.
+Сигизмунд Ha собрании Bo Франкфурте потребовал от имперских князей вве-
+сти в Империи принцип единовременной опалы — церковной и светской c Tem,
+чтобы «чтобы церковные суды были в помощь светскому мечу». Подробнее
+см.: Haymoe Н.Н. Сигизмунд Люксембургский, имперская реформа и пробле-
+ма «предреформационного движения» в ХУ в. // Религия. Церковь. Общество:
+Исследования и публикации по теологии и религии. 2017. Вып. 6. С. 302.
+
+14 О nem см.: Озолин А.И. Tomac Штитный — идеолог дворянского крыла бюргер-
+ской оппозиции в предгуситской Чехии // Славянский сборник. 1972. Вып. 1.
+С. 38-68.
+
+120 Н.Н. Haymoe
+
+заявляет: как в LlapctBe HeOecuom, «так в здешнем мире всегда H BO
+
+веки благословляемый король (т.е. Господь. — Н.Н.) установил со-
+
+стояние (СТ.-ЧСШ. stav) M3 Tpex достоинств. IlepBoe AOCTOHHCTBO — ду-
+
+XOBHOe, второе — светских господ, третье — ЛЮДСЙ обычных и рабо-
+
+тающих»``. В словах этого чеха было сформулировано TO »xe самое
+
+трехчастное ОбЩССТВСННОС УСТРОЙСТВО‚ что и в трудах западноев-
+ропейских клириков — Ансельма Кентерберийского и Адальберона
+
+Ланского. По какой причине в трех европейских землях повторя-
+
+ется одна H та же ИДСЯ? Представляется‚ что первоисточником для
+
+каждого из вышеназванных трех мыслителей выступило СВЯЩСННОС
+
+Писание. В Первом послании к коринфянам апостол Павел поучал
+
+христианскую ОбЩИНУ: «Если все тело глаз, TO Tye coryx? Если все
+
+слух, то где обоняние? Но Бог расположил члены, КаЖДЫЙ B составе
+тела, как ЕМу было угодно... И вы — тело XPHCTOBO H члены OT чле-
+на. И иных Бог поставил в ЦСРКВИ, во-первых, апостолами, BO-BTO-
+рых, пророками, в-третьих, учителями: дал добродетели, чудеса ис-
+
+ЦСЛСНИЙ‚ помощь H власть, владение языками H толкование речей.
+
+Все ли апостолы? Bee ли пророки? Bee ли учителя?»'° [1-е Kop., 12:
+
+17-18, 27—29]. Kak апостол оправдывал божественным произволе-
+
+нием политическое неравенство в раннехристианской ОбЩИНС‚ так
+
+и упомянутые средневековые богословы оправдывали TCM же самым
+
+неравенство прав, функций и полномочий в TOM обществе, которое
+
+было им современно.
+
+Представление о бинарной структуре общества было сфокуси-
+ровано на отношениях взаимопомощи, которые пронизывали го-
+СПОДСТВУЮЩИЙ класс, связывая между собой церковных и светских
+властителей. В то же время трехчастное деление делало акцент на
+человеческом СООбЩССТВС в целом, так как включало в рассмотрение
+H TO социальное бОЛЬШИНСТВО, которое было в ОЩУТИМОЙ степени от-
+граничено от носителей власти. В конечном счете трехчастное деле-
+ние формулировало принцип ОбЩССТВСННОГО неравенства, КОТОРЫЙ
+15 «Takéz zde na svété у svém krälovstvu vééné a vzdy Ыайепу kral zpofiedil jest
+
+stav trojieho duostojenstvie: prvni jest duchovni, druhy svétskych рапбу, tfeti
+obecnych délnych lidi» (Tomas ze Stitného. Knizky Sestery o obecnych vécech
+krest’anskych / Vyd. Karl J. Erben. Praha, 1852. 5. 118).
+
+16 «Si totum corpus oculus: ubi auditus? Si totum auditus: ubi odoratus? Nunc autem
+posuit Deus membra, unumquodque eorum in corpore sicut voluit <...> Vos autem
+estis corpus Christi, et membra de membro. Et quosdam quidem posuit Deus in
+ecclesia primum apostolos, secundo prophetas, exinde doctores, deinde virtutes,
+exinde gratias curationum, opitulationes, gubernationes, genera linguarum,
+interpretationes sermonum. Numquid omnes apostoli? numquid omnes prophetae?
+Numquid omnes doctores?» (Biblia Sacra. Juxta Vulgatam versionem / Hrsg. von
+R. Weber. Stuttgart, 1969).
+
+«Status» и «ordo» в Священной Римской umnepuu в первой трети XV e. — 121
+лежал в основе феодальной системы HJIH «феодализма в широком
+смысле» — как социально-экономического СТРОЯП. ПРИНЭ.ДЛСЖЭ.ВШИЙ
+к рыцарскому роду Томаш Штитный старался представить принцип
+социального неравенства в качестве божественного установления:
+«Кто хочет 6nar0):[apHo служить Bory, пусть сначала держится верно
+TOTO COCJIOBHA (371ecb и далее в цитате ст.-чеш. stav), к которому ero
+призвал ГОСПОДЬ; достаточно дел имеет B любом случае. И He гово-
+ри: “Если бы я был в другом сословии, то я был бы лучше”. Ведь
+HH одно сословие не остается без работы: B каком ты CCTb, B TOM
+и должен стараться»ш. ДЗЛСС Штитный говорит о светских сосло-
+виях, называя из них крестьянство «более HH3KHM», владык H шлях-
+тичей — «более высокими»: «И в этом мире богатый крестьянин
+во многом лучше, чем бедный владыка, а богатый владыка <луч-
+ше>, чем бСДНЬ1Й шляхтич: поэтому, кто свое, пусть H менее высо-
+кое, сословие соблюдает по-божески, TOT, может, в чем-то имеет пе-
+ред Богом предпочтение, по сравнению с человеком сословия более
+высокого, HO Hc очень СТараТеЛЬНЬ1М»19. ПРОТИВОПОЛОЖНЫЙ тезис,
+а именно исконное равенство между сословиями «МоляЩихсСяЯ», «BO—
+ЮЮЩИХ» И «работающих» (T.e. He отсутствие COCIIOBHH Kak таковых,
+но отсутствие СОСЛОВИйЙ «BBICIHHX» H <<НИЗШИХ>>), стремился обосно-
+вать другой чешский мыслитель — проповедник Петр Хельчицкий°:
+17 Хачатурян Н.А. Общественная система и принцип относительности: К во-
+
+просу о содержании концепт-явления «феодализм» // Средние века. 2008.
+Вып. 68 (1). С. 6—35; Уваров IT. FO. Феодализм в XXI веке // Одиссей: Человек
+в истории: Феодализм перед судом историков. М., 2006. С. 171-183; On же.
+Феодализм в представлении медиевистов // Всемирная история: В 6 т. М.,
+2012. Т. 2. С. 18.
+
+18 «А ktoZ chce vdééné sluziti Bohu, ten najprvé svöj stav drz pravé, do kteréhoz jest
+Buoh jej pozval; s kazdymt ma Ciniti dosti. Nefiekaj: “Bych byl у jiném stavu,
+byl bych lepi”. I Zadnyt stav bez prace nenie; у kterémz jsi koli, toho bud’ pilen»
+(Tomas ze Stitného. Knizky Sestery о obecnych vécech kiest’anskych / Vyd. Karl
+J. Erben. Praha, 1852. $. 176).
+
+® «Ano zde na svété ve mnohém lepi mohuty sedlak, пей vladyka chudy; a vlädyka
+mohuty, nez Slechtic chudy: takéz, ktoz svoj stav pravé drzi podlé Boha, аё i menii,
+moZ névéem ер& mieti pred Bohem, nez ne velmé tbavy 7 vySSieho stavu» (Ibid.).
+
+20 Н.В. Ястребов подчеркнуто относил Хельчицкого к числу гуситов, в TO время
+как сам Петр в трактате «О чешских ротах» не отождествил себя ни с уче-
+нием пражских магистров, ни с учением таборитских священников, настаи-
+вая на буквальном толковании Священного Писания — не только в отрица-
+нии за властями и индивидами права на убийство в соответствии с законом
+Моисея («He убивай!» (Brop.: 5, 17)), Ho и в признании присутствия в при-
+частии священной природы Христа («Приимите, ядите: сие есть Тело Мое»
+(Матвей: 26, 26)). Ястребов Н. В. Этюды o Петре Хельчицком и ero времени:
+(из истории гуситской мысли). СПб., 1908; Boubin J. Petr Cheléicky: Myslitel
+
+122 Н.Н. Haymoe
+
+«Говоря о делении тела Церкви, Cs. Павел He приказывает, чтобы
+
+священники легли на общину работающих, а господа спали на тру-
+
+дящихся людях, словно трутни среди пчел — бесполезные, поедаю-
+щие и пьющие усилия их. Пускай достойные проповедники не пре-
+минут взять необходимые вещи, но как говорит Павел, ставя самого
+себя в пример: чтобы взимая, мы не поставили препятствие чтению
+Христову, нашей власти в этом использовать He станем»?!. Следует
+признать, что в качестве общего обозначения для духовенства, ры-
+царства и «подлого / простого народа» (ст.-чеш. obecny lid) Хельчиц-
+кий использует несколько понятий: «часть тела Христа / тройного
+народа» (ст.-чеш. strana téla Kristova / trojieho lidu) — 000 всех разря-
+дах людей, «верховный земский порядок» / рыцарское состояние»
+
+(ст.-чеш. svrchni rad zemsky / stav rytirsky) — о знати??. Тем He MeHee
+
+на данном этапе исследования уже можно заключить, что «status»,
+
+«stant», «stav» в идиолекте каждого из рассмотренных авторов из
+
+чешских и немецких земель XIV—XV BB. выступали в качестве кате-
+
+горий социально-функциональных — делящих человеческое сообще-
+ство на группы и определяющих всякому индивиду его обществен-
+ную функцию.
+
+М.А. Бойцов выразил следующее суждение: «в русском слове
+“сословие”... образ группы, притом большой, выходит Ha первый
+план», чего нет «в исходном латинском» (выделено мной. — Н.Н.),
+подчеркивающем «идею ранга, статуса, уровня, чина». Однако рус-
+скому эквиваленту соответствуют два латинских термина, а не один!
+Второе европейское понятие, которое наша наука в ряде случаев пе-
+реводит как «сословие», дословно означает «порядок» (лат. огао,
+средневерхненем. orden / ordenung, ст.-чеш. fad). Источники первой
+трети ХУ в. позволяют высказать предположение, что в Священной
+Римской империи того времени «status» и «отао» (по крайней Mepe,
+в случае, когда OHM обозначали части, составлявшие человеческое
+сообщество) не были друг другу тождественны. Епископ, один из
+
+а reformaror. VySehrad, 2005. $. 79-87. Ф.М. Бартош идентифицировал Хель-
+чицкого с чешским рыцарем Петром Загоркой из Загорчи. Подробнее см.:
+Flegl М. К problému identifikace Petra Cheléického // Listy filologické. 1979.
+Е. 102, c. 1. $. 20.
+
+21 «Ale sv. Pavel, kdyZ mluvi o télesném diele, ne tak rozkazuje, aby duchovni knéZie
+na obec robotnu polozili se, a pani aby na robotnych leZeli jako trupi mezi véelami
+neuZitecni, jedüce a pijice jich usilé. Protoz ani od hodnych kazatelov neodjima
+vziti potfebnych véci, ale sam se na pfiklad jinym davaje, di: “Abychom bertce
+nedali trazu Cteni Kristovu, nepoZivali jsme moci nasi у tom” [1. Kor 9, 12]»
+(Chelcicky P. О boji duchovnim а о trojim lidu / Vyd. K. Krofta. Praha, 1911.
+S. 187-188).
+
+22 Ibid. $. 141-142, 167, 172, 176-177.
+
+«Status» и «ordo» в Священной Римской империи в первой трети XV e. — 123
+отцов Базельского собора Николай Кузанский использует термин
+«ordo» AIA обозначения Tex cTyleHen, из которых состоит импер-
+ская политическая иерархия: «Первым чином (лат. primi ordinis) об-
+ладают короли и курфюрсты — патриции. Вторым — герцоги, ланд-
+фогты, бургграфы и им подобные. Третьим — маркграфы, ландграфы
+И подобные uM. Все Te, KTO из числа прочих выделяется и ПРИбЛИЖСН
+K MMileparopcKont власти, составляют имперское тело, главой которо-
+го является сам цезарь. И как только одновременно СОЙДУТСЯ B ОДНОМ
+представительном собрании, BCA империя будет собрана»”`. Необхо-
+димо заметить, что перечень светских чинов у Николая Ky3aHcKoro
+совпадает с теми, которые принимали CBOH лены непосредственно OT
+короля / императора (Hem. die reichsunmittelbaren Stdnde), в TO время
+как вассалы второй и третьей руки (графы и бароны / рыцари и кнех-
+ты) оказываются вне «тела Империи» — если, конечно, Николай Ку-
+занский под «подобными» маркграфам и ландграфам не подразуме-
+вал и графов <<ОКНЯЖСННЬ1Х>>24. О политическом участии имперских
+городов (не говоря уже о сельских общинах) в понимании Николая
+Ky3aHcKoro речь, по-видимому, He могла HATH B принципе.
+
+Более «демократической» Империю видит (или хотел бы видеть)
+базельский бюргер, анонимный автор «Реформации императора Си-
+гизмунда». Устами правителя, т.е. от лица самой ИМПСРЭ‚ТОРСКОЙ вла-
+CTH, OH oOpartaetca K имперским князьям, рыцарям H городам, CJIOBHO
+бы к трем важнейшим силам в государстве: «Мы полагаем, что уста-
+новлено будет так теперь, ведь bor He оставит справедливых; OH — го-
+сподин H мастер справедливости. ПОЭТОМУ‚ возлюбленные вассалы —
+вы, KHA3bA, KTO использует лены OT СВЯЩСННОЙ империи: вы долго уже
+не ДСЙСТВОВЗЛИ BO HMA VMmnepun, ныне же призываетесь по клятве,
+Kak вы Bory поклялись при крещении, по клятве, какой вы связаны
+в силу вашего лена. PI:II.[apCTBO, <ПРИЗЬ1ВЗСТСЯ> IIO клятве СВОСЙ‚ какая
+полагается рыцарскому порядку (средневерхненем. dem ritterlichen
+orden). И мы призываем Bac, имперские города, по клятве и свобо-
+дам вашим, восстаньте, если слышите, вступитесь H помогите унич-
+23 «Primi ordinis sunt reges et electores imperii, patricii. Secundi sunt duces,
+
+praesides, praefecti, et huiusmodi. Tertii marchiones, et landgravii et similes.
+Omnes illi, qui ceteris eminent et imperio plus approximantur, corpus imperiale,
+cuius caput est ipse caesar, constituunt. Et dum simul conveniunt in uno
+compendio repraesentativo, totum imperium collectum est» (Nicolaus de Cusa. De
+concordantia catholica liber П. P. 421-422).
+
+24 О непосредственной подчиненности имперских князей власти римского ко-
+роля или императора см.: Ficker J. Vom Reichsfirstenstande. Innsbruck, 1861.
+Bd. 1. $. 83, 120, 146. О практике возведения графов в княжеское достоин-
+ство в XIV—XV вв.: см.: Krieger K.-F. Die Lehnshoheit der deutschen Könige im
+Spatmittelalter (ca. 1200-1437). Aalen, 1979. 5. 199-201.
+
+124 Н.Н. Haymoe
+тожить всякую несправедливость, OT какой весь мир страдает. И чем
+человек охотнее и больше (ДОСЛ. <<ВЬ1ШС>>) станет жертвовать ради
+этого своей 2KHSHbIO H имением, TCM бЛЗГОРОДНСС и выше OH бУДСТ
+вознесен. Потому вы, благородные (средневерхненем. die edeln), со-
+ответствуйте вашему благородству! Благородству причитается спра-
+ведливость»?>.
+
+ОбЩИМ, характерным для политического ГабИТУСЭ. как епископа
+КУЗЗНСКОГО, Tak и для базельского Oroprepa, было представление об
+ИМПСРИИ, которая состояла H3 индивиИдовВ H Kopnopaunü, ОбЪСДИНЯС-
+мых в группы фиксированного привилегированного ранга — ordines.
+В соответствии со своим коллективным рангом BCHKOM 13 выделяе-
+мых групп приписывалась та или иная степень причастности к вла-
+CTH, равно Kak политической ответственности. ПРИМСНЯСМОС HCKJIHO—
+чительно к «благородной» элите (к которой автор «Реформации»
+удивительным образом OTHOCHT и имперские ГОРОДЭ‚)‚ понятие «ordo»
+является КЭ.ТСГОРИСЙ ПОЛИТИКО-ПраВОВОЙ — понимаемой в рамках от-
+ношений взаимопомощи между сеньором и ero вассалами, T.e. TOTO,
+что принято именовать «вассально-ленными отношениями» (HeM.
+Lehnswesen). В TOM »xe смысле термин «порядок» / «чин» (ст.-чеш.
+rad) используется H B СТЗРОЧСШСКОЙ дипломатике. Он применяется
+только по отношению к королевскому рангу, а также рангам иных
+привилегированных: в 1394 r. — панов, рыцарей и паношей, за кото-
+рыми в науке закрепилось ОбЩСС обозначение «шляхты» (ЧСШСКОГО
+благородного сословия)?°, в 1436 r. — также и королевских городов
+25 «Wir meynen, es siille jetz han sinen gang und wurt och also gon, got lot nit die
+
+gerehten, er ist der gerechtikeit herre und meister; darumb lieben getruwen, ir
+fiirsten, die lehen niessent von dem heyligen rich, ir hant üch in langer zyt nit
+getibet in des richs nammen, syent nt ermanet by dem eide, so ir got gesworn hant
+in dem toff, by dem eyd, so ir umb uwer lehen verbunden sint, und die ritterschaft
+by iren eyden, so dem ritterlichen orden zügehort, und ir werden richstett, by uwern
+eyden und fryheit wiir manen, wenn es ist und ir horen werdent dis uffstan, treffend
+zu und helffent zestoren all unglich sachen, do so gantz die welt innen lit, und wie
+wyligklicher und hoher sich der mensch harzü ergit mit lib und git, ye edeler und
+hoher er erhobt sol werden. Harumb ir edelen, tind uwerm adel gentg! gerechtikeit
+sol dem adel bywonen» (Die Reformation Kaiser Siegmunds / Hrsg. Von H. Koller.
+Stuttgart, 1964. S. 331). ‚ ‚
+
+26 «My Wacslaw z buoZie milosti kral Rimsky a Cesky kral <...> spoleéné wydame,
+coz Н о nas Fad pocestného, uzitetného a dobrého, i о nae duostojenstwie i ижесй
+jinych radow Ceské koruny, i panskych, i rytierskych i panoSskych, swétskych
+a duchownich» (Грамота короля Вацлава IV or 25 августа 1394 r — Archiv Cesky,
+€ili staré pisemné pamatky ¢eské a moravské / Vydal Fr. Palacky. Praha, 1840.
+D. 1. $. 53-54). Показательна Ta последовательность, в которой перечислены
+ранги чешской шляхты: высшую ее часть составляли именно паны, упомяну-
+тые в качестве первых (лат. barones, средневерхненем. herren, cr.—uem. pdni) —
+
+«Status» и «ordo» в Священной Римской империи в первой трети XV e. — 125
+(ст.-чеш. mästa)27. M.A. Бойцов справедливо подчеркивает, что пред-
+ставленным на имперском СОбраНИИ через своих послов оказывался
+именно всякий ИМПСРСКИЙ город Kak «партикулярная единица», а HH—
+KOHM o6pa30M He горожане Kak сословие. Ho разница между «status,
+и «огао» у рассматриваемых авторов первой трети XV B. состояла
+Kak раз в TOM, что «порядок» ИДСНТИфИЦИРОВЭ‚Л человека в рамках ие-
+рархии политических рангов (КОРОЛЬ, герцог, ГОРОД), B TO время KaK
+«COCTOAHH©)» (bopMyMpoBasio ero социальную принадлежность (СВЯ-
+ЩСННИК/ мирянин: рыцарь / простолюдин, в том числе горожанин.. )
+
+Включение городских КОРПОРЗЦИЙ B число политических сосло-
+вий Чешского королевства было результатом той «революции ОбЩС-
+ственного устройства» / «сословной революции» (Ф. Зайбт), которая
+совершилась в ходе Гуситских Bolin’. Уже в 1421 r. первой ns пере-
+численных, а значит, наиболее авторитетной СИЛОЙ‚ низложившей
+короля СИГИЗМУНДЭ‚ с чешского престола на Чаславском celime, были
+
+«бургомистры, консулы и общины Старого и Нового Пражских горо-
+
+JIOB>>. IIpara была названа первой, несмотря на то, что к числу изда-
+
+телей сеймовой грамоты принадлежали архиепископ Конрад Праж-
+
+CKHM H три десятка чешских П8Н0В29. СУЩССТВОВЗНИС двух и даже
+
+трех «состояний» (лат. status) в первой трети XV в. He отрицал и He
+
+отвергал HHKTO — OHH были данностью; принадлежность K иерархии
+
+«порядков» (лат. ordines), равно xax HX последовательность, наобо-
+члены земского суда, выходцы из наиболее древних и уважаемых родов, низ-
+шую »xe — рыцари (лат. milites / vladykones, средневерхненем. Fitter, ст.-чеш.
+rytiFi / vladyci) и оруженосцы-паноши, т.е. Te отпрыски благородных, кото-
+рые He были произведены в рыцари (лат. armigeri, средневерхненем. knechten,
+ст.-чеш. рапо$е). Подробнее cm.: Meznik J. Ceska а moravska Slechta ve 14.
+a 15. stoleti // Sbornik historicky. 1990. Sv. 37. $. 7-36. ‚
+
+27 «We jméno bozie amen. My Sigmund z boZie milosti Rimsky ciesa¥ wZdy
+rozmnozitel Rise a Uhersky, Cesky, Dalmatsky, Charwatsky etc. kral <...>
+naSim slowem slibujem w miefe dolepsané: <...> zdaby pdni, rytierti lidé i mésta
+о swych prawech, radiech a swobodach nynie co zapomanuli а napsati obmeskali,
+to jim chcem radi milostiwé naplniti» (Иглавский маестат короля Сигизмунда
+от 20 июля 1436 г., который дает право «панам, рыцарским людям и горо-
+дам» в любой момент обратиться за подтверждением «своих прав, порядков
+и свобод» — Archiv éesky, &Ш staré pisemné pamatky éeské а moravske / Vydal
+Fr. Palacky. Praha, 1844. D. 3. 5. 446-448).
+
+28 Seibt F. Hussitenzeit als Kulturepoche // Historische Zeitschrift. 1962. Jg. 195.
+$. 21-62. К критике данного термина см.: Meznik J., Smahel F. Husitstvi —
+stavovska revoluce? // Sbornik Майсе Moravské. 1967. R. 86. S. 231-241.
+
+29 «My purkmistri, konSelé a obce Welikého a Nowého mést Prazskych, Konrad,
+bozi milosti arcibiskup kostela Prazského 1 papezské stolice legat, Oldfich
+7 Rozmberka...» (Archiv €esky, €ili staré pisemné pamatky ceske a moravske.
+D. 3. S. 226-227).
+
+126 Н.Н. Haymoe
+
+POT, He были данностью столь безусловной TOUHO Tak же, как и KOH-
+
+кретные (мнимые / действительные) привилегии, которые, по выра-
+
+жению M.A. Бойцова, «имели обыкновение выветриваться»`°.
+
+Тем не менее «порядок» был вещью объективной и действитель-
+ной в качестве той правовой самоидентификации сословной корпора-
+ции, а также всякого из ее членов, которую наглядно демонстрирует
+продолжение протокола процитированной грамоты 1421 г., изданной
+Чаславским сеймом: «Мы, бургомистры, консулы и общины Старо-
+ro и Нового Пражских городов, Конрад, Божьей милостью архиепи-
+скоп Пражский и папского престола легат, Олдржих из Рожмберка,
+Ченек Hs Вартенберка иначе из Весели, Индржих Берка из Дубе си-
+дением в Гуске, Олдржих из Градце, Гинек Крушина из Лихтенбурка
+<...> с другими панами, рыцарями, паношами, городами и общинами
+(выделено мной. — Н.Н.), нашими и закона Божьего сторонниками,
+заявляем настоящим письмом перед всеми, кто его узрит или услы-
+шит...»°!. Выделенное дополнение служило для того, чтобы убедить
+всякого читателя этой грамоты в TOM, что OHA являет волю всего Чеш-
+ского королевства, а не только его отдельных представителей. Не ме-
+нее важно, что она заявляла во всеуслышание: сами перечисленные
+лица со старочешскими предикатами являются панами, рыцарями
+либо »xe паношами`°?. И. Главачек отметил, что в королевских грамо-
+тах и письмах времени правления Вацлава IV (1378-1419) адресат
+обозначается лишь самым общим, единообразным образом: «BO3-
+любленный вассал» либо же «возлюбленный благородный вассал»
+(ст.-чеш. vérny mil) / urozeny vérny mily)*. Совсем иначе поступает
+чешская канцелярия короля Сигизмунда (1420-1437), которая раз-
+личным образом обращается к «возлюбленным вассалам» разно-
+ro порядка. «Благородными» (ст.-чеш. urozeny) она титулует только
+панов, в то время как рыцарей / владык именует «мужественными»
+(ст.-чеш. statecny), а паношей и городских консулов — «прославлен-
+30 Бойцов M.A. Германский император XIV Beka: инструменты реализации вла-
+
+сти: (к постановке проблемы) // Власть и политическая культура в средневе-
+ковой Европе. М., 1992. С. 111.
+
+31 «My purkmistii, kon8elé a obce Welikého а Nowého mést Prazskych, Konrad, boZi
+milosti arcibiskup kostela Prazského i рарейзКё stolice legat, Oldfich z Rozmberka,
+Cenék 7 Wartemberka, odjinud 7 Weselé, Jindfich Berka z Dubé, sedénim na Hüsce,
+Oldiich ze Hradce, Hynek KruSina 7 Lichtemburka <...> s jinymi pany, rytieri,
+panosemi, mésty i obcemi, К zakonu boziemu а К nam pfichylnymi» (Archiv éesky,
+ili staré pisemné pamatky ¢eské a moravské. D. 3. $. 226-227).
+
+32 CM. характеристику терминов в примеч. 26.
+
+33 Hlavacek I. Das Urkunden- und Kanzleiwesen des béhmischen und rémischen
+KG6nigs Wenzel (IV.) (1376-1419). Stuttgart, 1970. $. 111; Idem. Studie k diplo-
+matice Vaclava IV // Listy filologické. 1961. R. 46, €. 2. $. 249.
+
+«Status» и «ordo» в Священной Римской umnepuu в первой трети XV e. — 127
+ными» (ст.-чеш. slovutny), тем самым отводя каждому «порядку» Me-
+сто в политической иерархии, возглавляемой королем — «всесиятель-
+нейшим князем и государем» (лат. serenissimus princeps et dominus
+/ средневерхненем. allerdurchluchtigester furst und herre / ст.-чеш.
+nejjasnéjsi kniZe а pan)**. Послужило ли причиной изменений в ста-
+РОЧСШСКОЙ КОРОЛСВСКОЙ дипломатике влияние средневерхненемецко-
+TO канцелярского языка, уже давно имевшего дело с описанием более
+дифференцированных благородных элит в немецких землях? Я скло-
+нен думать, что нет. Обращение к дипломатике Карла ГУ показывает,
+что B ero эпоху имперская канцелярия и СВОбОДНЬіХ TOCIIOJI, H графов‚
+И фОГТОВ титуловала одним H TCM же «edel» (cpeqHeBepxHeHeM. «3HAT—
+НЫЙ»), делая исключение TOJIBKO LA князей — герцогов, Маркграфов
+И ландграфов, именуемых «высокорожденными» (СРСДНСВСРХНСНСМ.
+hochgeboren)*>. Более вероятно, что обогащение старочешской ти-
+тулатуры при Сигизмунде само по себе было следствием того, что
+чешский король и его канцелярия в итоге приняли во внимание со-
+стоявшееся выделение панского COCJIOBHA из СОВОКУПНОЙ чешской
+IIJI8XTEI — 4TO для самих ЛЮКССМбУРГОВ в контексте панского мятежа
+1394-1405 rr. означало признание за панами особой роли в управле-
+34 Cp. титулатуру «послов от Чешского королевства» — «благородных, муже-
+
+ственных, мудрых и уважаемых», которым Сигизмунд передал свой Иглав-
+ский маестат с обещаниями «панам, городу Праге, рыцарям, паношам и ro—
+родам»: «We jméno Бой1е amen. My Sigmund z boZie milosti Rimsky ciesat
+w2dy rozmnoZitel Rise a Uhersky, Cesky, Dalmatsky, Charwatsky etc. kral <...>
+о ty €tyfi artikuly, о kteréz si sé byli zasadili <...> s urozenymi, statecnymi,
+mudrymi a poctivymi posly kralowstwie Ceského К nam wyslanymi, skrze nasi
+pilnost a риётеше sjednany jst» (Archiv éesky, Cili staré pisemné pamatky €eske
+a moravské. D. 3. $. 446-448).
+
+35 Cp. титулатуру в грамотах Kapaa IV: союзный договор от 1 марта 1358 r. с «BBI-
+сокорожденными» маркграфами Мейсенскими и ландграфами Тюрингскими
+(средневерхненем. mit den hochgebornen Friderichen, Balthazar und Wilhelm
+Lantgrafen in Duringen und Marggrafen zu Meissen), договор об уступке ленных
+и судебных прав «знатным» фогтом Герским от 8 июля 1358 г. (средневерхне-
+Hem. der edle heinrich voget von Geraw), привилегию городу Вербен, издание
+которой засвидетельствовали «знатные графы Генрих и Гюнтер dou Швар-
+цбург» (средневерхненем. der edlen Heinrichs vnd gunthers von Schwartzburg...
+graven) (Urkundenbuch der Végte von Weida, Gera und Plauen sowie ihrer
+Hauskléster Mildenfurth, Cronschwitz, Weida und z.h. Kreuz bei Saalburg / Hrsg.
+von В. Schmidt. Jena, 1892. Bd. 2. S. XV, XXII, LVI). «Знатным» назван и ба-
+pou Конрад dou Шлейден, ube владение только в 1602 г. получило статус
+имперского графства (Regesten des Kaiserreichs unter Kaiser Karl IV. (1346—
+1378) / Hrsg. von A. Huber. Innsbruck, 1877. $. 701. N 6654). О свободном вла-
+дении / графстве Шлейден cm.: Köbler G. Historisches Lexikon der Deutschen
+Lander: die deutschen Territorien vom Mittelalter bis zur Gegenwart. 7. vollstandig
+überarb. Auflage. München, 2007. $. 625-626.
+
+128 Н.Н. Haymoe
+
+нии королевством. Важную часть Гуситских войн составило противо-
+стояние иных «порядков» (рыцарского сословия и королевских горо-
+дов) с королем и друг с другом, в том числе за первенство на чешских
+сеймах 1421-1436 гг. в условиях неприсутствия законного короля.
+Итогом сословной борьбы стал иглавский маестат, изданный Сигиз-
+мундом 20 июля 1436 г. на основании «прошений от панов, Пражско-
+ro города, рыцарей, паношей и иных городов»“°.
+
+Подведем итоги. В представлении авторов политических трак-
+татов в немецких и чешских землях первой трети ХУ в. латинские
+термины «status» (досл. «состояние») и «огао» (досл. «порядок»),
+взятые в социально-политическом смысле, He были друг Apyry
+тождественны. В оперировании тем и другим были задействованы
+разные логические подходы. Первый подход делил совокупное че-
+ловеческое общество на два или три разряда («состояния») сооб-
+разно с их социальной функцией (духовенство / миряне: рыцарст-
+во и простолюдины). Второй подход отделял привилегированные
+группы от управляемого населения в обособленную касту, наде-
+ленную политическими правами и разделенную на несколько ран-
+гов («порядков») в соответствии с мерой причастности KO власти.
+Высшим рангом в Чешском королевстве был ранг королей Чеш-
+ских, а в Империи (согласно Николаю Кузанскому) — ранг «королей
+и курфюрстов Империи». Таким образом, терминами «состояние» /
+«порядок» в немецких и чешских землях первой трети ХУ в. обо-
+значались не партикулярные единицы и индивиды, но именно их
+совокупности — группы в социально-функциональном, либо же по-
+литико-правовом смысле.
+
+Необходимо согласиться с M.A. Бойцовым в TOM, что «status» /
+«ordines» средневековых источников являются «теоретически-
+ми конструктами» — попытками ученых людей Средневековья
+обработать и выставить в качестве готовой схемы противоречи-
+вую социальную действительность своего времени. Тем не менее
+представляется, что эти обобщения не были слишком далеки от
+последней, тем более если от одного автора к другому повторя-
+ется как социально-функциональный, так и политико-правовой
+подход к градации человеческого сообщества. Латинские терми-
+ны в точности отражали то неравенство, которое характеризовало
+феодальный строй в обоих ero смыслах: «status» — правовое нера-
+венство между зависимым крестьянином и духовным / светским
+феодалом, в то время как «огао» — неравенство во взаимоотноше-
+3 «pani, Praha mésto, rytiefi, рапо$е a mésta jinä swt Zadost nam popsant dali si»
+
+(Archiv éesky, ¢ili staré pisemné pamatky éeské a moravské. D. 3. $. 446-448).
+
+«Status» и «ordo» в Священной Римской империи в первой трети XV e. 129
+ниях между сеньором и вассалом, равно как и между вассалами
+разной руки (имперский князь и граф по отношению к королю /
+императору) и разной знатности (чешский пан и владыка / рыцарь
+по отношению к своему королю). Всеобщее согласие с существо-
+ванием «состояний» H «порядков» не исключало СТреМЛСНИЙ K MO-
+дернизации существующего строя. ГОСПОДСТВО церковных H CBeT—
+ских господ над простонародьем было объявлено несправедливым
+в трактате чешского проповедника Iletpa X€JIBYMIKOTO, в TO время
+Kak на практике HX позиции B политической иерархии были реши-
+тельным 06pa30M потеснены неожиданным поступком ПраЖСКИХ
+городов, выступивших инициаторами Чаславского сейма 1421 г.,
+а также первыми (!) подписантами грамоты о низложении короля
+Сигизмунда.
+
+В заключение должно выразить полное согласие с призывом
+M.A. boniopa K TOMY, чтобы BCAKOe понятие применялось критично,
+с вниманием K ero истории, особенно же к тем «значениям, ассоциа-
+WHAM H смысловым шумам, которыми OHO постепенно ОбОГЭ.ЩЭ.ЛОСЬ
+И обрастало»37. В современном немецком и чешском языке сословие
+(бУДЬ то в социальном или политическом СМЬ1СЛС) обозначается тер-
+мином «состояние» (нем. Stand, чеш. stav) — и только им; в венгерском
+языке — одним только термином «порядок» (BeHT. rend). Лишь немно-
+THe языки ЦСНТРЗЛЬНОСВРОПСЙСКОЙ ИСТОРИЧССКОЙ науки (Например,
+ПОЛЬСКИЙ) сохранили в своем лексиконе оба понятия к тому моменту,
+когда средневековая политико-правовая / СОЦИЭ‚ЛЬНО-фУНКЦИОНЭ‚ЛЬНЭ‚Я
+сословность окончательно перестала быть данностью. По этой при-
+чине противоречия в УПОТРСбЛСНИИ оставшегося термина возникли
+уже в европейской науке ХХ в. — вместе с необходимостью устано-
+BHTb H соблюдать разграничение между «сословиями политически-
+ми / социальными» (нем. die politischen / sozialen Stdnde)**. И в этом
+смысле РУССКИЙ термин «сословие» подходит JIA рабОТЬ1 со средне-
+вековыми источниками в гораздо большей степени, чем устоявшиеся
+СВРОПСЙСКИС дериваты — B силу TOTO, что OH избавлен от имманентных
+STUMOJIOTO-CMBICJIOBbIX accolMallui Kak с «состоянием», TaK H с «IIO-
+рядком».
+
+37 Бойцов M.A. Сословно-представительная монархия: ошибка в переводе? С. 67.
+
+38 Сопге W., Oexle O.G., Walther R. Stand, Klasse // Geschichtliche Grundbegriffe:
+Historisches Lexikon zur politisch-sozialen Sprache in Deutschland / Hrsg. von
+O. Brunner, W. Conze, R. Koselleck. Stuttgart, 1990. Bd. 6: St — Vert. $. 157—
+158, 196; Vorel Р. Velké déjiny zemi Koruny ceske. Praha; LitomySl, 2005. Sv. 7.
+S. 88-89.
+
+130 Н.Н. Haymoe
+БИБЛИОГРАФИЯ
+
+Бойцов М.А. Германский император ХГУ века: инструменты реализа-
+ции власти: (к постановке проблемы) // Власть и политическая культура
+в средневековой Европе. М., 1992. С. 106-114.
+
+Бойцов M.A. Сословно-представительная монархия: ошибка в перево-
+де? // Средние века. 2014. Bam. 75 (3-4). С. 66—78.
+
+Дюби Ж. Трехчастная модель или представления средневекового обще-
+ства о самом себе / пер. Ю.А. Гинзбург. М., 2000.
+
+Наумов Н.Н. Сигизмунд Люксембургский, имперская реформа и про-
+блема «предреформационного движения» в ХУ в. // Религия. Церковь. Об-
+щество: Исследования и публикации no теологии и религии. 2017. Вып. 6.
+С. 296-317.
+
+Озолин А.И. Томас Штитный — идеолог дворянского крыла бюргерской
+оппозиции в предгуситской Чехии // Славянский сборник. 1972. Вып. 1.
+С. 38-68.
+
+Уваров И.Ю. Феодализм в XXI веке // Одиссей: Человек в истории:
+Феодализм перед судом историков. М., 2006. С. 171-183.
+
+Уваров IT. FO. Феодализм в представлении медиевистов // Всемирная
+история: В 6 т. М., 2012. Т. 2. С. 16—32.
+
+Фасмер М. Этимологический словарь русского языка. СПб., 1996. Т. 3.
+
+Хачатурян Н.А. Общественная система и принцип относительности:
+К вопросу о содержании концепт-явления «феодализм» // Средние века.
+Вып. 68 (1). 2008. С. 6—35.
+
+Ястребов Н.В. Этюды о Петре Хельчицком и его времени: (из истории
+гуситской мысли). СПб., 1908.
+
+Chelcicky Р. О boji duchovnim a o trojim lidu / Vyd. K. Krofta. Praha, 1911.
+
+Conze W., Oexle O.G., Walther R. Stand, Klasse // Geschichtliche Grund-
+begriffe: Historisches Lexikon zur politisch-sozialen Sprache in Deutschland /
+Hrsg. v. O. Brunner, W. Conze, R. Koselleck. Stuttgart, 1990. Bd. 6: St — Vert.
+$. 156-284.
+
+Ficker J. Vom Reichsfirstenstande. Innsbruck, 1861. Bd. 1.
+
+Flegl М. K problému identifikace Petra Cheléického // Listy filologické.
+1979. R. 102, &. 1. $. 18-25.
+
+Hlavacek I. Studie k diplomatice Vaclava IV. // Listy filologické. 1961.
+R. 46, €. 2. $. 238-252.
+
+Hlavacek I. Das Urkunden- und Kanzleiwesen des béhmischen und
+romischen K6nigs Wenzel (IV.) (1376-1419). Stuttgart, 1970.
+
+Hödl G. Zur Reichspolitik des Basler Konzils: Bischof Johannes Schele
+von Liibeck (1420-1439) // Mitteilungen des Instituts fiir Gsterreichische
+Geschichtsforschung. 1967. Jg. 75. $. 46-65.
+
+Iwanczak W. Ludzie miecza, ludzie modlitwy i ludzie pracy: Trojpodziat
+spoteczenstwa w Sredniowieczniej mysli czeskiej. Kielce, 1989.
+
+Johannes Schele. Avisamenta reformacionis in curia et extra in utroque
+statu, ecclesiastico et seculari // Acta ad ecclesiam in generalibus saeculi
+
+«Status» и «отао» в Священной Римской umnepuu в первой трети XV e. — 131
+XV. conciliis reformandam spectantia. Darmstadt, 2002. P. 2 / Collegerunt et
+ediderunt J. Miethke et L. Weinrich. $. 206-208.
+
+Kauffmann C.M. New images for Anselm’s table talk: an illustrated
+manuscript of the «Liber de similitudinibus» // Journal of the Warburg and
+Courtauld Institutes. 2011. Vol. 74. P. 87-119.
+
+Kobler G. Historisches Lexikon der Deutschen Lander: die deutschen
+Territorien vom Mittelalter bis zur Gegenwart. 7. vollstandig tiberarb. Auflage.
+Miinchen, 2007.
+
+Koller Н. Untersuchungen zur Reformatio Sigismundi II // Deutsches
+Archiv fiir Erforschung des Mittelalters. 1958. Heft 2. $. 418-468.
+
+Koller H. Kaiserliche Politik und Reformplane des 15. Jahrhunderts //
+Festschrift fiir H. Heimpel zum 70. Geburtstag. Gottingen, 1972. Bd. 2. $. 61-79.
+
+Krieger K.-F. Die Lehnshoheit der deutschen Könige im Spatmittelalter
+(ca. 1200-1437). Aalen, 1979.
+
+Kybal V.M. Jan Hus: Zivot a uéeni. Praha, 1926. D. 2, &. 2.
+
+Meznik J. Ceska a moravska Slechta ve 14. a 15. Stoleti // Sbornik historicky.
+1990. Sv. 37. $. 7-35.
+
+Meznik J., Smahel Е Husitstvi — stavovska revoluce? // Sbornik Matice
+Moravské. 1967. R. 86. $. 231-241.
+
+Moraw P. Politische Sprache und Verfassungsdenken bei ausgewahlten
+Geschichtsschreibern der deutschen 14. Jahrhunderts // Geschichtsschreibung
+und GeschichtsbewuBtsein im spaten Mittelalter / Hrsg. v. H. Patze. Sigmaringen,
+1987. $. 695-726. (Vorträge und Forschungen; Bd. 31).
+
+Oexle O.G. Die funktionale Dreiteilung der «Gesellschaft» bei Adalbero
+von Laon: Deutungsschemata der sozialen Wirklichkeit im früheren Mittelalter //
+Frihmittelalterliche Studien: Jahrbuch des Instituts fiir Frihmittelalterforschung
+der Universitat Miinster. 1978. Bd. 12. $. 1-54.
+
+Die Reformation Kaiser Siegmunds / Hrsg. von H. Koller. Stuttgart, 1964.
+
+Regesten des Kaiserreichs unter Kaiser Karl IV. (1346-1378) / Hrsg.
+v. A. Huber. Innsbruck, 1877.
+
+Regnier A. Adalbéron, appelé aussi Ascelin (Azelinus), évéque de Laon //
+Dictionnaire d’histoire et de géographie ecclésiastiques. P., 1912. T. 1. Col.
+437-438.
+
+Seibt F Hussitenzeit als Kulturepoche // Historische Zeitschrift. 1962.
+Jg. 195. $. 21-62.
+
+Tomas ze Stitného. Knizky Sestery о obecnych vécech kiest’anskych / Vyd.
+K.J. Erben. Praha, 1852.
+
+Urkundenbuch der Vögte von Weida, Gera und Plauen sowie ihrer
+Hauskléster Mildenfurth, Cronschwitz, Weida und z.h. Kreuz bei Saalburg /
+Hrsg. von B. Schmidt. Jena, 1892. Bd. 2.
+
+Vorel P. Velké déjiny zemi Koruny ceske. Praha; LitomySl, 2005. Sv. 7.
+
+Ward B. Anselm of Canterbury: His life and legacy. L., 2009.
+
+132 Н.Н. Haymoe
+REFERENCES
+
+Boitsov M.A. Germanskii imperator XIV veka: instrumenty realizatsii vlasti:
+(К postanovke problemy) // Vlast’ 1 politicheskaia kul’tura у srednevekovoi
+Evrope / Ed. by E.V. Gutnova. М., 1992. $. 106-114.
+
+Boitsov M.A. Soslovno-predstavitel’naia monarkhiia: oshibka v perevode? //
+Srednie veka. 2014. Vol. 75 (3-4). S. 66-78.
+
+Chelcicky P. О boji duchovnim a о trojim lidu / Vyd. K. Krofta. Praha, 1911.
+
+Conze W., Oexle O.G., Walther R. Stand, Klasse // Geschichtliche Grund-
+begriffe: Historisches Lexikon zur politisch-sozialen Sprache in Deutschland /
+Hrsg. v. O. Brunner, W. Conze, R. Koselleck. Stuttgart, 1990. Bd. 6: St — Vert.
+S. 156-284.
+
+Duby С. Trekhchastnaia model’ ili predstavleniia srednevekovogo ob-
+shchestva о samom sebe / Transl. by A. Yu. Ghiunzburg. М., 2000.
+
+Fasmer М. Etimologicheskii slovar’ russkogo iazyka. S.-Pb., 1996. Vol. 3.
+
+Ficker J. Vom Reichsfurstenstande. Innsbruck, 1861. Bd. 1.
+
+Flegl М. К problému identifikace Petra Cheléického // Listy filologicke.
+1979. В. 102, €. 1. $. 18-25.
+
+Hlavacéek I. Studie k diplomatice Vaclava IV. // Listy filologicke. 1961.
+R. 46, &. 2. $. 238-252.
+
+Hlavaéek I. Das Urkunden- und Kanzleiwesen des béhmischen und ré-
+mischen K6énigs Wenzel (IV.) (1376-1419). Stuttgart, 1970.
+
+Hodl G. Zur Reichspolitik des Basler Konzils: Bischof Johannes Schele von
+Lübeck (1420-1439) // Mitteilungen des Instituts fiir 6sterreichische Geschich-
+tsforschung. 1967. Jg. 75. $. 46-65.
+
+Iwanczak W. Ludzie miecza, ludzie modlitwy i ludzie pracy: Trojpodziat
+spoteczenstwa w Sredniowieczniej mysli czeskiej. Kielce, 1989.
+
+Johannes Schele. Avisamenta reformacionis in curia et extra in utroque sta-
+tu, ecclesiastico et seculari // Acta ad ecclesiam in generalibus saeculi XV. con-
+ciliis reformandam spectantia. Darmstadt, 2002. P. 2 / Collegerunt et ediderunt
+J. Miethke et L. Weinrich. $. 206-208.
+
+Kauffmann C.M. New images for Anselm’s table talk: an illustrated manu-
+script of the «Liber de similitudinibus» // Journal of the Warburg and Courtauld
+Institutes. 2011. Vol. 74. P. 87-119.
+
+Khachaturian N.A. Obshchestvennaia sistema i printsip otnositel’nosti:
+К voprosu о soderzhanii kontsept-yavleniya «feodalizm» // Srednie veka. 2008.
+Vol. 68 (1). $. 6-35.
+
+Köbler G. Historisches Lexikon der Deutschen Lander: die deutschen Ter-
+ritorien vom Mittelalter bis zur Gegenwart. 7. vollstaéndig tiberarb. Auflage.
+Miinchen, 2007.
+
+Koller Н. Untersuchungen zur Reformatio Sigismundi II // Deutsches Ar-
+chiv fiir Erforschung des Mittelalters. 1958. Heft 2. 5. 418-468.
+
+Koller H. Kaiserliche Politik und Reformplane des 15. Jahrhunderts // Fest-
+schrift fiir H. Heimpel zum 70. Geburtstag. Gottingen, 1972. Bd. 2. S. 61-79.
+
+«Status» и «ordo» в Священной Римской империи в первой трети XV e. — 133
+
+Krieger K.—F. Die Lehnshoheit der deutschen K6nige im Spatmittelalter
+(ca. 1200-1437). Aalen, 1979.
+
+Kybal V.M. Jan Hus: Zivot a uéeni. Praha, 1926. D. 2, &. 2.
+
+Meznik J. Ceska a moravska Slechta ve 14. a 15. Stoleti // Sbornik his-
+toricky. 1990. Sv. 37. S. 7-35.
+
+Meznik J., Smahel Е Husitstvi — stavovska revoluce? // Sbornik Matice
+Moravské. 1967. В. 86. $. 231-241.
+
+Moraw P. Politische Sprache und Verfassungsdenken bei ausgewahlten
+Geschichtsschreibern der deutschen 14. Jahrhunderts // Geschichtsschreibung
+und GeschichtsbewuBtsein im späten Mittelalter / Hrsg. von H. Patze. Sigma-
+ringen, 1987. $. 695-726. (Vortrage und Forschungen; Bd. 31).
+
+Naumov N.N. Sigizmund Liuksemburgskii, imperskaia reforma 1 problema
+«predreformatsionnogo dvizheniya» v XV v. // Religiia. Tserkov’. Obshchestvo:
+Issledovaniia i publikatsii po teologii i religii. 2017. Vol. 6. S. 296-317.
+
+Oexle O.G. Die funktionale Dreiteilung der «Gesellschaft» bei Adalbero
+von Laon: Deutungsschemata der sozialen Wirklichkeit im früheren Mittelalter //
+Frihmittelalterliche Studien: Jahrbuch des Instituts fiir Frihmittelalterforschung
+der Universitat Miinster. 1978. Bd. 12. $. 1-54.
+
+Ozolin A.J. Tomas Shtitnyi — ideolog dvorianskogo kryla biurgerskoi op-
+pozitsii v predgusitskoi Chekhii // Slavianskii sbornik / Ed. A.I. Ozolin. Saratov,
+1972. Vol. 1. S. 38-68.
+
+Regesten des Kaiserreichs unter Kaiser Karl IV. (1346-1378) / Hrsg.
+v. A. Huber. Innsbruck, 1877.
+
+Regnier A. Adalbéron, appelé aussi Ascelin (Azelinus), évéque de
+Laon // Dictionnaire d’histoire et de géographie ecclésiastiques. Р., 1912. Т. 1.
+Col. 437-438.
+
+Die Reformation Kaiser Siegmunds / Hrsg. von H. Koller. Stuttgart, 1964.
+
+Seibt F Hussitenzeit als Kulturepoche // Historische Zeitschrift. 1962.
+Jg. 195. $. 21-62.
+
+Tomas ze Stitného. Knizky Sestery о obecnych vécech kiest’anskych / Vyd.
+K.J. Erben. Praha, 1852.
+
+Urkundenbuch der Vögte von Weida, Gera und Plauen sowie ihrer
+Hauskléster Mildenfurth, Cronschwitz, Weida und z.h. Kreuz bei Saalburg /
+Hrsg. von B. Schmidt. Jena, 1892. Bd. 2.
+
+Uvarov Р Yu. Feodalizm у XXI veke // Odissei: Chelovek у istorii: Feo-
+dalizm pered sudom istorikov / Ed.A. Ya. Gurevich. М., 2006. $. 171-183.
+
+Uvarov P.Yu. Feodalizm у predstavlenii medievistov // Vsemirnaia istoriia:
+V 6 t. / Ed. A.O. Chubar’ian. М., 2012. Vol. 2. $. 16-32.
+
+Vorel P. Velké déjiny zemi Koruny ceske. Praha; LitomySl, 2005. Sv. 7.
+
+Ward B. Anselm of Canterbury: His life and legacy. L., 2009.
+
+Yastrebov N.V. Etiudy o Petre Khel’chitskom 1 ego vremeni (iz istorii
+gusitskoi mysli). S.-Pb., 1908.
+

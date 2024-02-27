@@ -1,0 +1,492 @@
+ХП BEK: ВРЕМЯ ПЕРЕВОДОВ
+УДК 94(4):: Петр Достопочтенный
+С. И. Лучицкая*
+ПЕТР ДОСТОПОЧТЕННЫЙ И «КЛЮНИИСКИЙ КОРПУС»**
+«Цель состоящей из двух частей работы — научная публикация перевода сочине-
+ния выдающегося клюнийского аббата Петра Достопочтенного. Речь идет о «Сумме
+всей сарацинской ереси» (Summa totius haeresis Saracenorum) — тексте, который слу-
+жил введением к «Клюнийскому корпусу» — составленной писателем уникальной
+антологии исламских сочинений, включавшей перевод Корана и различных арабо-
+язычных источников. В первой части работы дана общая характеристика текстов
+«Клюнийского Корпуса», прежде всего вводного трактата Петра Достопочтенного.
+Здесь ставятся следующие вопросы: в какой мере интеллектуальный проект клю-
+нийского прелата способствовал расширению европейских знаний об исламе; как
+он изменил восприятие христианами мусульманского мира, как повлиял на разви-
+тие жанра христианско-мусульманской полемики и т.д. Во второй части работы дан
+критический перевод трактата Петра Достопочтенного с примечаниями, объясняю-
+щими специфику его взглядов на ислам.
+Ключевые слова: Петр Достопочтенный, «Клюнийский корпус», христианско-му-
+сульманская полемика, Коран, ислам.
+DOT: 10.7868/S013 1878019020053
+PETER THE VENERABLE AND THE «CORPUS CLUNIACENSIS»
+The aim of this study which consists of two parts is to provide a critical translation of
+the «Summa totius Haeresis Saracenorum» written by Peter the Venerable, outstanding
+French abbot of the Benedictine abbey of Cluny. The text mentioned above serves as an
+introduction to the «Corpus Cluniacensis»—a unique anthology of Islamic writings com-
+piled by Peter the Venerable, which included the translation of the Koran and various
+Arabic-language texts. The first part of this study gives a general description of the texts
+included in the «Corpus Cluniacensis». It discusses the following issues: How much did
+* Светлана Игоревна Лучицкая — доктор исторических наук, руководитель
+
+Центра исторической антропологии ИВИ PAH (r. Москва). E-mail: svetlana-
+
+luchitskaya@yandex.ru.
+** Работа выполнена при поддержке гранта РФФИ 17-01-000030-ОГН «“Леген-
+
+да о Магомете”: средневековые образы пророка ислама».
+
+Петр Достопочтенный и «Клюнийский Kopnyc» 45
+the Cluniac abbot’s intellectual project contribute to the better knowledge and understan-
+ding of Islam; To what extent did it change the Christian perceptions of the Muslim world;
+How did it influence the genre of Christian-Muslim Polemics etc. The second part of the
+work gives a critical translation of Peter the Venerable’s treatise with comments concer-
+ning his attitudes towards Islam.
+
+Keywords: Peter the Venerable, «Corpus Cluniacensis», Christian-Muslim Polemics,
+
+Quran, Islam.
+
+Петр Hs Монбуассье, или Петр Достопочтенный (ox. 1092—
+25.12.1156) был, пожалуй, одним из самых крупных религиозных
+деятелей и церковных писателей XII в. Он происходил из знатного
+рода ОВСРНИ, от рождения был «посвящен Bory» — отдан B KJIIOHHH—
+ский монастырь Соксийянж (Sauxillanges), где и получил свое обра-
+зование. В двадцатилетнем возрасте будущий аббат стал приором
+монастыря в Везле (Бургундия), а затем служил в монастыре Домена
+(Изер). Emy He было и 30 met, когда OH стал BO главе Клюнийского
+аббатства, которым руководил Ao конца своей жизни (1122—-1156)!.
+
+ПеТр ДОСТОПОЧТСННЫЙ жил B TO время, когда на христианском За-
+паде подули новые ветры: шла монашеская реформа, Набирало силу
+цистерцианское движение, появились новые еретические учения,
+предпринимались попытки соединить логику и богословие (B TOM
+числе рационально обосновать догматы христианского ВСРОУЧСНИЯ).
+Клюнийский аббат оказался в центре всех этих новых веяний. Он
+участвовал в полемике цистерцианцев и КЛЮНИЙЦСВ, что He мешало
+ему поддерживать дружеские отношения с БСРНЗРОМ КЛСРВОССКИМ,
+OH написал трактат c целью опровержения еретического учения пе-
+тробрусианцев?. Он также служил посредником в конфликте между
+Бернаром Клервосским и Абеляром и принял осужденного на цер-
+KOBHOM co6ope MBICJINTCJIA B OJIHOM. H3 KJIROHHHCKHX МОНЗСТЫрей. Аб-
+бату удалось применить критику основ Талмуда B своем трактате
+! Подробнее о жизни и деятельности Петра Достопочтенного см.: Leclercq J.
+
+Pierre le Vénérable. Abbaye $. Wandrille, 1946; Kritzeck J. Peter the Venerable
+and Islam. Princeton, 1964 (2-е изд.2016.); Torrell J.-P., Bouthillier D. Pierre
+le Vénérable et sa vision du monde: Sa vie — son ceuvre: L’homme et le démon.
+Leuven, 1986.
+
+? Петробрусианцы — последователи Петра ns Брюи (ym. 1132/33 г.). Странствую-
+щий клирик, он создал радикальное учение об отрицании посреднической роли
+Церкви, которое, xax и проповедуемый UM идеал бедности, получило поддерж-
+ку в Провансе и Гаскони. Сведения о петробрусианцах скудны и содержатся
+в основном в трактате самого Петра Достопочтенного. См.: Petrus Venerabilis
+Contra petrobrusianos hereticos / Ed.J. Fearns. Turnhout, 1968 (CCCM; Т. 10).
+
+46 С.И. Лучицкая
+
+против ИУДССВЗ. И он же в pse CBOHX сочинений попытался опро-
+
+вергнуть ислам“. Все эти труды сыграли важную роль в развитии
+
+полемического жанра в XII—XIII BB. — в диспутах с противниками
+веры Ilerp JlocronouTeHHslit впервые стал опираться на знание под-
+линных TCKCTOB и к TOMY же подчеркивал важность попыток обра—
+щать B христианство путем проповеди H привлечения основанных
+на разуме аргументов.
+
+К началу 40-x годов ХП в. — периоду ero жизни, который будет
+
+в фокусе данного очерка — Петр Достопочтенный уже написал свои
+
+известные трактаты против еретиков и иудеев. Но к тому времени
+
+в латинской Европе за пределами Испании еще ни один церковный
+
+автор не опроверг исламское учение. Почему же? Как пишет сам
+
+аббат в одном из своих трактатов, «He было никого, кто бы отве-
+тил, TaK как HHKTO Hc имел об этом ПреДСТЗВЛСНИС>>5. ДСЙСТВИТСЛЬ-
+
+HO, знания об исламе были весьма смутными H ПОВСРХНОСТНЬ1МИ6‚
+
+а клюнийский аббат желал обратить неверных в христианство мир-
+
+HBIM путем, для чего, как OH CuHTAJI, НеОбХОДИМО знать аутентичные
+
+тексты. И чтобы изменить ситуацию, весной 1142 г. Петр Достопо-
+
+чтенный в сопровождении своего секретаря Петра Пуатевинского
+
+и прелатов отправился в Испанию для инспекции ряда KJIIOHHHCKHX
+
+МОНЗСТЫРСЙ. Хотя восстановить точный маршрут его путешествия
+
+He представляется возможным, мы можем B ОбЩИХ чертах просле-
+
+дить траекторию ero ДВИЖСНИЯ7. OH tren no «дороге CB. Иакова»
+
+(пути к паломническому центру в Сантъяго-де-Компостела) и, прой-
+
+дя через Францию и Наварру, сделал остановку в кастильском горо-
+
+ne Haxepa, где находилось крупное приорство cB. Марии, принад-
+лежавшее клюнийской конгрегации. Примерно в то же время, судя
+
+3 Petrus Venerabilis Adversus iudeorum inveteratem duritiem / Ed. У. Freidman.
+Turnhout, 1985 (CCCCM; T. 58).
+
+4 Два самых важных ero сочинения Ha эту тему — «Сумма всей сарацинской epe-
+cu» (Summa totius haeresis Saracenorum) и «Против секты сарацин» (Contra
+Sectam Saracenorum).
+
+$ «Nam non erat qui responderet, quia non erat qui agnosceret» (Contra Sectam
+Saracenorum // Petrus Venerabilis Schriften zum Islam / Hrsg.v. R. Glei. Altenberge,
+1985. $. 54).
+
+° Об уровне знаний этого времени см. в кн.: D’Alverny M.-Th. La connaissance de
+Vislam en Occident du IX* au milieu du ХП° siecle // Settimane di studio del Centro
+italiano di studi sull’alto medioevo: L’Occidente et 1’Islam nell’alto medioevo.
+Spoleto. 2-8 Aprile 1964. Spoleto. 1965. Vol. П. P. 577-602.
+
+? Эта попытка предпринята, в частности, в статье: Bishko Ch. J. Peter the
+Venerable’s Journey to Spain // Petrus Venerabilis 1156—1956: Studies and texts
+commemorating the eighth centenary of his death / Ed.G. Constable & J. Kritzeck.
+Rome, 1956. P. 163-175.
+
+Петр Достопочтенный и «Клюнийский корпус» 47
+по его письму, отправленному позже св. Бернару Клервоскому, аббат
+встретил в долине реки Эбро (circa Iberum) ученых эрудитов Робер-
+та Кеттона и Германа Далматинского, занятых астрономическими
+текстами и поисками Альмагеста“. Обещав HM крупную сумму де-
+Hel, клюнийский аббат сумел склонить UX к своему проекту — пере-
+воду Корана и ряда арабских текстов. Как известно, кроме Роберта
+Кеттона и Германа Далматинского, Петр Достопочтенный привлек
+к участию в своем проекте мосараба Петра Толедского, заинтере-
+совавшего прелата своими манускриптами (возможно, речь идет
+о текстах, которые и были переведены в рамках интеллектуально-
+го проекта клюнийского аббата), а также мусульманина Мухамма-
+да. Договорившись с переводчиками, аббат продолжил путь, посе-
+THB клюнийские монастьыри в Бургосе и Паленсии, а в конце июля
+1142 r., kak и планировалось, встретился в Саламанке c монархом
+Леоно-Кастильского королевства Альфонсо УП. Тот же сделал клю-
+нийской конгрегации щедрый подарок — пожаловал аббатство Сан
+Педро де Карденья около Бургоса, а также выплатил обещанную
+аббату субсидию в размере 2000 золотых монет. Именно эта сум-
+ма и была потрачена на реализацию проекта. В обмен на все эти
+дары монарх попросил аббата поддержать на выборах на архиепи-
+скопскую кафедру Сантъяго-де-Компостела угодного Альфонсо УП
+кандидата — епископа Саламанки. После встречи с испанским пра-
+вителем Петр Достопочтенный вернулся через Нахеру и Памплону
+в южную Францию, где задержался вплоть WO начала 1143 r., а за-
+тем отбыл в Клюни. Так закончилось его путешествие в Испанию.
+Согласно существующему ныне в науке мнению, заказанные клю-
+нийским аббатом переводы были выполнены средневековыми эру-
+дитами примерно в течение года в одном из арагонских городов
+в долине — или Туделе”. Петр Достопочтенный поручил своему се-
+кретарю Петру Пуатевинскому собрать эти тексты в единую коллек-
+цию, которая является древнейшим списком памятника. По мнению
+известной французской арабистки M.-T. д’Альверни, до сих Top ни-
+кем не оспоренным, этот список можно отождествить с хранящимся
+8 Petrus Venerabilis Epistola de translatione sua // Schriften zum Islam... P. 22.
+
+9 X. MaanHec Tacxec полагает, ATO переводы могли быть сделаны в одном H3 apa—
+гонских городов, скорее всего в Тарасоне. См.: Gasquez J. M. Trois traductions
+médiévales latines du Coran: Pierre le Vénérable-Robert de Ketton, Marc de Toléde
+et Jean de Segobia // Revue des études latines. P., 2003. Vol. 80. P. 224. M. Tu-
+шлер считает, что переводы могли быть выполнены либо в Тарасоне‚ либо
+в Туделе. См.: Tischler М. Die Iberische Halbinsel als christlich-muslimischer
+Begegnungsraum im Spiegel von Transfer- und Transformationsprozessen des 12.—
+15. Jahrhunderts // Anuario de Historia de la Iglesia. 2011. Vol. 20. P. 137.
+
+48 CH. Лучицкая
+
+в Арсенальной библиотеке г. Парижа манускриптом (Bibliothéque
+
+Nationale de France. Ms. 1162)!°.
+
+Какие »xe именно тексты вошли B оригинал памятника? Помимо
+Корана, который переложил на латынь Роберт из Кеттона, в него во-
+шли переведенные ГСРМЭ.НОМ ДЭ‚ЛМЭ.ТИНСКИМ два сочинения об осно-
+вателе ислама — «Liber de generatione Mahumet et nutritura eius» (трак-
+тат о происхождении и первых годах жизни Мухаммада) и «Liber de
+Doctrina Mahumet» (рассказ о беседах пророка ислама с еврейскими
+МУДреЦЭ.МИ). В антологию текстов была также включена переведен-
+ная Робертом из Кеттона «Chronica mendosa et ridicula Sarracenorum»
+(«Лживая и смешная хроника сарацин»), которая наряду co сведения-
+ми O космологии H первых пророках содержит материал о генеалогии
+MyxaMMa):[a, его военной и ДИПЛОМЗТИЧССКОЙ деятельности, а также
+о праведных ХЭ.ЛИфЭ.Х и первых представителях династии ОМСЙЯДОВ.
+В этом же корпусе текстов оказалась и переведенная МОСЭ.рабОМ Пе-
+тром ТОЛСДСКИМ «Апология аЛЬ-КИНДИ)› — скорее всего вымышленная
+переписка между мусульманином H христианином, изложившим Ha
+страницах этого сочинения основы ХРИСТИЗНСКОЙ ДОГМаТИКИ11. Все
+эти переведенные с арабского на латынь тексты составили уникаль-
+ный памятник, которому французский медиевист М.-Т. д’Альверни
+дала в свое время название «Толедская коллекция» (Collectio toletana),
+или «Толедский копус» (Corpus Toletanum)', хотя эти тексты, как мы
+МОГЛИ убедиться, OTHIOJIb HE были переведены в ТОЛСДО, пусть там
+и существовала знаменитая школа переводчиковіз. Ныне принято на-
+зывать этот памятник «Клюнийским корпусом» (Corpus Cluniacensis),
+или «Исламо-христианским корпусом» (Corpus Islamo-Christianum).
+СОЗД&В эту антологию переводов, Петр ДОСТОПОЧТСННЫЙ‚ несомненно,
+Ю См.: D’Alverny М.-Т. Quelques manuscrits de la Collectio Toletana // Petrus
+
+Venerabilis. 1156-1956: Studies and Texts Commemorating the Eighth Centenary
+of his Death. P. 202-203.
+
+!! Подробное описание корпуса переведенных TeKCTOB cM. в KH.: Kritzeck J. Peter
+the Venerable and the Toledan Collection // Petrus Venerabilis. 1156-1956: Studies
+and Texts Commemorating the Eighth Centenary of his Death. P. 176-201. См. так-
+»xe более новые исследования о переводах Петра Достопочтенного: Gazquez J.
+Martinez, De la Cruz Palma О. Las traducciones arabe-latinas impulsadas por
+Pedro el Venerable // Las érdenes militares: realidad е imaginario / Ed.E. Real,
+J.M. Verdega Cerezo, M.D. Burdeus Pérez. Castellon de la Plana, 2000. P. 285—
+296; De la Cruz Palma О. Los textos de la llamada Collectio Toletana, fuente de
+informacion sobre el Islam // Journal of Medieval Latin. 2007. Vol. 17. P. 413-434).
+
+В См.: D’Alverny M.-T. Quelques manuscrits de la Collectio Toletana... P. 202-218.
+
+В O Толедской школе переводчиков см.: Burnett Ch. The Coherence of the Arabic-
+Latin Translation Program in Toledo in the Twelfth Century // Science in Context.
+Cambridge, 2001. Vol. 14. Р. 249-288.
+
+Петр Достопочтенный и «Клюнийский Kopnyc» 49
+осуществил уникальный интеллектуальный проект — познакомил ла-
+тинский Запад с Кораном и исламскими источниками и тем самым
+заложил основы предметной полемики Церкви с мусульманским ми-
+ром“*. Собранные аббатом тексты в течение многих столетий были
+главным источником сведений об исламе на христианском Западе.
+Клюнийский корпус, особенно перевод Корана, существенно расши-
+рил знания средневековых христиан о мусульманском мире и повлиял
+на восприятие ислама в латиноязычном мире. И, конечно, созданная
+клюнийским аббатом антология ислама воспроизводилась в самых
+разных списках``. В настоящее время насчитывается примерно 30 ру-
+кописей. Наиболее полные списки не столь многочисленны и хранят-
+ся в библиотеках Франции и Италии. Оригиналом является рукопись,
+которая, как считается, была создана в середине XII B. при жизни
+Петра Достопочтенного и ныне находится в Арсенальной библиоте-
+ке г. Парижа (BNF. Ms. 1162). Совсем немного рукописей осталось
+от XIV в. и особенно XIII в. — они хранятся в библиотеках Оксфор-
+да, Ватикана, Турина и Милана. Самыми многочисленными и вме-
+cre c rex наименее полными являются манускрипты XV—XVI Bs. —
+они встречаются в основном в книгохранилищах Италии и Франции,
+одна поздняя рукопись XVI в. есть даже в Отделе рукописей Рос-
+сийской национальной бибилиотеки'°. Как уже говорилось, многие
+из этих списков, особенно более поздние, не являются полными, по-
+скольку из них чаще всего изымалась «Апология аль-Кинди». Это не
+удивительно, если иметь в виду, что именно этот текст начиная с ХП
+и вплоть до XVI в. имел широчайшую известность и постоянно пере-
+писывался, Ha протяжении веков миссионеры, теологи и реформато-
+ры искали в созданной Петром Достопочтенным антологии сведения
+об исламе. Не случайно в 1543 г. швейцарский гуманист Теодор Би-
+блиандер целиком издал эту рукопись в Базеле.
+Предваряет Клюнийский корпус предисловие — «Сумма всей
+ереси и дьявольской секты сарацин» (Summa totius haeresis ac
+diabolicae sectae Saracenorum), автором текста является cam Петр До-
+стопочтенный. Клюнийский аббат от всей души желал, чтобы ero
+цистерцианский собрат св. Бернар написал введение к коллекции
+М Об общих задачах интеллектуального проекта аббата см.: Jognat-Prat D.
+Ordonner et exclure: Cluny et la société chrétienne face a I’ hérésie, au judaisme et
+а Vislam, 1000-1150. Р., 1998. Р. 332-359.
+
+5 Tbid.
+
+16 О gei cm.: The inventory of manuscripts from the Zatuski Library in the Imperial
+Public Library / Ed. O.N. Bleskina, N.A. Elagina, K. Kossarzecki et al. Warszawa,
+2013. Р. 252.
+
+50 С.И. Лучицкая
+текстов. В уже упомянутом письме Бернару Клервосскому Петр До-
+стопочтенный рассказал о своем проекте в надежде, что, вдохнов-
+ленный переведенными трудами, знаменитый теолог вступит в поле-
+мику с авторами этих текстов и напишет свое опровержение ислама.
+Аббат Клюни долго ждал реакции Бернара Клервосского, но тот, ви-
+димо, слишком занятый подготовкой Второго крестового похода, так
+и не дал ответа. И тогда, как пишет Петр Достопочтенный, он сам
+решился «с Божьей помощью» заняться этим трудом'”. Tak и возник
+трактат Петра Достопочтенного об исламе — «Сумма всей ереси са-
+рацин», в котором аббат вкратце изложил основные догмы ислама
+и — что особенно важно — одну из первых латиноязычных биогра-
+фий Мухаммада. Главным источником для сочинения Петра Досто-
+почтенного была «Хронография» Феофана Исповедника, возникшая
+в 810-814 rr. и переведенная в IX в. библиотекарем папы Адриана II
+на латынь'$. Именно в этом тексте есть достаточно подробное жиз-
+неописание пророка ислама. Известно, что в Клюни был манускрипт
+этого сочинения, который Mor видеть аббат'?. Использование тек-
+ста Феофана было вполне правомерным, так как ни один из текстов
+«Клюнийского корпуса» не воспроизводил полную биографию про-
+рока. Петр Достопочтенный мог также заимствовать из «Апологии
+аль-Кинди», где много сведений о жизни и деятельности Мухамма-
+да, а также ns «Диалога против иудеев» Педро Альфонси°.
+Судя по всему, это сочинение, перевод которого на русский язык
+публикуется ниже, было призвано ввести христианского читателя
+в круг тематики «Клюнийского корпуса» и подготовить его к вос-
+приятию составивших корпус мусульманских текстов. В этом трак-
+тате клюнийский прелат знакомит читателя с исламским вероучени-
+eM и представляет пророка ислама.
+Как и многие его предшественники (включая аль-Кинди), Петр
+Достопочтенный начинает свой трактат с анализа разногласий меж-
+ду мусульманами и христианами, касающихся основных догматов —
+о св. Троице и о Воплощении. Клюнийский аббат указывает на от-
+личную от христианской интерпретацию этих догматов в исламе,
+П Petrus Venerabilis Summa totius haeresis Saracenorum. $ 18: «exspectavi enim
+diu, et non fuit qui aperiret os et zelo sanctae Christianitatis moveret pennam et
+ganniret» (Schriften zum Islam. P. 20).
+
+18 Theophanis Chronographia / Ed. С. de Boor. Leipzig, 1885. Vol. 2.
+
+® Delisle L. Inventaire des manuscrits de la Bibliothéque Nationale de France Fonds
+de Cluni. Р., 1884. P. 338. N. 18.
+
+20 Впрочем, если учесть, что cam Педро Альфонси заимствовал из аль-Кинди, TO
+источник заимствований будет трудно определить.
+
+Петр Достопочтенный и «Клюнийский Kopnyc» 51
+
+И ПОДОбНОС отличие осмысляется им прежде всего как заблужде—
+
+ние. Все выявленные им в ДаЛЬНСЙШСМ исследовании расхождения
+
+между христианами и сарацинами — относительно природы bora,
+cB. Троицы, догмата о Воплощении и Страстей Христовых — Ha-
+поминают средневековому писателю о существовавших в истории
+
+Церкви ересях.
+
+При stom Петр Достопочтенный сомневается, относить JIM HC-
+лам к ереси или K язычеству, так Kak, с ОДНОЙ стороны, сарацины
+ПОДОбНО еретикам что-то заимствуют из христианства, что-то отбра-
+сывают, C ДРУГОЙ —ПОДОбНО язычникам отрицают таинства, чего еще
+никакие еретики до них He ДСЛЗЛИ21. Ho, похоже, OH все-таки делает
+выбор B пользу взгляда на ислам как на разновидность epecH.
+
+Обобщая разногласия между христианами и мусульманами, Петр
+ДОСТОПОЧТСННЫЙ B конечном Hrore подводит ислам IO ОбЩИЙ 3Ha-
+менатель известных CMY Сресей, доказывая происхождение «закона
+лжепророка Магомета» от древних еретических учений. Собствен-
+HO, именно Tak поступали все христианские полемисты —разоблачая
+ислам, они стремились вписать его в историю самых обыкновенных
+ересей??. При чтении трактата мы можем убедиться в TOM, что «Клю-
+нийский корпус» был создан Петром Достопочтенным отнюдь не
+столько с цделью расширения знаний об ИСЛЗМС23‚ CKOJIBKO C целью
+опровержения ислама и раЗОбЛЗЧСНИЯ его как еретического учения.
+ОПРОВСРГЗЯ ислам, Петр ДОСТОПОЧТСННЫЙ тем самым желал пред-
+упредить своих собратьев по Bepe об опасности одной, по ero мне-
+нию, H3 самых злостных B истории человечества ересей.
+
+Снова напомним, uro eme AO создания этих трудов Ilerp Jlocto-
+почтенный написал трактат против петробрусианцев, rye распра-
+вился с христианскими еретиками, последователями церковного ре-
+форматора XII в. Петра де Брюи, а затем составил трактат против
+иудеев, в KOTOPOM выступил против евреев. Зная о всех этих обсто-
+ятельствах, мы можем рассматривать ero сочинения об исламе как
+?! Petrus Venerabilis Summa totius haeresis Saracenorum. $ 12: «Hos licet haereticos
+
+nominem, quia aliqua nobiscum credunt, in pluribus a nobis dissentiunt, fortassis
+rectius paganos aut ethnicos, quia plus est, nominarem, quia quamvis de Domino
+vera aliqua dicant, plura tamen falsa praedicant nec baptismati, sacrificio,
+poenitentiae vel alicui Christiano sacramento, quod nunquam ullus praeter hos
+haereticos fecit, communicant» (Schriften zum Islam. P. 14).
+
+22 Крупнейший византийский богослов Иоанн Дамаскин в известном сочинении
+«О ересях» именно Tak изображает ислам. См.: Sahas D.J. John of Damascus on
+Islam: The «Heresy of Ishmaelites». Leiden, 1972.
+
+23 Такая точка зрения последовательно излагается в книге Дж. Критцека:
+Kritzeck J. Op. cit. Passim.
+
+52 С.И. Лучицкая
+
+часть этого общего триптиха, задуманного с целью утверждения ин-
+тересов христианской Церкви. Перевод одного из этих сочинений —
+«Сумму всей сарацинской ереси», послужившую предисловием
+к «Клюнийскому корпусу», мы публикуем ниже. Перевод выполнен
+no последнему изданию сочинений Петра Достопочтенного”? с ис-
+пользованием рукописи Ms. 1162 Арсенальной библиотеки.
+
+БИБЛИОГРАФИЯ
+
+Лучицкая С. И. Магомет, Сатана и «сарацинская ересь»: взгляд из Клю-
+uu // Sub specie historiae culturalis: Сборник памяти А.Л. Ястребицкой. М.,
+2014. С. 143-169.
+
+D’Alverny M.-Th. Quelques manuscrits de la Collectio Toletana // Petrus
+Venerabilis. 1156-1956: Studies and Texts Commemorating the Eighth Cen-
+tenary of his Death / Ed.G. Constable, J. Kriitzeck. Roma, 1956. P. 202-218.
+
+D’Alverny M.-Th. La connaissance de |’islam en Occident du 1Х° au milieu
+du ХП° siécle // Settimane di studio del Centro italiano @ studi sull’alto medio-
+evo: L’Occidente et |’Islam nell’alto medioevo. Spoleto. 2-8 Aprile 1964. Spo-
+leto. 1965. Vol. П. Р. 577-602.
+
+Bishko Ch.J. Peter the Venerable’s Journey to Spain // Petrus Venerabilis
+1156-1956: Studies and Texts Commemorating the Eighth Centenary of his
+Death / Ed. G. Constable, J. Kritzeck. Rome, 1956. P. 163-175.
+
+Burnett Ch. The Coherence of the Arabic-Latin Translation Program in To-
+ledo in the Twelfth Century // Science in Context. Cambridge, 2001. Vol. 14.
+Р. 249-288.
+
+De la Cruz Palma О. Los textos de la llamada Collectio Toletana, fuente
+de informacion sobre el Islam // Journal of Medieval Latin. 2007. Vol. 17.
+P. 413-434.
+
+Delisle L. Inventaire des manuscrits de la Bibliothéque Nationale de France.
+Fonds de Cluni. P., 1884.
+
+Gasquez J. М. Trois traductions médiévales latines du Coran: Pierre le Vé-
+nérable-Robert de Ketton, Marc de Toléde et Jean de Segobia // Revue des études
+latines. Р., 2003. Vol. 80. Р. 223-236.
+
+Gazquez J.M., De la Cruz Palma О. Las traducciones arabe-latinas impul-
+sadas por Pedro el Venerable // Las ordenes militares: realidad е imaginario /
+Ed.E. Real, J.M. Verdega Cerezo, M.D. Burdeus Pérez. Castellon de la Plana,
+2000. P. 285-296.
+
+The inventory of manuscripts from the Zatuski Library in the Imperial Pub-
+lic Library / Ed. O.N. Bleskina, N. A. Elagina, K. Kossarzecki et al. Warszawa,
+2013.
+
+24 Petrus Venerabilis Schriften zum Islam / Hg.v. R. Glei. Altenberge, 1985.
+
+Петр Достопочтенный и «Клюнийский Kopnyc» 53
+
+lognat-Prat D. Ordonner et exclure: Cluny et la société chrétienne face a
+Vhérésie, au judaisme et a l’islam, 1000-1150. Р., 1998. Р. 332-359.
+
+Kritzeck J. Peter the Venerable and the Toledan Collection // Petrus Venera-
+bilis. 1156-1956: Studies and Texts Commemorating the Eighth Centenary of
+his Death / Ed.G. Constable, J. Kriitzeck. 1956. Р. 176-201.
+
+Kritzeck J. Peter the Venerable and Islam. Princeton, 1964 (2-e изд. 2016).
+
+Leclercq J. Pierre le Vénérable. Abbaye S. Wandrille, 1946.
+
+Petrus Venerabilis Contra petrobrusianos hereticos / Ed. J. Fearns. Turn-
+hout, 1968 (CCCM; T. 10).
+
+Petrus Venerabilis Adversus iudeorum inveteratem duritiem / Ed. Y. Freid-
+man. Turnhout, 1985 (ССССМ; Т. 58).
+
+Petrus Venerabilis Contra Sectam Saracenorum // Schriften zum Islam /
+Hrsg.v. R. Glei. Altenberge, 1985.
+
+Petrus Venerabilis Epistola de translatione sua // Schriften zum Islam /
+Hrsg.v. R. Glei. Altenberge, 1985.
+
+Petrus Venerabilis Summa totius haeresis Saracenorum // Schriften zum Is-
+lam / Hrsg.v. R. Glei. Altenberge, 1985.
+
+Sahas D.J. John of Damascus on Islam: The «Heresy of Ishmaelites».
+Leiden, 1972.
+
+Theophanis Chronographia / Ed. C. de Boor. Leipzig, 1885. Vol. 2.
+
+Torrell J.-P., Bouthillier D. Pierre le Vénérable et sa vision du monde: Sa
+vie —son ceuvre: L’>homme et le démon. Leuven, 1986.
+
+Tischler М. Die Iberische Halbinsel als christlich-muslimischer Begegnung-
+sraum im Spiegel von Transfer- und Transformationsprozessen des 12. —15. Jahr-
+hunderts // Anuario de Historia de la Iglesia. 2011. Vol. 20. P. 117-155.
+

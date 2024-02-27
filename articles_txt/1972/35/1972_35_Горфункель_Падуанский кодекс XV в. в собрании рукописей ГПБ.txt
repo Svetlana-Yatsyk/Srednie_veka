@@ -1,0 +1,517 @@
+А. Х. ГОРФУНКЕЛЬ
+ПАДУАНСКИЙ КОДЕКС ХУ В. В СОБРАНИИ РУКОПИСЕЙ ГПБ
+В своей статье об итальянской рукописной книге в собрании рукописей
+IMB Е. В. Бернадская сообщила, в частности, о сборнике трактатов XV B.,
+хранящемся в фонде Общества любителей древней письменности под шифром
+© 7914. Вероятно, именно потому, что этот западный манускрипт оказался
+в собрании рукописей преимущественно славяно-русских, он до недавнего
+времени не привлек к себе внимания медиевистов.
+Как явствует из «Отчетов» о заседаниях ОЛДП, 14 декабря 1884 г. в
+собрание рукописей Общества поступила «от князя П. П. Вяземского Па-
+дуанская рукопись XV века Ha латинском языке философического содер -
+жания» ?. Соответствующие карандашные пометы имеются и Ha первом нуме-
+рованном листе рукописи: «От князя П. П. Вяземского, 14 декабря 1884 г.»
+Карандашная запись в верхнем правом углу того же листа с обозначением
+цены рукописи «L 100» свидетельствует о TOM, что сборник был приобретен
+П. П. Вяземским (или для него), по всей вероятности, в Италии. Тут же име-
+ется запись о содержании рукописи, аналогичная формулировке протокола
+заседания ОЛДП: «15 статей. Падуанская. Филосов. (!) и матем».
+Рукопись форматом в четвертую долю листа (14,5 х 21 cm) сохранила
+пергаменный переплет ХУ в. с тремя кожаными ремешками. Она насчиты-
+BaeT 183 листа, в TOM числе 4 пустых в начале и лл. 1— 179 no нумерации ГПБ.
+Всего в кодексе 18 тетрадей; первые две, по 4 листа каждая, не имеют сиг-
+натур и He содержат текста, лишь на первых двух листах второй тетради
+имеются более поздние записи. Следующие тетради имеют буквенные сиг-
+натуры в верхнем правом углу листов; им соответствуют порядковые номера
+тетрадей, проставленные внизу на обороте последнего листа каждой из
+них. Номера и буквенные обозначения следуют по порядку, лишь один раз
+нарушенному при переплете, но нескольких тетрадей не хватает. Теперешний
+порядок тетрадей следующий (при сигнатурах указано количество листов в
+тетради; тетради без сигнатур обозначены порядковыми номерами в квад-
+ратных скобках): [1]*, [2]4, al? — el, gi2, h8, ilo, f12, 120, ni2, ol0_plo, [18]10*!
+— 183 л. Kak видим, тетрадь f (6-я) при переплете помещена после тетрадей
+в — i; отсутствуют имевшиеся no первоначальной нумерации тетради К и
+т. Последняя тетрадь не имеет сигнатуры, от нее сохранилось 11 листов.
+Во всех тетрадях отчетливо просматриваются филиграни. В первой —
+«три горы с цветком» (Брике, № 11759), во второй — «три горы» (№ 11662).
+В тетрадях а, b и 1 имеется знак «три горы в круге» (Ne 11849), в тетрадях с и
+@ — «лестница» (№ 5904), в тетради 1 — «голова быка с цветком и змеей»
+1 Е. В. Бернадская. Итальянская рукописная книга в собрании Государственной Публич-
+HOH библиотеки им. М. Е. Салтыкова-Щедрина в Ленинграде.— CB, 30, 1967, стр. 254.
+Пользуемся случаем выразить глубокую признательность Е. В. Бернадской, впервые
+обратившей наше внимание на описываемую рукопись.
+
+% «Отчеты о заседаниях имп. Общества любителей древней письменности в 1884—1885 гг.,
+составленные Е. М. Гаршиным». СПб., 1885, стр. 5.
+
+Падуанский кодекс XV e. e ГПБ 223
+(Ne 14861), в тетрадях п— г — «шляпа» (Ne 3370). Все филиграни, no Брике,
+относятся к 1430—1460 rr., преимущественно к 1442—1458 rr., и только
+последний знак — к 1465—1469 rr. Кроме Toro, встречаются знаки, близкие
+к известным филиграням XV B., HO He отождествляемые no доступным нам
+справочникам; это «два круга со стрелой» в тетрадях Ъ, 4, е, «пятиконечная
+звезда в круге» в тетрадях g, h, «голова единорога» в тетради f и «голова че-
+ловека» в последней тетради без сигнатур. Но так как листы с этими филигра-
+нями перемежаются с листами, определенно отождествляемыми и датируе-
+мыми, они не могут существенно изменить датировку рукописи. К тому же
+значительная часть трактатов нашего сборника имеет точную дату в колофоне
+(1461—1463 rr.), совпадающую с датировкой No филиграням. '
+
+Существующий в настоящее время в сборнике порядок расположения тет-
+радей по сигнатурам относится несомненно к ХУ в. и нарушен, как сказано,
+только один раз. Однако он не отражает первоначального расположения ли-
+стов в рукописи: ему предшествовала иная структура сборника, о которой
+мы можем судить no сохранившейся пагинации, также восходящей к XV сто-
+летию и предшествовавшей расположению тетрадей по сигнатурам. Судя по
+этой пагинации, до нас дошла не вся рукопись, и тетради в ней располагались
+в ином порядке. К первоначальному кодексу принадлежали следующие тет-
+ради, расположенные в порядке пагинации: лл. 154—169, 180—193 (в данном
+случае He пропуск, a ошибка в нумерации листов: после л. 169 следует He
+л. 170, а л. 180) в тетрадях g, h, i; лл. 204—253 в тетрадях а — e, лл. 254—
+265 в тетради f; лл. 266—285 в тетради 1. Таким образом, первоначальный
+сборник насчитывал He менее 275 листов (учитывая пропуск в счете в 10 ли-
+стов). Из Hero He вошли в Halll сборник первые 153 листа и листы 194—
+203 (возможно, это и есть отсутствующая в сборнике тетрадь К), всего же сох-
+ранилось 112 листов. Листы последней части рукописи — тетради п — г —
+He имеют пагинации, равно как и листы последней тетради без сигнатур, H,
+очевидно, не входили в состав первоначального сборника. Тетради нашего
+кодекса переплетались по меньшей мере трижды: первоначально в порядке
+нумерации листов, второй раз — no номерам и сигнатурам тетрадей и, нако-
+нец, в теперешнем его составе.
+
+Порядку листов с пагинацией вполне отвечает и хронологический поря-
+OK написания отдельных входящих в сборник трактатов, устанавливаемый
+по колофонам. Даты расположены следующим образом: л. 163 — 7 августа
+1461 г., л. 164 06. — 31 октября 1461 r., л. 183 — 20 марта 1462 r., л. 188 —
+30 maa 1462 r., л. 192—5 августа 1462 г., л. 253 — 15 августа 1462 г.,
+л. 285 — 29 сентября 1463 г. Отметим оригинальную манеру употребления
+переписчиком арабских и римских цифр. В математических трактатах при-
+меняются только арабские цифры, в обозначении же дат в колофонах цифры
+арабские и римские сочетаются самым причудливым образом; так, например,
+1462 год обозначается MCCCC6II, MCCCC62, 14611 и т. n.
+
+Таким образом, первоначальная пагинация точно соответствует хроно-
+логии написания трактатов, входящих в кодекс. Первая запись He указыва-
+ет места написания трактата, во второй переписчик сообщает, что текст пере-
+писан HM в Сиене, в третьей — что OH переписывал трактат B Падуе (причем
+оговаривает, что это произошло в первый год ero пребывания в этом городе);
+Падуя обозначена и во всех остальных колофонах.
+
+Все нумерованные листы переписаны одним лицом, о чем свидетельст-
+вуют и идентичность почерка, и записи в колофонах отдельных статей сбор-
+ника. Переписчик — владелец рукописи — фра Симоне Ae Анджели, сиенец,
+монах-доминиканец. В Сиене он писал, находясь в монастыре св. Доминика
+в Кампореджо, в Падуе — в монастыре св. Августина. В записях 1462 г.
+OH говорит о себе Kak об обучающемся (studente) в Падуе — трудно ска-
+зать, посещал ли он занятия одной из доминиканских монастырских школ
+
+224 A. Х. Горфункель
+vn " ———— An ООО
+или был студентом — слушателем Падуанского университета; скорее следует
+предположить первое: в расположенных Ha лл. 260—265 (лл. 91—96 нового
+счета) «Вопросах» (Quaestiones) говорится о TOM, что OHH обсуждались Ha
+диспутах во Флоренции и Болонье под руководством монахов-наставников
+(«sub magistro studentium»).
+
+В литературе 8 имеется упоминание некоего Симона де Ангелис, тоскан-
+Wa, монаха сиенского доминиканского монастыря cB. Доминика, жившего
+BO второй половине XV B.; ему принадлежит житие монахини Екатерины
+Ae Ланци, прозванной «второй Екатериной Сиенской», скончавшейся 27 но-
+ября 1491 r. Вполне вероятно, что автор жития и переписчик — владелец
+нашего кодекса — одно лицо.
+
+Отметим, что в Коммунальной библиотеке в Сиене хранится второй сбор-
+ник трактатов, переписанных Симоне Ae Анджели, аналогичный нашему no
+своему составу. Судя по описанию, сделанному П. О. Кристеллером, в си-
+
+‚ енском кодексе содержатся сочинения Джованни Гатти, Франческо да Пра-
+To, Бьяджо да Парма и ряд записей лекций и «вопросов», обсуждавшихся на
+диспутах. Сиенский сборник составлен одновременно с нашим в Падуе в
+1462— 1463 гг.; очевидно, 06a OHH представляют собой часть некогда единого
+комплекса *.
+
+Рукой Симоне ye Анджели несомненно переписана большая часть кодек-
+са — листы 5— 116 нового счета. Почерк ero неодинаков в разных трактатах,
+он меняется в зависимости от смены пера. Строки не разлинованы. Вторую
+часть рукописи составляют тетради п — г, листы 117—168, содержащие
+текст одного трактата. Оформление их близко к первой части сборника, но
+бумага более поздняя; страницы разлинованы, размер текста на листе здесь
+значительно меньше, чем в других тетрадях, почерк мельче. Третья часть
+сборника — последняя тетрадь без сигнатур и без пагинации, на худшей
+бумаге; оставленное для инициалов место не заполнено; здесь же встречают-
+CA незаконченные, иногда повторяющиеся фрагменты.
+
+Письмо рукописи — мелкий готический курсив, характерный для пись-
+Ma научных TpakTaTOB, списанных для собственного употребления, изоби-
+лующий, даже перенасыщенный сокращениями, чему в немалой степени
+способствовал специально-технический, хорошо знакомый переписчику —
+владельцу рукописи характер текста; большая часть принятых сокращений
+с изобретением книгопечатания была перенесена в типографский шрифт, ис-
+пользуемый при издании схоластических трактатов в XV — начале XVI в., .
+как о том свидетельствует сопоставление некоторых из трактатов нашего
+кодекса с первопечатными их публикациями. Текст украшен синими и
+красными инициалами «с усиками», рубрицирован. He имеет никаких ук-
+рашений только последняя тетрадь сборника.
+
+Текст расположен на лл. 5—179, частично Bo все поле страницы (лл. 5—
+54, 85—96, 117—168), частично — в два столбца (все остальные листы сбор-
+ника). Размер текста варьирует: 9 х 15 см (с вариантами 9,5—10 см на
+16 cm) на an. 5—91, 97—116; 11 х 18 cm — на лл. 92—96; 9 х 13 cm — на
+лл. 117—168 и 11 х 16,5 cm — на an. 169—179. Различно и количество
+строк в странице: от 35 до 45 на лл. 5—54, 48—52 строки на лл. 55—74,
+no 54—55 строк на лл. 75—84, no 46—49 строк на an. 85—116, точно no
+
+42 строки на лл. 117—168 и no 37—44 строки на лл. 169—179.
+
+Состав рукописи следующий. После первых четырех пустых ненумеро-
+ванных листов на л. 1, MOMHMO уже приведенных выше карандашных помет,
+имеются записи XV B.: «Frater Antonius Iohannes fratri Gregorio» и «Frater
+Nicolaus emit Venusinus ... dixit se...» (далее разобрать He удалось).
+3 J. Quetif et J. Echard. Scriptores ordinis praedicatorum t. I. Paris, 1719, p. 876.
+
+4 P.O. Kristeller. Iter Italicum, vol. П. London — Leiden, 1967, p. 162.
+
+Падуанский кодекс XV e. e ГПБ 225
+На л. 2 имеется неполное постатейное оглавление рукописи, составленное,
+по-видимому, после поступления ее в ОЛДП; учтены не все статьи (только
+11 из 18), некоторые названия прочитаны неверно, неточно приведены и ука-
+занные в колофонах даты (в ряде случаев 1464 вместо 1462 г.). Листы 3—4
+пустые.
+Мы приводим полистное описание состава рукописи по статьям. Нумера-
+WHA листов указывается новая, соответствующая теперешнему расположе-
+нию листов и тетрадей; в скобках отмечена первоначальная пагинация.{ На-
+звания трактатов даются в TOM виде, xax OHH имеются в колофонах; в TeX »ke
+случаях, когда в тексте рукописи название OTCYTCTBYeT, OHO устанавли-
+валось на основании литературы 5. Tak как BCA рукопись изобилует аббре-
+виатурами, раскрытие HX в описаниях специально He оговаривается.
+I. Е. 5—53 (204—252). Jacobus Foroliviensis. De intensione et remissione
+formarum.
+F.5:Questio est utrum intensio forme fiat per additionem partis formalis
+ad partem formalem utraque remanente...
+F. 53: Explicit opus optimum de intensione et remissione formarum dis-
+sertissimi viri Magistri Jacobi Foroliviensis. Scriptum in Sancto Augustino
+Padue hora X8-a per me fratrem Simonem Angeli Senensem sacri ordinis pre-
+dicatorum. Anno quo existente Senis Enea Pio de Piccolominibus senense
+papa 2° simul cum nostra curia celebratum fuit nostrum generale capitulum in
+conventu illius urbis sancti Dominici de Camporegio ab incarnatione domini
+m? ccec® 611° XVIII Kal. septembris.
+Якопо да Форли (ym. в 1414 r.) — профессор философии и медицины Па-
+дуанского университета, автор многочисленных трактатов no логике и меди-
+цине. Трактат «Об интенсии и ремиссии форм» посвящен актуальному
+в философии позднего номинализма вопросу об интенсивности качеств. Он
+был опубликован в Венеции в 1496 г.; экземпляр имеется в Отделе редкой
+книги ГПБ (шифр VIII.V.1V.18) *.
+П. F.55—64 (154—163). Baptista de Fabriano. De sensu composito et
+diviso.
+F.55: @ша nulla est via facilior ... F.64 v: Sacre sophie monarca dyalec-
+ticisque facultatibus ac disciplinis phisicis apprime eruditus Magister Fabria-
+nensis Baptista almi ordinis fratrum predicatorum sancti Dominici hunc de
+sensu composito et diviso tractatulum lucubratus est, qui quidem maxime est
+omnium indicio utilitate et (одно слово He разобрано) arte sophistice incum-
+bentibus. Scriptum est denique Simone Angeli Senense eiusdem ordinis fratre
+anno dominico 1461 III nonas augusti.
+Баттиста да Фабриано, монах-доминиканец, профессор теологии и фило-
+софии, жил в первой половине ХУ s. Кетиф и Эшар приводят несколько
+иное название этого трактата: «Explicatio celebris huius distinctionis sensus
+compositi et divisi» *.
+III. F.65—70 v .(164—169). Franciscus de Prato. De quidditatibus prima-
+rum et secundarum intentionum.
+F.65: Secundum Philosophum in primo Celi et mundi principium cuiuscum-
+que oppositionis est aliqua forma vel qualitas... F.70 v: Нипс primarum secun-
+darumve intentionum quiditates quantum ad logicum spectare videntur per-
+® В ссылках на литературу HaMH приняты следующие сокращения: Gesner — С. Gesnerus.
+Bibliotheca. Tiguri (Ztirich), 1574. GW — «Gesamtkatalog der Wiegendrucke», Bd. 1—8.
+Leipzig, 1925—1940. Maier — A. Maier. An den Grenze von Scholastik und Naturwissen-
+schaft. 2. Aufl. Roma, 1952. QE — J. Quetif et J. Echard. Scriptores ordinis praedicato-
+rum, t. 1—2. Paris, 1719—1721. Tanner — Th. Tanner. Bibliotheca Britannico-Hibernica.
+London, 1748. TK. — L. Thorndike and Р. Kibre. A Catalogue of Incipits of Mediaeval
+scientific Writing in Latin. Revised and augmented Edition. Carnbridge, Mass., 1963.
+
+* Cm. TK, 1653; GW, 5780; Gesner, p. 315; Maier, $. 350.
+
+7 QE, t. 1, p. 847.
+
+15 Средние века, в. 55
+
+226 A. Х. Горфункель s
+
+spicue exclaratorem magistrum omni facultate et doctrina imbutum sacri
+predicatorum ordinis Franciscum de Prato excripssit ipse Angelides Senensis
+Simon conventus Caporegii frater ab incarnatione domini anno 1461 Senis
+pridie kal. novembris.
+
+Франческо да IIparo, доминиканец, жил в середине XIV в. Известны ero
+трактаты: «Tractatus novus de voce univoca», «Tractatus de universalibus»,
+«Tractatus de reduplicatione», «De suppositione», «De terminis logicalibus»,
+«De connexione accidentis cum substantia», a также многочисленные «Quaes-
+tiones» no вопросам метафизики, теологии и комментарии к Аристотелевой
+книге «О душе». Ни одно из этих сочинений не может быть с уверенностью
+отождествлено с трактатом нашего сборника. В сиенском сборнике Симоне
+де Анджели содержится переписанный им трактат Франческо да Прато
+«Brevis tractatus de sex transcendentibus» *.
+
+IV. F.71—74 (180—183). Jacobus de Sancto Martino. De latitudinibus
+formarum.
+
+F.71: Quia formarum latitudines multipliciter variantur ... F.74: Expli-
+cit utilis tractatus de latitudinibus formarum secundum Niccolaum de Orrem,
+scriptus Padue in conventu sancti Augustini per me fratrem Simonem Angeli
+Senensem ordinis predicatorum Anno ab incarnatione domini т° cccc? 611°
+et primo quo Шис adcexeram, XIII kal. Aprilis. Ha полях — изображения
+геометрических фигур.
+
+Якопо да Canto Мартино, монах ордена эремитов, преподавал в Неаполе
+BO второй половине XIV в. Ero трактат «О широте форм» ecTb популярное и
+упрощенное изложение учения Николая Орема об интенсивности качеств.
+Написанный не ранее 1368 r., он получил весьма широкое распространение
+ns?gln опубликован в Падуе в 1486 r., в Венеции — в 1505 г., в Bene — в
+1 r. *
+
+V. F. 74 v. Stephanus de Reaie. De accidente concreto et abstracto.
+
+F.74 v.: Incipit de accidente concreto et abstracto secundum magistrum
+Stephanum de Reate. Quoniam petivistis a me utrum accidens in concreto sit
+in subiecto, vobis ut volui respondere non potui, tamen ut clarem habeatis no-
+ticiam intendo prius ostendere quod sit accidens concretum... F.74 v.: Dedu-
+citur quod accidens in abstracto non predicatur de subiecto secundum concreto
+propter diversum modum significandi utriusque. Finis.
+
+Стефано да Реате — монах-доминиканец Римской провинции, умер
+ок. 1366 г. Кроме содержащихся в нашем сборнике, известен только один его
+трактат — «De universalibus» ?°.
+
+VI. F.75—79 (184—188). Gualterius Burley. Tractatus de termine potentiae
+activae et passivae.
+
+F.75: Volens parum dicere de terminis potentiae activarum et passivarum,
+premitto primo unam dictionem ... F. 79: Explicit tractatus de termino poten-
+tiae active et passive, editus a Reverendo Magistro Gualterio Burley doctore
+precipuo Oxonie et scriptus fratre Simone Angeli me senense ordinis predica-
+torum, studente Padue anno millesimo сссс°62°111° kal. junij.
+
+Уолтер Бурлей (1275 — ox. 1343) — монах ордена миноритов, профес-
+сор Парижского и Оксфордского университетов и Мертонского колледжа.
+Ученик Дунса Скота, он придерживался скорее томистских позиций умерен-
+ного реализма. Близок по содержанию к нашему трактату хранящийся B
+Бодлейанской библиотеке в Оксфорде трактат «De potentia activa et passiva»,
+отличающийся, впрочем, HE только названием, HO и начальной фразой.
+% QE, t. 1, р. 659—660; Р. О. Kristeller. Op. cit., p. 162.
+® TK, 1218; Maier, $. 369—375.
+
+19 QE, t. 1, р. 659—660.
+
+Падуанский кодекс XV e. в ГЛБ 227
+
+Таннер называет этот трактат «De divisione potentiae in activam et passi-
+
+vam» Ч.
+
+VII. F.79—83 (188—192). Gualierius Burley. Tractatus de primo et ul-
+timo instanti.
+
+F.79: Utrum sit dare primum et ultimum instans rei permanentis sive
+in quo res permanens habet esse... F.83: Finis tractatus de primo et ultimo
+instanti rei permanentis, compilati per Reverendum Magistrum Gualterum
+Burley Anglicum, doctorem eximium, descripti fratre Simone Angeli Senense,
+Padue studente 14611 nonis sextilis.
+
+Bropoe сочинение этого автора в нашем сборнике. Торндайк упоминает
+еще четыре списка этого трактата !2.
+
+VIII. Е.83—83 v. (192). |Неизвестный aemop). De principiis naturae.
+
+F.83: Quot sint principia rerum naturalium ... F.83 v.: Explicit de prin
+cipiis nature et quibusdam aliis.
+
+Автора этого небольшого трактата установить He удалось.
+
+IX. F.84—84 v. (193). Stephanus de Reate. De prima et secunda intenti-
+one.
+
+F.84: Ut sciatur quid sit ens reale et quid ens rationis ... F.84 v.: Expli-
+cit de prima et secunda intentione magistri Stephani de Reate ordinis predi-
+catorum.
+
+Второй трактат Стефано да Реате в нашем сборнике.
+
+Х. F.85—91 v. (254—260 у). Albertus de Saxonia. De proportionibus.
+
+F. 85: Proportio comuniter accepta est duorum comparatorum in aliquo
+inivoco adinvicem comparatorum habitudo ... F.90v.: Expliciunt proportiones
+magistri Alberti de Saxonia. F.90 v.: Proportio est relatio duarum quantita-
+tum eiusdem generis... F.91 v.: Expliciunt proportiones minores magistri
+Alberti. Ha полях — изображения геометрических фигур.
+
+Альберт Саксонский (ym. ok. 1390 r.), известный также под именем Аль-
+берта из Гельмштадта или Альберта Малого, профессор факультета искусств,
+а с 1353 r. ректор Парижского университета, принадлежал к кругу париж-
+CKHX номиналистов, развивал идеи Оккама и Буридана. Ero трактат о про-
+порциях, известный в значительном числе списков, издавался в Венеции
+в 1496 г. вместе с упомянутым выше трактатом Якопо да Форли. Однако в
+печатном издании помещена только первая, большая, часть трактата (так
+называемые «большие пропорции»), в нашей рукописи 3a ней следуют «Рго-
+portiones minores»!3.
+
+XI. Е.91 у.— 96 v. (260 v.— 265 v.) [ Неизвестный автор]. Quaestiones di-
+sputatae. Переписчиком — составителем сборника включены были «вопросы»,
+выставлявшиеся Ha диспутах либо HM самим, либо, что вероятнее, и HM, H
+его собратьями по доминиканской монастырской школе. Перед началом
+некоторых Hs «вопросов» имеются неполные, наполовину выскобленные
+записи: «Istam questionem disputavit fr. A. sub magistro Luca Florentie»
+(f. 93); «Infrascriptam questionem disputavi Bononie sub fratre Theodorico —.
+magistro studentium» (1.94); «Istam questionem disputavi fr. Za (sic!) sub
+fratre Dolminico] magistro studentium Florentie» (f.94 v.); «stam questionem
+disputavi fr. Al (sic!) sub uno magistro meorum» (f.95 v.); «Infrascriptam ques-
+tionem disputavi sub fr. A» (f.96)!. Ниже приводятся названия «вопросов»:
+
+1. F.91 v. —93. Utrum quodlibet peccatum cum difformitatis inclusione
+consistat in actu voluntatis.
+
+!! Tanner, р. 141—142; TK, 1397.
+
+2 TK, 1671.
+
+15 TK, 1139; GW, 5780; QE, t. 1, p. 735.
+
+14 В сиенском кодексе также переписан один na «вопросов»: «Infrascriptam questionem dis-
+putavit Bononie sub fratre Federico magistro studentium Frater Fr.» — Р. О. Kristeller.
+Op. cit., p. 162.
+
+15*
+
+228 A. Х. Горфункель
+
+2. F.93 у. — 94. Utrum immensa dei natura create nature unita in unitate
+divine potentie possit aliquem viatorem ad condignum premiare seu punire.
+
+3. F.94. Utrum quilibet homo potens uti libero arbitrio teneatur volun-
+tatem suam voluntati divine in volito conformare.
+
+4. F.94 v.— 95. Utrum immensa et infinita potentia produxerit vel pro-
+ducere possit ad exemplum aliquam magnitudinem simpliciter infinitam.
+
+5. F.95. Utrum viator circumsripta quacumque gratia possit impossibi-
+lem preceptum de dilectione dei super omnia.
+
+6. F.95 v. Utrum corpus Xristi quod de virgine Maria nascebatur in sac-
+ramento eucharistie sub speciebus panis et vini realiter contineatur.
+
+7. F.96—96 v. Utrum aliquid intellectus creatus possit clare videre divi-
+nam essentiam et tamen non esse beatus.
+
+XII. F.97—102 (266—271). William Heytesbury. De maximo et minimo.
+
+F.97: Circa finem seu terminum tam potentie active quam passive ...
+
+F.102: videbitur quod ipsa generaliter sufficient in hac hora.
+‚ Автор и название трактата установлены No Торндайку. Вильям Хейтс-
+бери (1313—1380) — один из профессоров-«калькуляторов» Мертонского
+колледжа в Оксфорде, занимался проблемами логики, математики и фи-
+зики. Трактат был опубликован в Венеции в 1491 r. !5
+
+XIII. F.103—111 у. (272—280). Prosdocimus de Beldomandis. Algorismus.
+
+F. 103: Inveni in quampluribus libris practice arismetrice algorismus
+nuncupatis ... F.111 v.: Explicit Algorismus de integris qui practice arismet-
+rice de integris secundum Prosdocimum de Beldomando de Padua.
+
+Просдочимо де Бельдоманди (1370—-1428) — npodeccop Падуанского
+университета, ученик Бьяджо Пелакани да Парма и Якопо да Форли, за-
+нимался математикой, астрономией, теорией музыки. Ero трактат об ал-
+горитме был опубликован в Падуе в 1483 г. по списку, почти одновременно-
+му списку нашего сборника, датированному 10 июня 1460 r. 1°
+
+XIV. F. 111 v.—116. /dannes de Lineriis. Algorismus de minutiis vul-
+garibus et physicis.
+
+F.111 v.: Modum representationis minutiarum vulgarium et phisicarum
+proponere ... F.116: Explicit Algorismus de minutiis Iohannis de Lineriis
+siculi ad laudem optimis Dei 1463 Padue III kal. octobris.
+
+Джованни да Линериис (Tak у Торндайка; сводный каталог инкунабулов
+no изданию 1483 г. дает написание de Liueriis, Геснер — de Ligneriis) —
+философ и астроном второй половины XIV в. Геснер называет ero сочинения:
+«Canones primi mobilis», «Tabulas eiusdem» «De Sphaera». Ero трактат об
+алгоритме печатался в падуанском издании 1483 r. вместе с трактатом Про-
+сдочимо je Бельдоманди |.
+
+XV. Е.117—168. |Неизвестный автор]. De terminorum notificatione.
+
+F. 117: Logici finem argumentationis ponere intendentes voluerunt illam
+ex propositionibus et propositiones ex terminis constitui, ut docet philoso-
+phus primo posteriorum. Nos itaque vestigiis eorum innitentes a terminorum
+notificatione sumemus exordium... F.167. v.. Et sic patet. Amen. F. 168:
+Carmina pertinentia ad suppositionem magnam. Следует BoceMb стихов.
+F.168 v.— пустой.
+
+Автора этого трактата установить He удалось.
+
+XVI. F.169—173. Thomas Bradwardine. Proportiones breves.
+
+F.169: Omnis proportio aut est communiter dicta aut proprie. Communiter
+dicta est duarum adinvicem comparatarum habitudo ... F.173: quod omnis
+motus provenit a proportionis maioris inequalitatis, et sic est finis. Amen.
+Expliciunt proportiones.
+
+15 TK, 206; Maier, 5. 265—266; Tanner, p. 400—401.
+16 TK, 774, GW, 3799.
+17 TK, 878; GW, 3799; Gesner, p. 391.
+
+Падуанский кодекс XV e. e ГПБ 229
+— —
+
+Автор и название трактата установлены по Торндайку. Томас Бредвар-
+дайн (1290—1349) — профессор Оксфордского университета, автор трудов
+по математике, физике, астрономии. Его трактат о пропорциях, написанный
+в 1328 r., издавался в Париже в 1495 r. и в Венеции в 1505 r. 18
+
+XVII. F.174—179 v. Blasius de Parma. De terminis naturalibus.
+
+F.174: Natura est principium motus et quietis eius in quo est. Primo et
+principaliter per se et non secundum accidens... F.179 v.: Expliciunt termini
+naturales.
+
+ABTOp установлен no Торндайку. Бьяджода Парма, или Бьяджо Пелакани
+(ум. в 1416 r.) — профессор Падуанского и Болонского университетов, по-
+следователь парижских и оксфордских номиналистов, автор трудов по логике,
+философии, MaTeMaTHKe, aCTPOHOMHH, занимался проблемами механики,
+теорией перспективы. В сиенском сборнике переписаны ero «Questiones super
+tractatum de latitudinibus formarum» '9.
+
+XVIII. F.179 v. Thomas Walsingham. Introductorium  naturalium.
+F.179 v.: Natura est duplex, scilicet naturanaturans et natura naturata ...
+
+Автор 3Toro фрагмента из 6 строк, записанного в нашем кодексе дважды
+(на Е.173 у. и на Е. 179 у.), установлен по Торндайку. Томас Уолсингэм —
+монах Бенедиктинского ордена, жил в середине XIV в., учился (м. 6., пре-
+подавал?) в Оксфордском университете. Весьма скудные и неопределенные
+сведения о нем сообщает Таннер 2°.
+
+Кроме этого фрагмента, Ha F.173 и 173 у. имеются eie две отрывочные
+записи: 1. Regule generales proportionum que summuntur ex dictis ...;
+2. Motus est actus alicuius entis potentialis ...
+
+Рассмотренный нами состав Падуанского кодекса XV B. свидетельствует -
+о круге интересов не только владельца — переписчика трактатов, но и вообще
+итальянской схоластической философии и науки этой эпохи. Переписанные
+монахом-студентом ученые созинения итальянских и английских философов
+и математиков XIV—XV столетий отражают проникновение в Италию идей
+и проблем, разрабатываемых номиналистами Парижа и Оксфорда, школой
+«калькуляторов» Мертонского колледжа. Интересы падуанских универси-
+тетских и околоуниверситетских схоластов, как это отмечалось уже в исто-
+рико-философской литературе, шли значительно шире традиционного «па-
+дуанского аверроизма».
+
+Многие из включенных в сборник Симоне де Анджели трактатов вообще
+He были известны специалистам no истории философии и науки ХТУ — ХУ вв.;
+некоторые, хотя и сохранились в значительном числе списков, ete He стали
+предметом обстоятельного изучения. Даже те из них, что были опубликованы
+в XV столетии, He могут быть глубоко исследованы без учета рукописной
+традиции, в том числе и «Падуанского кодекса» ГПБ. Надо надеяться, что
+все OHH привлекут к себе пристальное внимание историков, соответствую-
+щее действительному значению трактатов в истории западноевропейской
+мысли позднего средневековья.
+
+18 TK, 1001; QE, t. 1, p. 744; Tanner, р. 120—121.
+19 TK, 901;-P. О. Kristeller. Op. cit., p. 162.
+20 TK, 901; Tanner, p. 752.

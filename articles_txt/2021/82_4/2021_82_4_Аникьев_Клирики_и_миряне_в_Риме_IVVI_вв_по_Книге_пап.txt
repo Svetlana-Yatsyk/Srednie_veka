@@ -1,0 +1,960 @@
+ЦЕРКОВЬ, ПАПА И КЛИРИКИ
+УДК 94(450)*3/5”
+И.И. Аникьев*
+КЛИРИКИ И МИРЯНЕ В РИМЕ IV—VI Bs.
+ПО «КНИГЕ ПАП»
+В статье поднимается вопрос о существовании в Риме в VI в. городского духовен-
+ства как особой общности, отличной от папского окружения. Автор доказывает,
+что сборник папских биографий, известных xax «Книга mar» (Liber Pontificalis),
+отражает взгляды и особенности социальных представлений этой общности. Среди
+них: противопоставление себя He только мирянам, HO и другим общностям, таким
+как монашество; защита своих прав и привилегий посредством создания систе-
+мы ритуалов, соблюдение внутренней иерархии духовенства и конструирования
+собственной картины церковной истории.
+Ключевые слова: «Книга пап», Рим, католическая церковь, папство, раннее Сред-
+невековье, история духовенства.
+DOI: 10.7868/S013 1878021040012
+CLERGY AND LAITY IN ROME ACCORDING
+TO LIBER PONTIFI CALIS (4°—6" CENTURIES)
+
+The article raises the question of the existence in Rome in the VI century of urban clergy
+as a community distinct from the papal administration and and to some extent opposed
+to it. The author argues that the collection of papal biographies known as the “Book of
+* Илья Игоревич Аникьев — ассистент кафедры истории Средних веков историче-
+
+ского факультета МГУ им. M.B. Ломоносова (г. Москва). E-mail: anikyev@yandex.ru.
+
+WOS ResearcherID: AAQ-1182-2020.
+
+Ilia Anikiev — Assistant Lecturer; Department of Medieval History, Faculty of His-
+
+tory, Lomonosov Moscow State University (Moscow, Russian Federation). E-mail:
+
+anikyev@yandex.ru. WOS ResearcherID: AAQ-1182-2020.
+
+Средние века. 2021. 82 (4)
+
+Клирики и миряне в Риме IV—VI es. no «Книге Ilan» 11
+Pontiffs” (Liber Pontificalis) reflects the views and the social ideas inherent in this com-
+munity. Among them: opposing itself not only to the laity, but also to other religious com-
+munities, such as monks, preserving it’s own rights and privileges by creating a system
+of rituals, observing the hierarchy of clergy and constructing it’s own peculiar picture of
+ecclesiastical history.
+Keywords: Liber Pontificalis, Rome, Catholic Church, Papacy, Early Middle Ages, his-
+tory of clergy.
+Понятие «Римская Церковь» имеет много значений. OHO может
+обозначать как всю Католическую Церковь, так и аппарат римской
+курии, города Рима и Римского диоцеза. Многозначным оказывается
+и понятие «римское духовенство». Но в ИНТСРССУЮЩИЙ нас период
+ПОЗДНСЙ Античности и раннего СреДНСВСКОВЬЯ‚ когда администра-
+тивные возможности Римской ЦСРКВИ были весьма ограничены, под
+«римским духовенством» понимался именно ГОРОДСКОЙ KJIHD Puma,
+которому было поручено управление храмами и часовнями и па-
+стырское попечение в самом городе. По большей части духовенство
+рекрутировалось из числа местных жителей. Из среды римского ду-
+ховенства как правило Избирали и епископов Puma. Из clerus urbanus
+по большей части кооптировалось и папское ОКРУЖСНИС1.
+ИЗУЧСНИС истории «городского духовенства» важно прежде все-
+го для реконструкции идентичности римского клира как СОЦИЭ‚ЛЬНОЙ
+группы. Именно в историческом контексте появляется возможность
+наглядно показать отношения этой группы, в том числе КОНфЛИК-
+ты C мирянами или другими группами духовенства. ОДНЗКО B HCTO—
+риографии, посвященной средневековому Риму и Римской Церкви,
+история городского духовенства рассматривалась не столь уж ча-
+сто и редко подробно. Различие между папским окружением и clerus
+urbanus кажется очевидным, однако римское духовенство в иссле-
+дованиях историков часто находится в тени папского престола
+и папского двора. Проблему «городского духовенства» несомненно
+держал в уме Л. Дюшен, занимавшийся топографией христианского
+Puma’. Мишель Андриё, изучая формирование коллегии кардина-
+лов в раннем СРСДНСВСКОВЬС, обращал внимание также на характер
+! Carpegna Falconieri di Т. «Romana Ecclesia» е «Clerus Urbis»: Considerazioni
+sul clero urbano nei secoli centrali del medioevo // Archivio della Societa romana
+di storia patria. 1999. Vol. 122. P. 85-104; Idem. II clero di Roma nel medioevo:
+Istituzioni e politica cittadina (secoli VIII—XIII). R., 2002. P. 23.
+
+? Duchesne L. Notes sur la topographie de Rome au moyen 4ge: Les titres
+présbiteriaux et les diaconies // Mélanges d’archéologie et d’histoire. 1887. Vol. 7.
+P. 237.
+
+12 И.И. Аникьев
+связи между кардиналами и титульными церквями`. В XIX—XX вв.
+ОДНИМ H3 преобладающих Направлений B ИСТОРИОГрафИИ средневе-
+кового Рима было исследование развития церковных структур го-
+рода: ДИаКОНИЙ‚ церковных округов. Занимавшиеся этим сюжетом
+историки периодически говорили о городском клире Kak некой ОбЩ-
+ности“. И только в самом конце XX и начале XXI в. появились рабо-
+ты, специально посвященные истории городского духовенства Puma,
+хотя и более позднего времени`.
+
+Задача услышать голос городского клира эпохи ПОЗДНСЙ Антич-
+ности и раннего СреДНСВСКОВЬЯ представляется НСПРОСТОЙ, BBHJIy
+MOUTH полного отсутствия документальных HCTOUHHKOB NO HCTODHH
+города вплоть до 1Х в. В известной степени приоткрывают эту 3a—
+весу нарративные источники, а также папские послания. Ив рам-
+ках задачи этой статьи — посмотреть на историю развития римского
+клира в послеконтстантиновский период (c начала ГУ B.) — BIIOJIHe
+логичным представляется обратиться к наиболее известному и все-
+охватному римскому нарративу — «Книге пап» (Liber Pontificalis),
+сборнику папских биографий, составленному, по-видимому, в пер-
+Bol половине VI в.
+
+В конце У — первой половине VI в. в Римской Церкви проис-
+ходило активное развитие новых H Трансформация прежних адми-
+нистративных ИНСТИТУТОВб. Это касалось и духовенства. ЦСРКОВНЗЯ
+организация послеапостольских времен уже имела достаточно раз-
+витую иерархическую структуру с тремя степенями священства:
+епископами, священниками и диаконами. УЧРСЖДСНИС степеней
+священства считается изначальным и апостольским установлени-
+3 Andrieu М. Lorigine du titre de Cardinal dans l’Eglise Romaine // Miscellania
+
+Giovanni Mercati. Citta del Vaticano, 1946. Vol. 5: Storia Ecclesiastica — Diritto.
+P. 127-131, 138-139.
+
+4 Re C. Le regioni di Roma nel Medio Evo // Studi e documenti di storia del diritto.
+1889. Vol. 10. P. 349-381; Bertolini O. Per la storia delle diaconie romane del’
+alto medioevo sino alla fine del secolo VIII // Archivio della Societa romana di
+storia patria. 1947. Vol. 70. P. 1-145; Ferrari G. Early Roman Monasteries: Notes
+for the History of the Monasteries and Convents at Rome from the V through the
+X Century. Citta del Vaticano, 1957. Pietri Ch. Roma Christiana: Recherches
+sur l’Eglise de Rome, son organisation, sa politique, son idéologie de Miltiade а
+Sixte III (311-440). R., 1976.
+
+5 Barone С. П clero romano е la vita religiosa dei laici nel basso medioevo // Roma
+medievale: Aggiornamenti / a cura di P. Delogu. Firenze, 1998. P. 303-311;
+Carpegna Falconieri di Т. П clero di Roma nel medioevo: Istituzioni е politica
+cittadina (secoli VIII—XIII). R., 2002.
+
+° Verardi A.A. La memoria legittimante: П Liber Pontificalis е la Chiesa di Roma del
+secolo VI. R., 2016. P. 83.
+
+Клирики и миряне e Pume IV—VI es. no «Книге Пап» 13
+ем. ОДНЗКО уже со II B. B ЦСРКВИ ПпоЯявляются TaK называемые «Ma-
+лые чины» (ordines minores) — должности, исполняемые клирика-
+ми младшего ранга: СубДИаКОНЗМИ‚ аколитами, чтецами H T.JI. Эти
+«малые чины», B отличие OT возвВодящихся K апостолам «бОЛЬШИХ
+чинов» (ordines maiores), существовали He BO всех церквах и HE все.
+В Римской Церкви в IV—V BB. чины выстраиваются в определенную
+лестницу, по КОТОРОЙ должен в идеале подниматься клирик, ЧТОбЬ1
+достигнуть CaHa епископа: СВОСОбраЗНЫЙ cursus honorum, отчасти
+ПОДраЖЗЮЩИЙ ИМПСРСКОМУ7. Hpouecc усложнения иерархии мы мо-
+жем проследить, прежде всего, WO посланиям римских пап IV-V BB.,
+отвечавших Ha запросы других епископов ЗЭ‚ПЭ‚ДЭ‚ Об организации ду-
+ховенства. Случай Римской Церкви особенно важен, так как именно
+B Pum, к папе PHMCKOMY, как к авторитету в этом вопросе ОбраЩЭ.ЛИСЬ
+другие епископы Запада.
+
+ПСРВОС послание, B котором затрагивается этот вопрос, принад-
+лежит папе Сирицию (384-399). Ono было написано им вскоре по-
+сле Избрания‚ в конце 384 I., В OTBCT Ha письмо Tumepua, епископа
+Таррагонского. В nem Сириций, уделяя внимание должному поведе-
+нию духовенства, предлагает раЗНЬ1Й cursus honorum для трех групп:
+Tex, KTO IOCBSTMI ce0s Llepksu с детства, ставших христианами BO
+ВЗРОСЛОЙ жизни и монахов. В описании идеального Cursus honorum
+ASA nlepBoi группы доминирует идея постепенного восхождения HO
+ступеням ИСРЗРХИЧССКОЙ лестницы: чтецом такой человек мог стать
+eme до IOJOBOHM зрелости, B юности OH становился аколитом, затем
+СубДИЗКОНОМ, если бЬ1Л женат только один pa3 и на деве. В 30 лет он
+мог стать диаконом, затем после пяти лет служения — пресвитером,
+через десять лет пресвитерского служения MOL бЬ1ТЬ ИЗбраН еписко-
+ПОМ9. ДЛЯ ВТОРОЙ группы путь церковного служения по понятным
+причинам бЬ1Л сокращен: можно бЬ1ЛО стать чтецом или экзорцистом
+после крещения, через два года получить чин аколита и субдиако—
+7 Faivre А. Naissance d’une hiérarchie: Les premiéres étapes du cursus clérical. Р.,
+
+1977; Dunn J.D. The clerical cursus honorum in the late antique Roman Church //
+Scrinium. 2013. Vol. 9, Issue 1. P. 120-133.
+
+8 Siricius. Epistola 1 // PL. Vol. 13. Col. 1132-1147.
+
+? Quicumque itaque se ecclesiae uouit obsequiis a sua infantia, ante pubertatis
+annos baptizari, et lectorum debet ministerio sociari. Qui accessu adolescentiae
+usque ad tricesimum aetatis annum, si probabiliter uixerit, una tantum, et ea, quam
+uriginem communi per sacerdotem benedictione perceperit, uxore contentus,
+acolythus et subdiaconus esse debebit: postque ad diaconii gradum, si se ipse
+primitus continentia praeeunte dignum probarit, accedat. Vbi si ultra quinque annos
+laudabiliter ministrarit, congrue presbyterium consequatur. Exinde, post decennium,
+episcopalem cathedram poterit adipisci, si tamen per haec tempora integritas uitae
+ac fi dei eius fuerit approbata (Ibid. Col. 1142-1143).
+
+14 И.И. Аникьев
+на, если кандидат удовлетворял тем же ТребОВЗНИЯМ относительно
+брачной жизни, еще через пять лет OH MOF CTaTb диаконом, потом,
+через некоторое время (промежуток времени He уточнялся), стать
+пресвитером и затем СПИСКОПОМЮ. ДЛЯ монахов иерархическая лест-
+ница была схожей с предыдущей группой, кроме того, что к ним не
+предъявлялись Требования относительно брачного cratyca!!,
+
+В Tom xe русле следуют послания пап Иннокентия I (402-417)!
+и Зосима (417-418). Иннокентий I предлагает учитывать ряд об-
+CTOATCJIBCTB, которые препятствуют вступлению B клир. ПОСВЯЩС-
+ние запрещалось тем, KTO оскопил себя‚ кто женат вторым браКОМ‚
+H TCM, кто связан с военной СЛУЖбОЙ И ИМПСРСКОЙ администраци-
+ей (ПОСКОЛЬКУ государственная и военная служба предполагала со-
+бЛЮДеНИС языческого императорского КУЛЬТЗ). 30cuM, предлагая
+несколько иные, чем Malla СИРИЦИЙ‚ сроки прохождения СТУПСНСЙ
+ЦСРКОВНОЙ иерархии, ДОбаВЛЯСТ запрет посвящения в различные
+степени per saltum, т.е. минуя должные временные промежутки или
+с пропуском ступеней '.
+
+Такой в общих чертах была иерархия римского духовенства,
+как она представляется в папских посланиях IV—V Bs. В Hux раз-
+вивается идея постепенного медленного восхождения TO ступеням
+ЦСРКОВНОЙ ИСРЗРХИЧССКОЙ лестницы, подражающая гражданскому
+cursus honorum. Большое внимание папы TOM эпохи уделяли каче-
+CTBaM человека, КОТОРЫЙ мог стать eIIHCKOIIOM, особенно если он 06-
+0 Qui uero iam aetate grandaeuus, melioris propositi conuersione prouocatus, ex laico
+
+ad sacram militiam peruenire festinat, desiderii sui fructum non aliter obtinebit, nisi
+eo quo baptizatur tempore, statim lectorum aut exorcistarum numero societur, si
+tamen eum unam habuisse uel habere, et hanc uirginem accepisse, constet uxorem.
+Qui dum initiatus fuerit, expleto biennio, per quinquennium aliud acolythus et
+subdiaconus fiat, et sic ad diaconium, si per haec tempora dignus iudicatus fuerit,
+prouehatur. Exinde iam accessu temporum, presbyterium uel episcopatum, si eum
+cleri ac plebis edecumarit electio, non immerito sortietur (Ibid. Col. 1143).
+
+!! Monachos quoque quos tamen morum grauitas et uitae ac fi dei institutio sancta com-
+mendat, clericorum officiis aggregari et optamus et uolumus; ita ut qui intra tricesimum
+aetatis annum sunt, in minoribus per gradus singulos, crescente tempore, promoueantur
+ordinibus: et sic ad diaconatus uel presbyterii insignia, maturae aetatis consecratione,
+perueniant. Nec saltu ad episcopatus culmen ascendant, nisi in his eadem, quae singu-
+lis dignitatibus superius praefi ximus, tempora fuerint custodita (Ibid. Col. 1144-1145).
+
+12 Innocentius I. Epistola 37 // PL. Vol. 20. Col. 603-605.
+
+В Zosimus. Epistola 9 // PL. Vol. 20. Col. 669-673.
+
+М Si enim offi cia saecularia principem locum, non uestibulum actionis ingressis, sed
+per plurimos gradus examinato temporibus deferunt: quis ille tam arrogans, tam
+impudens inuenitur, ut in coelesti militiae, quae pensius ponderanda est, et sicut
+aurum repetitis ignibus exploranda, statim dux esse desideret, cum tyro ante non
+fuerit, et prius uelit docere, quam discere? (Ibid. Col. 671).
+
+Клирики и миряне в Риме IV—VI es. no «Книге Ilan» 15
+ратился в христианство в зрелом возрасте и принадлежал K BbICIHHM
+слоям имперского ОбЩССТВЗ. Римская ЦСРКОВЬ настаивала Ha дли-
+тельной проверке его образа жизни и долгом продвижении по ступе-
+ням иерархии. Можно подумать, что основной заботой в Риме было
+He допускать до епископских Кафедр неподготовленных ЛЮДСЙ‚ не
+удовлетворяющих нормам жизни ЦСРКОВНОСЛУЖИТСЛСЙ. ОДНЗКО 3TO
+медленное восхождение по ступеням ЦСРКОВНОЙ иерархии остава-
+лось, скорее, desideratum, как свидетельствует избрание на папский
+престол самих СИРИЦИЯ и Иннокентия I из диаконов, минуя долж-
+ное время пребывания в сане пресвитера. Это говорит о силе и опре-
+деленной обособленности коллегии диаконов-регионариев, управ-
+лявших семью церковными регионами и служивших посредниками
+между епископом H городским клиром.
+
+Активная рефлексия по вопросу о статусе клирика возникает
+в римском обществе в конце У — начале VI B. Ee отражает «Книга
+пап»`5.
+
+Обстоятельства возникновения «Книги пап» связывают с собы-
+тиями, потрясшими Римскую Церковь на рубеже У и VI вв., — Tak
+называемой Лаврентиевой схизмой (498—506)!*. Ee политическим
+5 Liber Pontificalis / ed. L. Duchesne. Р., 1886. Vol. 1.Р. Xxxiv—xlviii; Vogel С.
+
+Le Liber Pontificalis dans 1’édition de Louis Duchesne: Etat de la question //
+Monseigneur Duchesne et son temps: Actes du Colloque organisé par l’Ecole
+frangaise de Rome, Palais Farnése, 23-25 mai 1973. R., 1975. P. 103; Libri
+Pontificalis Pars prior / Ed. Th. Mommsen. B., 1898. P. УП-ХУШ, XLIX-LXXVI
+(Monumenta Germaniae Historica. Gesta Pontificorum Romanorum; Vol. 1). Мы
+He будем акцентировать внимание Ha различиях между редакциями этого тек-
+cTa, HO попробуем сосредоточиться на мировоззренческих установках, общих
+для авторов «Книги пап» и последующих редакторов. Не полагаясь на пред-
+ложенную Л. Дюшеном реконструкцию изначальной редакции, мы примем
+за основной текст вторую редакцию в его интерпретации, как засвидетель-
+ствованную в рукописной традиции и будем обращаться к другим редакциям
+только при наличии серьезных смысловых разночтений.
+
+'6 Более подробно об обстоятельствах Лаврентиевой схизмы cM.: Caspar E.
+Geschichte des Papsttums: Von den Anfangen bis zur Hohe der Weltherrschaft.
+Tubingen, 1933. Bd. 2: Papsttum unter byzantinischer Herrschasft. 5. 87-129;
+Pietri Ch. Le Sénat, le peuple chrétien et les partis du cirque а Rome sous le pape
+Symmaque (498-514) // Mélanges d’archéologie et d’histoire. 1966. Vol. 78, N 1.
+Р. 123-139; Llewellyn P.A. The Roman Church during the Laurentian Schism:
+Priests and Senators // Church History. 1976. Vol. 45, Fasc. 4. P. 126-159;
+Moorhead J. The Laurentian Schism: East and West in the Roman Church // Church
+History. 1978. Vol. 47, Fasc. 2. P. 125-136; Wirbelauer E. Zwei Papste in Rom:
+Der Konflikt zwischen Laurentius und Symmachus (498-514): Studien und Texte.
+Minchen, 1993; Заболотный E.A. Лаврентий, антипапа // Православная энци-
+клопедия. М., 2015. Т. 39. С. 603-605; On же. Симмах, cB., mama Римский //
+Православная энциклопедия. М., 2021. Т. 63. С. 628-633.
+
+16 И.И. Аникьев
+
+фоном были события другой схизмы — Акакианской (484—519) —
+между Римом и Константинополем по поводу изданного императо-
+pom Зеноном (474—491) «Энотикона» — вероисповедного послания,
+объединявшего миафизитов и дифизитов. На этом фоне в Риме, сто-
+явшем на позициях дифизитства, возникают разногласия в среде ду-
+ховенства и сенаторской аристократии. Инициатором схизмы приня-
+то считать провизантийскую партию, лидер которой Флавий Фест,
+глава сената, находясь с посольством в Константинополе, от имени
+короля остготов Теодориха (493-526) обещал императору Анаста-
+сию I (491-518) убедить римского папу Анастасия II (492-498), до-
+статочно примирительно относившегося к Константинополю, под-
+писать «Энотикон». Вероятно, Теодорих таким образом добивался
+признания за собой со стороны императора королевского достоин-
+ства. Вернувшись в Рим в ноябре 498 г., Фест обнаружил, что папа
+Анастасий П уже скончался. Употребив свое влияние, он способ-
+ствовал избранию на папский престол сторонника провизантийской
+партии архипресвитера церкви cB. Пракседы Лаврентия (22 ноября
+498). Однако в тот же день другой группой клириков папой был из-
+бран диакон Симмах. Обе партии для разрешения конфликта отпра-
+вились ко двору короля Теодориха, который признал законным епис-
+копом Рима Симмаха, так как тот пользовался большей поддержкой
+римского духовенства и был раньше посвящен в епископы. В 499 г.
+Симмах созвал в Риме собор, на котором Лаврентий отказался от
+всяких притязаний на папский престол и был поставлен епископом
+Нуцеры. Однако борьба на этом не прекратилась. В 501 г. пролав-
+рентиевской партией против Симмаха был выдвинут ряд обвине-
+ний: празднование даты пасхи «не со Вселенской Церковью», т.е.
+не в соответствии с Александрийской пасхалией, связи с женщи-
+нами и растрата церковного имущества. Вскоре провизантийская
+партия убедила короля Теодориха направить в Рим в качестве ви-
+зитатора Петра, епископа Альтино, фактически отстранив папу
+Симмаха от власти. Собор, собранный в 501 или 502 г. в Риме по
+инициативе короля, но с согласия Симмаха, не стал рассматривать
+дело по существу, но вынес оправдательный приговор, признав
+Симмаха законным понтификом и провозгласил анафему сторон-
+никам Лаврентия, которые не пожелали покаяться. Однако те не
+прекращали сопротивление. В 502 г. Лаврентий прибыл из Нуце-
+ры в Рим, что вызвало в городе беспорядки. До самой своей смер-
+ти в 506 г. Лаврентий, пользуясь поддержкой значительной части
+римского духовенства и сенаторской аристократии, контролировал
+большую часть города.
+
+Клирики и миряне в Риме IV—VI es. no «Книге Ilan» 17
+
+РЯД ИССЛСДОВЗТСЛСЙ полагает, uro ПРИЧИНОЙ столь острого про-
+тивостояния был КОНфЛИКТ по поводу отношений с Константинопо-
+лем: часть духовенства, поддерживавшая позиции ХаЛКИДОНСКОГО
+собора‚ стояла на стороне папы СИММЗХЗ, тогда как антипапу Лав-
+рентия поддерживала провизантийская партия'”. Среди причин схиз-
+мы указываются и внутренние разногласия. У.Т. Таунсенд полагал,
+что Симмаха поддерживала проготская партия, состоявшая преи-
+мущественно из городского духовенства, в то время как ЛавреНТИй
+
+He пользовался в городе большой популярностью'. В историогра-
+
+фИИ высказывалось мнение, что ОДНОЙ из главных ДСЙСТВУЮЩИХ CUI
+
+схизмы было желание ССНЗТОРСКОЙ аристократии (ПреДСТЗВЛЯСМОЙ,
+например, Фестом) контролировать церковные дела в Риме: выбо-
+ры епископа и распределение церковных ДОХОДОВЮ. КОНфЛИКТ раз-
+делял также пресвитеров римских «титулов», поддерживавших по
+большей части ЛавреНТИЯ, и диаконов, главным ОбраЗОМ сторонни-
+ков Cummaxa”’.
+
+Активная полемика, разделившая в эти годы римское ОбЩССТВО
+
+и духовенство, привела к возникновению целого ряда текстов, HO-
+
+сящих характер политических ПаМфЛСТОВ. К ним OTHOCHJINChb, Ha-
+
+пример, Tak называемые «Симмаховы ПОДДСЛКИ»21 — ряд текстов,
+имеющих характер канонических ПОСТЗНОВЛСНИЙ‚ целью которых
+было подкрепить претензии епископов Рима на независимость от
+какой-либо светской власти и неподсудность UX никакому суду, HH
+церковному, HH светскому. OTH подделки представляют собой свое-
+образную «реконструкцию» судебных случаев и соборных поста-
+
+новлений из ПреДЬ1ДУЩСЙ истории: псевдособор папы СИЛЬВССТРЗ 1
+
+(314—335), деяния папы Сикста III (432—440), якобы очистившего
+
+CBOH честное UMA OT клеветы, СОбОРНЬ1С акты по делу аПОКРИфИЧС-
+
+ского епископа Иерусалима ПОЛИХРОНИЯ, СОбОРНЬ1С деяния по делу
+
+папы Марцеллина (296—304), который принес ладан в жертву языче-
+ским богам, но после этого якобы осудил себя сам, а члены собора
+
+17 Moorhead J. The Laurentian Schism... P. 125-129.
+
+8 Townsend W.T. Councils Held under Pope Symmachus // Church History. 1937.
+Vol. 6, Fasc. 3. P. 233-259.
+
+i” ruewwellyn P A. The Roman Church during the Laurentian Schism...
+
+id.
+
+?! Townsend W.T. The So-Called Symmachian Forgeries // Journal of Religion. 1933.
+Vol. 13. P. 165-174; Королев A.A. Симмаховы фальшивки // Православная эн-
+циклопедия. М., 2021. Т. 63. С. 634-637. Самое подробное на данный мо-
+мент исследование и критическое издание текстов: Wirbelauer Е. Zwei Papste
+in Rom: Der Konflikt zwischen Laurentius und Symmachus (498—514): Studien
+und Texte. Miinchen, 1993.
+
+18 HUW. Аникьев
+
+выступали лишь как свидетели. В поле зрения авторов «Симмахо-
+вых фальшивок» наряду со статусом папы попадает и статус раз-
+ных групп духовенства, а также вопросы церковной иерархии, кле-
+рикального cursus honorum.
+
+В среде римского духовенства возникает и «Книга пап», сбор-
+ник биографий римских понтификов, начиная от апостола Петра.
+Этот текст, хоть и опирается на более древние документы (такие как
+«Каталог папы Либерия»), представляет своего рода реконструкцию
+истории Римской Церкви и ее установлений, какими они виделись
+в VI B. римскому духовенству. Широко используя материал «Симма-
+ховых фальшивок», авторы «Книги пап» приписывают различные
+постановления из них разным понтификам.
+
+Анонимные авторы «Книги пап» мыслили общество строго раз-
+деленным на клириков и мирян (Clerici et laici). Эти две группы ABHO
+противопоставлены друг другу.
+
+Анализ употребления в тексте «Книги пап» термина Clericus по-
+казывает, что часто он обозначает духовное лицо вообще. Так, папе
+Гигину (136-140) приписываются установление всего клира и pac-
+пределение ero no чинам??. Однако выражение «установил клир»
+(clerum composuit) He может затрагивать высшие степени духовен-
+ства (диаконов, пресвитеров, епископов), поскольку происхождение
+этих степеней связывается с апостольскими установлениями, следо-
+вательно, это выражение относится скорее к построению иерархии
+«малых чинов», которое анахронистично приписано папе Гигину.
+Takum образом, термин Clericus здесь употребляется в более y3KOM
+смысле и обозначает клириков, относящихся к малым чинам (ordines
+minores)?3. В обоих значениях этот термин встречается, например,
+в биографии папы Зефирина (199-217), который «постановил, чтобы
+клирик (clericus), диакон или священник рукополагались в присут-
+ствии всего духовенства (omnibus clericis) и верных мирян».
+
+Термин /aicus всегда употребляется xax оппозиция к Clericus
+и, очевидно, обозначает всякого человека, He принадлежащего к кли-
+ру, ни к высшим, ни к низшим чинам. Однако этот термин имеет до-
+бавочный смысл: под /aici, xax правило, подразумеваются He просто
+люди, не имеющие отношения к клиру и живущие в миру, но и не
+принявшие еще крещение. Te, KTO крестились и стали вследствие
+этого полноправными членами церковной общины, именуются
+22 Hic clerum conposuit et distribuit gradus (Liber Pontificalis / Ed. L. Duchesne. Р.,
+
+1886. Vol. I. P. 131).
+23 Hic constituit praesentia omnibus clericis et laicis fidelibus, siue clericus, siue
+leuita, siue sacerdos ordinaretur (Ibid. P. 139).
+
+Клирики и миряне e Pume IV—VI es. no «Книге Пап» 19
+
+«верными мирянами» (laici fideles) или просто «верными» (fideles).
+
+Dro видно Hs приведенного выше постановления папы Зефирина^.
+
+Собрание fideles часто обозначается собирательными существитель-
+
+ными, такими Kak «народ» (populus), который вместе с клириками
+
+составляет «церковь» (ecclesia). Этому сообществу отводится бо-
+лее значимое место в церковной жизни, нежели просто «мирянам».
+
+Так, согласно биографии папы Евтихиана (275—283), «верные» впра-
+
+Be предавать земле Tesla мучеников?`. Согласно биографии Сикста I
+
+(115-125), «народ» участвует в церковном пении во время евхари-
+
+стического канона?°. «Вся церковь» (очевидно, совокупность кли-
+
+риков и мирян) должна присутствовать при принятии в церковное
+общение покаявшегося еретика, как следует из биографии папы Си-
+риция (384-399)?’. Желая обозначить единство римского общества
+
+в каком-либо действии, авторы «Книги пап» употребляют выраже-
+
+Hue clerus et populus unm clerus et plebs. Tak, после смерти папы Бо-
+
+нифация 1 (418-422) «клир и народ» просят вернуть Ha кафедру ero
+
+соперника Евлалия?*. Tak xe, no просьбам «клира и народа», возвра-
+
+щается на римскую кафедру папа Симмах (498—514)?9.
+
+В «Книге пап» упомянута только одна норма, регламентирующая
+взаимодействие между Clerici и laici, когда под термином /aici сле-
+дует понимать также некрещеных. ITO постановление, приписыва-
+емое папе Сильвестру I (314—355), запрещающее мирянам вызывать
+клирика на суд (crimen inferre)*°. В этом создатели изучаемого текста
+опираются на «Constitutum Silvestri» — одну из «Симмаховых подде-
+лок», частично включенную в состав «Книги пап»“!. Это текст был
+создан в период Лаврентиевой схизмы (498—596), когда mana Сим-
+мах был обвинен некоторыми сенаторами в аморальном поведении
+и продаже церковного имущества якобы для того, чтобы оплатить
+24 Thid. Р. 139 Р. 159, 166, 223 et alii.
+
+25 Qui et constituit ut quicumque fidelium martyrem sepeliret... (Ibid. P. 139).
+
+2 Hic constituit ut intra actionem sacerdos incipiens populo hymno decantante:
+Sanctus, sanctus, sanctus dominus deus Sabahoth (Ibid. P. 128).
+
+27 Hic constituit hereticum sub manu impositionis reconciliari praesente cuncta
+ecclesia (Ibid. P. 216).
+
+28 Clerus et populus petierunt Eulalium revocari (Ibid. P. 418-422).
+
+29 Ab omnibus episcopis er presbiteris et diaconibus et omni clero vel plebe
+redintegratur sedis apostolicae beatus Symmachus cum gloria apud beatum Petrum
+sedere praesul (Ibid. P. 263).
+
+3° Hic constituit ut nullus laicus crimen clerico inferret (Ibid. P. 171).
+
+31 Подробнее о ней cm.: Townsend W.T. The So-called Symmachian Forgeries // The
+Journal of Religion, 1933. Vol. 13, Fasc. 2. Р. 165-174; Wirbelauer E. Zwei Papste
+in Rom: Der Konflikt zwischen Laurentius und Symmachus (498-514): Studien
+und Texte. Miinchen, 1993.
+
+20 И.И. Аникьев
+
+долги, сделанные BO время избрания. «Constitutum Silvestri» был
+
+составлен с целью утвердить неподсудность папы мирскому суду
+
+и показать несостоятельность обвинений против Симмаха. В жиз-
+
+неописании СИЛЬВССТРЗ в «Книге пап» приводится норма, взятая из
+
+«Constitutum Silvestri», — запрет клирикам представать перед свет-
+
+ским судьей (ante judicem cinctum)**. Эти постановления, возник-
+
+шие B контексте ЛаВРСНТИСВОЙ схизмы, используются составителя-
+ми «Книги пап» ASIA более масштабной цели — показать различие,
+лежащее, WO HX мнению, между духовенством H мирянами.
+ПРИНИМЗЯ за истину эти каноны, авторы, казалось OBI, ACHO де-
+монстрируют существование в Римской Церкви jus fori, т.е. публич-
+
+HOW неподсудности духовенства, подпадающего под юрисдикцию
+
+одного лишь церковного суда. ОДНЗКО это предположение находит-
+
+CA в противоречии CO всем, что мы знаем об имперском законода-
+
+тельстве той эпохи. Действительно, Кодекс Феодосия предоставляет
+
+епископам привилегию неподсудности светскому суду, но требует,
+чтобы всякое обвинение против епископа разбиралось другими епи-
+
+скопами`3. Новелла XXXV императора Валентиниана III от 452 r.
+
+возрождает подсудность клириков светскому суду B уголовных де-
+
+лах, впрочем, пресвитерам H епископам разрешается присутствовать
+
+в суде He лично, а через представителей`^. Takum образом, несмотря
+
+на определенные привилегии, предоставляемые имперским законода-
+
+32 Hic constituit ut nullus clericus propter causam quamlibet in curia introiret nec ante
+iudicem cinctum causam dicere nisi in ecclesia (Liber Pontificalis. P. 171).
+
+33 Imp. Constantius a. et Constans c. Severo suo salutem. Mansuetudinis nostrae lege
+prohibemus, in iudiciis episcopos accusari, ne, dum adfutura ipsorum beneficio
+impunitas aestimatur, libera sit ad arguendos eos animis furialibus copia. Si quid est
+igitur querelarum, quod quispiam defert, apud alios potissimum episcopos convenit
+explorari, ut opportuna atque commoda cunctorum quaestionibus audientia
+commodetur. Dat. epistola IX. kal. oct. acc. non. oct. Arbetione et Lolliano
+coss. Interpretatio. Specialiter prohibetur, ne quis audeat apud iudices publicos
+episcopum accusare, sed in episcoporum audientiam perferre non differat, quicquid
+sibi pro qualitate negotii putat posse competere, ut in episcoporum aliorum iudicio,
+quae asserit contra episcopum, debeant definiri (Codex Theodosianus. Theodosiani
+libri XVI cum constitutionibus Sirmondianis / Ed. Th. Mommsen. B., 1905. Vol. II
+P. 838-839).
+
+34 De reliquis praecepit, ut si quis laicus clericum sive in civili seu in criminali
+negotio per auctoritatem iudicis ad publicum provocaverit, pulsatus sine dilatione
+respondeat: episcopi etiam seu pro pervasione rei alicuius, sive pro quibuscumque
+gravibus iniuriis ad iudicium fuerint provocati. Licet in criminalibus causis
+per alium nulli liceat respondere, episcopis tamen et presbyteris hac lege
+praestatur, ut in talibus causis misso procuratore respondeant, sine dubio ut ad
+eos redeat sententia iudicati (Leges et Novellae ad Theodosianum pertinentes /
+Ed. P.M. Meyer, Th. Mommsen. B., 1962. P. 142).
+
+Клирики и миряне в Риме IV—VI es. no «Книге Ilan» 21
+тельством духовенству, особенно епископату, в VIB. X0 ОфОРМЛСНИЯ
+Jus fori interni было eme далеко. Нормы, изложенные авторами «Кни-
+ги пап» представляют собой скорее еще He достигнутый desideratum,
+цель которого — юридически разделить мирян и духовенство.
+
+Как было сказано выше, «Книга пап» замечает мирян и даже
+«верных мирян» сравнительно нечасто: когда нужно выразить еди-
+нение клира и народа или же когда без участия мирян не обойтись.
+ОДНЗКО к этой категории принадлежат социальные группы, от KO-
+торых РИМСКИЙ клир желает отгородиться и которые не могут по
+закону получить КЛСРИКЗЛЬНЫЙ статус. Первая M3 HHX — женщины.
+Вторая, которую авторы отличают OT первой, — монахини. Третья
+группа — монахи. В «Книге пап» приводятся постановления, при-
+писываемые тем HJIH иным ПОНТИфИКЗМ‚ которые запрещают упо-
+мянутым выше группам участвовать в литургических и парали-
+тургических ДСЙСТВИЯХ и подчеркивают TCM самым эксклюзивную
+роль римского клира в богослужении и обращении со священной
+утварью. Tak, папе Сиксту I (115-125) приписывается распоряже-
+ние, чтобы «K СВЯЩСННОЙ утвари прикасались только СЛУЖИТСЛИ»35.
+С папой Бонифацием I (418-422) связывают запрет, «чтобы ника-
+кая женщина или монахиня не дерзала дотрагиваться до священного
+покрова [palla — покров алтаря. — И. А.] или чистить ero или пола-
+гать ладан в церкви, HO только служитель (minister)**. Наконец maria
+Сотер (165-175) почти теми »xe словами распорядился, «чтобы ни-
+какой монах не дотрагивался HO священного покрова, и He полагал
+BO CB&TOH церкви ЛЭ‚ДЭ‚Н>>З7. ПОСЛСДНСС предписание очевидно проти-
+воречит декретальному письму папы Геласия епископам провинции
+Лукании и Бруттия, в котором указано, что «при недостатке клири-
+KOB, OHH BbIOMpaJINCh бы 43 числа МОН8Х0В>>38.
+
+35 Hic constituit ut ministeria sacrata non tangerentur, nisi a ministris (Liber
+Pontificalis. P. 128).
+
+36 Hic constituit ut nulla mulier aut monacha pallam sacratam contingere aut lavare
+aut incensum ponere in ecclesia nisi minister; nec servum clericum fieri, nec
+obnoxium curiae vel cuiuslibet rei (Ibid. P. 227).
+
+37 Hic constituit ut nullus monachus pallam sacratam contingeret, nec incensum
+poneret in sanctam ecclesiam (Ibid. P. 135).
+
+38 Ut ubi nulla perurget necessitas, constituta patrum inviolata serventur; vel quum
+defuerint clerici, de monachis eligantur (Gelasii papae Lit. XIV // Thiel. 1868.
+P. 362). Об отношении римских епископов к проникновению представите-
+лей монашества в ряды духовенства см.: Королев А.А. Монашество в ранних
+папских посланиях // Монашество в истории: Актуальные проблемы и но-
+вые методы в исследованиях: Материалы I и II научных конференций (2017—
+2018) / ors. peg. О.А. Родионов. М., 2019. C. 45—54.
+
+22 И.И. Аникьев
+
+Весьма ригористично решается в «Книге пап» вопрос и O Cpo-
+ке испытания, КОТОРЫЙ должна пройти женщина, прежде чем стать
+монахиней (virgo velata). Постановление, приписываемое marie Льву
+Великому (440-461), требует срока испытания в 60 лет (т.е. 60 лет от
+рождения, проведенных в девстве)“°. ITO наиболее строгая Hs всех
+известных норм, относящихся к probatio virginum и Tak »xe проти-
+воречащая ДСЙСТВОВЗВШСМУ тогда законодательству. В частности,
+новелла VI императора Майориана от 458 r. предписывала вступать
+в монашество He ранее 40 лет“°. Dro установление было действи-
+тельно B TOT момент H JIA Рима. Каноническое собрание ДИОНИСИЯ
+Малого (ox. 470—544) определяло для этого возраст в 25 met".
+
+Анализ норм, посвященных разным группам /aici fideles, свиде-
+тельствует о стремлении авторов «Книги пап» строго отграничить
+«городское духовенство» от других социальных групп, предоставить
+ему эксклюзивные права в ЛИТУРГИЧССКОЙ сфере H HCKJIIOUHTE H3 Hee
+He только женщин, HO H MOHAXOB.
+
+Ho kak »xe описывается в «Книге nam» camo «городское духо-
+венство»?
+
+Прежде всего описаны условия вступления в клир. В жизне-
+описании папы Бонифация I (418-422) мы встречаем распоряжение,
+«чтобы клириком не становился ни раб, ни связанный повинностями
+перед курией или еще чем-либо»*?. Под «связанным повинностя-
+ми с курией» (obnoxius curiae), вероятно, имеется в виду представи-
+тель сословия декурионов, связанных с государством фИСКЗЛЬНЬ1МИ
+обязанностями. ПО-ВИДИМОМУ‚ эта норма согласуется с установле-
+39 Hic constituit ut monacha non acciperit uelaminis capitis benedictionem, nisi
+
+probata fuerit in uirginitate LX annorum (Liber Pontificalis. P. 239).
+
+40 Unde ne per huiusmodi inpietatem parentum egestas et obprobrium personis
+nubilibus inrogetur et quod praecipue submovendum est, inrisionibus execrandis
+omnipotentis dei contrahatur offensio, edictali lege sancimus filias, quas pater
+materve a saeculari permixtione translatas Christianae fidei servire praeceptis
+continuata virginitate censuerint, in beatae vitae proposito permanentes non ante
+suscepto honorati capitis velamine consecrari quam quadraginta annos aetatis
+emensae talibus infulis inoffensa meruerint observatione decorari, ut multi
+temporis series et caelestis consuetudo servitii ad perfidam voluntatem novis
+desideriis aditum non relinquant (Leges et Novellae ad Theodosianum pertinentes /
+Ed. P.M. Meyer, Th. Mommsen. B., 1962. P. 163).
+
+41 ...et ut ante XXV annos nec diacones ordinentur nec virgines consecrentur (Die
+Canonessamlung des Dionysius Exiguus in der ersten Redaktion / Ed.A. Strewe.
+B.; Leipzig, 1931. P. 79).
+
+4 mec seruum clericum fieri, nec obnoxium curiae uel cuiuslibet rei (Liber
+Pontificalis. P. 227). Интересно отметить, что редакция F содержит эту HOpMy
+в сокращенном виде: «nec servum clericum fieri», что, вероятно, является из-
+начальным ядром текста.
+
+Клирики и миряне в Риме IV—VI es. no «Книге Ilan» 23
+ниями имперского и oömeuepKOBHoro законодательства эпохи. Ос-
+HOBHbIM MOTHBOM TaKHX pacnopsxKeHHi было желание ограничить
+рукоположения во священство, которые были бы IJIOJOM. He благо-
+честия, HO желания повысить свой социальный craryc. О другом
+мотиве — бесчестии духовного сана — упоминает Лев Великий (440—
+461) в послании к епископам Кампании: «Повсюду допускаются до
+священного чина Te, KTO He oa aror достоинством HH рождения, HU
+нравов, H, Hc сумев получить у своих господ СВОбОДу‚ возвышают-
+CA KO священству, CJIOBHO paOckas низость получает такой ПОЧСТ>>44.
+ПреДСТЗВЛСННЬ1С в «Книге пап» Требования, которые предъявлялись
+по отношению K рукополагаемым, B целом соответствуют ОбЩСПРИ-
+нятым тогда нормам; они были продиктованы желанием сохранить
+и преумножить dignitas sacerdotalis.
+
+В «Книге пап» ЗЭ‚фИКСИРОВЭ‚НЬ] также нормы, относящиеся к BHY-
+тренней структуре и функционированию «городского духовенства»
+Рима. Прежде всего STO OTHOCHTCA K иерархии духовенства. Выше
+уже упоминался папа ГИГИН, КОТОРЫЙ «установил клир и распреде-
+лил степени»“`. Выражение clerum composuit, повторимся, He сле-
+дует понимать в том смысле, что Гигин установил степени священ-
+CTBa. Epa ли установление епископского и пресвитерского чинов
+создатели «Книги пап» могли приписать воле одного H3 ПОНТИфИКОВ.
+ВСРОЯТНСС всего, речь идет о clerus B узком смысле слова, т.е. O Ma-
+лых чинах. АВТОРЬ1 «Книги пап» довольно часто обращаются K идее
+церковных чинов (ordines) и UX взаимного положения. Каждый из
+чинов соотнесен с определенными фУНКЦИЯМИ в рамках ЦСРКОВНОЙ
+ОбЩИНЬ1 города. НСКОТОРЬ1С них восходят к апостольскому времени,
+другие возникли позднее. K первым относится коллегия 25 пресви-
+теров, учреждение которой приписывается апостолу Петру“°. Mana
+Эварист (98-105) поручил пресвитерам титульные церкви и создал
+также коллегию Hs 7 диаконов””. Папа Фабиан (236—250) поручил
+диаконам руководить семью церковными округами, Ha которые под-
+разделялся Рим““.
+
+3 По этому вопросу см.: Gaudemet J. Storia del diritto canonico: Ecclesia e civitas.
+Cinisello Balsamo, 1998. P. 93.
+
+4 Admittuntur passim ad ordinem sacrum, quibus nulla natalium, nulla morum
+dignitas suffragatur; et qui a dominis suis libertatem consequi minime potuerunt, ad
+fastigium sacerdotii, tamquam servilis vilitas hunc honorem capiat, provehuntur; et
+probari Deo posse creditur, qui domino suo necdum probare se potuit (Leonis Magni
+Epistola ad episcopos Campaniae // PL. Vol. 54. Col. 611).
+
+45 Hic clerum conposuit et distribuit gradus (Liber Pontificalis. P. 131).
+
+46 Liber Pontificalis. P. 118.
+
+47 Ibid. P. 126.
+
+48 Ibid. P. 148.
+
+24 И.И. Аникьев
+
+К новосозданным чинам относятся аколиты (segentes), TIOABUB-
+шиеся, согласно «Книге nam», при папе Викторе I (189-199)*, a так-
+»xe subdiaconi regionarii, установленные папой Эваристом (98-105),
+ЧТОбЬ1 «следить за семью нотариями, ЧТОбЬ1 те в целости собира—
+ли деяния мучеников»`°. Таким образом, структура римского духо-
+венства в реконструкции, предлагаемой «Книгой Tal, BBIIJISJIHT
+следующим образом: аколиты, субдиаконы‚ диаконы, пресвитеры,
+и епископ во главе. К этим установлениям ДОбаВЛЯЮТСЯ нормы, свя-
+занные с именем папы Сильвестра I (314—335) и предполагающие
+более сложное устройство духовенства: «OH постановил, чтобы,
+если кто желает служить B церкви, TO сначала бЬ1Л 30 лет чтецом,
+затем 30 дней экзорцистом, 5 лет аколитом, 5 лет субдиаконом, 5 лет
+хранителем мучеников, 7 лет диаконом, 3 года пресвитером, BO всем
+ИСПЬ1Т8ННЫЙ‚ и даже от внешних ИМСЮЩИЙ доброе свидетельство,
+ОДНОЙ жены муж, жена же бЛЗГОСЛОВЛСНЗ священником, и так пусть
+восходит K епископскому сану. Никто да не посягает на место бОЛЬ-
+шее и принадлежащее первенствующему, HO c почтением да СОбЛЮ-
+дает порядок времен»“. ОЧСВИДНО повышенное внимание, которое
+авторы этого текста уделяли личным качествам кандидатов в епис-
+копы, а также акцент на иерархичности и длительности служения
+в каждом статусе. НСТРУДНО посчитать, что при строгом СОбЛЮДеНИИ
+этих правил стать епископом Рима мог только ГЛУбОКИЙ старик. ПРИ-
+писывая ПОДОбНОС постановление авторитету СИЛЬВССТРЗ I, авторы
+«Книги пап» видели в нем СПОСОб укрепления НСЗЬ1бЛСМОЙ иерархии
+И бОРЬбЬ1 C «выскочками», достигающими BbICOKHX степеней и даже
+папского престола «в один прыжок», рег saltum.
+
+Этим HOpMaM, подкрепленным авторитетом папы СИЛЬВССТРЗ I,
+противоречит упоминавшееся выше декретальное письмо папы
+Геласия 1, в котором, наоборот, предписывалось, чтобы кандидат,
+удовлетворяющий требованиям (He раб, He декурион, He женатый
+вторым браком, знающий грамоту), «тотчас был поставлен чтецом
+или нотарием или ДСфСНСОРОМ, через три месяца сделан аколитом,
+29 Tbid. P. 137.
+
+50 .. .qui VII notariis imminerent ut gestas martyrum in integro fideliter colligerent
+(Ibid. P. 137).
+
+5! Hic constituit ut si quis desideraret in ecclesia militare aut proficere, ut esset lector
+annos XXX, exorcista dies XXX, acolitus annos V, subdiaconus annos V, custus
+martyrum annos V, diaconus annos VII, presbiter III, probatus ex omni parte,
+etiam et a foris qui sunt, testimonium habere bonum, unius uxoris uirum, uxorem
+a sacerdote benedictam, et sic ad ordinem episcopatus accedere; nullum maiorem
+uel prioris locum inuadere, nisi ordinem temporum cum pudore cognoscere,
+omnium clericorum uotiua gratia, nullum omnino clericum contradicentem (Liber
+Pontificalis. P. 171).
+
+Клирики и миряне в Риме IV—VI es. no «Книге Ilan» 25
+
+ОСОбеННО‚ если этому СПОСОбСТВУСТ ero возраст, на шестой месяц
+
+принял бы сан СубДИЗКОНЗ, H если жизнь ero бУДСТ СКРОМНОЙ, а BOJIS
+
+ДОСТОЙНОЙ, на ДСВЯТЬ1Й месяц пусть станет диаконом, а по исполне-
+
+нии года — пресвитером»”?. Судя no всему, авторы «Книги пап» вы-
+
+ступали против возведения в сан per saltum, защищали стабильность
+
+и привилегии римского духовенства, пытаясь подкрепить CBOIO пози-
+
+цию апелляцией к старине и авторитету древних понтификов. Прак-
+
+тика Римской церкви в IV—VI Bs. была, однако, иной. Почти никогда
+римские епископы HE ИЗбИраЛИСЬ, ПРОЙДЯ все ступени ДУХОВНОЙ ие-
+рархии. Чаще всего на престол св. Ilerpa попадали диаконы, MHHyS
+степень пресвитерства. OTy закономерность следует, вероятно, объ-
+яснять TCM влиянием, которое оказывали на церковную жизнь диа-
+коны-регионарии, занимавшиеся хозяйственно-экономическими во-
+просами и непосредственным управлением церковными округами.
+Таким 06pa30M, мы можем говорить о наличии B Риме влия-
+
+тельного городского клира, oöna):[aBLuero ОПРСДСЛСННОЙ сплоченно-
+стью и самоидентификацией уже в первой половине VI B. Для этой
+группы было характерно четкое противопоставление себя мирянам
+и другим группам в церкви, которые могли бы исполнять литурги-
+ческие и паралитургические фУНКЦИИ, — монашеству, как мужскому,
+Tak и женскому. ЗЗЧЗСТУЮ взгляды городского духовенства He совпа-
+дали CO взглядами самих Mall. ГОРОДСКОС духовенство стремилось
+оградить CBOH права H привилегии, H СПСЦИфИЧССКИЙ ИСТОРИЧССКИЙ
+нарратив — «Книга пап» — отражает скорее взгляды clerus urbanus,
+нежели самих пап и их ближайшего окружения, которое формиро-
+валось из городского клира лишь отчасти.
+
+52 Priscis igitur pro sui reverentia manentibus constitutis, quae, ubi nulla vel rerum
+vel temporum perurgeat angustia, regulariter convenit custodiri, eatenus ecclesiis,
+quae vel cunctis sunt privatae ministris vel sufficientibus usque adeo dispoliatae
+servitiis, ut plebibus ad se pertinentibus divina munera supplere non valeant, tam
+instituendi quam promovendi clericalis obsequii sic spatia dispensanda concedimus:
+ut si quis, etiam de religioso proposito et disciplinis monasterialibus eruditus, ad
+clericale munus accedit, imprimis eius vita praeteritis acta temporibus inquiratur:
+si nullo gravi facinore probatur infectus, si secundam non habuit fortassis uxorem,
+nec a marito relictam sortitus ostenditur; si poenitentiam publicam fortasse non
+gessit, nec ulla corporis parte vitiatus apparet; si servilis aut originariae non est
+conditionis obnoxius; si curiae iam probatur nexibus absolutus; si assecutus est
+litteras, sine quibus vix fortassius ostiarium possit implere; ut si his omnibus quae
+sunt praedicta fulcitur, continuo lector vel notarius aut certe defensor effectus, post
+tres menses exsistat acolythus, maxime si huic aetas etiam suffragatur, sexto mense
+subdiaconi nomen accipiat, ac si modestae conversationis honestaeque voluntatis
+exsistit, nono mense diaconus completoque anno sit presbyter... (Gelasii papae
+Lit. XIV // Thiel. 1868. Р. 362).
+
+26 И.И. Аникьев
+СПИСОК СОКРАЩЕНИЙ
+
+PL. — Patrologiae cursus completus. Series Latina / ed. J.-P. Migne. Р., 1844—1864.
+221 vols.
+
+Thiel. — Epistolae Romanorum Pontificum genuinae et quae ad eos scriptae sunt a
+$. Hilario usque ad Pelagium II / ed. A. Thiel. Brunsbergae, 1868. Vol. I.
+
+БИБЛИОГРАФИЯ / REFERENCES
+
+Заболотный Е.А. Лаврентий, антипапа // Православная энциклопедия.
+М., 2015. Т. 39. С. 603-605 [Zabolotny E.A. Lavrentij, antipapal // Pravoslavnaya
+enciklopedia. Moscow, 2015. Vol. 39. P. 603-605].
+
+Заболотный E.A. Симмах, св., папа Римский // Православная энциклопедия. М.,
+2021. Vol. 63. Р. 628-633 [Zabolotny E.A. Simmah, sv., papa Rimsky // Pravoslavnaya
+enciklopedia. Moscow, 2021. Vol. 63. P. 628-633].
+
+Королев A.A. Монашество B ранних папских посланиях: Связи старца Иосифа
+Исихаста и русского монашества // Монашество в истории: Актуальные проблемы
+и новые методы в исследованиях: Материалы I и П научных конференций (2017—
+2018) / ors. ред. О.А. Родионов. М., 2019. С. 45-54 [Korolev A.A. Monashestvo у
+rannih papskih poslanijah // Monashestvo у istorii: Aktual’nye problemy 1 novye metody
+у issledovanijah: Materialy I i П nauchnyh konferencij (2017-2018) / ed. O.A. Rodionov.
+Moscow, 2019. P. 45-54].
+
+Королев A.A, Симмаховы фальшивки // Православная энциклопедия. М., 2021.
+Т. 63. С. 634—637 [Korolev A.A. Simmahovy fal’shivki // Pravoslavnaya enciklopedia.
+Moscow, 2021. Vol. 63. Р. 634-637].
+
+Филиппов H.C. Средиземноморская Франция в раннее Средневековье. М., 2000
+[Filippov I.S. Sredizemnomorskaja Francija у rannee Srednevekov’e. Moscow, 2000].
+
+Andrieu М. L’origine du titre de Cardinal dans |’Eglise Romaine // Miscella-
+nia Giovanni Mercati. 1946. Vol. V: Storia Ecclesiastica. Diritto: Citta del Vaticano.
+P. 113-144.
+
+Barone G. II clero romano е la vita religiosa dei laici nel basso medioevo // Roma
+medievale: Aggiornamenti / a cura di P. Delogu. Firenze, 1998. P. 303-311.
+
+Bertolini O. Per la storia delle diaconie romane lel’alto medioevo sino alla fine del
+secolo VIII // Archivio della Societa romana di storia patria. 1947. Vol. 70. P. 1-145.
+
+Capo L. II Liber Pontificalis, i Longobardi et la nascita del dominio territoriale della
+Chiesa Romana. Spoleto, 2009.
+
+Carpegna Falconieri di Т. Il clero di Roma nel medioevo: Istituzioni e politica cit-
+tadina (secoli VIII—XIII). Roma, 2002.
+
+Carpegna Falconieri @ Т. «Romana Ecclesia» е «Clerus Urbis». Considerazioni sul
+clero urbano nei secoli centrali del medioevo // Archivio della Societa romana di storia
+patria. 1999. Vol. 122. Р. 85-104.
+
+Caspar Е. Geschichte des Papsttums: Von den Anfangen bis zur Hohe der Welthe-
+rrschaft. Tiibingen, 1933. Bd. 2: Papsttum unter byzantinischer Herrschasft.
+
+Duchesne L. Notes sur la topographie de Rome au moyen Age: Les titres présbite-
+riaux et les diaconies // Mélanges d’archéologie et d’histoire. 1887. Vol. 7. P. 218-243.
+
+Клирики и миряне e Pume IV—VI es. no «Книге Пап» 27
+
+Dunn J.D. The clerical cursus honorum in the late antique Roman Church // Scri-
+nium. 2013. Vol. 9, Issue 1. Р. 120-133.
+
+Faivre A. Naissance d’une hiérarchie: Les premiéres étapes du cursus clérical. Р.,
+1977.
+
+Ferrari G. Early Roman Monasteries: Notes for the History of the Monasteries and
+Convents at Rome from the V through the X Century. Citta del Vaticano, 1957.
+
+Gaudemet J. Storia del diritto canonico: Ecclesia e civitas. Cinisello Balsamo, 1998.
+
+Geertman H. Hic fecit basilicam: Studi sul Liber pontificalis e gli efifici ecclesiastici
+di Roma da Silvestro a Silverio. Leuven, 2004.
+
+Geertman Н. La genesi del Liber pontificalis romano: un processo della organizza-
+zione della memoria // Liber, gesta, histoire: Ecrire histoire des évéques et des papes de
+1' Antiquite au XXI‘siécle / ed. par Е. Bougard, 2009. Р. 37-108.
+
+Heinzelman М. Bischéfsherrschaft in Gallien: Zur Kontinuitaét römischer Fuhrungss-
+chichten vom 4. bis zum 7. Jahrhundert: Soziale, prosopographische und bildungsge-
+schichtliche Aspecte. Miinchen, 1976.
+
+Llewellyn P.A. The Roman Church during the Laurentian Schism: Priests and Sena-
+tors // Church History. 1976. Vol. 45, Fasc. 4. Р. 126-159.
+
+Mathisen R.W. Roman Aristocrats in Barbarian Gaul: Strategies for Survival in an
+Age of Transition. Austin, 1993.
+
+Moorhead J. The Laurentian Schism: East and West in the Roman Church // Church
+History. 1978. Vol. 47, Fasc. 2. P. 125-136.
+
+Pietri Ch. Le Sénat, le peuple chrétien et les partis du cirque ä Rome sous le
+pape Symmaque (498-5 14) // Mélanges d’archéologie et d’histoire. 1966. Vol. 78, N 1.
+P. 123-139.
+
+Pietri Ch. Roma Christiana: recherches sur VEglise de Rome, son organisation, sa
+politique, son idéologie de Miltiade a Sixte III (311-440). Rome, 1976.
+
+Platelle H. L évéque mérovingien d’aprés un ouvrage récent // Revue d’ histoire ec-
+clésiastique. 1985. Vol. 80. Р. 454-457.
+
+Rapp C. Holy Bishops in Late Antiquity: The Nature of Christian Leadership in an
+Age of Transition. Berkley; Los Angeles; London, 2005.
+
+Re C. Le regioni di Roma nel Medio Evo // Studi e documenti di storia del diritto.
+1889. Vol. 10. Р. 349-381.
+
+Rosso P. La scuola nel Medioevo. Secoli VI-XV. Roma, 2018.
+
+Townsend W.T. The So-called Symmachian Forgeries // The Journal of Religion.
+1933. Vol. 13, Fasc. 2. Р. 165-174.
+
+Townsend W.T. Councils Held under Pope Symmachus // Church History. 1937.
+Vol. 6, Fasc. 3. P. 233-259.
+
+Van Damm R. Leadership and Community in Late Antique Gaule. Berkeley, 1985.
+
+Verardi A.A. La memoria legittimante: il Liber Pontificalis e la chiesa di Roma del
+secolo VI. Roma, 2016.
+
+Vogel С. Le Liber Pontificalis dans |’édition de Louis Duchesne: Etat de la ques-
+tion // Monseigneur Duchesne et son temps: Actes du Colloque organisé par l’Ecole fran-
+caise de Rome, Palais Farnése, 23—25 mai 1973. Rome, 1975. Р. 99-127.
+
+Wirbelauer Е. Zwei Papste in Rom: Der Konflikt zwischen Laurentius und Symma-
+chus (498-514): Studien und Texte. Miinchen, 1993.
+

@@ -1,0 +1,1076 @@
+УДК 94(4)“14/17”
+M.A. Курышева
+РУКОПИСЬ TPAKTATA «DE CERIMONIIS»
+КОНСТАНТИНА VI БАГРЯНОРОДНОГО
+В РУКАХ ЕВРОПЕИСКИХ ГУМАНИСТОВ
+*
+И УЧЕНЫХ ХУ-ХУШ Bs.
+
+Статья представляет собой первую часть исследования истории рукописи, па-
+
+леографии и исторического контекста создания знаменитого кодекса Lipsiensis
+
+bibl. Urb. Rep. 117, который содержит единственный полный список трактата
+
+De cerimoniis aulae byzantinae византийского императора Константина VII Баг-
+
+рянородного (913-959). В статье прослежены BCe основные этапы истории бы-
+
+тования кодекса от момента его попадания в европейские собрания гуманистов-
+антикваров до истории публикации и начальных этапов изучения рукописи.
+
+Ключевые слова: Историография, гуманизм, греческая палеография, история
+
+рукописей, от Первого гуманизма к гуманизму Ренессанса, император Констан-
+
+тин VII Багрянородный, король Матьяш Корвин Хуньянди, немецкий филолог-
+классик и востоковед Иоган Якоб Райске.
+
+Греческий текст трактата De cerimoniis aulae byzantinae' визан-
+тийского императора Константина VII Багрянородного (913—959)
+в полном виде сохранился только в Лейпцигской рукописи (Cod.
+Lipsiensis bibl. Urb. Rep. I 17). И хотя первостепенная важность
+этого текста для изучения византийской истории не вызывает со-
+МНСНИЙ, датировка и происхождение СДИНСТВСННОЙ СОХРЭ‚НИВШСЙ
+его рукописи все еще является предметом ДИСКУССИЙ и Требует
+специального исследования. Прежде чем изучать рукопись Me-
+тодами палеографИИ И КОДИКОЛОГИИ2, НеОбХОДИМО понять, где H
+* Эта статья — первая часть нашей работы, посвященной палеографическому и ко-
+
+дикологическому обоснованию датировки рукописи Lipsiensis bibl. Urb. Rep. I 17.
+
+! Constantini Porphyrogenneti imperatoris Constantinopolitani libri duo de cerimo-
+niis aulae Byzantinae prodeunt nunc primum Graece cum latina interpretatione et
+commentariis / Curarunt Jo.H. Leichius et Jo.Jac. Reiskius. Lipsiae, 1751-1754.
+Т. -П (далее — Lipsiae, 1751/1754); перепечатано в: Constatnini Porphyrogeniti
+imperatoris de cerimoniis aulae Byzantinae libri duo/ Rec. J.J. Reiske. Воппае,
+1829-1830 Т. -П (далее — Bonnae, 1829/1830).
+
+? До сих mop в историографии He сложилось общепринятого мнения о датиров-
+ке рукописи трактата De cerimoniis, для этого He сформирована необходимая
+доказательная база. Последние работы были выполнены М. Физерстоуном,
+датировавшим рукопись третьей четвертью Х B. (Featherstone J.M. Preliminary
+
+246 M.A. Курышева
+
+Kak бытовал этот манускрипт. ЗЭ‚ЧЭ‚СТУЮ даже наиболее проница-
+
+тельные специалисты пропускают этот НеОбХОДИМЬ1Й этап иссле-
+
+дования. МСЖДУ тем, как мы убеждаемся на все большем числе
+примеров, именно реконструкция «жизни» кодекса, понимание
+круга его читателей и среды, в КОТОРОЙ рукопись была создана,
+
+а затем использовалась, позволяет СфОРМУЛИРОВЭ‚ТЬ предпосылки
+
+правильного подхода собственно к палеографИИ И KOJIHKOJIOTHH.
+
+История Лейпцигского манускрипта на сегодняшний день мо-
+жет быть прослежена только со ВТОРОЙ половины ХУ СТОЛСТИЯЗ.
+
+В это время рукопись входила в состав библиотеки венгерского
+
+короля Матьяша I Корвина (Хуньяди) (1443—1490)*. Знаменитая
+
+«ренессансная» Bibliotheca Corviniana была собрана королем
+
+Матьяшем в Буде в 70-е годы под влиянием идей итальянского
+
+гуманизма, воспринятых им от его воспитателя — страстного лю-
+
+бителя и коллекционера книг архиепископа ЭСТСРГОМСКОГО Яноша
+
+Витеза (1408-1471)°, а также от племянника последнего — знаме-
+Remarks оп the Leipzig Manuscript of De Cerimoniis // Byzantinische Zeitschrift.
+2002. Bd. 95, H. 2. $. 457-479, Taf. XIV-XVIII; Featherstone М., Gruskova J.,
+Kresten O. Studien zu den Palimpsestfragmenten des sogenannten «Zeremonienbu-
+ches»: I. Prolegomena // Byzantinische Zeitschrift. 2005. Bd. 98, H. 2. $. 423-430,
+Taf. VII-X). Наша критика методов работы М. Физерстоуна и уточнение ero
+выводов прозвучала осенью 2012 г. в двух докладах: на конференции «Пробле-
+мы греческой палеографии: Памяти А.И. Пападопуло-Керамевса: К 100-летию
+co дня кончины» в Греческом институте Филологического факультета СПбГУ
+и на семинаре Отдела специальных исторических дисциплин ИВИ РАН под
+руководством И.Г. Коноваловой. Наше исследование палеографии и анализ ко-
+дикологии рукописи будет представлено во второй части статьи, которая гото-
+вится к публикации.
+
+3 В своем исследовании мы опираемся на известные факты истории открытия
+памятника и публикации текста, которые упоминаются еще в работе В.Г. Ва-
+сильевского (Васильевский B.I' Обозрение трудов no византийской истории.
+©СПб., 1890. Вып. I. С. 214-224). В новейшее время краткое исследование
+судьбы этой рукописи на материале малодоступных немецких публикаций
+было сделано M. Рохов (Rochow J. Bemerkungen zu der Leipziger Handschrift
+des Zeremonienbuches des Konstantinos Porphyrogennetos und zu der Ausgabe von
+J.J. Reiske // Klio. 1976. Т. 58. $. 193-197).
+
+4 Классическая работа об истории и составе библиотеки c упоминанием Лейп-
+цигской рукописи принадлежит венгерской исследовательнице Ч. Чаподи:
+Csapodi Cs. The Corvinian Library: History and Stock. Budapest, 1973 (No. 377);
+Csapodi Cs.—Csapodi-Gardonyi K. Bibliotheca Corviniana: The Library of King
+Matthias Corvinus of Hungary. [Budapest], 1981 (2e ed.) (No. 71); Csapodi Cs.—
+Csapodi-Gardonyi K. Bibliotheca Corviniana. Budapest, 1990 (4e ed.) (No. 81).
+
+5 Csapodi Cs.-Gdrdonyi K. Die Bibliothek des Johannes Vitéz. Budapest, 1984;
+A Star in the Raven’s Shadow: Janos Vitéz and the Beginnings of Humanism in
+Hungary: Exhibition Catalogue, 14 March 2008 — 15 June 2008, National Széchényi
+Library / Ed. by F. Féldesi. Budapest, 2008.
+
+Рукопись трактата «О церемониях»... 247
+нитого поэта-гуманиста Яна Паннония (1434-1472)°. Янош Витез
+после воцарения Матьяша КОРВИНЭ‚ стал архиепископом, прима-
+сом Венгрии и канцлером королевства. Он собрал в Эстергоме
+библиотеку, выписывая книги у флорентийского книгопродавца
+и первого биографа гуманистов Веспасиано да Бистиччи (1421—
+1498)’. Ян Панноний в 1447 r. был послан своим дядей учиться
+в Феррару в знаменитую гуманистическую школу Гварино Гва-
+рини. Затем OH OKOHUHJI Ilagqyauckni университет, получив сте-
+пень доктора канонического права. БЛЭ‚ГОДЭ‚РЯ покровительству
+папы-гуманиста Пия П, хорошо знавшего Витеза, Ян Панноний
+еще совсем молодым человеком (27 лет) стал епископом богатой
+епископии города Печа. Недовольство политикой Матьяша при-
+вело и дядю, и племянника к участию в неудавшемся магнатском
+заговоре против короля. Поэтому после 1472 г. их библиотеки ор-
+TAHHUHO BOIJIH B состав КОРОЛСВСКОЙ. Пополнению КОРОЛСВСКОЙ
+библиотеки способствовала также женитьба Матьяша Хуньяди в
+1476 г. на дочери короля Неаполя Фердинанда Беатриче Арагон-
+ской (1457—1508)5, a также личные связи короля с итальянскими
+гуманистами. Книги чаще всего покупались BO ФЛОРСНЦИИ И HJI—
+люстрировались известными фЛОРСНТИЙСКИМИ миниатюристами.
+Со временем была создана мастерская по ОфОРМЛСНИЮ КНИГ B
+Bye’. Большую роль сыграло приглашение в качестве библио-
+Текарей итальянских гуманистов: медика, фИЛОСОфЭ‚ и астронома
+Марцио Галеотто (1427—1497?)'° и эллиниста из Пармы Таддео
+° Huszti J. Janus Pannonius. Pécs, 1931; Csapodi Cs. Les livres des Janus Panno-
+
+nius et sa bibliothéque ä Pécs // Scriptorium. 1974. Т. 28. P. 32-50; Ritodk-Sza-
+lay A. Der Humanismus in Ungarn zur Zeit von Matthias Corvinus // Humanismus
+und Renaissance in Ostmitteleuropa vor der Reformation / Hrsg. von W. Eberhard,
+A.A. Strnad. K6In; Weimar; Wien, 1996. $. 157-171.
+
+? Vespasiano da Bisticci. Vite di uomini illustri del secolo XV rivedute sui manos-
+critti da Lodovico Frati. Bologna, 1892-1893. Т. I-III.
+
+5 Csapodi Cs. La biblioteca di Beatrice d’Aragona moglie di Mattia Corvino // Ita-
+lia е Ungheria dieci secoli @ rapporti letterari. Budapest, 1967. P. 113-132; Csa-
+podi Cs. - Csapodi-Gardonyi K. Bibliotheca Corviniana: The Library of King
+Matthias... P. 13; Pécs D. Urbino, Florence, Buda: Models and Parallels in the
+Development of the Royal Library // Matthias Corvinus, the King: Tradition
+and Renewal in the Hungarian Royal Court (1458-1490): Exhibition Catalogue,
+19 March 2008 — 30 June 2008. Budapest History Museum, 2008. P. 147-163.
+
+9 Гусарова Т.П. Культура Венгрии в конце XV — начале XVII в. // История куль-
+туры стран Западной Европы в эпоху Возрождения / под. ред. Л.М. Брагиной.
+М., 2001. С. 353-359.
+
+0 D’Alessandro А. Astrologia, religione е scienza nella cultura medica e filosofica di
+Galeotto Marzio // Italia e Ungheria all’epoca dell’umanesimo corviniano. Flor-
+ence, 1994. P. 133-177; Miggiano G. Marzio, Galeotto (Galeottus Narniensis) //
+Dizionario Biografico degli Italiani. Roma, 2008. Vol. 71. P. 478-483.
+
+248 M.A. Курышева
+
+Уголето (Thaddeus Ugoletus, ? —1515)!!, который специально искал
+
+рукописи для королевской библиотеки BO Флоренции и по всей
+
+Европе. Таддео Уголето был не только библиотекарем короля Ма-
+
+тьяша с 1485 no 1490 r., Ho и воспитателем наследника — Яноша
+
+Корвина (1473-1504). Уголето стремился реорганизовать и рас-
+
+ширить Bibliotheca augusta, HO главное — создать eli славу миро-
+
+Boro собрания'?. Ббльшая часть книг из Bibliotheca Corviniana
+
+была на латыни, однако среди них присутствовало много гума-
+
+нистических переводов греческих авторов на латинский язык и
+
+собственно греческие рукописи, часть которых происходила из
+
+конфискованной в Пече библиотеки Яна Паннония‘`. To, что Ма-
+тьяш Корвин владел греческой рукописью, описывающей обычаи
+
+И ОбРЯДЬ1 византийского императорского двора, таким 06pa30M,
+
+совсем не кажется игрою случая, а отражает реаЛЬНЫЙ круг инте-
+
+ресов и уровень библиофильства его ближайшего окружения.
+
+О принадлежности Лейпцигской рукописи De cerimoniis K
+Bibliotheca Corviniana свидетельствует ее характерный переплет,
+C изысканным золотым тиснением Ha КОРИЧНСВОЙ коже. ВСРХНЯЯ
+и HWKHAA крышки переплета украшены по центру увенчанным
+золотой короной гербом Венгерского королевства в виде четве-
+рочастного щита с КОМбИНЭ‚ЦИСЙ венгерских серебряных «TIOJIOC
+Арпадов» и богемских двухвостых львов'*. Переплет рукописи
+Н 4ffo I. Memorie di Taddeo Ugoleto Parmigiano, bibliotecario di Mattia Corvino, re
+
+di Ungheria. Parma, 1781; Branca V. Mercanti e librai fra Italia e Ungheria // Vene-
+zia е Ungheria nel Rinascimento. Firenze, 1973. Р. 344; Branca V. I rapporti con
+Taddeo Ugoletti e la collaborazione per la libreria di Mattia Corvino // Branca V.
+Poliziano e l’umanesimo della parola. Torino, 1983. P. 126-127; Milano E. I codici
+corviniani conservati nelle biblioteche italiane // Nel segno del Corvo. Modena,
+2002. P. 66-67, 75-79.
+
+Р Именно Таддео Уголето поручил другому знаменитому флорентийскому гума-
+нисту Нальдо Нальди (Naldo Naldi, ox. 1436—1513) написать в стихах панеги-
+рик, восхваляющий короля Матьяша и ero библиотеку, см.: Naldus Naldius. De
+laudibus augustae bibliothecae // Mathias Belius. Notizia Hungariae Novae His-
+torico Geographica. Viennae Austriae, 1737. T. 3. P. 589-642; Pajorin K. L’opera
+di Naldo Naldi sulla biblioteca di Mattia Corvino e la biblioteca umanistica ide-
+ale // L’Europa del libro nall’eta dell? Umanesimo: Atti del XIV Convegno inter-
+nazionale. Chianciano; Firenze; Pienza 16-19 luglio 2002 / A cura di L. Secchi
+Tarugi. Firenze, 2004. P. 317-330.
+
+В Madas E. La Bibliotheca Corviniana et les corvine «authentiques» // De Bibliothe-
+ca Corviniana: Matthias Corvin, les bibliotheques princiéres et la genése de |’Etat
+modern // Supplementum Corvinianum II. Budapest, 2009. P. 69-70 (Nr. 35, 74,
+178-191); Tristano С. La biblioteca greca di Mattia Corvino // Ibid. P. 215-236.
+
+!l1 Tep6 упомянут Bo всех описаниях рукописи; cm.: Naumann Ae.G.R. Catalogus
+librorum manuscriptorum, qui in Bibliotheca Senatoria civitatis Lipsiensis asser-
+
+Рукопись трактата «О церемониях»... 249
+демонстрирует особенность «аутентичных» греческих «корвин»:
+надпись на латинском языке о содержании книги (B данном слу-
+чае: «[De] regalibus institutionibus») всегда оттиснута Ha нижнем
+поле ВСРХНСЙ крышки переплета — в отличие от латинских кодек-
+COB, где надпись всегда находилась на верхнем ПОЛС15.
+
+КОГДЭ. после смерти Матьяша ХУНЬЯДИ библиотека КОРВИНЭ‚
+была уже в упадкеіб, свое посещение ее описал НСМСЦКИЙ гума-
+нист, филолог и nosr Иоганн Александр Брассикан (ox. 1500—
+1539)!7. По свидетельству Брассикана, BO время своего визита в
+Буду в составе свиты посланника короля Паннонии он видел все
+КНИГИ ПРОСЛЭ.ВЛСННОЙ бИбЛИОТеКИ, каждая из которых являлась
+сокровищем. По его словам, TaM находились H СВРСЙСКИС, и гре-
+ческие книги, которые король Матьяш после падения Константи-
+НоПоОЛЯ приобретал через своих посланников за огромные деньги
+
+vantur. Grimae, 1838. 5. 10. Nr. ХХУШ [Rep. I. fol. 17.]; воспроизведение верх-
+ней крышки переплета см.: Madas Е. La Bibliotheca Corviniana et les corvine
+«authentiques»... Р. 39 (Fig. 2). Отмечу, что в данном случае Ha геральдическом
+щите, xax и на некоторых других переплетах Hs этой библиотеки, отсутствует
+родовой герб Корвина (ворон с кольцом в клюве). Богемские двухвостые львы
+на гербе появились, несомненно, после длительной войны с 1468 no 1478 r.
+короля Матьяша за чешские земли и получения им титула «короля Богемии».
+Таким образом, на переплете кодекса визуализован королевский статус его
+владельца, но не его рода. На это обстоятельство обратил наше внимание
+А.П. Черных, которого я сердечно благодарю за консультацию.
+
+5 Madas Е. La Bibliotheca Corviniana et les corvine «authentiques»... Р. 44; вос-
+произведение нижней крышки переплета Лейпцигской рукописи см.: Miko A.
+Un sovrano umanista e la cultura classica fra antichita e modernita: Le questioni
+dell’interpretazione politica della Biblioteca Corviniana // De Bibliotheca Cor-
+viniana. Matthias Corvin, les bibliothéques princiéres et la genése de l’Etat mo-
+dern. Supplementum Corvinianum П. Budapest, 2009. Р. 281; маловероятна идея
+М. Рожондаи, которая считает, что изначальная греческая надпись Ha перепле-
+те была заменена на латинскую при реставрации переплета в Вене в 1910 г.
+(cm. 06 этом: Rozsondai М. Sulle ligature in cuoio dorato per Mattia Corvino //
+Nel segno del Corvo. Modena, 2002. P. 251; Rozsondai М. Uber die Einbande der in
+Miinchen aufbewahrten Corvinen // Ex Bibliotheca Corviniana: Die acht Miinche-
+ner Handschriften aus dem Besitz von Kénig Matthias Corvinus / Hrsg. von С. Fa-
+bian, Е. Zsupan. Supplementum Corvinianum I. Budapest, 2008. $. 144). Дело в
+TOM, что рукопись, по-видимому, He покидала Лейпцига с 1731/1732 r.
+
+6 Tanner М. The Raven King. Matthias Corvinus and the Fate of His Lost Library.
+Yale, 2008.
+
+!7 Klüpfel K. Brassicanus, Johann Alexander // Allgemeine Deutsche Biographie.
+Leipzig, 1876. Bd. 3. S. 260; Sawer J. Johann Alexander Brassicanus // The Catho-
+lic Encyclopedia. N.Y., 1907. Vol. 2. P. 744; The Correspondence of Erasmus: Let-
+ters 1122-1251 (1520-1521) / Trans. R.A.B. Mynors, annotated P.G. Bietenholz.
+Toronto, 1988. P. 57-58.
+
+250 M.A. Курышева
+
+Bo многих городах Tpenuu!*. И.А. Брассикан в 1525 г., Tak »xe как
+
+и другой знаменитый немецкий гуманист, дипломат, ученый и
+
+историк, профессор медицины и ректор Венского университета
+
+Иоганн Куспиниан (1473—1529)/9, so время своих посещений
+
+библиотеки в БУДС получили несколько «корвин» для CBOUX фИ-
+
+лологических ИССЛСДОВЭ‚НИЙ И ИЗДЭ‚НИЙ ТСКСТОВ20. Именно Tak He-
+которые «корвины» попали в книжные СОбраНИЯ венских профес—
+соров. ПО-ВИДИМОМУ‚ среди них оказалась и неизданная рукопись
+
+De cerimoniis.
+
+После битвы при Мохаче в 1526 г. и захвата Буды турками
+Bibliotheca Corviniana прекратила существование — часть ее кол-
+лекции была вывезена в СУЛТЭ.НСКИЙ дворец в КОНСТЭ.НТИНОПОЛС,
+часть ПОГИбЛЭ‚, и лишь отдельные уцелевшие тома разошлись по
+разным уголкам Европы?!.
+
+Книжные coOpaHua Kycnuuuana И Брассикана были выкуп-
+лены одним из Друзей Брассикана, оказывавшим ему поддерж-
+Ky, в частности, B КОНфЛИКТНЬ1Х ситуациях религиозного харак-
+тера. Это был эллинист и профессор права, венский епископ
+Иоганн Фабри (1478-1541)??, богослов и гуманистически обра-
+'8 «...quot libros, tot etiam thesauros isthic inspexi. Dii immortales, quam jucundum
+
+hoc spectaculum fuisse, quis credat? Tunc certe non in bibliotheca, sed in Jovis gre-
+mio, quod ajunt, mihi esse videbar. Tantum erat hic antiquorum, graecorum simul
+& hebraicorum voluminum, quae Matthias ille rex capta iam Constantinopoli, ever-
+sisque multis aliis amplissimis Graeciae urbibus, ex media Graecia inaestimandis
+sumtibus coémerat, ac tanquam mancipia ex barbarorum catastis atque compedibus
+receperat» (cm.: Salvianus, Massyliensis (sic!) episcopi. De Vero Judicio et Provi-
+dentia Dei, Libri VIII / Cura Jo. Alexandri Brassicani Jureconsulti editi ac eruditis
+et cum primis utilibus scholiis illustrati: Anticimenon Ilibri III in quibus quaestio-
+nes Veteris ac Novi Testamenti de locis in speciem pugnantibus, incerto Auctore.
+Basileae, 1530. P. 9; Maderus Joachim Joannes. De Bibliothecis atque archivis
+virorum clarissimorum libelli et commentationes. Helmestadi, 1702. P. 149.
+
+® Kleehoven H.A. von. Cuspinianus, Johannes // Neue Deutsche Biographie. Berlin,
+1957. Bd. 3. $. 450-452.
+
+*° Monok I. La Bibliotheca Corviniana et les imprimés // De Bibliotheca Corviniana.
+Matthias Corvin, les bibliothéques princiéres et la genése de I’ Etat modern. Supple-
+mentum Corvinianum П. Budapest, 2009. P. 167-168.
+
+?! Csapodi Cs. — Csapodi-Gdrdonyi K. Bibliotheca Corviniana: The Library of King
+Matthias... P. 29-32; (версия в интернете: http://www.corvina.oszk.hu/BCD-it/
+index-it.htm [просмотр от 07.07.2012]).
+
+22 Horawitz A. Johannes Faber (Fabri) // Allgemeine Deutsche Biographie. Leipzig,
+1881. Bd. 14. $. 435-441; Tiichle H. Fabri, Johannes // Neue Deutsche Biographie.
+B., 1959. Bd. 4. 5. 728-729; cm. также: Кудрявцев О.Ф. Иоганн Фабри // Россия
+в первой половине XVI в.: взгляд из Европы. М., 1997. С. 135-142; On же.
+Трактат Иоганна Фабри «Религия московитов» [1525 г.] // Россия и Германия.
+
+Рукопись трактата «О церемониях»... 251
+зованный клирик, собравший обширную библиотеку по самым
+разным отраслям знаний, которую он активно пополнял целыми
+коллекциями, полученными от разным лиц”`. Сообщение o TOM,
+что уже в 1538 г. Иоганн Фабри владел рукописью De cerimoniis,
+было обнаружено Джованни Меркати в ватиканском манускрипте
+XVI в., принадлежавшем кардиналу, гуманисту и ватиканскому
+библиотекарю Иерониму Алеандеру (1480-1542)**. Это была 3a-
+пись в кодексе Vat. 3927 (Hieronymi Aleandri collectanea), которая
+свидетельствовала о TOM, что Фабри показал папскому нунцию
+Алеандеру, в то время находившемуся с визитом в Вене, две руко-
+писи из Библиотеки Матьяша Корвина (с текстами Константина
+Багрянородного и Иоанна Зонары). В записи Алеандера в точно-
+CTH был скопирован начальный греческий заголовок, приведен-
+ный в заставке Ha л. 1 манускрипта De cerimoniis, дополненный
+текстом заголовка из следующей заставки, расположенной на
+л. 21 об. (в рукописи содержится всего две указанные заставки), с
+упоминанием автора свода (синтагмы) — императора Константина
+Багрянородного, сына Льва Мудрого. Далее в записи Алеанде-
+pa кратко описан состав рукописи Hs двух книг, фиксирующий
+отсутствие BO второй книге последних двух глав, упомянутых B
+оглавлении второй книги Лейпцигского манускрипта на л. 175, —
+Жизнеописания Александра Македонского и Физиолога: «а. 1538.
+Kal[endis]. Nov[embribus]. Viennae. R[everendus] D[ominus]
+Io[hannis] Faber episcopus Viennensis mihi accomodavit librum in
+membrana е reliquiis bibl[iothecae] regis Mathiae Hung[ariae]. cuius
+titulus quantum conicere licuit е prima pagina lacera est $97x00sotc TAV
+Васимк@у tazediov Kal Флонупо1; TOV GMANKTOV. Ev @ Kol дер\
+Tis Флострофйс TOD D$aciX£oc K@VOTAVTiVOD TOD TOPOVLPOYEVVYTOD
+Baotréwes vLOd AEOVTOS TOD GOMWTATOV съутбуца TL(sic!) xal Вас1). 21010
+
+М., 1998. Вып. 1. С. 10-45; Ou же. Фабри Иоганн // Культура Возрождения:
+Энциклопедия. М., 2011. Т. 2, кн. 2: Р-Я, A, S/ ors. ред. О.Ф. Кудрявцев.
+С. 285; Он же. Святая Русь, или русская греза доктора Иоганна Фабри // Ев-
+ропейское Возрождение и русская культура ХУ — середины XVII в.: контак-
+ты и взаимное восприятие / отв. ред. О.Ф. Кудрявцев. М., 2013. С. 129-168;
+о «корвинах», принадлежащих епископу Иоганну Фабри co. также: Fischer L.
+K6nig Matthias Corvinus und seine Bibliothek. Wien, 1878. $. 19.
+
+23 Lhotsky A. Die Bibliothek des Bischofs von Wien, Dr. Johannes Fabri (1530—
+1541) // Lhotsky A. Aufsaétze und Vortrage. Miinchen, 1972. Bd. 3: Historiogra-
+phie, Quellenkunde, Wissenschaftsgeschichte. 5. 228-241.
+
+24 Са W. Aleander, Hieronymus // Allgemeine Deutsche Biographie. Leipzig, 1875.
+Bd. 1. S. 329-332; Albergio G. Aleandro, Girolamo // Dizionario biografico degli
+Italiani. Roma, 1960. Vol. 2. Р. 128-135.
+
+252 M.A. Курышева
+ozxovöf)c Оутос ä&tov zövqua. Dividitur opus in duo volumina seu
+libros, quorum prior continet capita seu titulos pe’ et integer est. Alter
+continet v& sed deest caput vc’ et v& duo postrema, quorum vc’ est
+Bioc GAEgavdpov tot накедбуос Kad’ Lotopiav €&yov факта KA’. vv
+TOV PVOLOAGYODV 1) TOV EKAOTOD Вър10» (sic!) DavpAOTIKT) 816 zpoc TE
+O[Ed]v &vaoyeoy?) Kal TOV Ev Bim evapeotovvTMV Adyot N’. Alter liber
+est etiam in membrana historiarum Ioannis Zonare monachi incipiens
+ab orbe condito usque ad seculum (sic!) his verbis...»7°.
+Из этого описания следует, что Te утраты, которые имеются
+в рукописи сейчас, были в ней уже в первой половине XVI в. и,
+по-видимому, произошли eme до того, KaK кодекс получил cBoH
+«корвиновский» переплет, т.е. до 70—x годов XV B.?* Возможно
+также, что рукопись до ХУ в. долгое время вообще существова-
+ла без переплета: об этом свидетельствуют не только вышеопи-
+санные утерянные части в конце рукописи, но также затертые и
+загрязненные первый (вклеенный в переплет, содержащий полу-
+25 Перевод: «1538 r. 1 ноября. Bena. Преподобный Иоганн Фабер венский епис-
+коп дал мне посмотреть пергаменную книгу из остатков библиотеки короля
+Венгрии Матьяша, название которой, xax можно заключить no первому пов-
+режденному листу, — «наставление об императорских походах и заметка o BO-
+енных лагерях, в TO »xe время и об отступлении, сочинение императора Конс-
+тантина Порфирородного, сына императора Льва Мудрого, и труд, достойный
+императорского усердия». Труд делится на два тома или книги, первая из ко-
+торых содержит 105 глав или титулов и она полная; другой [том] содержит
+57 [глав], но отсутствуют последние две — 56 и 57, из которых [глава] 56 — это
+жизнеописание Александра Македонского, содержащее описание 94 деяний,
+[глава] 57 — замечательное свойство каждого животного по физиологу, посвя-
+щение Господу и 50 слов о людях, чья жизнь угодна [Богу]. Также на перга-
+мене есть другая книга историй монаха Иоанна Зонары, которая начинается
+от сотворения мира вплоть до cero времени...» (Приведено по: Weinberger W.
+Beitrage zur Handschriftenkunde I (Die Bibliotheca Corvina) // Sitzungsberichte
+der Kaiserlichen Akademie der Wissenschaften in Wien. Philosophisch-Historische
+Klasse. [1908]. 159. 6. $. 32-33; в сильно ype3aHHOM виде запись упоминает-
+ca в: Tréger Е. Handschriften aus der Bibliotheca Corvina in den Bibliotheken
+der Deutschen Demokratischen Republik // Zentralblatt f. Bibiothekswesen. 1964.
+Т. 78. $. 158-159. Te тексты, которые в историографии бытуют в качестве
+общего латинского HIM греческого заголовка всего трактата De cerimoniis, на
+самом деле составлены из заголовков первых трех глав в рукописи, первая и
+третья из которых выделены заставками (изданы у И.Я. Райске как Аррепах
+к первой книге (Lipsiae, 1751. Р. 257—292), повторены в издании Б.Г. Нибура
+(Bonnae, 1829. P. 444—508).
+2 Наблюдение о TOM, что утраты последовали раньше, чем кодекс получил свой
+«корвиновский» переплет, содержится еще у А. Фабриция, что нашло отраже-
+ние у В.Г. Васильевского (cp.: Васильевский B.I' Обозрение трудов... С. 215).
+
+Рукопись трактата «О церемониях»... 253
+стертый текст оглавления первой книги De cerimoniis) и послед-
+ний листы кодекса.
+
+О СУДЬбе рукописи в ПОСЛСДУЮЩИЙ период ничего неизвестно.
+Можно только предполагать, что по каким-то причинам она не
+разделила СУДЬбу тех книг, которые ФабрИ завещал B основанный
+um в 1539 r. Collegium trilingue Cs. Николая в Bene, u, таким 0об-
+разом, He осталась в Вене?”.
+
+В начале ХУШ в. рукопись De cerimoniis встречается уже в
+составе библиотеки члена городского совета Франкфурта на Май-
+He, доктора права и библиофила Захарии Конрада dou Уффен-
+баха (1683—1734)°®. Ee описание появляется в знаменитом биб-
+лиографическом труде «Bibliotheca Стаеса» 1714 г. исследователя
+античности и гамбургского профессора риторики Иоганна Аль-
+берта Фабриция (1668-1736)” с ero комментарием`°. Уффенбах
+сообщил сведения об этом кодексе в составе своей библиотеки,
+дал ero описание H 0630p титулов отдельных ГЛЭ.ВЗі. Там же он
+27 Все «корвины», оставшиеся в Bene no завещанию Фабри, имеют специаль-
+
+ный экслибрис. Примечательно, что среди венских «корвин» сохранился еще
+один codex unicus константинопольского происхождения — рукопись «Цер-
+ковной истории» Никифора Каллиста Ксанфопула, первой половины XIV в.
+(Vindob. Hist. gr. 8), — принадлежавший Куспиниану, а затем Фабри (см.: Са-
+millscheg E., Mesich B., Mazal О. Matthias Corvinus und die Bildung der Renais-
+sance Handschriften aus der Bibliothek und dem Umkreis des Matthias Corvinus
+aus dem Bestand der Osterreichischen Nationalbibliothek: Katalog einer Ausstel-
+lung der Handschriften- und Inkunabelsammlung der Osterreichischen Nation-
+albibliothek, 27. Mai — 26. Oktober 1994. Wien, 1994. $. 34-35, 54-55 (Ne 15),
+Abb. 22). Об ошибочном отождествлении некоторых содержащих уникаль-
+ные тексты кодексов классических и ранневизантийских авторов в составе
+библиотеки Корвина см.: Wilson № Some Notable Manuscripts Misattributed or
+Imaginary. II: Some Lost Greek Authors // Greek, Roman and Byzantine Studies.
+1975. Vol. 16 (1). P. 98-101.
+
+28 Rudolf J. Uffenbach, Zacharias Konrad von // Allgemeine Deutsche Biographie.
+Leipzig, 1895. Bd. 39. $. 135-137; Franke K. Zacharias Conrad von Uffenbach
+als Handschriftensammler: ein Beitrag zur Kulturgeschichte des 18. Jahrhunderts //
+Archiv fiir Geschichte des Buchwesens. Wiirzburg, 1967. Bd. VII. $. 1-208.
+
+29 Reincke H. Fabricius, Johann Albert // Neue Deutsche Biographie. Berlin, 1959.
+Bd. 4. $. 732-733.
+
+30 Maius Jo.Hen. Bibliotheca Uffenbachiana Msstm seu Catalogus et Recensio Mssto-
+rum codicum... Col. 537-566 (Cod. graec XVII); Fabricius Jo.Alb. Bibliothecae
+graecae Libri V. Pars altera, sive volumen sextum, quo graeci auctores annalium, et
+historiae ecclesiasticae ac byzantinae, nec non erotici scriptores recensentur. Ham-
+burgi, 1726. $. 598-624 (No. XXIV); воспроизведено И.Я. Райске в: Lipsiae,
+1754. Р. XXIII—XXIV,
+
+3! Fabricius I.A. Bibliotheca graeca... $. 602-621 (указатель заголовков Уффенба-
+Xa, частично с латинским переводом Фабриция).
+
+254 M.A. Курышева
+
+сообщает, что совместно с филологом-эллинистом Шнайдером-
+
+Шмидтом (cum Dn. Schneidero dicto Schmidt, viro Graecarum) он
+
+перевел Ha латынь большой фрагмент текста, КОТОРЫЙ, 10 ero
+
+мнению, нуждался в доработке*?.
+
+Однако обстоятельства приобретения кодекса Уффенбахом
+остались неизвестными. НССОМНСННО, что владевшие рукописью
+ранее немецкие гуманисты прекрасно отдавали себе отчет в TOM,
+4TO STOT YHUKaJIbHbIM и неизвестный текст необычайно ценен AIA
+истории и филологии и его необходимо было как можно скорее
+ввести в научный оборот. Но никто из них не успел этого сде-
+лать. Фактически именно Уффенбах первым оценил и продемон-
+стрировал уникальную рукопись“%, он »xe первым стал активно
+ратовать за издание текста. С согласия владельца рукописи из-
+дание De cerimoniis B подлиннике с латинским переводом было
+поручено филологу, историку и профессору богословия в Гессене
+Иоганну Генриху Майю (1653-1719)**, автору появившегося B
+1720 г. каталога Bibliotheca Uffenbachiana. И.Г. Май анонсировал
+издание с латинским переводом и поместил подробное описание
+3? Ibid. Р. 623. После смерти Уффенбаха ero книжное и рукописное собрание
+
+купил в 1749 г. немецкий филолог и библиотекарь гамбургской публичной
+библиотеки Иоганн Христиан Вольф (1690-1770) (Jacobs Е. Wolf, Johann
+Christian // Allgemeine Deutsche Biographie. Leipzig, 1898. Bd. 43. $. 761-762).
+Этот список XVIII B. (ox. 1730-1732 rr.) — выдержки и частичный латинский
+перевод De cerimoniis — по-видимому, сохранился и содержится в рукописи
+Hamburgensis philol. 71, которая находится в собрании Государственной и
+университетской библиотеки Гамбурга (Ргаае! М.М. Katalog der griechischen
+Handschriften der Staats- und Universitatsbibliothek Hamburg. [Serta Graeca.
+Beiträge zur Erforschung griescher Texte. Bd. 14]. Wiesbaden, 2002. P. 12-13,
+134-138).
+
+33 «Codex membraneus saec. XII. elegantissimo charactere exaratus, & quantum con-
+stat, in Orbe UNICUS, neque unquam editus, immo nulli, praeter solum Gesnerum,
+vel cognitus vel memoratus. Sistit ceremonias in Aula & Ecclesia Cpolitana ob-
+servandas, nec non in expeditionibus bellicis & ludis publicis ac solennibus. Opus
+vere Augustum & quod ad posteritatis memoriam servetur non modo, sed & pub-
+licae utilitatis causa divulgetur, cum maxime dignum, auctorem adgnoscens ip-
+sum Imperii Cpolitani summum quondam rectorem, CONSTANTINUM scilicet
+PORPHYROGENITUM, LEONIS sapientis filium & c. Vid. Bibliothec. Mstam
+col. 537. seq. 300» (cm.: Bibliotheca Uffenbachiana Universalis, sive Cataloqus
+librorum tam typis quam manu exaratorum, quos summo studio hactenus collegit
+Zach. Conradus ab Uffenbach, nunc vero ob rationes in proloquio deductas, ve-
+nales prostant. Т. III: Exhibens integrum msstorum tam vet. quam recent. adpara-
+tum, quem Z.C. Ab Uffenbach summo studio atque labore conlegit... Francofurti ad
+Moenum, 1730. Cod. XVII. P. 58-59).
+
+34 Tschackert P. Majus, Johann Heinrich // Allgemeine Deutsche Biographie. Leipzig,
+1884. Bd. 20. S. 123.
+
+Рукопись трактата «О церемониях»... 255
+рукописи“`, однако Ao выхода в свет публикации текста дело так
+H He AOIHJIO.
+
+Вскоре, в 1731 r. рукопись BMecre c другими книгами из
+Bibliotheca Uffenbachiana была приобретена Лейпцигской Биб-
+лиотекой городского совета, с пометой «очень реДКИЙ КОДСКС»Зб.
+Здесь она привлекла внимание историка и публициста, профессора
+естественного и международного права Иоганна Якоба Маскова
+(1689-1761)°’, который заведовал Библиотекой городского совета
+с 1735 r. и организовал каталогизацию ее фОНДОВЗЗ. Масков по-
+ручил издание текста часто посещавшему бИбЛИОТеКУ молодому
+лейпцигскому профессору Иоганну Генриху Лейху (1720-1750)°?.
+О мотивах Маскова напишет позже в своей биографии Райске:
+Масков «хотел снискать у иностранцев уважение и славу для
+Лейпцигской библиотеки городского совета путем издания грече-
+ского манускрипта.... о котором полагали, что второго такого нет
+нигде в мире»“°. Уже в 1743 r. Лейх опубликовал фрагмент гре-
+ческого текста — главу 40 Hs второй книги De cerimoniis (II, 40) с
+латинским переводом в приложении к своей книге «О диптихах у
+древних»*!. В 1745 r. он начал работу Hay изданием всего rexcra*.
+35 Maius Jo.Hen. Bibliotheca Uffenbachiana Msstm seu Catalogus et Recensio Ms-
+
+storum codicum... Col. 565, 537-565.
+
+% Wustmann С. Geschichte der Leipziger Stadtbibliothek, Erste Hälfte 1677 bis
+1801 // Neujahrsblatter der Bibliothek und des Archivs der Stadt Leipzig. Leipzig,
+1906. П. $. 62; Fabricii Ioannis Alberti Bibliotheca graeca sive notitia Scriptorum
+veterum graecorum... / Curante G.Ch. Harles. Hamburgi, 1802. Vol. VIII. $. 30
+(дата приобретения рукописи здесь указана — 1732 г.); Rochow I. Bemerkungen
+zu der Leipziger Handschrift... S. 194.
+
+37 Eisenhart A.R. von. Mascov, Johann Jacob // Allgemeine Deutsche Biographie.
+Leipzig, 1884. Bd. 20. 5. 554-558.
+
+35 Cw.: WustmannG. Geschichte der Leipziger Stadtbibliothek... $. 52-102;
+Rochow I. Bemerkungen zu der Leipziger Handschrift... $. 194-195.
+
+39 Franck J. Leich, Johann Heinrich // Allgemeine Deutsche Biographie. Leipzig,
+1883. Bd. 18. $. 210.
+
+40 D. Johann Jacob Reiskens von ihm selbst aufgesetzte Lebensbeschreibung. Leipzig,
+1783; Johann Jacob Reiske’s Briefe / Hrsg. von R. Foerster. Leipzig, 1897. S. 64.
+(Abhandlungen der Philologisch-historischen Classe der Königlich sachsischen
+Gesellschaft der Wissenschaften; 16).
+
+4! B своей книге Лейх сравнивал описание одежды византийского патрикия c
+часто встречающимся на диптихах изображением консульского облачения,
+поэтому издаваемый фрагмент текста имел для Hero особое значение, см.:
+Leichius J.H. [Diatriba] De Diptychis Veterum, et de Diptycho Eminentissimi
+Quirini. Lipsiae, 1743. 5. X—XIIII.
+
+42 Об этом пишет Райске в Предисловии к Боннскому изданию, см.: Constantini
+Porphyrogenneti imperatoris Constantinopolitani... Р. XIV.
+
+256 M.A. Курышева
+
+Uepe3 TO] появилась ero работа о Константине БЭ‚ГРЯНОРОДНОМ,
+
+re был использован материал из De cerimoniis". Для будущего
+
+издания Лейх использовал не саму рукопись, а сделанный другим
+лицом — магистром Драудом (M. Draud)* — список, который при
+покупке рукописи был передан во владение Библиотеки городско-
+го совета. В своей работе Лейх использовал именно этот список,
+не соотнося его с подлинной рукописью. Однако и Лейх не смог
+
+4 Leichius J.H., Grimm H.D. De vita et rebus gestis Constantini Porphyrogeniti, im-
+peratoris Byzantini commentatio, quam in Academia Lipsiensi amplissimi philo-
+sophorum ordinis. Lipsiae, 1746; в первом Tome издания Райске воспроизведен
+этот труд Лейха — сведения о биографии Константина Багрянородного (Lip-
+siae, 1751. P. XIII—XXII), который повторен в издании Б.Г. Нибура (Bonnae,
+1829. Р. XXXII-LVID.
+
+“4 Tax И.Я. Райске именует автора копии в своей автобиографии в связи с на-
+чалом работы над переводом De cerimoniis. При сличении «издания Лейха»
+(der leichischen Ausgabe) с «копией Драуда» (der draudischen Abschrift) Райске
+характеризует копию Kak сделанную очень добросовестно (D. Johann Jacob
+Reiskens von ihm selbst aufgesetzte Lebensbeschreibung... $. 65). «М.» — Tak
+в TO время писали звание магистра (Cp.: D. Johann Jacob Reiskens von ihm
+selbst aufgesetzte Lebensbeschreibung... S.588, n.1). Драуд упоминается
+В.Г. Васильевским (Васильевский B.I' Обозрение трудов... С. 216). M. Рохов
+пишет о продаже вместе с рукописью копии без упоминания имени копииста
+(Rochow I. Bemerkungen zu der Leipziger Handschrift... $. 195). Людей с этой
+фамилией, способных выполнить копию такого сложного TeKCTa, известно He
+так уж много. Возможно, им был немецкий ученый и библиограф Георг Драуд
+(Georg Draudius [Draud, Draut], 1573-1635) (Dictionnaire historique, critique et
+bibliographique... / Ed. by J.D. Goigoux. Р., 1822. Vol. IX. P. 160-161; Pillet С. М.
+Draud, Giorgio // Biografia universale antica e moderna ossia Storia... Venezia,
+1824. Vol. XVI. P. 297; Franck J. Draudius, Georg // Allgemeine Deutsche Biog-
+raphie. Leipzig, 1877. Bd. У. $. 383; Bartlet М., Elizabeth С. Draudius, Georg //
+The New Grove Dictionary of Music and Musicians. L.; NY, 2001. Vol. 7. P. 558).
+Ou получил богословское образование, 3aTeM степень магистра в Марбурге,
+работал в разных издательствах. В силу того, что он занимался составлением
+каталогов знаменитой Франкфуртской книжной ярмарки и составлял ката-
+логи для немецких книготорговцев, вполне возможно, что через ero руки B
+1590-е годы проходило большое количество книг, среди которых мог оказать-
+ca и кодекс De cerimoniis. Г. Драуд был очень плодовитым писателем и из-
+дателем, подписывался по-разному, в TOM числе и xax «M. Geo. Draudium».
+Если эта версия верна, то история рукописи может быть реконструирована на
+небольшом отрезке времени — на рубеже XVI-XVII BB. Однако твердых осно-
+ваний для отождествления Драуда-копииста рукописи с этим человеком у нас
+пока нет: например, известен еще один филолог-ориенталист Георг-Клеменс
+Драуд (1686—1765) (Draut, Georg-Clément (Draudius) // Dictionnaire historique,
+critique et bibliographique [...] / Ed. by J.D. Goigoux. Р., 1822. Vol. IX. P. 160—
+161). Xora, поскольку Г.-К. Драуд был «магистром философии» и современ-
+ником Райске, вряд ли при публикации текста c использованием сделанной UM
+копии Райске привел бы его имя без соответствующих пояснений.
+
+Рукопись трактата «О церемониях»... 257
+довести издание до конца: OH умер в 1750 г., когда была набрана
+примерно половина текста“.
+Продолжение работы Лейха no переводу текста De cerimoniis
+на латинский язык Масков предложил Иоганну Якобу Райске
+(1716—1774)“°, который в TOT момент He имел постоянного места
+службы, жил в крайней нужде и с трудом добывал средства к
+существованию случайными заработками”. Kak Райске numer в
+одном H3 CBOHX поздних писем, OH B3AJICA 3a рабОТу только ради
+денег, XOTA оплата издателя была очень СКУДНЭ.48. ПОНЭ‚ЧЭ‚ЛУ H неод-
+нократно в процессе рабОТЬ1 текст вызывал у него чувство ужаса и
+отторжения из-за встречающихся в нем «ненавистных и ужасных
+солецизмов H ВЭ.РВЭ.РИЗМОВ>>49. Свое первое впечатление он сфор—
+мулировал следующим образом: «ВарВарткотероу ego quidem
+alium non vidi... Omnia quae in eo offendo mihi nova et ignota sunt»
+(другого более варварского я ведь He видел... Bce, что меня в HEM
+поражает, является новым H НСИЗВССТНЬ1М)5О. Постепенно работа
+над текстом захватила ero, H Райске полностью посвятил себя из-
+данию De cerimoniis: «Totum me habet barbarus meus Wallachus aut
+Cappadox potius, quidni enim appellem Constantinum, ex Armenis
+oriundum» (всего меня забирает мой BapBap из Валахии или, быть
+может, H3 КЭ‚ППЭ‚ДОКИИ, почему бы не назвать его КОНСТЭ‚НТИНОМ,
+происходящим Hs армян)`!. Просмотрев To, что уже успел под-
+45 Как пишет Райске в одном Hs писем, набор текста издания к этому времени был
+доведен до страницы 217: в первом томе издания Райске 1751 r. это стр. 216,
+в Боннском издании соответствует стр. 372 (Johann Jacob Reiske’s Briefe...
+$. 395 (1750 г.)). По-видимому, именно no этой причине Райске вынужден
+Obl напечатать поначалу изъятые Лейхом первые три главы De cerimoniis xax
+приложение — Appendix. Дело в TOM, что занимавшийся греческими военными
+трактатами Лейх опустил эти начальные главы, так как намеревался издать
+их отдельно, поэтому он и начал печатание текста De cerimoniis с 21 листа
+рукописи (cp.: Васильевский B.I' Обозрение трудов... С. 218). Stu первые три
+трактата были исследованы и опубликованы Дж. Хэлдоном, который написал,
+что He знает причины, заставившей Райске поместить эти три текста в Appen-
+dix к Книге 1, тогда Kak, no ero мнению, no смыслу OHH более всего подходят
+для приложения к Книге П, cm: Haldon /.Е Constantine Porphyrogenitus. Three
+Treatises on Imperial Military Expeditions. [CFHB, 28]. Wien, 1990. P. 35.
+
+46 Bobzin H. Reiske, Johann Jacob // Neue Deutsche Biographie. Berlin, 2003. Bd. 21.
+S. 391-392.
+
+470 ero жизни и трудах дает полное представление ero автобиография:
+D. Johann Jacob Reiskens von ihm selbst aufgesetzte Lebensbeschreibung... $. 43.
+
+48 Johann Jacob Reiske’s Briefe... $. 585 (1758 г.).
+
+49 Ibid. $. 407 (1750 г.), 452 (1752 г.), 472 (1752 г.).
+
+50 Thid. $. 395 (1750 г.).
+
+51 Thid. $. 407 (1750 г.).
+
+258 M.A. Курышева
+
+готовить Лейх, Райске нашел у предшественника много неточ-
+
+ностей. По этой причине он счел необходимым обратиться не-
+
+посредственно к самой рукописи, сличив копию с оригиналом и
+
+обнаружив много погрешностей разного рода в передаче текста`?.
+
+Все свои исправления, относящиеся к уже отпечатанным листам,
+
+он скрупулезно указал в комментариях. Уже в 1751 г. появился
+
+первый том издания с переводом и предисловием Райске.
+
+С конца 1751 r. Райске занимался разработкой комментария>.
+Райске работал над комментарием до 1754 г. и выпустил два
+тома. Запланированный 3-й том должен был содержать остаток
+комментария, однако издатель отказался публиковать продолже-
+ние затянувшейся работы. Райске был очень расстроен «неуступ-
+чивостью» издателя и уже не надеялся на опубликование своего
+комментария. Tak, в одном письме от | января 1756 г. он пишет,
+что для него было бы счастьем, если бы комментарий был опуб-
+ликован столетие спустя после ero смерти”*.
+
+Таким образом, прошло уже более 250 лет с момента пер-
+вой публикации в 1751 г. выдающимся грецистом, арабистом и
+византинистом Иоганном Якобом Райске греческого текста трак-
+tata De cerimoniis aulae byzantinae Константина Багрянород-
+Horo по Лейпцигской рукописи (Cod. Lipsiensis bibl. Urb. Rep. I
+17). Ora же публикация легла в основу издания De cerimoniis в
+Боннском корпусе Б.Г. Нибура`°, который спустя eme 75 лет
+полностью опубликовал комментарий VA. Райске. Этот том
+Боннского корпуса использовался во всех исторических и фи-
+лологических исследованиях вплоть до австралийского издания
+английского перевода текста и нового комментария 2012 г.°° Ho
+5 D. Johann Jacob Reiskens von ihm selbst aufgesetzte Lebensbeschreibung...
+
+$. 65-68; Johann Jacob Reiske’s Briefe... $. 416 (1750 г.).
+
+53 Johann Jacob Reiske’s Briefe... $. 440 (1751 г.), 452 (1752 г.).
+
+54 Thid. $. 564 (1756 г.).
+
+55 Bonnae, 1829/1830.
+
+% См. последнее воспроизведение текста: Constantine Porphyrogennetos. The
+Book of Ceremonies / Trans. by A. Moffatt, М. Tall with the Greek edition of the
+Corpus Scriptorium Historiae Byzantinae (Bonn, 1829). Canberra, 2012. Vol. 1-2.
+[Byzantina Australiensia; 18/1-2]. Частично следовал изданию Райске в сво-
+ем незавершенном труде А. Mort, издавший греческий TeKcT, французский
+перевод и комментарий первой книги De cerimoniis, см.: Constantin VII Por-
+phyrogenete. Le Livre des Cérémonies [= De ceremoniis] / Texte établi et traduit,
+commentaire par A. Vogt. Р., 1935-1939 [1940]; 1967 (repr.). 4 vols. В преди-
+CJIOBHH OH пишет, что сверял боннское издание с фОТОГрафИЯМИ ЛСЙПЦИГСКОЙ
+рукописи, исправляя текст TaM, где считал нужным для правильного чтения.
+ОДНЗКО А. Фогт He отмечал CBOH поправки в критическом аппарате и тем
+
+Рукопись трактата «О церемониях»... 259
+
+и в 2012 r. основная часть греческого текста репринтным спо-
+
+собом была воспроизведена по изданию Нибура 1829/30 г.
+
+Иными словами, до сих пор один из OCHOBHBIX HCTOUHHKOB HO
+
+истории Византии Х столетия и предшествующего периода
+
+используется современными учеными фактически в издании
+
+XVIII в.
+
+ВОЗВРЭ‚ЩЭ‚ЯСЬ K моменту появления рукописи B поле нашего
+исторического зрения, НеОбХОДИМО подчеркнуть, ATO это появ-
+ление произошло в середине XV B., т.е. сразу же после падения
+Константинополя в 1453 г. Поэтому с высокой долей вероятнос-
+TH, мы можем догадываться, что рукопись перед тем Kak попасть
+в Европу с момента своего создания и до середины XV в. пребы-
+вала в столице Византии. Со времени создания текста в течение
+почти 500 лет никакие ее списки не оставили даже следов WIN
+УПОМИНЗНИЙ57. Это наводит нас на мысль, что после прекращения
+рабОТЬ1 группы СОТРУДНИКОВ58 императора Константина VII текст
+не копировался и не тиражировался. РУКОПИСЬ трактата была при-
+надлежностью даже He ПРИДВОРНОЙ ЭЛИТ&РНОЙ культуры Констан-
+THHOHOJIA, a eie более узкого круга интеллектуалов, окружавших
+императора Константина VII.
+
+самым вольно передавал текст, считая его единственную рукопись поздней ре-
+дакцией конца ХП — начала ХШ s. Takum образом, произвольная правка Фог-
+Ta, исходящего ns идеи позднего характера рукописи, He может OBIT принята.
+
+57 Второй неполный список этого текста относится к Х s. (Mango C., Sevéenko 1.
+А New Manuscript of the De Cerimoniis // Dumbarton Oaks Papers. 1960. Vol. 14.
+P. 247-249; Featherstone M. Court Orthography: Spelling in the Leipzig Manu-
+script of De Cerimoniis // Philomathestatos: Studies in Greek Patristic and Byzan-
+tine Texts Presented to Jacques Noret for his Sixty-Fifth Birthday / Ed. by B. Jans-
+sens, В. Roosen and P. van Deun. Leuven; Paris; Dudley/Ma. 2004. P. 239-247;
+Featherstone M., Gruskova J., Kresten O. Studien zu den Palimpsestfragmenten...
+$. 423-430, Taf. VII-X). Подробнее cm. вторую часть нашего исследования.
+
+55 Среди которых выделялся Василий Hod, см.: Шевченко И.И. Перечитывая
+Константина Багрянородного // Византийский временник. М., 1993. Т. 54.
+С. 28 (cp.: Sevéenko I. Re-reading Constantine Porphyrogenitus // Byzantine Di-
+plomacy / Ed. J. Shepard and $. Franklin. London, 1992. P. 185); Курышева M.A.
+Два «заказа» Василия Hoda: к датировке кодекса PHB. Греч. 55 и идентифи-
+кации кольца из Лувра // Палеография, кодикология, дипломатика: Современ-
+ный опыт исследования греческих, латинских и славянских рукописей и доку-
+ментов: Материалы Международной научной конференции в честь 75-летия
+доктора исторических наук, члена-корреспондента Афинской Академии Бо-
+риса Львовича Фонкича. Москва, 27—28 февраля 2013 r. / ors. ред. И.Г. Коно-
+валова. М., 2013. С. 174—185; Курышева M. A. Золотое кольцо Василия Лакапи-
+на (Нофа) // XEPLQNOX OEMATA: «империя» и «полис»: Сборник научных
+трудов / под ред. Н.А. Алексеенко. Севастополь, 2013. C. 25-36.
+
+260 M.A. Курышева
+БИБЛИОГРАФИЯ
+
+Васильевский B.I' Обозрение трудов no византийской истории.
+СПб., 1890. Bam. I.
+
+Гусарова Т.П. Культура Венгрии в конце XV — начале XVII в. // Ис-
+тория культуры стран Западной Европы в эпоху Возрождения / под. ред.
+Л.М. Брагиной. М., 2001.
+
+Кудрявцев О.Ф. Иоганн Фабри // Россия в первой половине XVI в.:
+взгляд из Европы. М., 1997. С. 135-142.
+
+Кудрявцев О.Ф. Трактат Иоганна Фабри «Религия московитов»
+[1525 г.] // Россия и Германия. М., 1998. Вып. 1. С. 10-45.
+
+Кудрявцев О.Ф. Святая Русь, или русская греза доктора Иоганна
+Фабри // Европейское Возрождение и русская культура ХУ — середины
+ХУП в.: контакты и взаимное восприятие / отв. ред. О.Ф. Кудрявцев. М.,
+2013. С. 129-168.
+
+Курышева М.А. Два «заказа» Василия Нофа: к датировке кодекса
+РНБ. Греч. 55 и идентификации кольца из Лувра // Палеография, ко-
+дикология, дипломатика: Современный опыт исследования греческих,
+латинских и славянских рукописей и документов: Материалы Между-
+народной научной конференции в честь 75-летия доктора исторических
+наук, члена-корреспондента Афинской Академии Бориса Львовича
+Фонкича. Москва, 27—28 февраля 2013 r. / ors. ред. И.Г. Коновалова. М.,
+2013. С. 174-185.
+
+Курышева M.A. Золотое кольцо Василия Лакапина (Hoda) //
+ХЕРХОМОХ OEMATA: «империя» и «полис»: Сборник научных трудов /
+под ред. Н.А. Алексеенко. Севастополь, 2013. С. 25—36.
+
+Шевченко И.И. Перечитывая Константина Багрянородного // Визан-
+тийский временник. М., 1993. Т. 54. С. 6—38.
+
+А Star in the Raven’s Shadow: Janos Vitéz and the Beginnings of Hu-
+manism in Hungary. Exhibition Catalogue, 14 March 2008 — 15 June 2008,
+National Széchényi Library / Ed. by Е. Féldesi. Budapest, 2008.
+
+Affo I. Memorie di Taddeo Ugoleto Parmigiano, bibliotecario di Mattia
+Corvino, re di Ungheria. Parma, 1781.
+
+Bibliotheca Uffenbachiana Universalis, sive Cataloqus librorum tam ty-
+pis quam manu exaratorum, quos summo studio hactenus collegit Zach: Con-
+radus ab Uffenbach, nunc vero ob rationes in proloquio deductas, venales
+prostant. Francofurti ad Moenum, 1730. Т. III: Exhibens integrum msstorum
+tam vet. quam recent. adparatum, quem Z.C. Ab Uffenbach summo studio
+atque labore conlegit...
+
+Branca V. Mercanti e librai fra Italia e Ungheria // Venezia e Ungheria
+nel Rinascimento. Firenze, 1973. P. 335-352.
+
+Branca V. Poliziano е ’umanesimo della parola. Torino, 1983.
+
+Constantini Porphyrogenneti imperatoris Constantinopolitani libri duo
+de cerimoniis aulae Byzantinae prodeunt nunc primum Graece cum latina in-
+terpretatione et commentariis / Curarunt Jo.H. Leichius et Jo.Jac. Reiskius.
+Lipsiae, 1751-1754. Т. I—II.
+
+Рукопись трактата «О церемониях»... 261
+
+Constatnini Porphyrogeniti imperatoris de cerimoniis aulae Byzantinae
+libri duo / Rec. J.J. Reiske. Bonnae, 1829-1830. 1-П. [CSHB, 20-21].
+
+Constantine Porphyrogennetos: The Book of Ceremonies / Trans. by
+A. Moffatt, M. Tall with the Greek edition of the Corpus Scriptorium Histo-
+riae Byzantinae (Bonn, 1829). [Byzantina Australiensia, 18/1—2]. Canberra,
+2012. Vol. 1-2.
+
+Csapodi Cs.—Gardonyi K. Die Bibliothek des Johannes Vitéz. Budapest,
+1984.
+
+Csapodi Cs. La biblioteca di Beatrice d’Aragona moglie di Mattia Cor-
+vino // Italia e Ungheria dieci secoli di rapporti letterari. Budapest, 1967.
+P. 113-132.
+
+Csapodi Cs. Les livres des Janus Pannonius et sa bibliothéque a Pécs //
+Scriptorium. 1974. Т. 28. P. 32-50.
+
+Csapodi Cs. The Corvinian Library. History and Stock. Budapest, 1973.
+
+Csapodi Cs.—Csapodi-Gardonyi K. Bibliotheca Corviniana. Budapest,
+1990 (4e ed.).
+
+Csapodi Cs.—Csapodi-Gardonyi K. Bibliotheca Corviniana: The Library
+of King Matthias Corvinus of Hungary. [Budapest], 1981 (2e ed.).
+
+D. Johann Jacob Reiskens von ihm selbst aufgesetzte Lebensbe-
+schreibung. Leipzig, 1783.
+
+D’Alessandro A. Astrologia, religione е scienza nella cultura medica е
+filosofica di Galeotto Marzio // Italia e Ungheria all’epoca dell’umanesimo
+corviniano. Florence, 1994. P. 133-177.
+
+Fabricius Ioannis Alberti. Bibliothecae graecae Libri V. Pars altera, sive
+volumen sextum, quo graeci auctores annalium, et historiae ecclesiasticae ac
+byzantinae, nec non erotici scriptores recensentur. Hamburgi, 1726.
+
+Fabricii Ioannis Alberti Bibliotheca graeca sive notitia Scriptorum vet-
+erum graecorum... / Curante G.Ch. Harles. Hamburgi, 1802. Vol. VIII.
+
+Featherstone J.M. Preliminary Remarks on the Leipzig Manuscript of
+De Cerimoniis // Byzantinische Zeitschrift. 2002. Bd. 95, H. 2. $. 457-479,
+Taf. XIV—XVIIL.
+
+Featherstone M. Court Orthography: Spelling in the Leipzig Manuscript
+of De Cerimoniis // Philomathestatos: Studies in Greek Patristic and Byzan-
+tine Texts Presented to Jacques Noret for his Sixty-Fifth Birthday / Ed. by
+B. Janssens, B. Roosen and P. van Deun. Leuven: Paris; Dudley, MA. 2004.
+
+Featherstone M., Gruskova J., Kresten O. Studien zu den Palimpsest-
+fragmenten des sogenannten «Zeremonienbuches»: I. Prolegomena // Byz-
+antinische Zeitschrift. 2005. Bd. 98. H. 2. $. 423-430, Taf. VII-X.
+
+Fischer L. König Matthias Corvinus und seine Bibliothek. Wien, 1878.
+
+Franke K. Zacharias Conrad von Uffenbach als Handschriftensam-
+miler: ein Beitrag zur Kulturgeschichte des 18. Jahrhunderts // Archiv fiir Ge-
+schichte des Buchwesens. Wiirzburg, 1967. Bd. VI. $. 1-208.
+
+Gamillscheg E., Mesich B., Mazal O. Matthias Corvinus und die Bil-
+dung der Renaissance Handschriften aus der Bibliothek und dem Umkreis
+des Matthias Corvinus aus dem Bestand der Osterreichischen Nationalbiblio-
+thek: Katalog einer Ausstellung der Handschriften- und Inkunabelsammlung
+
+262 M.A. Курышева
+der Osterreichischen Nationalbibliothek, 27. Mai — 26. Oktober 1994. Wien,
+1994.
+
+Haldon J.F- Constantine Porphyrogenitus. Three Treatises on Imperial
+Military Expeditions. Wien, 1990.
+
+Huszti J. Janus Pannonius. Pécs, 1931.
+
+Johann Jacob Reiske’s Briefe / Hrsg. von R. Foerster. Leipzig, 1897.
+(Abhandlungen der Philologisch-historischen Classe der Kéniglich sachsis-
+chen Gesellschaft der Wissenschaften; 16).
+
+Leichius J.H. [Diatriba] De Diptychis Veterum, et de Diptycho Eminen-
+tissimi Quirini. Lipsiae, 1743.
+
+Leichius J.H., Grimm H.D. De vita et rebus gestis Constantini Porphy-
+rogeniti, imperatoris Byzantini commentatio, quam in Academia Lipsiensi
+amplissimi philosophorum ordinis. Lipsiae, 1746.
+
+Lhotsky A. Die Bibliothek des Bischofs von Wien, Dr. Johannes Fabri
+(1530-1541) // Idem. Aufsatze und Vortrage. Miinchen, 1972. Bd. 3: Histori-
+ographie, Quellenkunde, Wissenschaftsgeschichte. $. 228-241.
+
+Madas E. La Bibliotheca Corviniana et les corvine «authentiques» // De
+Bibliotheca Corviniana: Matthias Corvin, les bibliothéques princiéres et la
+genése de Г Ела! modern. Supplementum Corvinianum II. Budapest, 2009.
+P. 35-78.
+
+Maderus Joachim Joannes. De Bibliothecis atque archivis virorum cla-
+rissimorum libelli et commentationes. Helmestadi, 1702.
+
+Mango C. Sevéenko I. A New Manuscript of the De Cerimoniis //
+Dumbarton Oaks Papers. 1960. Vol. 14. Р. 247-249.
+
+Miggiano G. Marzio, Galeotto (Galeottus Narniensis) // Dizionario Bi-
+ografico degli Italiani. Roma, 2008. Vol. 71. P. 478-483.
+
+Miko A. Un sovrano umanista e la cultura classica fra antichita e moder-
+nita: Le questioni dell’ interpretazione politica della Biblioteca Corviniana //
+De Bibliotheca Corviniana. Matthias Corvin, les bibliothéques princiéres et
+la genése de l’Etat modern: Supplementum Corvinianum П. Budapest, 2009.
+P. 275-285.
+
+Milano Е. 1 codici corviniani conservati nelle biblioteche italiane // Nel
+segno del Corvo. Modena, 2002. P. 65-94.
+
+Monok I. La Bibliotheca Corviniana et les imprimés // De Bibliotheca
+Corviniana: Matthias Corvin, les bibliothéques princiéres et la genése de
+1' Etat modern. Supplementum Corvinianum П. Budapest, 2009. P. 161-175.
+
+Naldus Naldius. De \audibus augustae bibliothecae // Mathias Belius.
+Notizia Hungariae Novae Historico Geographica. Viennae Austriae, 1737.
+T. 3. P. 589-642.
+
+Naumann Ae.G.R. Catalogus librorum manuscriptorum, qui in Biblioth-
+eca Senatoria civitatis Lipsiensis asservantur. Grimae, 1838.
+
+Pajorin K. L’opera di Naldo Naldi sulla biblioteca di Mattia Corvino e la
+biblioteca umanistica ideale // L’Europa del libro nall’eta dell’ Umanesimo.
+Atti del XIV Convegno internazionale. Chianciano, Firenze, Pienza
+16-19 luglio 2002 / A cura di L. Secchi Tarugi. Firenze, 2004. P. 317-330.
+
+Рукопись трактата «О церемониях»... 263
+
+Pocs D. Urbino, Florence, Buda: Models and Parallels in the Development
+of the Royal Library // Matthias Corvinus, the King: Tradition and Renewal
+in the Hungarian Royal Court (1458-1490): Exhibition Catalogue, 19 March
+2008 — 30 June 2008. Budapest History Museum, 2008. P. 147-163.
+
+Pradel M.M. Katalog der griechischen Handschriften der Staats- und
+Universitatsbibliothek Hamburg. Wiesbaden, 2002. (Serta Graeca: Beitrage
+zur Erforschung griescher Texte; Bd. 14).
+
+Ritoék-Szalay A. Der Humanismus in Ungarn zur Zeit von Matthias
+Corvinus // Humanismus und Renaissance in Ostmitteleuropa vor der Ref-
+ormation / Hrsg. von W. Eberhard, A.A. Strnad. K6In; Weimar; Wien, 1996.
+S. 157-171.
+
+Rochow I. Bemerkungen zu der Leipziger Handschrift des Zeremonien-
+buches des Konstantinos Porphyrogennetos und zu der Ausgabe von J.J. Re-
+iske // Klio. 1976. Т. 58. $. 193-197.
+
+Rozsondai М. Sulle ligature in cuoio dorato per Mattia Corvino // №1
+segno del Corvo. Modena, 2002. P. 249-259.
+
+Rozsondai М. Uber die Einbände der in Miinchen aufbewahrten Cor-
+vinen // Ex Bibliotheca Corviniana: Die acht Miinchener Handschriften aus
+dem Besitz von König Matthias Corvinus / Hrsg. von С. Fabian, Е. Zsupan.
+Budapest, 2008. Supplementum Corvinianum I. 5. 143-152.
+
+Salvianus, Massyliensis (sic!) episcopi. De Vero Judicio et Providentia
+Dei, Libri VIII / Cura Jo. Alexandri Brassicani Jureconsulti editi ac erudi-
+tis et cum primis utilibus scholiis illustrati. Anticimenon Ilibri III in quibus
+quaestiones Veteris ac Novi Testamenti de locis in speciem pugnantibus, in-
+certo Auctore. Basileae, 1530.
+
+Sevéenko I. Re-reading Constantine Porphyrogenitus // Byzantine Di-
+plomacy / Ed. J. Shepard and $. Franklin. London, 1992. P. 167-195.
+
+Tanner M. The Raven King: Matthias Corvinus and the Fate of His Lost
+Library. Yale, 2008.
+
+The Correspondence of Erasmus: Letters 1122-1251 (1520-1521) /
+Trans. R.A.B. Mynors, annotated P.G. Bietenholz. Toronto, 1988.
+
+Tréger Е. Handschriften aus der Bibliotheca Corvina in den Bibliotheken
+der Deutschen Demokratischen Republik // Zentralblatt f. Bibiothekswesen.
+1964. 78. $. 152-159.
+
+Vespasiano da Bisticci. Vite di uomini illustri del secolo XV rivedute sui
+manoscritti da Lodovico Frati. Bologna, 1892-1893. Т. I-III.
+
+Weinberger W. Beitrage zur Handschriftenkunde I (Die Bibliotheca Cor-
+vina) // Sitzungsberichte der Kaiserlichen Akademie der Wissenschaften in
+Wien. Philosophisch-Historische Klasse. [1908]. 159. 6. S. 1-89.
+
+Wilson N. Some Notable Manuscripts Misattributed or Imaginary. II.
+Some Lost Greek Authors // Greek, Roman and Byzantine Studies. 1975.
+Vol. 16 (1). P. 98-101.
+
+Wustmann G. Geschichte der Leipziger Stadtbibliothek: Erste Hälfte
+1677 bis 1801 // Neujahrsblatter der Bibliothek und des Archivs der Stadt
+Leipzig. Leipzig, 1906. П. $. 1-221.
+

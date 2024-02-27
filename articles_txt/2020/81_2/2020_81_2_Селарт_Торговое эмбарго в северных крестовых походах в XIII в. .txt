@@ -1,0 +1,936 @@
+ГОРОДА, ТОРГОВЛЯ, ВЛАСТЬ
+УДК 94(474+430)“12”
+А. Селарт*
+ТОРГОВОЕ ЭМБАРГО В СЕВЕРНЫХ КРЕСТОВЫХ
+ПОХОДАХ В ХШ ВЕКЕ **
+
+В XII в. в Средиземноморском регионе торговое эмбарго стало использоваться как
+часть крестоносной политики. В ХШ в. подобные правила (временный запрет на
+торговлю с тем или иным партнером, списки запрещенных товаров) были введены
+и на Балтике. Однако инициатива временных или постоянных запретов на торговлю
+с язычниками и/или с союзниками язычников (например, с русскими) исходила не
+от папской курии. Ограничительные меры были ответами римских пап на местные
+петиции, следовательно, они отражали то, как нормы канонического права стали
+применяться в местных политических интересах. Стандартные формулировки за-
+претов часто основывались на первоначальных средиземноморских нормах и не
+учитывали должным образом ситуацию в Северной Европе. Первое эмбарго такого
+рода было введено в 1218 г. в поддержку епископа Пруссии Кристиана. В ряде слу-
+чаев блокада затрагивала остров Готланд, который в то время являлся центром бал-
+тийской торговли. С конца ХШ в. меры по ограничению или запрету торговли вклю-
+чались в указы шведских королей в поддержку их притязаний на Карелию. В то же
+время Тевтонский орден не только воевал с балтийскими язычниками, но и развивал
+интенсивные торговые отношения с языческой Литвой.
+
+Ключевые слова: северные крестовые походы, эмбарго, папская курия, Ливония,
+
+Пруссия.
+
+DOI: 10.7868/S013 1878020020038
+
+* Анти Селарт — PhD, профессор Тартуского университета (г. Тарту, Эстония).
+E-mail: anti.selart@ut.ee.
+Anti Selart — PhD; Professor, University of Tartu (Tartu, Estonia). E-mail:
+anti.selart@ut.ee.
+
+** Первоначально статья была опубликована Ha немецком языке: Selart A.
+Waffenembargo in den nordischen Kreuzziigen im 13. Jahrhundert // ene vruntlike
+tohopesate: Beitrage zur Geschichte Pommerns, des Ostseeraums und der Hanse:
+Festschrift fiir Horst Wernicke zum 65. Geburtstag / Hrsg. von $. Birli, М. Jorn,
+Ch. Peplow, H.Th. Porada, D. Schleinert. Hamburg, 2016. $. 549-558. При
+переводе и подготовке статьи к публикации в журнале «Средние века» aBTO-
+ром был внесен ряд изменений, в том числе изменено название.
+
+Средние века. 2020. 81 (2)
+
+76 A, Селарт
+TRADE EMBARGO OF THE 1378 CENTURY
+NORTHERN CRUSADES
+
+The ecclesiastical trade embargo as a part of the crusading policy emerged in the Medi-
+
+terranean during the twelfth century. In the thirteenth century this kind of regulations
+
+(temporary ban on the trade with some partner, or implementing lists of prohibited goods)
+
+were introduced in the Baltic Sea area as well. The papal instructions of temporary or per-
+
+manent prohibitions of the trade with pagans and/or the allies of pagans (Russians, e.g.)
+
+did not originate from an initiative of the papal curia, however. They were papal responses
+
+to local petitions and, consequently, they reflect how the canon law became implemented
+
+in local political interests. Still, the standard wording of the regulations frequently based
+on the original Mediterranean norms and did not adequately reflect the situation in the
+
+Northern Europe. The first embargos of this kind were issued in 1218 to support Bishop
+
+Christian of Prussia. In several cases the embargo affected the Gotland Island, the then
+
+centre of the Baltic trade. Later on, the embargo was taken over and included in the secu-
+
+lar legislation of Swedish kings from the late thirteenth century onwards to support their
+claims in Karelia. At the same time, even the Teutonic Order not only fought the Baltic
+heathens, but simultaneously also developed intensive trade relations to pagan Lithuania.
+
+Keywords: Northern Crusades, Papal Embargo, Papal Curia, Livonia, Prussia.
+
+Toprosaa OsloKayla, т.е. ЭМбЗРГО на торговлю ВООбЩС или Ha тор-
+говлю определенными товарами, B Средние века нередко исполь-
+зовалась Ганзой в качестве инструмента торговли. ЧЗЩС всего STO
+касалось партнеров Ганзы на Руси и во Фландрии. Как отметил не-
+МСЦКИЙ историк XOpCT BCpHI/IKC, «взвесив как долгосрочные эконо-
+мические, так и кратковременные политико-тактические послед-
+ствия, обе стороны, особенно Ганза, стали использовать бойкот
+в качестве орудия»!.
+
+СРСДИ наиболее важных торговых партнеров ганзейских купцов
+были русские города, в том числе и Новгород. Уже во время форми-
+рования Ганзы «товары, которыми обменивались готландские и ган-
+зейские купцы в Новгороде, стали [...] ключевым элементом форми-
+рования монополии Ганзейского союза на протяжении XIII в.»?. Ito
+был BeK, когда в жизни городов определяющими стали ганзейские
+устои; BeK, когда B Прибалтике появились «немецкие» города.
+
+В исторических трудах можно найти традиционно неоднознач-
+ные оценки ганзейской торговли на Русиз. С одной стороны, подчер-
+! Wernicke H. Die Stadtehanse 1280-1418: Genesis — Strukturen — Funktionen,
+
+Weimar, 1983. $. 142.
+
+? Wernicke H. Novgorod und die Hanse // Beitrage zur Geschichte des Ostseeraumes:
+Vortrage der ersten und zweiten Konferenz der Historiker des Ostseeraumes / Hrsg.
+von H. Wernicke. Hamburg, 2002. S. 24.
+
+3 A Companion to the Hanseatic League / Ed. by D.J. Harreld. Leiden; Boston, 2015.
+
+Торговое эмбарго в северных крестовых noxodax в XIII exe 77
+кивается значение торговли как источника благосостояния ливон-
+CKHX городов. С ДРУГОЙ стороны, делается акцент на разнообраЗНЬ1х
+КОНфЛИКТ8Х4. ХОРОШО известно также, что ганзейские города, чтобы
+повысить сговорчивость своих партнеров, нередко блокировали WX
+торговлю.
+
+Прочную основу отношений между русскими землями и Ганзей-
+ским союзом в Средние Beka формировал принцип «чистого пути»` —
+право беспрепятственного и безопасного въезда и выезда. ОДНЗКО
+принцип СВОбОДЬ1 торговли в контексте городских ПРИВИЛСГИЙ, пре-
+следование ландсгеррамиб собственных интересов, политика ганзей-
+ских городов H притязания отдельных торговцев оставались источ-
+никами постоянного напряжения. Это особенно хорошо видно Ha
+завершающем этапе истории Ливонии. В последние десятилетия
+XV в. ливонские ландсгерры активно пытались ограничить экспорт
+на Pycb металлов, использовавшихся при производстве оружия, —
+железа HJIH МСДИ7. Но проповедник и пастор из Ревеля Бальтазар
+Pyccos (ym. в 1600 г.), автор «Хроники провинции Ливонии», объяс-
+няя падение СреДНСВСКОВОЙ Ливонии после вторжения русских во-
+lick в 1558 r., писал, что катастрофе способствовали алчные ливон-
+ские и прочие ганзейские купцы, которые поставляли врагу оружие:
+«...многие ливонские и другие купцы немецких приморских городов
+из жадности и КОРЬ1СТОЛЮбИЯ возили MOCKOBHTy тайно и явно всякие
+запрещенные товары H военные снаряды.. .»8.
+
+* Goetz L.K. Deutsch-Russische Handelsgeschichte des Mittelalters. Liibeck, 1922.
+$. 232-235.
+
+5 Liv-, Esth- und Curlandisches Urkundenbuch nebst Regesten / Hrsg. von Fr.G. von
+Bunge. Riga, 1873. Bd. 6. Ne 2924 (далее — LUB); Hansisches Urkundenbuch /
+Hrsg. von K. Héhlbaum. Halle, 1876. Bd. 1. Ne 1345 (далее — HUB).
+
+* Ландсгерр — сюзерен той или иной территории, o6raxaBmmi Landeshoheit, тер-
+риториальным «суверенитетом», предусматривавшим широкие права в судеб-
+ной и административной сферах. Ландсгеррами могли быть как светские, так
+и духовные лица. Tak, в средневековой Ливонии ландсгеррами были: Тевтон-
+ский орден, архиепископ Рижский, епископы Дерптский, Эзельский и Кур-
+ляндский, король Дании (до 1346 г.).
+
+7 Esper Th. A Sixteenth-Century anti-Russian Arms Embargo // Jahrbiicher fiir
+Geschichte Osteuropas. 1967. Bd. 15. S. 180-196; Хорошкевич А.Л. Русское ro-
+сударство в системе международных отношений конца XV — начала XVI B.
+М., 1980. С. 38-46, 73-74; Leimus I. Perdeteken — Pragezeichen? Uber
+eine angebliche Quelle zur Dorpater Miinzgeschichte // Numismatisches
+Nachrichtenblatt. 2014. Bd. 63. $. 220-221.
+
+5 «...dat etlike Lyfflendissche und andere Koepliide, uth den Diideschen Sehe Stedten,
+uth grother gyricheit unde eigen nutte, dem Muscowiter allerley vorbadene Wahre,
+unde Krygesmunition heimlik und apenbaer thogeféret» — Riissow В. Chronica der
+Prouintz Lyfflandt. Rostock, 1578. Fol. 200r.
+
+78 A, Селарт
+
+IIpexpaujenue торговли и арест чужеземцев как способ дав-
+ления, равно как и первая известная торговая блокада в ганзей-
+ско-русском контексте — КОНфЛИКТ между ГОТЛЗНДОМ И Hosropo-
+дом около 1188/89 r.9, были способами временного ограничения
+ТОРГОВЛИЮ. ЕЩС оДНИМ способом были перечни запрещенных TO-
+варов — с HX помощью Ha торговлю налагались длительные огра-
+ничения.
+
+Такие меры, как торговая бЛОКЭ‚ДЭ‚ и запрет на продажу тех то-
+варов, которые в руках врага могли стать опасными для продавца,
+были известны и юридически закреплены B EBpone еще B 5IIO—
+xy поздней Римской империи и раннего Средневековья. He позд-
+Hee 60-х годов ХП B. схожие правовые нормы стали применяться
+в связи с Крестовыми походами, а в 1179 г., после Ш Латеранско-
+TO coOopa, вошли B каноническое право11. Согласно 24-my KaHOHY
+III Латеранского собора от церкви отлучались Te, KTO поставлял
+сарацинам оружие, железо H лесоматериалы, использовавшиеся
+для постройки боевых судов'?. Наказанию — церковному отлуче-
+нию — нарушители подлежали сразу, без вынесения фОРМаЛЬНОГО
+вердикта'`. Запрет был повторен папой Иннокентием Ш в 1213 r.,
+B 6ynne, ПОСВЯЩСННОЙ организации нового Крестового ПОХОДЗИ‚
+9 О контактах с Русью c ХШ в. см.: Selart A. Livonia, Rus’ and the Baltic Crusades
+
+in the Thirteenth Century. Leiden; Boston, 2015.
+
+0 Kattinger D. Die Gotlandische Genossenschaft: Der friihhansisch-gotlindische
+Handel in Nord- und Westeuropa. Köln; Weimar; Wien, 1999. $. 145-146;
+Линд Дж. Загадочная статья Новгородской первой летописи: Что случилось
+в 1188 году? // Архив русской истории. 1994. Вып. 4. С. 191-205.
+
+Cm. самое последнее монографическое исследование: Stantchev S. Spiritual
+Rationality: Papal Embargo as Cultural Practice. Oxford, 2014. Также см.: Speck E.
+Die gegen den Handel der Lateiner mit den Saracenen gerichteten kirchlichen und
+staatlichen Verbote: Eine Darstellung aus der Handelsgeschichte. Zittau, 1880.
+S. 359-376; Stantchev S. The Medieval Origins of Embargo as a Policy Tool //
+History of Political Thought. 2012. Vol. 33. $. 373-399; Menache $. Papal Attempts
+at a Commercial Boycott of the Muslims in the Crusader Period // The Journal of
+Ecclesiastical History. 2012. Vol. 63. $. 236-259; Constable O.R. Clothing, Iron, and
+Timber: The Growth of Christian Anxiety about Islam in the Long Twelfth Century //
+European Transformations: The Long Twelfth Century / Ed. by T.F.X. Noble, J. van
+Engen. Notre Dame, 2012. Р. 284-289.
+
+Р О значении выражения lignamina galearum, подробнее см.: Stantchev 5.
+Spiritual Rationality... Р. 45.
+
+13 Conciliorum oecumenicorum decreta / Ed. J. Alberigo et al. Bologna, 1973. P. 223;
+Corpus iuris canonici / Hrsg. von Е. Friedberg. Leipzig, 1881. Bd. 2. $. 773.
+
+14 Crusade and Christendom: Annotated Documents in Translation from Innocent III
+to the Fall of Acre, 1187-1291 / Ed. by J. Bird, J. Peters, J.M. Powell. Philadelphia,
+2013. P. 111.
+
+Торговое эмбарго в северных крестовых noxodax в XIII exe 79
+ив 1215 г., в решениях IV Латеранского собора'`. Расширением
+этого пункта стал TIOJIHBIH запрет Ha торговлю с сарацинами BO
+время военных действий'°.
+
+Запрет на торговлю с сарацинами определенными видами TO-
+варов регулярно применялся B ХШ в., время от времени OH распро-
+странялся и на другие товары, например, на ЛОШЗДСЙ и продукты
+питания. В 1229 r. nana Григорий 1Х, наложив церковное отлучение
+на императора Фридриха П, предписал также отлучать от церкви
+всех тех, кто поставлял сарацинам ЛОШЗДСЙ, оружие, железо и дре-
+весину!”. В TOM »xe виде это предписание было упомянуто Григо-
+рием IX в 12341, в письме с призывом к новому Крестовому по-
+ходу'“. В папском послании 1235 r. в дополнение к перечисленным
+выше товарам названы «запрещенные товары», merces prohibitae’”.
+Запрещенные товары упоминались и Ha Лионских соборах 1245 r.
+и 1274 г.?°, т.е. данная правовая норма часто рекомендовалась K при-
+менению, B TOM числе в связи с призывами к новым Крестовым
+походам?!.
+
+ОДНЗКО и призывы к Крестовым походам, H, соответственно,
+торговое ЭМбЗРГО могли служить средствами во ВНУТРСННСЙ бОРЬбС
+между различными партиями в католическом лагере, прежде всего
+в пропагандистском соперничестве за звание «истинного» защитни-
+ка христианского народа (И, соответственно, за законное ОбЛЗДаНИС
+теми WIM HHLEIMH ПРИВИЛСГИЯМИ)22. В то же время многочисленные
+упоминания в источниках подтверждают, что нормы канонического
+права было не так легко применить на практике. В средиземномор-
+ском регионе в период позднего СРСДНСВСКОВЬЯ запреты и ПОбОРЫ,
+наказания и привилегии привели к «гармонизации Крестовых IIO—
+5 Conciliorum oecumenicorum decreta... P. 270; Corpus iuris canonici... $. 777.
+
+6 Corpus iuris canonici... $. 775; Muldoon J. Popes, Lawyers, and Infidels,
+Liverpool, 1979. P. 34.
+
+!7 Epistolae saeculi XIII е regestis pontificum romanorum selectae / Hrsg. von
+K. Rodenberg. B., 1883. Bd. 1. $. 318-320. Ne 399.
+
+'8 Ibid. $. 492-495. Ne 605.
+
+19 «...qui portaverunt ferrum, arma, ligna et merces prohibitas...» — Ibid. $. 532-533.
+Ne 640.
+
+20 Conciliorum oecumenicorum decreta... P. 311.
+
+?! Epistolae saeculi XIII e regestis pontificum romanorum selectae / Hrsg. von
+K. Rodenberg. B., 1894. Bd. 3. $. 636-639. Ne 645.
+
+2 Srodecki Р Antemurale Christianitatis: Zur Genese der Bollwerksrhetorik im
+östlichen Mitteleuropa an der Schwelle vom Mittelalter zur Frühen Neuzeit.
+Husum, 2015.
+
+80 A. Селарт
+
+XOJOB H TOpFOBHI/I))23. ОДНЗКО это обстоятельство не следует рассма-
+
+тривать Kak признак коррупции. Источники свидетельствуют O TOM,
+
+что XOTA торговцы, поставлявшие товары «сарацинам», беспокои-
+лись O спасении своих душ, полная остановка торговли на практике
+была невозможна^. Нужно было найти баланс между защитой веры
+
+и торговлей c infideles, неверующими?`. К Tomy »xe правовая норма
+
+при НСОбХОДИМОСТИ могла распространяться не только на мусульман,
+
+HO H Ha язычников, еретиков H раскольников26.
+
+Как и слово «СЭ‚РЭ‚ЦИНЫ»27, которое могло обозначать всех нехри-
+стиан или некатоликов, правовые нормы средиземноморского реги-
+OHa в контексте Крестовых IIOXOJIOB были перенесены в реалии Се-
+верной Европы?^. Утверждение Ш. Лотана, что «Тевтонский орден
+принес термин “сарацины” с латинского Востока в Балтийский ре-
+гион»??, безусловно, утрировано. Правовые нормы и терминология
+крестоносцев были распространены на севере задолго до того, Kak
+23 Schmidt Т. Waffenembargo und Handelskrieg im Mittelalter // Vierteljahrschrift
+
+fiir Sozial- und Wirtschaftsgeschichte. 2006. Bd. 93. $. 23-33; Christ G. Trading
+Conflicts: Venetian Merchants and Mamluk Officials in Late Medieval Alexandria.
+Leiden; Boston, 2012. P. 113-119; Esch A. Der Handel zwischen Christen
+und Muslimen im Mittelmeer-Raum: VerstéBe gegen das papstliche Embargo
+geschildert in den Gesuchen an die Apostolische Pénitentiarie (1439-1483) //
+Quellen und Forschungen aus italienischen Archiven und Bibliotheken. 2012.
+Bd. 92. $. 85-140.
+
+24 Salonen K. Unlicensed Pilgrims and Illegal Trade: Late Medieval Cultural
+Encounters in the Mediterranean according to the Archives of the Apostolic
+Penitentiary 1458-1464 // Cultural Encounters during the Crusades. Odense,
+2013. $. 165-197; Carr М. Crossing Boundaries in the Mediterranean: Papal
+Trade Licences from the Registra supplicationum of Pope Clement VI (1342-52) //
+Journal of Medieval History. 2015. Vol. 41, Ne 1. Р. 107-129.
+
+25 Carr М. Trade or Crusade? The Zaccaria of Chios and Crusades against the Turks //
+Contact and Conflict in Frankish Greece and the Aegean 1204-1453: Crusade,
+Religion and Trade between Latins, Greeks and Turks. Farnham, 2014. Р. 125-127.
+
+%6 Stanchev S.K. «Apply to Muslims What Was Said of the Jews»: Popes and Canonists
+Between a Taxonomy of Otherness and Infidelitas // Law and History Review. 2014.
+Vol. 32, Ne 1. Р. 89-95; Stantchev 5. Spiritual Rationality... P. 91-101.
+
+27 Murray A.V. The Saracens of the Baltic: Pagan and Christian Lithuanians in the
+Perception of English and French Crusaders to Late Medieval Prussia // Journal
+of Baltic Studies. 2010. Vol. 41. P. 413-430; Lotan Sh. The Teutonic Knights and
+their Attitude about Muslims: Saracens in the Latin Kingdom of Jerusalem and in
+the Baltic Region // Fear and Loathing in the North. Jews and Muslims in Medieval
+Scandinavia and the Baltic Region. Berlin; Boston, 2015. P. 320-322.
+
+28 Tamm М. A New World into Old Words: The Eastern Baltic Region and the Cultural
+Geography of Medieval Europe // The Clash of Cultures on the Medieval Baltic
+Frontier. Farnham, 2009. P. 11-35.
+
+® Lotan Sh. The Teutonic Knights and their Attitude about Muslims... P. 323.
+
+Торговое эмбарго в северных крестовых noxodax в XIII exe 81
+здесь IIO$BHJICS Тевтонский орден; их часто использовали и против-
+ники ордена.
+
+Насколько известно, ПСРВЫЙ папский указ о товарах, запрещен-
+ных к торговле в Северной Европе, был издан папой Гонорием III
+в 1218 г. для епископа Прусского Кристиана. В тексте документа
+содержится ИНфОРМаЦИЯ‚ предоставленная папской курии еписко-
+IIOM, КОТОРЫЙ cooöman, что язычники-пруссы He владеют HH желе-
+30M, HH оружием, HH COJIBIO*. Te христиане, которые, несмотря Ha
+запреты в отношении прусских язычников, поставляли UM товары —
+«железо, соль и другое необходимое» (ferrum, sal et alia necessaria),
+были осуждены по папскому указу несколько pa3, в 40-х и 50-х го-
+дах XIII 8.2! Имеются также упоминания о «сумме сатисфакции»,
+компенсации, которую продавцу запрещенных товаров надлежало
+платить епископу, по-видимому, на регулярной основе“?. Специ-
+фИЧССКОЙ особенностью этого примера является наличие в списке
+соли, которая, He имея для СреДИЗСМНОМОРЬЯ такого значения Kak для
+ССВСРНОЙ EBpOHLI, появилась среди упомянутых запрещенных това-
+POB, вероятно, в результате прошения епископа КРИСТИЗНЗ.
+
+ДРУГЭ.Я группа «ССВСРОСВРОПСЙСКИХ» запретов Ha торговлю опре-
+деленными товарами включает ИНфОРМаЦИЮ‚ предоставленную
+в папскую курию шведскими ходатаями. В письме папы Гонория III
+от 1221 r. упоминаются варварские народы, которые угрожают фин-
+cKoH церкви H которым местные христиане привозят «продоволь-
+ствие WIM иное необходимое» (victualia seu alia necessaria)**. При-
+мерно в 1229-1230 rr жители острова Готланд, a также горожане
+Любека и Риги поставляли противникам финской церкви, включая
+3° PUB. Bd. 1, H. 1. Ne 25; Fonnesberg-Schmidt I. The Popes and the Baltic Crusades
+
+1147-1254. Leiden; Boston, 2007. P. 150; Pitz Е. Papstreskript und Kaiserreskript
+im Mittelalter. Tiibingen, 1971. $. 88-95. Благодарю анонимного рецензента,
+обратившего Moe внимание Ha папскую буллу 1221 r., rye упоминается o Ha-
+мерении основать в Польше город для торговли солью и железом, чтобы спо-
+собствовать миссионерской деятельности среди пруссов, которые бы прихо-
+дили туда обменивать товары (РОВ. Ва. 1, Н. 1. № 39). Поскольку источником
+информации для буллы был епископ Кристиан (см.: Pitz Е. Papstreskript und
+Kaiserreskript im Mittelalter... 5. 95—96), который был в курсе местной ситуа-
+WMH, сложно представить, чтобы в данном случае были отражены общие пред-
+ставления о примитивности язычников, не имевших соли и железа.
+
+31 LUB. Bd. 1. Ne 257; PUB. Bd. 1, H. 1. Ne 133; Mazeika R. Of Cabbages and Knights:
+Trade and Trade Treaties with the Infidel on the Northern Frontier, 1200-1390 //
+Journal of Medieval History. 1994. Vol. 20. P. 66-67.
+
+32 PUB. Bd. 1, H. 1. Ne 133; Mazeika R. Of Cabbages and Knights... P. 66-67.
+
+33 Sverges traktater med frammade magter jemte andra dit hérande handlingar / Hrsg.
+von O.S. Rydberg. Stockholm, 1877. Bd. 1. Ne 69.
+
+62 А. Селарт
+
+русских, mercimonia* — помощь в виде «оружия, лошадей, кораблей,
+
+продуктов и других товаров» (in armis, equis, nauigiis, victualibus et
+
+aliis mercimoniis)*>.
+
+Папские указы, изданные в 1275 г., были связаны с войной в Ka-
+релии. Согласно этим распоряжениям, запрещалось продавать языч-
+никам «оружие, железо, древесину или другие вещи, которые могут
+применяться для борьбы с христианами»`°. В дальнейшем форму-
+лировки из папского указа были позаимствованы ПРИДВОРНОЙ кан-
+целярией Швеции. В 1285 г. король Магнус Биргерссон ограничил
+торговлю на острове ГОТЛЭ.НД запрещенными товарами (merces a iure
+prohibitis) из Kapenun?’. Отсылки к церковному праву использова-
+лись королем Швеции Биргером Магнуссом: в 1295 r. и 1303 r. в сво-
+их посланиях в Любек и другие ганзейские города он запрещал про-
+дажу оружия, а также железа и стали Новгороду и вообще русским“.
+Конфликт между Швецией и Новгородом на рубеже XIII и XIV сто-
+летий из-за прибрежных земель Карелии и области близ Невы был
+плотно связан с ИДСОЛОГИСЙ Крестовых ПОХОДОВ. В этом контексте
+использование инструмента ТОРГОВОЙ бЛОКЗДЬ1, применение которо-
+го имело прецеденты в каноническом праве, было ЗЗКОНОМСРНЫМЗ9.
+Но введение в Норвегии в 1280 г. соответствующих канонов Лион-
+ских соборов“°, вероятно, совсем He имело под собой политической
+OCHOBBI.
+
+I[pumMenutesibHo к Ливонии в исторических трудах особо IOJI—
+черкивается наличие тесной связи между КреСТОВЬ1МИ походами
+и торговой политикой“!. Конечно, считать предпосылкой первых
+34 Sverges traktater med frammade magter... Ne 75.
+
+35 [bid. Ne 76; Nazarova Е. Riga as the Participant of the Trade Blockades in the
+Baltic Region (the 13" Century) // Riga und der Ostseeraum: Von der Griindung
+1201 bis in die Frühe Neuzeit / Hrsg. von I. Misans, H. Wernicke. Marburg, 2005.
+S. 111-112.
+
+% Stantchev 5. Spiritual Rationality. P. 91; Finlands medeltidsurkunder / Hrsg. von
+R. Hausen. Helsingfors, 1910. Bd. 1. Ne 151.
+
+37 Sverges traktater med främmade magter... Ne 141.
+
+38 Ibid. N155; HUB. Bd. 1. Ne 1174.
+
+39 Bysted A.L. et al. Jerusalem in the North: Denmark and the Baltic Crusades, 1100—
+1522. Turnhout, 2012. P. 309-311.
+
+40 Bandlien В. Trading with Muslims and the Sämi in Medieval Norway // Fear and
+Loathing in the North: Jews and Muslims in Medieval Scandinavia and the Baltic
+Region / Ed. by С. Hess, J. Adams. Berlin; Boston, 2015. P. 34.
+
+41 Johansen P. Die Bedeutung der Hanse fiir Livland // Hansische Geschichtsblatter.
+1941. Bd. 65/66. S. 1-55; Muntzinger M.R. The Profits of the Cross: Merchant
+Involvement in the Baltic Crusade (c. 1180-1230) // Journal of Medieval History.
+2006. Vol. 32. P. 163-185.
+
+Торговое эмбарго в северных крестовых noxodax в XIII exe 63
+JIHBOHCKHX Крестовых походов «экономико-политические» MOTH-
+вы было бы некоторым преувеличением“?, HO борьба «немецких»
+крестоносцев, местных жителей и рыцарей C язычниками, а иногда
+и C жителями Pycu шла параллельно с появлением ливонских горо-
+дов (Рига основана в 1201 г.) и налаживанием торговых отношений
+между ганзейскими городами и русскими H литовскими землями.
+
+Помимо торговцев собственные коммерческие интересы име-
+лись у высшего духовенства“` и духовно-рыцарских орденов““. Даже
+если не говорить о фОРМЭ‚ЛЬНОМ запрете на торговлю, война как тако-
+вая — в том числе и война с язычниками — подрывала экономические
+интересы многих групп населения христианской Ливонии“`. Фрид-
+рих Беннингховен полагал, что из-за военных КОНфЛИКТОВ пути по
+
+Западной Двине и из Риги на Русь были закрыты в период между
+
+1203 и 1210/12 rr.**, и это негативно отразилось сначала на торговле
+
+и развитии Puru, а впоследствии и на судоходстве. ОТРИЦЭ.ТСЛЬНО STO
+
+сказалось и на CBA3AX крестоносцев CO СВЯЩСННОЙ Римской импери-
+
+ей ина их экономическом положении. Война ливонских ландсгерров
+
+с Новгородом в 1268-1269 rr сопровождалась — 1no HX настоянию —
+
+торговой блокадой”. Аналогичным образом попытка установить
+
+торговую блокаду для русских партнеров в 1277 г., чтобы вынудить
+их уступить и перенести место ТОВЗРООбМеНЗ 3 Pycu B JIMBOHUIO,
+изначально исходила OT высших слоев ОбЩССТВЗ48. В обоих случаях
+это была исключительно «светская» Mepa, рассчитанная на конкрет-
+
+HbIM период времени.
+
+® Arbusow L. Die Frage nach der Bedeutung der Hanse fiir Livland // Deutsches
+Archiv fiir Geschichte des Mittelalters. 1944. Bd. 7. $. 212-239.
+
+43 Selart A. Friedrich von Haseldorf, Bischof von Karelien // S6nasse püütud minevik
+in honorem Enn Tarvel / Hrsg. von P. Raudkivi, M. Seppel. Tallinn, 2009. S. 85.
+
+4 Mazeika R. Of Cabbages and Knights... P. 68-70; Niitemaa V. Der Binnenhandel
+in der Politik der livlandischen Stadte im Mittelalter. Helsinki, 1952. $. 62-67;
+Benninghoven Fr. Der Orden der Schwertbriider: Fratres milicie Christi de Livonia.
+Köln; Graz, 1965. $. 210-211.
+
+45 Nazarova E. Riga as the Participant... Р. 52-53; Ivinskis Z. Die Handelsbeziehungen
+Litauens mit Riga im 14. Jahrhundert // Conventus primus historicorum Balticorum
+Rigae, 16. 20. VIII.1937: Acta et relata. Riga, 1938. $. 278-279.
+
+46 Benninghoven Fr. Der Orden der Schwertbriider... S. 52-53; Selart A. Livonia,
+Rus’ and the Baltic Crusades... P. 100-101.
+
+47 Nazarova Е. Riga as the Participant... P. 114. Утверждение, выдвинутое Д. Kar-
+тингером о TOM, что Тевтонский орден хотел приостановить торговлю ору-
+жием (см.: Kattinger D. Die Gotlandische Genossenschaft... $. 323), He находит
+достаточного подтверждения в источниках.
+
+48 Goetz L.K. Deutsch-Russische Handelsgeschichte des Mittelalters. Liibeck, 1922.
+$. 52-54; Kattinger D. Die Gotlandische Genossenschaft... 5. 392-394.
+
+64 А. Селарт
+
+В Ливонии торговые эмбарго вводились и церковными властями.
+В 1248 г. nana Иннокентий IV в ответ Ha запрос Генриха, епископа
+Эзельского, разрешил конфискацию запрещенных товаров, таких
+как оружие, железо, древесина, лошади, продукты питания и прочее,
+которые продавались в Ливонии язычникам“”. В следующем году,
+когда папская булла достигла Ливонии, епископ обнародовал ее на
+местах`°. Подоплекой этого распоряжения, весьма вероятно, была
+конкуренция между ливонскими ландсгеррами за влияние в Литве`!.
+Включение лошадей в папский перечень подпадавших под запрет
+TOBAPOB, возможно, основывалось Ha практике, применявшейся на
+Пиренейском полуострове”. Тевтонский орден поддержал послание
+папы Урбана IV, обнародованное в 1262 г., после битвы при Дурбе-
+He и BO время прусского восстания, в котором упоминались оружие,
+железо, древесина и «другие товары, запрещенные Латеранским
+собором» (...arma, ferrum, lignamina et alia in concilio Lateranensi
+prohibita...)°>. Послание было адресовано епископу Линчёпингско-
+му, поскольку в качестве нарушителей этих запретов рассматри-
+вались главным образом готландские купцы.
+
+Напряжение в отношениях между Тевтонским орденом, архи-
+епископом Рижским и городом Ригой привели к открытой войне
+в 1297 г. Борьба продолжалась и в первые десятилетия XIV столе-
+тия, а судебные процессы и правовые споры в папской курии тяну-
+лись еще дольше. Торговля запрещенными товарами была важной
+частью взаимных обвинений`“. Pura заявила, что орден заключил
+соглашения с язычниками ради наживы и в ущерб городским жи-
+телям”`. Ilo словам архиепископа, орден — «что больно говорить,
+равно Kak и слышать» (quod dolor est dicere pariter et audire) — про-
+давал язычникам оружие, железо и прочие виды запрещенных TO-
+варов, «которые христианам [продавать язычникам] He разрешено»
+49 LUB. Ne 201; Selart А. Livonia, Rus’ and the Baltic Crusades... P. 200.
+
+%° Busch N. Nachgelassene Schriften / Hrsg. von L. Arbusow. Riga, 1934. Bd. 1.
+S. 88.
+
+5! Эзель благодаря залежам местных болотных руд был фактически экспорте-
+pom железа. См.: Peets J. The Power of Iron: Iron Production and Blacksmithy
+in Estonia and Neighbouring Areas in Prehistoric Period and the Middle Ages.
+Tallinn, 2003. P. 83.
+
+52 Stantchev 5. Spiritual Rationality... P. 92.
+
+55 ГОВ. Bd. 1. Ne 371; PUB. Bd. 1, H. 2. Ne 171.
+
+5 Mazeika В. Of Cabbages and Knights... P. 70-71; Rowell S.C. Lithuania Ascending:
+A Pagan Empire within East-Central Europe, 1295-1345. Cambridge, 1994. P. 76-77.
+
+55 Das ZeugenverhGr des Franciscus de Moliano (1312): Quellen zur Geschichte des
+Deutschen Ordens / Hrsg. von A. Seraphim. K6nigsberg, 1912. $. 157.
+
+Торговое эмбарго в северных крестовых noxodax в XIII exe 85
+(quod christianis non est licitum)°°. Поверенный ордена отвечал, что
+именно жители Риги вопреки каноническому праву (contra canonicas
+sancciones) поставляли язычникам оружие, железо и другие товары””.
+
+Именно эта дискуссия наглядно демонстрирует, как положение
+канонического права становится оружием в политической полемике.
+Гипотетически можно задаться вопросом, является ли тот факт, что
+в ливонском контексте запреты на торговлю оружием были немно-
+гочисленны и прямо связаны с конкуренцией между католически-
+ми «игроками», указанием Ha большую важность торговли для всех
+участников ливонских Крестовых походов (а не только для купцов)
+по сравнению с Пруссией времен епископа Кристиана или со Шве-
+цией. Сама по себе эффективность распоряжений, изданных в сре-
+диземноморском регионе, с их дословным заимствованием властя-
+ми в Северной Европе вызывает сомнение — действительно, было
+бессмысленно продавать древесину богатой лесами Карелии“*. Tem
+He MeHee, подобные нормы были, no крайней Mepe формально, за-
+фиксированы и в последующие столетия. Например, в 1513 г. в Ли-
+вонии со ссылкой на папский авторитет жаловались, что торговцы
+в нарушение указаний понтифика (vormalediginge van pawstlicker
+hillicheit vorbaden) продавали русским товары военного назначения
+(krighafftige nottroffte)*?.
+
+Можно суммировать, что в Северной Европе, как и в Среди-
+земноморье, эмбарго на поставки оружия язычникам и русским
+в ХШ столетии было «всеобъемлющим в принципе, но избиратель-
+ным Ha практике»“°. Нормы канонического права и канцелярские
+традиции точных формулировок могли вступать в противоречие
+с политическими и экономическими реалиями, особенно в балтий-
+ском регионе, не только находившемся с точки зрения папской курии
+на далекой периферии, но и отличавшемся совсем иными природны-
+ми условиями. Тем не менее, именно эти нормы определили, какие
+товары следует считать «стратегическими».
+
+Канонический запрет на торговлю оружием с предполагаемыми
+или фактическими противниками католического христианского мира
+превратился в инструмент «внутрихристианской» политики, которая
+впервые была рационально реализована без «религиозной истерии
+56 Ibid. $. 164.
+
+У Ibid. S. 204-205.
+
+58 Stantchev 5. Spiritual Rationality... P. 92.
+
+59 Akten und Rezesse der livlandischen Ständetage / Hrsg. von L. Arbusow. Riga,
+1910. Bd. 3. № 54, $ 44.
+
+° Stantchev 5. Spiritual Rationality... P. 87-88.
+
+56 A, Селарт
+
+и фанатизма» (religious hysteria and fanaticism)*'. Этим инструмен-
+
+TOM пользовался H ШВСДСКИЙ король, XOTA, например, Карелия и Нов-
+
+город в 1300 г. легко могли обеспечить себя железом и оружием даже
+
+без импорта из Западной Европы. Данный случай схож с борьбой
+
+церкви против берегового права62 в контексте крестоносного JIBH-
+
+жения. Тем не менее принцип, основанный на каноническом праве,
+
+оказал долгосрочное влияние на секулярные правила торговли.
+
+6! Peets J. The Power of Iron... P. 84.
+
+*? Niitemaa V. Das Strandrecht in Nordeuropa im Mittelalter... $. 91-118.
+БИБЛИОГРАФИЯ
+
+Линд Дж. Загадочная статья Новгородской первой летописи: Что случи-
+лось в 1188 году? // Архив русской истории. 1994. Bam. 4. С. 191—205.
+
+Хорошкевич А.Л. Русское государство в системе международных отноше-
+Hui конца XV — начала XVI в. М., 1980.
+
+Arbusow L. Die Frage nach der Bedeutung der Hanse fiir Livland // Deutsches
+Archiv fiir Geschichte des Mittelalters. 1944. Bd. 7. $. 212-239.
+
+Bandlien B. Trading with Muslims and the Sami in Medieval Norway // Fear
+and Loathing in the North: Jews and Muslims in Medieval Scandinavia and the Bal-
+tic Region / Ed. by С. Hess, J. Adams. Berlin; Boston, 2015. P. 31-48.
+
+Benninghoven Fr. Der Orden der Schwertbriider: Fratres milicie Christi de Li-
+vonia. Köln; Graz, 1965.
+
+Benninghoven Fr. Rigas Entstehung und der friihhansische Kaufmann. Ham-
+burg, 1961.
+
+Busch N. Nachgelassene Schriften / Hrsg. von L. Arbusow. Riga, 1934. Bd. 1.
+
+Bysted A.L. et al. Jerusalem in the North: Denmark and the Baltic Crusades,
+1100-1522. Turnhout, 2012.
+
+Carr M. Trade or Crusade? The Zaccaria of Chios and Crusades against the
+Turks // Contact and Conflict in Frankish Greece and the Aegean 1204-1453: Cru-
+sade, Religion and Trade between Latins, Greeks and Turks / Ed. by N.G. Chrissis,
+М. Carr. Farnham, 2014. Р. 115-134.
+
+Carr M. Crossing Boundaries in the Mediterranean: Papal Trade Licences from
+the Registra supplicationum of Pope Clement VI (1342-52) // Journal of Medieval
+History. 2015. Vol. 41. P. 107-129.
+
+Christ G. Trading Conflicts: Venetian Merchants and Mamluk Officials in Late
+Medieval Alexandria. Leiden; Boston, 2012.
+
+A Companion to the Hanseatic League / Ed. by D.J. Harreld. Leiden; Boston,
+2015.
+
+Торговое эмбарго в северных крестовых noxodax в XIII веке 67
+
+Constable O.R. Clothing, Iron, and Timber: The Growth of Christian Anxi-
+ety about Islam in the Long Twelfth Century // European Transformations: The
+Long Twelfth Century / Ed. by Th.F.X. Noble, Jh. van Engen. Notre Dame, 2012.
+Р. 279-313.
+
+Esch A. Der Handel zwischen Christen und Muslimen im Mittelmeer-Raum:
+VerstéBe gegen das papstliche Embargo geschildert in den Gesuchen an die Apos-
+tolische Pénitentiarie (1439-1483) // Quellen und Forschungen aus italienischen Ar-
+chiven und Bibliotheken. 2012. Bd. 92. $. 85-140.
+
+Esper Th. A Sixteenth-Century anti-Russian Arms Embargo // Jahrbiicher fiir
+Geschichte Osteuropas. 1967. Bd. 15. 5. 180-196.
+
+Fonnesberg-Schmidt I. The Popes and the Baltic Crusades 1147-1254. Leiden;
+Boston, 2007.
+
+Goetz L.K. Deutsch-Russische Handelsgeschichte des Mittelalters. Lübeck,
+1922.
+
+Johansen P. Die Bedeutung der Hanse fiir Livland // Hansische Geschichts-
+blatter. 1941. Bd. 65/66. $. 1-55.
+
+Herde P. Christians and Saracens at the Time of the Crusades: Some Comments
+of Contemporary Medieval Canonists // Studia Gratiana. 1967. Bd. 12. $. 359-376.
+
+Ivinskis Z. Die Handelsbeziehungen Litauens mit Riga im 14. Jahrhundert //
+Conventus primus historicorum Balticorum Rigae, 16-20. VIII.1937: Acta et relata.
+Riga, 1938. $. 276-285.
+
+Kattinger D. Die Gotlandische Genossenschaft: Der frithhansisch-gotlandische
+Handel in Nord- und Westeuropa. Köln; Weimar; Wien, 1999.
+
+Leimus I. Perdeteken — Pragezeichen? Uber eine angebliche Quelle zur Dorpa-
+ter Miinzgeschichte // Numismatisches Nachrichtenblatt. 2014. Bd. 63. $. 220-221.
+
+Lotan Sh. The Teutonic Knights and their Attitude about Muslims: Saracens in
+the Latin Kingdom of Jerusalem and in the Baltic Region // Fear and Loathing in the
+North: Jews and Muslims in Medieval Scandinavia and the Baltic Region / Ed. C.
+Hess, J. Adams. Berlin; Boston, 2015. P. 313-328.
+
+Mazeika R. Of Cabbages and Knights: Trade and Trade Treaties with the Infidel
+on the Northern Frontier, 1200-1390 // Journal of Medieval History. 1994. Vol. 20.
+P. 63-76.
+
+Menache S. Papal Attempts at a Commercial Boycott of the Muslims in the Cru-
+sader Period // Journal of Ecclesiastical History. 2012. Vol. 63. Р 236-259.
+
+Muldoon J. Popes, Lawyers, and Infidels. Liverpool, 1979.
+
+Munizinger M.R. The Profits of the Cross: Merchant Involvement in the Baltic
+Crusade (c. 1180-1230) // Journal of Medieval History. 2006. Vol. 32. P. 163-185.
+
+Murray A.V. The Saracens of the Baltic. Pagan and Christian Lithuanians in the
+Perception of English and French Crusaders to Late Medieval Prussia // Journal of
+Baltic Studies. 2010. Vol. 41. P. 413-430.
+
+Nazarova E. Riga as the Participant of the Trade Blockades in the Baltic Re-
+gion (the 13" Century) // Riga und der Ostseeraum: Von der Griindung 1201 bis in
+die Friihe Neuzeit / Hrsg. von I. Misans, H. Wernicke. Marburg, 2005. $. 108-115.
+
+Niitemaa К Der Binnenhandel in der Politik der livlandischen Stadte im Mit-
+telalter. Helsinki, 1952.
+
+58 A, Селарт
+
+Niitemaa V. Das Strandrecht in Nordeuropa im Mittelalter. Helsinki, 1955.
+
+Peets J. The Power of Iron: Iron Production and Blacksmithy in Estonia and
+Neighbouring Areas in Prehistoric Period and the Middle Ages. Tallinn, 2003.
+
+Pitz Е. Papstreskript und Kaiserreskript im Mittelalter. Tiibingen, 1971.
+
+Rowell S.C. Lithuania Ascending: A Pagan Empire within East-Central Europe,
+1295-1345. Cambridge, 1994.
+
+Salonen K. Unlicensed Pilgrims and Illegal Trade: Late Medieval Cultural En-
+counters in the Mediterranean according to the Archives of the Apostolic Peniten-
+tiary 1458-1464 // Cultural Encounters during the Crusades / Ed. by K.V. Jensen,
+K. Salonen, H. Vogt. Odense, 2013. $. 165-197.
+
+Schmidt Т. Waffenembargo und Handelskrieg im Mittelalter // Vierteljahrschrift
+fiir Sozial- und Wirtschaftsgeschichte. 2006. Bd. 93. S. 23-33.
+
+Selart A. Friedrich von Haseldorf, Bischof von Karelien // Sénasse püütud mi-
+nevik in honorem Enn Tarvel / Hrsg. von P. Raudkivi, M. Seppel. Tallinn, 2009.
+Lk. 79-91.
+
+Selart A. Livonia, Rus’ and the Baltic Crusades in the Thirteenth Century.
+Leiden; Boston, 2015.
+
+Srodecki P. Antemurale Christianitatis: Zur Genese der Bollwerksrhetorik im
+östlichen Mitteleuropa an der Schwelle vom Mittelalter zur Frithen Neuzeit. Husum,
+2015.
+
+Stantchev S. The Medieval Origins of Embargo as a Policy Tool // History of
+Political Thought. 2012. Vol. 33. P. 373-399.
+
+Stantchev 5. Spiritual Rationality: Papal Embargo as Cultural Practice. Oxford,
+2014.
+
+Stanchev S.K. «Apply to Muslims What Was Said of the Jews»: Popes and Can-
+onists Between a Taxonomy of Otherness and Infidelitas // Law and History Review.
+2014. Vol. 32, Ne 1. P. 65-96.
+
+Tamm M. A New World into Old Words: The Eastern Baltic Region and the Cul-
+tural Geography of Medieval Europe // The Clash of Cultures on the Medieval Baltic
+Frontier / Ed. by A.V. Murray. Farnham, 2009. Р. 11-35.
+
+Wernicke H. Die Stadtehanse 1280-1418: Genesis — Strukturen — Funktionen.
+Weimar, 1983.
+
+Wernicke H. Novgorod und die Hanse // Beitrage zur Geschichte des Ostseerau-
+mes: Vortrage der ersten und zweiten Konferenz der Historiker des Ostseeraumes /
+Hrsg. von H. Wernicke. Hamburg, 2002. $. 19-33.
+
+REFERENCES
+
+Arbusow L. Die Frage nach der Bedeutung der Hanse fiir Livland // Deutsches
+Archiv fiir Geschichte des Mittelalters. 1944. Bd. 7. $. 212-239.
+
+Bandlien B. Trading with Muslims and the Sami in Medieval Norway // Fear
+and Loathing in the North: Jews and Muslims in Medieval Scandinavia and the Bal-
+tic Region / Ed. by С. Hess, J. Adams. Berlin; Boston, 2015. P. 31-48.
+
+Торговое эмбарго в северных крестовых noxodax в XIII веке 69
+
+Benninghoven Fr. Der Orden der Schwertbriider: Fratres milicie Christi de Li-
+vonia. Köln; Graz, 1965.
+
+Benninghoven Fr. Rigas Entstehung und der friihhansische Kaufmann. Ham-
+burg, 1961.
+
+Busch N. Nachgelassene Schriften / Hrsg. von L. Arbusow. Riga, 1934. Bd. 1.
+
+Bysted A.L. et al. Jerusalem in the North: Denmark and the Baltic Crusades,
+1100-1522. Turnhout, 2012.
+
+Carr M. Trade or Crusade? The Zaccaria of Chios and Crusades against the
+Turks // Contact and Conflict in Frankish Greece and the Aegean 1204-1453: Cru-
+sade, Religion and Trade between Latins, Greeks and Turks / Ed. by N.G. Chrissis,
+М. Carr. Farnham, 2014. Р. 115-134.
+
+Carr M. Crossing Boundaries in the Mediterranean: Papal Trade Licences from
+the Registra supplicationum of Pope Clement VI (1342-52) // Journal of Medieval
+History. 2015. Vol. 41. Р. 107-129.
+
+Christ G. Trading Conflicts: Venetian Merchants and Mamluk Officials in Late
+Medieval Alexandria. Leiden; Boston, 2012.
+
+A Companion to the Hanseatic League / Ed. by D.J. Harreld. Leiden; Boston,
+2015.
+
+Constable O.R. Clothing, Iron, and Timber: The Growth of Christian Anxiety
+about Islam in the Long Twelfth Century // European Transformations: The Long
+Twelfth Century / Ed. by Th.F.X. Noble, Jh. van Engen. Notre Dame, 2012. P. 279—
+313.
+
+Esch А. Der Handel zwischen Christen und Muslimen im Mittelmeer-Raum:
+VerstéBe gegen das papstliche Embargo geschildert in den Gesuchen ап die Apos-
+tolische P6nitentiarie (1439-1483) // Quellen und Forschungen aus italienischen Ar-
+chiven und Bibliotheken. 2012. Bd. 92. $. 85-140.
+
+Esper Th. A Sixteenth-Century anti-Russian Arms Embargo // Jahrbiicher fiir
+Geschichte Osteuropas. 1967. Bd. 15. $. 180-196.
+
+Fonnesberg-Schmidt I. The Popes and the Baltic Crusades 1147-1254. Leiden;
+Boston, 2007.
+
+Goetz L.K. Deutsch-Russische Handelsgeschichte des Mittelalters. Lübeck,
+1922.
+
+Johansen P. Die Bedeutung der Hanse fiir Livland // Hansische Geschichtsblat-
+ter. 1941. Bd. 65/66. $. 1-55.
+
+Herde P. Christians and Saracens at the Time of the Crusades: Some Comments
+of Contemporary Medieval Canonists // Studia Gratiana. 1967. Bd. 12. $. 359-376.
+
+Ivinskis Z. Die Handelsbeziehungen Litauens mit Riga im 14. Jahrhundert //
+Conventus primus historicorum Balticorum Rigae, 16.—20.VIII.1937: Acta et relata.
+Riga, 1938. 5. 276-285.
+
+Kattinger D. Die Gotlandische Genossenschaft: Der friihhansisch-gotlandische
+Handel in Nord- und Westeuropa. K6In; Weimar; Wien, 1999.
+
+Khoroshkevich A.L. Russkoe gosudarstvo v sisteme mezhdunarodnykh otnoshe-
+nij konca XV — nachala XVI v. M., 1980.
+
+Leimus I. Perdeteken — Pragezeichen? Uber eine angebliche Quelle zur Dorpa-
+ter Miinzgeschichte // Numismatisches Nachrichtenblatt. 2014. Bd. 63. $. 220-221.
+
+90 A, Селарт
+
+Lind Dzh. Zagadochnaya stat’ ya Novgorodskoj pervoj letopisi. Chto sluchilos’ у
+1188 godu? // Arkhiv russkoj istorii. 1994. Ne 4. С. 191-205.
+
+Lotan Sh. The Teutonic Knights and their Attitude about Muslims: Saracens
+in the Latin Kingdom of Jerusalem and in the Baltic Region // Fear and Loathing
+in the North: Jews and Muslims in Medieval Scandinavia and the Baltic Region /
+Ed. C. Hess, J. Adams. Berlin; Boston, 2015. P. 313-328.
+
+Mazeika R. Of Cabbages and Knights: Trade and Trade Treaties with the Infidel
+on the Northern Frontier, 1200-1390 // Journal of Medieval History. 1994. Vol. 20.
+P. 63-76.
+
+Menache S. Papal Attempts at a Commercial Boycott of the Muslims in the Cru-
+sader Period // Journal of Ecclesiastical History. 2012. Vol. 63. P. 236-259.
+
+Muldoon J. Popes, Lawyers, and Infidels. Liverpool, 1979.
+
+Munizinger M.R. The Profits of the Cross: Merchant Involvement in the Baltic
+Crusade (c. 1180-1230) // Journal of Medieval History. 2006. Vol. 32. Р. 163-185.
+
+Murray A.V. The Saracens of the Baltic: Pagan and Christian Lithuanians in the
+Perception of English and French Crusaders to Late Medieval Prussia // Journal of
+Baltic Studies. 2010. Vol. 41. P. 413-430.
+
+Nazarova E. Riga as the Participant of the Trade Blockades in the Baltic Re-
+gion (the 13" Century) // Riga und der Ostseeraum: Von der Griindung 1201 bis in
+die Frühe Neuzeit / Hrsg. von I. Misans, H. Wernicke. Marburg, 2005. $. 108-115.
+
+Niitemaa V. Der Binnenhandel in der Politik der livlandischen Stadte im Mit-
+telalter. Helsinki, 1952.
+
+Niitemaa V. Das Strandrecht in Nordeuropa im Mittelalter. Helsinki, 1955.
+
+Peets J. The Power of Iron: Iron Production and Blacksmithy in Estonia and
+Neighbouring Areas in Prehistoric Period and the Middle Ages. Tallinn, 2003.
+
+Pitz Е. Papstreskript und Kaiserreskript im Mittelalter. Tiibingen, 1971.
+
+Rowell S.C. Lithuania Ascending: A Pagan Empire within East-Central Europe,
+1295-1345. Cambridge, 1994.
+
+Salonen K. Unlicensed Pilgrims and Illegal Trade: Late Medieval Cultural
+Encounters in the Mediterranean according to the Archives of the Apostolic Peni-
+tentiary 1458-1464 // Cultural Encounters during the Crusades / Ed. by K.V. Jensen,
+K. Salonen, H. Vogt. Odense, 2013. $. 165-197.
+
+Schmidt Т. Waffenembargo und Handelskrieg im Mittelalter // Vierteljahrschrift
+fiir Sozial- und Wirtschaftsgeschichte. 2006. Bd. 93. S. 23-33.
+
+Selart A. Friedrich von Haseldorf, Bischof von Karelien // Sénasse püütud
+minevik in honorem Enn Tarvel / Hrsg. von P. Raudkivi, M. Seppel. Tallinn, 2009.
+Lk. 79-91.
+
+Selart A. Livonia, Rus’ and the Baltic Crusades in the Thirteenth Century.
+Leiden; Boston, 2015.
+
+Srodecki P. Antemurale Christianitatis: Zur Genese der Bollwerksrhetorik im
+östlichen Mitteleuropa an der Schwelle vom Mittelalter zur Frithen Neuzeit. Husum,
+2015.
+
+Stantchev S. The Medieval Origins of Embargo as a Policy Tool // History of
+Political Thought. 2012. Vol. 33. P. 373-399.
+
+Торговое эмбарго в северных крестовых noxodax в XIII веке 97
+
+Stantchev 5. Spiritual Rationality: Papal Embargo as Cultural Practice. Oxford,
+2014.
+
+Stanchev S.K. «Apply to Muslims What Was Said of the Jews»: Popes and
+Canonists Between a Taxonomy of Otherness and Infidelitas // Law and History
+Review. 2014. Vol. 32, № 1. Р. 65-96.
+
+Tamm M. A New World into Old Words: The Eastern Baltic Region and the Cul-
+tural Geography of Medieval Europe // The Clash of Cultures on the Medieval Baltic
+Frontier / Ed. by A.V. Murray. Farnham, 2009. P. 11-35.
+
+Wernicke H. Die Stadtehanse 1280-1418. Genesis — Strukturen — Funktionen.
+Weimar, 1983.
+
+Wernicke H. Novgorod und die Hanse // Beitrage zur Geschichte des Ostseerau-
+mes: Vortrage der ersten und zweiten Konferenz der Historiker des Ostseeraumes /
+Hrsg. von H. Wernicke. Hamburg, 2002. S. 19-33.
+
+(Авторизованный пер. с nem. 43. Д.И. Вебера, E.H. Носовой)
+

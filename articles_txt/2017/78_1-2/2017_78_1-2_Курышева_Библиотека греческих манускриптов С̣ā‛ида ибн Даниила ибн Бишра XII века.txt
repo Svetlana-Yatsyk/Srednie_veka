@@ -1,0 +1,782 @@
+КНИГА РУКОПИСНАЯ, КНИГА ПЕЧАТНАЯ
+
+УДК 94(495)“11”
+
+М.А. Курышева
+БИБЛИОТЕКА ГРЕЧЕСКИХ МАНУСКРИПТОВ
+СА`ИДА ИБН ДАНИИЛА ИБН БИШРА ХП BEKA*
+
+В статье исследуются пять греческих кодексов 1Х-Х1 вв., которые были собра-
+ны и вложены в монастырь cB. Екатерины неким Са‘идом ибн Даниилом ибн
+Бишром. Эти кодексы были помечены его арабской вкладной записью, пред-
+положительно датируемой XII в. Takum образом, у Hac появляется информация
+о частной библиотеке XII B., причем, принадлежащей арабоязычному собира-
+телю «антикварных» греческих рукописей. В статье уточнены датировки и ло-
+кализации всех пяти греческих кодексов. Кроме того, изучение маюскульного
+фрагмента NE МГ 25 и арабской вкладной записи Ha HEM позволяет внести су-
+щественные поправки в реконструкцию древнейшего этапа рукописной тради-
+ции сочинений Григория Назианзина. В частности, позволяет доказать суще-
+ствование в Византии 1Х в. двухтомного издания его «Слов».
+
+Ключевые слова: палеография, кодикология, греческие рукописи, Византия,
+
+византийские библиотеки, Григорий Назианзин, Са‘ид ибн Даниил ибн bump,
+
+ropa Синай, монастырь cB. Екатерины.
+
+Cpenu маюскульных OTPbIBKOB греческих РУКОПИССЙ, ОбНЗРУЖСН-
+ных в 1975 r в монастыре cB. Екатерины Ha Синае', есть несколько
+фрагментов, имеющих арабскую вкладную запись XII B., которая уже
+попадала в поле зрение ИССЛСДОВЗТСЛСЙ, HO He получила должного
+внимания, правильного прочтения и НСОбХОДИМОГО толкования?.
+
+* Эта работа была бы невозможна без помощи Дмитрия Александровича Морозова,
+которому мы приносим сердечную благодарность за то, что он взял на себя труд
+прочитать, транскрибировать, перевести и прокомментировать сложную арабскую
+вкладную запись разной степени сохранности на пяти греческих манускриптах.
+
+! Ta véa ворйнота tov Xtvä&. AOjvat, 1998 (= The New Finds of Sinai. Athens, 1999);
+Politis L. Nouveaux manuscrits grecs découverts au Mont Sinai // Scriptorium. 1980.
+T. XXXIV, N 1. P. 5-17, Pl. 1-8; Harlfinger D., Reinsch D., Sonderkamp J.A.M.,
+Prato G. Specimina Sinaitica: Die datierten griechischen Handschriften des Kath-
+arinen-Klosters auf dem Berge Sinai. 9. bis 12. Jahrhundert. Berlin, 1983; Géhin P.,
+Froyshov $. Nouvelles découvertes sinaitiques: A propos de la parution de l’inventaire
+des manuscrits grecs // Revue des Etudes Byzantines. 2000. Т. 58. Р. 167-184.
+
+* Nicolopoulos P.G., Mossay J. Le codex Sinaiticus Graecus МГ 25 // Byzantion.
+2002. Т. LXXII, fasc. 2. P. 484-485; Géhin Р., Froyshov S. Nouvelles découvertes
+
+Библиотека греческих манускриптов Cauda ибн Даниила ибн Бишра — 155
+
+Всего таких рукописных фрагментов с арабской вкладной за-
+писью было выявлено до сих пор четыре:
+
+1). Sin. gr. NE МГ 25 (Puc. 1) + Sin. gr. 365 (JI. 275-276)!
++ Ottob. gr. 424 + Lipsien. gr. 69/1 (JI. 1-2 06.)°. Эти фрагмен-
+ты были сопоставлены по кодикологическим признакам сначала
+Д. Харлфингером, а затем П. Орсини. После их работ стало ясно,
+что STO — отрывки ЦСЛОЙ рукописи, которая была написана ОДНОЙ
+рукой наклонным маюскулом на пергамене большого формата
+(приблизительно 390 х 295 мм) в 2 столбца по 38—42 строки тек-
+ста на странице, тип разлиновки B29B2ds и 20В2п°.
+
+Добавим, что наклонный маюскул этой рукописи — Tak назы-
+ваемый «столичного» типа; ритм письма построен на выражен-
+HOM контрасте тонких H TOJICTLIX JIHHHM. B OyKBe и Ha сочетании
+широких и узких букв, которые заметно уже, ровнее, изящнее
+и заостреннее, чем в «палестинском» дукте. ХараКТСРНЬ1М начер-
+танием в данном образце является НСбОЛЬШЗЯ, MOUTH He выходя-
+щая под линию разлиновки кси — в виде одного ЗИГЗЗГООбраЗНОГО
+росчерка в OCHOBHOM тексте — %, и состоящая U3 двух элементов
+в вертикальном маюскуле схолий — *. В СПСЦИЗЛЬНОЙ литературе
+такой тип маюскула или широко датируется IX B. WIM OTHOCHTCA
+KO Bropoii половине STOTO cToneTua’.
+
+sinaitiques... Р. 172, n. 18; Orsini P. Nuovi frammenti del codice Vat. Ottob. gr. 424 //
+Codices Manuscripti & Impressi. 2014. Heft 95/96. P. 8, n. 36.
+
+3 Mossay J. Repertorium Nazianzenum. Orationes. Textus Graecus. 6: Codices
+Aegypti, Bohemiae, Hispaniae, Italiae, Serbiae. Addenda et Corrigenda. Paderborn;
+Minchen; Wien; Ziirich, 1998. Р. 57; Ta véa ворйрата tov Lia... X. 146. Фот. 6;
+Géhin P., Froyshov S. Nouvelles découvertes sinaitiques... P. 172; Nicolopoulos PG.,
+Mossay J. Le codex Sinaiticus Graecus МГ 25 // Byzantion. 2002. Т. LXXII.
+P. 475-496 (полное описание co всей библиографией).
+
+* Harlfinger D. Beispiele der Maiuscula ogivalis inclinata vom Sinai und aus Damaskus //
+Alethes Philia: Studi in onore di Giancarlo Prato / A cura @ М. D’ Agostino е P. Degni.
+Spoleto, 2010. P. 470, Taf. 13 (= f. 276r); Orsini P. Nuovi frammenti... P. 8, n. 37.
+
+5 Orsini P. Nuovi frammenti... Р. 1-7 (полное описание обеих рукописей с библио-
+графией). Tav. 1—2.
+
+° Сведения взяты из статьи П. Орсини, который описывает MOUTH идентичную
+кодикологию этих отрывков, похожие элементы оформления текста и марги-
+налий, систему декорации и нумерации гомилий (Orsini Р. Nuovi frammenti...
+P. 8—9. Tab. 2).
+
+? О датировке применительно к рассматриваемой рукописи CM. указанные pa-
+боты П. Николопулоса и П. Орсини: Nicolopoulos P.G., Mossay J. Le codex
+Sinaiticus Graecus МГ 25... Р. 477; Orsini P. Nuovi frammenti... Р. 5-6. Mor ro-
+товим специальную работу о датировке рукописей наклонного маюскула «CTO-
+личного» типа, где будет обоснована более узкая датировка такого маюскула
+первой половиной — серединой IX B.
+
+156 M.A. Курышева
+
+P P^ 42 ae a «x
+
+Г. s. fi qrs niei ieee ” " xJzMQ UT —Wl sc s oo dee .
+eo eee So A В аВОИ Le ey 720 i
+
+H 24 Te Q te ham VOLS ke ol eisr , j— cles Р.
+bey coh Ze Ue set ae — > ЭР "V ай 1 gas, A
+yy »A05;^—* Ml tLe ace ЗОЙ
+
+< ee "—4^— * & ” aca. ss = 2 Z
+
+"pi ^ pees ;?1 RAVINE TY EVN ETINGD 4 X RIE 4 Soh” ,
+
+s "X^^32ygxrtsyrixnv is) .\_и.\'я‚ч?т‚мн-щі'_ Pes SUG tS
+, '“‚» Th ay RZ _‹ '-I'.'ï ih oo SUPE VES TERY X, a anit V Ww
+
+Pia aa Be Gt at ad ha й kl" *"t*Wy ao NE OE s rpp* E1 se '6
+
+. . dto rx , VEL M id Nag f eee ox ’"„" щ
+Vane oe ï x rrre ( '*nü!"' — &nR f) eee iNT AA Ws a. ‚
+
+k »— :..',,Lri.'ä.- ^NyAT**NFK*^^^ ( ——;er49c) Ar'y.w:/-n--fn)f as ie A—— ,
+no Fer Sop pound X. £t nte vrt XN£L vy px a g sob e rr bY, ark ty т^
+2 ААа se *e ?) 4 Н
+
+tr ee a Ea ytv^ TAR , N^rx£Nc ver. AN) tuo) Dah IF
+W) . — . ad pee: 1. !"on, v ae pr OKIE LINN , "??1 wit y,
+," oh 44 nae €t nrs ETI !I«fd-gri:c[w-nm:x-l:f, 0] ;…" *%:‘_'‚3_{‚3 ))
+И ee -'H'-"?Ju-'u, Lp Ра ЯТТ x( sa LETS tea Mis
+W a " "ic A м c^^ ' f£ vb /y Vc. yer ПУа
+he " AIM, VIESTINNDN WAN , o »t— iL so t ET Ve LENT ESSE een yu Ny
+' ) J ‚дп)и‚іщ Nir — st sni r* e v. TINIE vv&mu 2
+| МОЙ (xx&pop* LATE KAPADIA пн ATELIER ye ERIN
+f и cupsa £ /A 111 XL М, Na Ayrrto 5:-l'w;-.x/.-'l'n- {Ёшп_‹’ щп›«і_
+Iv , „;‚ф’& _:.7’[‘!\(›\!!\'!.'_ Г“П‘\'[і!!іь”_ ;I,'.u"/.'u.lli:,' i eB fy
+E Lh bah pa DEEN ENE TINNY WERNER ? r reg a rx , 5 as X,
+| ж rebut ERUPT ITY. ON Wagener \icneifee wee
+ay CIS UINEL-UALINIIND ** —*UZVWTj;xI*££N);*, X& neronstema — d
+ой Porte" SI Pe *XziMen'^v eET
+'4 * * SytaorrtTCN£V—IFAEREI*IEN — RISEN ei mn ni Ls THE Nites V
+V 4' ^ NITE INES DEEN VETS ^ 200 EE sr pe A RINE TET щим‘м:\;‚—‘; g
+I rauxs r rin 3 eþ w ve s jor revi a N 2 (hepa ree Bs ate
+M PNR €bx srer NI 1, X PA JUH Z . X pse VAR Mig sure,
+a bats rite ree peresmtige * _і.\_и-.':-“і .Х\’.”:‘":'\‚’_ к et 4)
+NL TAN ОНИ ВОЛ perr NSO — 1 K e p АНИ ea ЙАРА PANN I na
+hw GEN i PARES. ISUCIAE ir figicus '?'
+f } CRM vi atc IDI PLIERS # NAPLES CEA £ ve Une , I
+he ^ q*o b 'I'II-.'A runs LES ite », vey ve NEV rte i EH ъ
+1 | »ir vv.«þparzirore ТАННЕ ™ nx LEME RS ce is xititt V vomeis sss me "e
+‘ Pte Me” TARA ae IU ERY BSN TD 28) IS NING: a nen oe &
+$ a as 4, A. GUS WTR НАНа
+PEN INERT NEY » — —, AAG Oe an Na eal
+Г нг":'.\н.\н':_-дщ{д! (і ~ $ 7NArTA,A NEL EE ENTE Viet its t
+И WV px sot sabx VATE sx vv x ete ^ . ,xuïu.-.y.u-.- SMa a hey )
+— er » f. 3 Sea vo. ». sr AA ro , or АНИ 4
+й ‘—_г-и/п\н\і.‹:пщпт_ X] . *Arw; preted paged i ffl eT te
+. ATEASP 8( bs Й AUS Vey ie el SA or a ee ee v.^ I, iis
+- 1 & j * Peis ае Joti “
+i ..,rwgg-n-,i,'lk:'N.*",.fl:! we Vet bathe oats Heigl R
+t xrru'nu?xxl.-,.v,ih 1/tr » v'rtorsNE1e) а £nei k* age 25
+X » 2 ^ 2
+, i , V al (*t e neq&ves йЫ
+þ ^ _пм\и!т:т:;ппгъ"мш'ь_чч seny? dimaere, '—?J
+» MR "—«* OPP er Agere Sn т моа LAER 3 c tnr s r
+- wal .i...,,.-n.-nun--',-uu cdn o print so d .
+a * ..…,ид'\‹.'п__цпг'4_3{\'„.’ лу к) ^ т ”
+» F. щ‚ч‘ппз›ь\--.п._‘-*_ &, 3 ) й < Pe
+2 :s F Si $ ae 'o$) ,'; ая
+a * as er” er
+i * 4 ‘ь.__?{_ я Tes ^ ae: a
+» " » 142 be ^ a т - З
+ъ ‚ ‘yy SP ial G meee Le
+oS See oe 2** AV
+Puc. 1. Sin. gr. NE МГ 25. JI. 1
+
+Библиотека греческих манускриптов Ca‘uda ибн Даниила ибн Бишра — 157
+
+По содержанию эта рукопись — Слова (Гомилии) Григория На-
+зианзина`. Таким образом, перед нами фрагмент одной Hs трех
+древнейших дошедших до нас маюскульных РУКОПИССЙ произве-
+дений великого каппадокийца. Две другие маюскульные рукопи-
+CH — знаменитые иллюминованные кодексы Слов ГРИГОРИЯ Нази-
+анзина — Paris. gr. 510 и Ambr. E49/50 inf.
+
+Маюскульный фрагмент NE МГ 25 на верхнем поле перво-
+ro листа (л. Alr) имеет арабскую вкладную запись человека по
+имени Са‘ид ибн Даниил ибн Бишр. Несмотря на значительную
+загрязненность первого листа при воспроизведении в альбоме си-
+найских фрагментов оказалось возможным прочитать имя вклад-
+чика и саму запись’. Как предполагает Д.А. Морозов, эта араб-
+ская запись может относиться к ХП в.
+
+— (9) urxga8 3 [9] 04 43$jJSJ! (» (2U)) о) cpegru brewers Le
+
+ot) bpd cgr si qua alae
+
+Häada—I—mushaf yatadamman al-guz at-tani min al—Kulütütiqun [?]
+|-Igrigtriyis??? | habasa-h al-hati Sa‘id bn Danil bn Bisr ‘ala Tar Sina
+fa-man ahraga-h ‘an-h fa-Llah Ta‘ala | yudinu-h wa-yag‘al hazza-h
+ma‘ Yudas as-Siqaryuti. Amin.
+
+«Этот кодекс содержит вторую часть “Аколуфотикона” [?]
+Григория???, | положил ero грешный Са‘ид сын Даниила сына
+* Реконструкция последовательности Слов в восстанавливаемой рукописи по
+
+П. Орсини: 38, 39, 40, [1], 45, 44, [41], 29, [30], 31, 32, 33, 22, Ep. 102, Ep. 101,
+36, 26, 42, 4, 5, 37, Ep. 22, 13, Carm. Moralia 3, Carm. Dogmatica 32, Vita (см.:
+Orsini P. Nuovi frammenti... P. 11. Tab. 4). Из этой последовательности можно
+выделить часть так называемой «литургической» коллекции (как правило, со-
+стоящей ns двенадцати слов, HO в нашем случае реконструируются только пер-
+вые семь: 38—39—40—[1]—45—44—[41]), далее имеющую свой особенный вариант
+c частью «богословской» коллекции (29—[30]—31) и затем — своей собственной
+последовательностью слов и сочинений.
+
+° Ранее в историографии эта запись была неправильно понята XK. Моссэ и ин-
+терпретирована как вклад монаха Даниила Ha Tope Синай (Nicolopoulos P.G.,
+Mossay J. Le codex Sinaiticus Graecus МГ 25... Р. 484-485). П. Kean и С. Фрейс-
+XOB в примечании к своей работе ограничились лишь констатацией общих со-
+ображений, что арабская вкладная запись состоит из трех частей: указания
+на содержание рукописи, имени вкладчика — «Sa'id [так! — М.К.] ibn Daniel ibn
+Bishr» — и формулы проклятия тому, кто унесет книгу (Géhin Р., Froyshov 5.
+Nouvelles découvertes sinaitiques... Р. 172, n. 18).
+
+158 M.A. Курышева
+
+BHIIpa!? на Tope Синай, и ToT, кто вынесет ero с Hee, TO bor Всевыш-
+
+ний | осудит ero и сделает удел ero с Иудой Искариотом. Аминь»''.
+
+Арабская запись сохранила указание на второй том собра-
+ния аколуфий, начинающийся с полустертого заголовка в застав-
+ке и 38 Гомилии на Богоявление или Рождество Спасителя (Eic th
+Ософбмю eitovv ГеуЁдМа Tod Хаотйрос). Таким образом, решается
+принципиальный при изучении рукописной традиции сочинений
+Григория Назианзина вопрос о существовании в Византии двух
+томов Слов. В недавнем исследовании А.М. Бруни на основе сла-
+вянских переводов Назианзина смог лишь гипотетически выска-
+заться в пользу этой версии'?. Теперь »xe можно констатировать,
+что уже в 1Х в. в греческих рукописях Слов Григория Богослова
+существовало разделение на два тома, содержащих разные аколу-
+фии. Такое разделение на два тома, по-видимому, не только суще-
+ствовало в Византии, по крайней Mepe, с 1Х B., HO и продолжалось
+в ХП B., когда была сделана вкладная запись'`.
+
+Соединение четырех маюскульных фрагментов этого маю-
+скульного кодекса 1Х в. позволяет проследить редкую последова-
+тельность аколуфий (cm. примеч. 7). Последовательность откры-
+вающих второй том первых семи Слов (38, 39, 40, [1], 45, 44, [41])
+реконструируется no отрывку NE МГ 25". A.M. Бруни отмечает
+такую последовательность только для греческих рукописей XI в.
+и B армянской традиции части «литургической коллекции»'`. Ta-
+кая последовательность еще присутствует в сохранившихся сла-
+вянских рукописях XIV—XVII вв. При исследовании NE МГ 25,
+становится очевидно, что такая последовательность была в гре-
+ческих рукописях уже в 1Х в. Тем самым необходимо заново рас-
+смотреть вопрос о том, какие греческие рукописи — маюскульные
+'° MeHee вероятны возможные варианты прочтения «Буср» и «Йуср».
+
+" Прочтение, транскрипция и перевод всех арабских записей выполнены
+Д.А. Морозовым.
+
+Р Бруни A.M. @во\буос: Древнеславянские кодексы Слов Григория Назианзина
+и UX византийские прототипы. M.; СПб., 2004. С. 190.
+
+! В словаре византийского греческого языка Э. Траппа в ХП B. фиксируются
+слова, образованные от слова akoAovOia (Lexikon zur byzantinischen Grazitat,
+besonders des 9. —12. Jahrhunderts. Wien, 2001. Bd. 1: А-К / Hrsg. v. Е. Trapp,
+W. Horandner, J. Diethart, A. Steiner-Weber, F. Shiffer, M. Cassiotou-Panayoto-
+poulos, $. Schénauer. $. 45).
+
+“ Nicolopoulos P.G., Mossay J. Le codex Sinaiticus Graecus МГ 25... P. 481-496.
+
+5 Бруни A.M. OGsox6yoc. Древнеславянские кодексы... С. 141-142, примеч. 43,
+44; Он же. Византийская традиция и старославянский перевод Слов Григория
+Назианзина. М., 2010. Т. I. C. 102.
+
+Библиотека греческих манускриптов Cauda ибн Даниила ибн Бишра — 159
+
+IX в. WIM минускульные Х1 в. — являлись источниками для славян-
+
+ских переводов Слов Назианзина'°.
+
+A.M. BpyHu постоянно подчеркивает константинопольское про-
+исхождение минускульных рукописей 1Х в.', однако совершенно
+игнорирует маюскульные рукописи, которые датируются примерно
+тем же временем и также являются продуктом константинополь-
+ских скрипториев. Таким образом, для IX s. A.M. Бруни изучает
+лишь часть ДОШСДШСЙ в очень фраГМСНТИРОВЗННОМ виде традиции.
+Наконец, странным образом B своем исследовании минускула 1Х в.
+A.M. Бруни обращается даже к материалу папирусов IV—VI вв.'“, про-
+пуская TCM самым весь <<М.':1ЮСКУЛЬНЬ1Й этап» истории текста. На чем
+основано такое решение, нам осталось неясным. В итоге, игнориро-
+вание со стороны А.М. Бруни древнейших маюскульных кодексов
+IX в. Слов Григория Назианзина требует критического пересмотра
+его реконструкции раннего этапа РУКОПИСНОЙ традиции.
+
+По воспроизведениям в альбоме синайских находок арабская
+вкладная запись выявлена также на следующих рукописях, KOTO-
+рые мы указываем с уточненными датировками и кратким содер-
+жанием записи.
+
+2). Sin. gr. NE М 153 (Puc. 2)'? - Сборник юридического содер-
+жания (Ecloga privata aucta, Procheiron nomos, Appendix Eclogae).
+Вторая половина Х B., пергамен, 77 листов, 230 х 183 mm. В араб-
+cKoH ВКЛЗДНОЙ записи на первом листе содержание определено
+'® Есть основания предполагать, что зачастую именно более древние кодексы по-
+
+падали в славянский мир и использовались славянскими книжниками (0 про-
+блеме см.: Афиногенов Д.Е. Четьи минеи: энциклопедия византийской жизни
+для русского читателя // Вестник истории, литературы, искусства. 2007. Вып. 4.
+С. 127-139; Он ace. Утраченные византийские источники в древнерусской
+словесности // Тр. Отделения историко-филологических наук. 2007 / отв. ред.
+акад. А.П. Деревянко. М., 2009. С. 400-422).
+
+" Бруни A.M. Gsox6yoc. Древнеславянские кодексы... С. 54, примеч. 44 (вы-
+BO о датировании минускульного кодекса Vat. gr. 460 серединой IX в.). С. 93
+(вывод о TOM, что самый древний материал восходит к IX B.), 95-115 (о ми-
+нускульных рукописях конца 1Х — первой трети X в.), 116 (повтор вывода
+co С. 54, примеч. 44); Bruni A.M. Sulla datazione del codice Vat. gr. 460 delle
+Orazioni di Gregorio di Nazianzo // Хризограф. М., 2005. Вып. 2. С. 27 (вывод
+о датировке Vat. Reg. gr. 38 концом IX B.), 30 (вывод о датировке Vat. gr. 460
+серединой IX в. и ero центральном происхождении); Бруни A.M. Византийская
+традиция и старославянский перевод... С. 11 (вывод о датировании Vat. gr. 460
+серединой IX B.), 13 (средневизантийская традиция Слов Григория Назианзи-
+на не периферийная, а центральная).
+
+!5 Бруни A.M. Византийская традиция и старославянский перевод... С. 75-114.
+
+® Та v&a supiuaæta tov Xwä... X. 180. Bart. 140.
+
+160 M.A. Курышева
+” P me В = —
+(dabbles АМ Sob 2A at p« pl ! —
+\' 'Ы i 4 r W/
+yan phew $e ae g
+mZ ts so' O C. qr. "* & jo
+. uh Crores Lc drefrrerenp Tl Al erery Choy KAle®
+[ i,grhw-r.k -’/\\›'—пцнкд\ц‹‚.:‚м ‚‘дн.‚{„ос
+I' -u-(--nugu:Amw«uüciuwu&&:chcH'
+! ' ш acic ei. t. X) 64 )— q
+J: & OM*W"&NWIWWLW*WU
+f ‘%Ф"' ь.‘“щ“`рс;+;оу$!11‚літ П'Б\{-'
+) am и \\':‹ішёіощ‹›_-п‹н.н‹’г'‚"ищ'
+| i dcwir;-.-cp?xmxmof[pþfuibpogwb b
+[ i isis or ! er mco АЛО а , wap ro ares Trae
+l r 'i'ffn'.msdf*ll(w:!dä.?m;ul(tx.)
+К ee * -u:wp.bpufexge.nc
+' .r'."'- E тую_ър&&_рш.ч‘а 8 wo y
+ï w-o(-—? co er te 6(cauer6ru er exa er 5) A к‘чцоио"(с £3 i
+' wq'.pwäuwruy .и/ьятрч.'и-ь\.‹;-кдг_?) Ра >.
+! fK, wh?ä-guz-yw-pm.ww K il
+WV'F'P';"":'"W"M?&' "A
+— 'Ъ`к№&мн‹!\‹ье‚- Ssyap o ) Sb
+ra wrerg eJ RNR aa yal gos C)) —, 3
+‚ rw phyupli Pesapucreérern poy nro ap es 3
+3, “‚’"‘:‘р.&;‘;‘……у‘тцщ'чиф a T
+H "У"""';’?"""‹"…“.""Мдк;с'{еь\ ae .
+¥
+[ ie
+& ад в 2^7;
+ec ^ —qc. $ eee ee , ed
+Puc. 2. Sin. gr. NE M 153. JI. 1
+
+Библиотека греческих манускриптов Ca‘uda ибн Даниила ибн Buupa — 161
+как «Закон Царей O браКОСОЧСТЗНИЯХ, наследованиях и прочие све-
+дения». В синайском альбоме рукопись датирована XI—XII в. (cM.
+примеч. 18), HO нам такая датировка представляется ошибочной.
+ДЗЖС B приведенном отрывке видно, что минускул рукописи OT-
+HOCHTCA к типу почерков Perlschrift, в котором имеется немало
+элементов, восходящих K почерку знаменитого константинополь-
+ского писца середины — ВТОРОЙ половины Х в. монаха Ефрема2°.
+
+3). Sin. gr. NE Х 145 (Puc. 3)?! - Лекционарий (название на первом
+листе рукописи: ЕраууёМоу obv Ofe]@ éxAoyddnv)”. ХГ в., бумага,
+
+100 лл., 180/182 x 140/142 mM. В арабской вкладной записи содержа-
+
+ние определено как «Евангелие ЭКЛОГЗДИОН>>23. В синайском альбоме
+
+рукопись датирована XI—XII Bs. (см. примеч. 21). Между Tem руко-
+пись можно датировать точнее — рубежом XI—XII вв., поскольку в Heit
+есть отдельные особенности Карахиссарской группы рукописей.
+
+Сочетание провинциального почерка и декорации с таким ранним
+
+использованием бУМЗГИ наводит на мысль о происхождении рукописи
+
+ИЗ ВОСТОЧНОЙ провинции Византии — Палестины или Синая.
+
+4). Sin. gr. 497 (защитные л. 3—4 06.) (Puc. 4)** + Sin. gr. NE МГ 23
+
+(92 лл.) (Puc. 5) - Синаксарь на сентябрь-октябрь. Первая половина —
+
+середина Х B., пергамен, 94 лл., 270 х 212 мм. В арабской вкладной 3a-
+
+20 О nem см., например: Diller A. Notes on Greek Codices of the Tenth Century //Transactions
+of the American Philological Association. 1947. Vol. 78. P. 184-188; Фонкич Б.Л. О дати-
+ровке Оксфордского списка гомилий Льва Мудрого (Bodleian Library, ROWL. С 189 =
+MISC. 173) // Онже. Греческие рукописи европейских собраний: Палеографические и
+кодикологические исследования 1988—1998 rr. М., 1999. С. 53—55. Puc. 1—3; D’Aiuto Е
+Un/’attivita di famiglia? Un copista «discendente del саШега о Efrem» // Rivista di studi
+bizantini е neoellenici. 2012. N.S. 48 (2011). P. 71-92.
+
+2! Ta véa, evphuata tov Diva... X. 212. Oat. 186.
+
+2 Классификация no содержанию —Gregory-A land € 2249 (см.: Elliott J.K. Abibliography
+of Greek New Testament manuscripts: 3 ed. Leiden; Boston, 2015), [Электронный
+pecypc]: http://ntvmr.uni-muenster.de/liste/? ObjID=30892 (дата доступа: 01.12.2016).
+
+23 О редком термине €x^oyäötov, используемом для обозначения содержания
+Синаксаря umn Лекционария cm. диссертационную работу: Jordan C.R.D.
+The Textual Tradition of the Gospel of John in Greek Gospel Lectionaries from
+the Middle Byzantine Period (8"-11" Century): Ph.D. thesis. University of
+Birmingham. 2009. P. 66-68, 73-74, 78.
+
+** To véa evprypata tov Liiva... X. 115. Pwr. 40; описание рукописи Sin. gr. 497 под
+номером 333, HO без упоминания защитных листов, CM.: Описание греческих
+рукописей монастыря cB. Екатерины на Cunae. СПб., 1911. Т. I: Замечательные
+рукописи в библиотеке Синайского монастыря и Синаеджуванийского подво-
+pba (B Каире), описанные архимандритом Порфирием Успенским. Изд. Имп.
+Академии наук, исполненное на завещанные eli em. Порфирием средства, под
+редакцией и c дополнениями В.Н. Бенешевича. С. 178-182.
+
+25 Ta v&a сорйцота tov Livd... X. 96, 115, 145. Bar. 5.
+
+162 M.A. Курышева
+— / $ d
+I —
+.' v P ay e s I
+4 и " ^ W , i
+E * ^ и age ы ii . —. : . *T
+„—^ CO. ARES * v
+й R '_ - To WAL: “
+ppp kD оРО ПНЕ РОЫ
+{ v'a ъ "n e. 1& ex os p sss PO J
+e j e oA A A "X *ITpO — p
+x **XX,IIIT^—Z^^ ,— —t^^^. —' t уэ
+аь ge = Phe fh teh SO.
+Lm "*—XV 'q 'W. » ^ mx s ï
+. re ane rs? ¥,. i e T
+^ ' с ^* н O *
+So ? o^d$^ *7 .* 4. ^ *T ^
+a id en win yh eee
+yy % 6° ", М АА b Ъ& 1.
+уч m ^ а . -а т .
+о, 120482 co it bina, ro$
+Pa ae м. atts pre),
+ба re *Z ^ @ 2а oe 2 w
+ae aor Zhn«uUd^ex *. .
+к, mri meo K Q)r -— о ï d ï F
+: 607 АЛ ТОН ,
+— - "A". = —а . *
+lox——— .cl »lad . 4 XIZL
+; 4 Ve Py 4 Г у
+‚
+Puc. 3. Sin. gr. NE Х 145. Л. 1
+
+Библиотека греческих манускриптов Cauda ибн Даниила ибн Бишра — 163
+$ s XV qs И,
+Е —^—* * sner dm V
+? eee * М ic & '
+- th $(» —V OOS Ge, *
+! ееа =i CKOTIADAINE — |
+f Nag ER)! — KAI HOKOTIAAY $
+i) ET ^———$3AV TOYOYKATEAA
+eo; 'TK 1 + ВГЕМ 8
+, eal TAhA , /BtN*trmwTe ; i
+[ iro ANOLANELTAA ^ i
+, nAU'BEKAiGSK — xag)rtnap^A9oy 1. d
+CO MAPXHHIO, — ОМОМАЛУТИУ t? !
+l %Ао'гово_кл_юл JOAN HE OY d
+[ reciiinþoeT$ — TQCHA"CR)iLJt —
+— o0TPKAJþ65HNO — 2AApJJfJAJIZ |
+Aorogeoy rove — |МАМАРТУЙ! ) Ё,
+[ {НАРХНПРОСТО” ш_пг/_{п'о;?оь 4
+' 4(» NAM TAA FOUINANAI "— e
+. AyvTytpthETO; — T—E£RJ(Ttye&o.. 7s
+| KAixwpitdy]e AIAN TOSOY — — (0)
+ETEDETOOYAEER, KHTEKE rre( * '£ !
+| ^yfrrewtrw 6aA  TOPWHAAAHA h
+Тдгд”"!'і';к! MAAPTYPHIET. › '‹‘
+HR@OHHNTOPS TPIT OY bco/o(* aa
+meo pr A H oi + HMTOpwrTD. ie
+xArmiposPiJWi AAO j^ [
+jJT /
+\ A
+V * ц ,
+®
+a _ М | I
+fi ч )
+l py Me Ap — ae n ‘_4 ши 7
+Puc. 4. Sin. gr. 497. Л. 3:3
+
+164 M.A. Курышева
+—( T2yyasoroyurorzuw HONS nriawytn,
+3 г}‚]йніоеп МЁ›ОЗ{Е’ПЧ_ЗК‘ЕЪ]Е:'
+— ïle;ï'ä He mprctmaertyalre
+i Pra Foc AMAL HAIN TWX
+eR a ee ee,  —AMLECTAAKE MAE! |
+QYM@NTCTYAT — qAtac(Arroyuy r
+— екТкллоуКкАн тетролалемоуг
+ItSGKATþINEKGIII: SEG ah
+2 a ‚и/_нчшд‚п/;__п';н yaks 1A 1x wx A
+”‘Щд["‘;'")”'" ло wat 2
+. Л TEFBATARAT »OC Ty?eoïc' m'g:;ï _
+—V RAAIB.lni.A-l:nghn TIN "Атост PrAA:1 d
+— mei&ærritAyT&^ Tibpayraxtreoyt
+Ce fat idee Ee: ddA dee i
+CARBA nent]H ZAr!E friaA yvorzky
+— tyMArGTH»OKAI— — XAficr6ir/^xAiriT;
+ANtiTHANATN® ee
+мАМА АН — AIcAcyccvoyri R
+AyTWwRIBAINH — þPETNENA—iCE—^ þ
+cAisy v*Vripo bet. n Aronuvr DR
+"vey^KAtA МА ly гумАгоГно! © ;
+ZACTORIPATON: ae ^ AA 01 H CA 33 *
+£yptTonTinov; ATENIZONTECA: y s£
+gyünrzrr/tuu-s 'rw:.urzu-c.& ;
+, - 4j
+Puce. 5. Sin. gr. NE МГ 23. Л. 5
+
+Библиотека греческих манускриптов Cauda ибн Даниила ибн Buupa — 165
+писи, оказавшейся Ha защитном л. 3 в рукописи Sin. gr. 497, содержание
+определено также как «Евангелие эклогадион». В синайском альбоме
+рукопись датирована X—XI вв. (cM. примеч. 23, 24), однако из-за TOTO,
+что она написана вертикальным маюскулом с минимальным накло-
+ном вправо, из-за ее в целом провинциального облика и декорации
+в сочетании с манерно выписанными бУКВЗМИ (Например, обе фОРМЬ1
+ро- , p,may—T, тета —®, ипсилон —, бета — @), рукопись трудно да-
+тировать. В ee письме есть явные элементы, СбЛИЖЗЮЩИС ее с кругом
+рукописей первой половины Х B.: в написании, к примеру, букв ncu (T)
+и имеющей минускульный облик кси (&) с характерным XBOCTOM
+и дзеты (2) видно стремление копирующего подражать константи-
+нопольским рукописям времени Константина Багрянородного, 945—
+959 гг. Поэтому эту рукопись корректнее датировать первой полови-
+ной — серединой Х столетия.
+
+Kpome перечисленных выше известных B HCTOpI/IOFpa(þI/II/I
+четырех фрагментов, нами ИДСНТИфИЦИРОВЗН еще OHH, ПЯТЬ1Й,
+фрагмент, содержащий такую »xe арабскую запись и происходя-
+щий из той части собрания К. Тишендорфа, которая оказалась
+в Британской библиотеке. Dro знаменитый кодекс, no одной из
+частей которого имеющий общее название «Codex Bodleianus
+Genesios» входит BO все индексы рукописей Септуагинты”°. Ta-
+KUM o0pa3om, нами выявлен пятый кодекс, ВХОДИВШИЙ ранее в би-
+бЛИОТСКУ STOTO apaOckoro вкладчика:
+
+5). MS. Auct. Т. inf. 2. 1 (Misc. gr. 312) (написанные маюску-
+лом 29 лл.)? + Catabrig. Univers. Lib. Add. 1879.7 (Madan. 28644)
+(по тексту примыкающий к предыдущему фрагменту л. 1, на од-
+HO стороне которого маюскул, на обороте — минускул)?* + PHB.
+Греч. 62 (написанные минускулом 146 лл.)?° + Brit. Lib. Add. gr.
+* См.: Swete H.B. An introduction to the Old Testament in Greek. With an Appendix
+
+Containing the Letter of Aristeas / Ed. by H. St.J. Thacheray. Cambridge, 1902 [2009].
+P. 134-135; Jellicoe 5. The Septuagint and Modern Study. Winona Lake, Indiana, 1993.
+P. 191-192. Ee четыре части xax принадлежащие некогда библиотеке Синайского
+монастыря cB. Екатерины были кратко описаны B.H. Бенешевичем, см.: Описание
+греческих рукописей монастьря cB. Екатерины на Синае... С. 649-650.
+
+27 Рукопись с кратким описанием доступна для просмотра на сайте Бодлеянской
+библиотеки, благодаря Polonsky Foundation Digitization Project, cm.: [Элек-
+тронный pecypc]: http://digital.bodleian.ox.ac.uk/inquire/p/bfaebc25-ca23—4b87—
+809d-295225775952. (gata доступа: 01.12.2016).
+
+25 Оцифрован Tam же (cM. примеч. 28); историю ero приобретения см.: Swete H.B.
+An introduction to the Old Testament... P. 135.
+
+® Описание см.: Гранстрем E.9. Каталог греческих рукописей Ленинградских
+хранилищ. Вып. 2: Рукописи X века // Византийский временник. 1961. Т. 18.
+С. 254 (co ссылкой на работу А. Rahlfs ошибочно отвергнуто отождествление
+частей кодекса, сделанное B.H. Бенешевичем).
+
+166 M.A. Курышева
+
+20002 (написанные минускулом 16 .1.1.)°°— Ветхий Завет, IX—X вв.,
+
+пергамен, четыре части одного кодекса составляют в ОбЩСЙ CJIODK—
+
+ности 192 лл., размер paBeH приблизительно 330/275 x 270/210 мм
+
+B зависимости OT степени обрезаНИЯ JIHCTOB B каждом фрагменте.
+
+Запись на первом листе сильно повреждена, тем не менее читает-
+
+Ca, xax и в остальных: «[... поло]жил ero грешный Са‘ид [сын Да-
+
+ниила сына Бишра] на Горе Синай,[и TOT кто вынесет ero] с Hee,
+
+To bor Всевышний осудит ero и сделает удел ero с Иудой...».
+
+В последнее время в изучении этого кодекса наметилась тенден-
+
+ция OTHOCHTE ero KO BTopou половине Х B. и локализовать Южной
+
+ИТЗЛИСЙЗі, HO HaM представляется, что датировка минускульного
+
+письма этой рукописи должна оставаться в пределах ПОСЛСДНСЙ
+
+четверти 1Х — начала Х столетия*, а ee маюскул требует специ-
+ального изучения.
+
+РаССМОТРСННЬ1С пять записей на пяти кодексах — яркое свиде-
+тельство существования в XII в. небольшой, HO интересной гре-
+ческой бИбЛИОТСКИ, которая принадлежала любителю древних
+рукописей no имени Са‘ид ибн Даниил ибн bump. On вложил
+эти книги в монастырь cB. Екатерины на rope Синай. Таким об-
+разом, у нас впервые появляется информация о частной библио-
+теке XII B.**, причем, принадлежащей арабоязычному собирателю
+«антикварных» греческих РУКОПИССЙ. Ilo-cBoemy замечательная
+персона Са`‘ида ибн Даниила ибн Бишра сейчас He идентифици-
+руется, надеемся, что наша ПубЛИКЗЦИЯ послужит первым шагом
+для этого.
+
+Мы лишь можем ОбраТИТЬ внимание на TO, что личное UMA
+вкладчика Said (произношение с очень твердым первым «С»,
+долгим «а» и коротким <<И>>)— именно B TaKOM виде встречает-
+30 Рукопись с описанием и библиографией оцифрована на сайте Британской
+
+библиотеки: [Электронный ресурс]: http://www.bl.uk/manuscripts/FullDisplay.
+aspx?ref=Add_MS_20002 (дата доступа: 24.12.2016).
+
+3! Hutter I. Corpus der byzantinischen Miniaturenhandschriften. Stuttgart, 1982.
+Bd. 3.1: Oxford, Bodleian Library. $. 26—27. Ne 15 (Auct. Т. Inf. 2. 1). Add. 70;
+Luca S. Scritture e libri della «scuola niliana» // Scritture, libri e testi nelle aree
+provinciali di Bisanzio: Atti del seminario di Erice (18-25 settembre 1988) / A cura
+di G. Cavallo, G. de Gregorio, M. Maniaci. Spoleto, 1991. Vol. I. P. 386).
+
+3 Ory датировку предложил В.Н. Бенешевич, cm.: Описание греческих рукопи-
+сей монастыря cB. Екатерины на Синае... С. 649; Гранстрем Е.Э. Каталог гре-
+ческих рукописей... С. 254. Дополнительному обоснованию этой датировки
+мы собираемся посвятить отдельную работу.
+
+33 О византийских библиотеках см.: Wilson N. The Libraries of the Byzantine World //
+Greek, Roman and Byzantine Studies. 1967. Vol. 8, N 1. P. 53-80.
+
+Библиотека греческих манускриптов Ca‘uda ибн Даниила ибн Бишра — 167
+ся в средневековой мусульманской Испании. Такое имя носили
+два интеллектуала, живших соответственно BO второй полови-
+He Х B. H B XI B. Первый Hs них — ученый, nosr и филолог Sä id
+al-Baghdadi (950-1026), подчеркнем, что конец своей жЖизни OH
+провел на Сицилии, где и скончался`*. Второй — мусульманский
+историк, математик и астроном Sä id al-Andalusi (1029—1070)*.
+Позже, по-видимому, это имя вышло из моды, как зачастую бы-
+вало в мусульманской ономастической традиции. Это совпадение
+редкого личного имени двух испанских интеллектуалов и визан-
+тийского библиофила показывает, что поиск Са`‘ида ибн Даниила
+ибн Бишра должен идти во всех регионах Средиземноморского
+мира, тем более, что уже в раннем Средневековье интеллектуалы
+были в числе социальных групп, склонных к «перемене мест»“°.
+
+БИБЛИОГРАФИЯ
+
+Афиногенов Д.Е. Четьи минеи: энциклопедия византийской жизни
+для русского читателя // Вестник истории, литературы, искусства. 2007.
+Bum. 4. С. 127-139.
+
+Афиногенов Д.Е. Утраченные византийские источники в древнерус-
+ской словесности // Тр. Отделения историко-филологических наук. 2007 /
+отв. ред. акад. А.П. Деревянко. М., 2009. С. 400-422.
+
+Бруни A.M. Osoroyoc: Древнеславянские кодексы Слов Григория
+Назианзина и их византийские прототипы. М.; СПб., 2004.
+
+Бруни А.М. Византийская традиция и старославянский перевод
+Слов Григория Назианзина. М., 2010. Т. 1.
+
+Гранстрем Ё.Э. Каталог греческих рукописей Ленинградских xpa-
+нилищ. Вып. 2: Рукописи Х века // Византийский временник. 1961.
+Т. 18. C. 254-274.
+
+Описание греческих рукописей монастыря св. Екатерины на Синае.
+СПб., 1911. Т. I: Замечательные рукописи в библиотеке Синайского мо-
+настыря и Синаеджуванийского подворья (в Каире), описанные архи-
+3 Martinez-Gros G. Sa‘id al-Baghdadi // The Encyclopedia of Islam. Leiden, 1995.
+
+Vol. VIII: Ned—Sam. Р. 868.
+
+35 Martinez-Gros G. Sa‘id al-Baghdadi // Ibid. P. 867-868; Richter-Bernburg L. Sa‘id
+al-Andalust: Abt al-Qasim Sa‘id ibn abt al-Walid Ahmad ibn ‘Abd al-Rahmaan ibn
+Muhammad ibn Sa‘id al—Taghlibi al-Qurtubt // The Biographical Encyclopedia of
+Astronomers / Ed. by Th. Hockey et al. N. У., 2014. P. 1005-1006.
+
+36 Cp. «реестр» средиземноморских коммуникаций VIII — середины X в. в MO-
+нографии М. МакКормика (McCormick М. Origins of European Economy:
+Communications and Commerce. A.D. 300-900. Cambridge, 2001. P. 16-17; 852—
+972), moKa3biBarollun HaCKOJIBKO HHTCHCHBHO здесь перемещались самые pa3-
+ные люди, а не только послы и торговцы.
+
+168 M.A. Курышева
+
+мандритом Порфирием Успенским. Издание Имп. Академии наук, ис-
+полненное на завещанные ей еп. Порфирием средства, под редакцией
+и с дополнениями B.H. Бенешевича.
+
+Фонкич Б.Л. О датировке Оксфордского списка гомилий Льва Му-
+дрого (Bodleian Library, ROWL. С 189 = MISC. 173) // Фонкич Б.Л. Гре-
+ческие рукописи европейских собраний: Палеографические и кодиколо-
+гические исследования 1988—1998 rr. М., 1999. C. 53-55. Puc. 1-3.
+
+Bruni A.M. Sulla datazione del codice Vat. gr. 460 delle Orazioni di
+Gregorio di Nazianzo // Хризограф. М., 2005. Вып. 2. С. 27-32.
+
+D’Aiuto F Un’attivita di famiglia? Un copista «discendente del
+calligrafo Efrem» // Rivista di studi bizantini е neoellenici. 2012. N.S.
+48 (2011). P. 71-92.
+
+Diller A. Notes on Greek Codices of the Tenth Century // Transactions of
+the American Philological Association. 1947. Vol. 78. P. 184-188.
+
+Elliott J.K. A bibliography of Greek New Testament manuscripts: 3" ed.
+Leiden; Boston, 2015.
+
+Géhin P., Froyshov $. Nouvelles découvertes sinaitiques: A propos de la
+parution de l’inventaire des manuscrits grecs // Revue des Etudes Byzantines.
+2000. Т. 58. P. 167-184.
+
+Harlfinger D., Reinsch D., Sonderkamp J.A.M., Prato G. Specimina
+Sinaitica: Die datierten griechischen Handschriften des Katharinen-Klosters
+auf dem Berge Sinai. 9. bis 12. Jahrhundert. Berlin, 1983.
+
+Harlfinger D. Beispiele der Maiuscula ogivalis inclinata vom Sinai und
+aus Damaskus // Alethes Philia: Studi in onore di Giancarlo Prato / A cura di
+М. D’ Agostino е P. Degni. Spoleto, 2010. P. 461-477.
+
+Hutter I. Corpus der byzantinischen Miniaturenhandschriften. Stuttgart,
+1982. Bd. 3.1: Oxford, Bodleian Library.
+
+Jellicoe S. The Septuagint and Modern Study. Winona Lake (Indiana),
+1993.
+
+Jordan C.R.D. The Textual Tradition of the Gospel of John in Greek
+Gospel Lectionaries from the Middle Byzantine Period (8"—11" Century):
+Ph.D. thesis. University of Birmingham. 2009.
+
+Lexikon zur byzantinischen Grazitat, besonders des 9. —12. Jahrhunderts.
+Wien, 2001. Bd. 1: А-К / Hrsg. v. Е. Trapp, W. Hörandner, J. Diethart,
+A. Steiner-Weber, Е. Shiffer, М. Cassiotou-Panayotopoulos, 5. Schénauer.
+
+Luca S. Scritture е libri della «scuola niliana» // Scritture, libri e
+testi nelle aree provinciali di Bisanzio: Atti del seminario @ Erice (18—
+25 settembre 1988) / A cura @ С. Cavallo, С. de Gregorio, М. Maniaci.
+Spoleto, 1991. Vol. I. P. 319-387, Tav. 1—24b.
+
+McCormick M. Origins of European Economy: Communications and
+Commerce. A.D. 300-900. Cambridge, 2001.
+
+Mossay J. Repertorium Nazianzenum. Orationes. Textus Graecus.
+6: Codices Aegypti, Bohemiae, Hispaniae, Italiae, Serbiae. Addenda et
+Corrigenda. Paderborn; Miinchen; Wien; Zürich, 1998.
+
+Библиотека греческих манускриптов Cauda ибн Даниила ибн Бишра — 169
+
+Nicolopoulos P.G., Mossay J. Le codex Sinaiticus Graecus МГ 25 //
+Byzantion. 2002. Т. LXXII, Fasc. 2. P. 475-496.
+
+Orsini P. Nuovi frammenti del codice Vat. Ottob. gr. 424 // Codices
+Manuscripti & Impressi. 2014. Heft 95/96. P. 1-14.
+
+Politis L. Nouveaux manuscrits grecs découverts au Mont Sinai //
+Scriptorium. 1980. Т. XXXIV, N 1. P. 5-17, pl. 1-8.
+
+Swete H.B. An introduction to the Old Testament in Greek. With an
+Appendix Containing the Letter of Aristeas ed. by H. St. J. Thacheray.
+Cambridge, 1902 [2009].
+
+The Biographical Encyclopedia of Astronomers / Ed. by Th. Hockey
+et al. N. Y., 2014.
+
+The Encyclopedia of Islam. Leiden, 1995. Vol. VII: Ned—Sam.
+
+Wilson N. The Libraries of the Byzantine World // Greek, Roman and
+Byzantine Studies. 1967.Vol. 8, N1. P. 53-80.
+
+Ta vea svpnuata tov Lia. AOjvat, 1998 (= The New Finds of Sinai.
+Athens, 1999).
+
