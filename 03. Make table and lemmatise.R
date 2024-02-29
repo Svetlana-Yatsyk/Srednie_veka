@@ -9,7 +9,8 @@ library(wordcloud)
 library(showtext)
 
 files <- list.files("cleaned_txts")
-file_paths <- paste0("cleaned_txts/", files) #мак видит все 1877 файлов, а виндоус только 1473 
+file_paths <- paste0("cleaned_txts/", files) 
+#мак видит все 1877 файлов, а виндоус только 1473 
 
 all_texts <- map(file_paths, readLines)
 names(all_texts) <- files
@@ -44,16 +45,15 @@ determine_gender <- function(author_surname) {
   }
 }
 
-# Добавляем гендер в таблицу
+# добавляем гендер в таблицу
 texts_tbl$Gender <- sapply(texts_tbl$Author, determine_gender)
 
-# То, что автоматически не определилось, правим руками и мерджим
-# Загрузка CSV-файла
+# то, что автоматически не определилось, правим руками и мерджим
 add_gender <- read.csv("gendered.csv")
 
-# Объединение датафреймов
+# объединение датафреймов
 texts_gendered <- texts_tbl %>%
-  left_join(select(add_gender, -Issue), by = c("article_id" = "id"))
+  left_join(select(add_gender), by = c("article_id" = "id"))
 
 texts_gendered <- texts_gendered %>%
   select(-Author) %>% # удаление старого столбца Author
@@ -63,12 +63,10 @@ metadata_only <- texts_gendered %>%
   select(-text)
 
 write.csv(metadata_only, "metadata.csv")
+write.csv(metadata_only, "texts_tbl.csv")
 
-# 'everything()' в 'select' включает все оставшиеся столбцы в исходном порядке
-
-
-# лемматизируем
-russian_gsd <- udpipe_load_model(file = "~/Documents/RESEARCH/rus_hist/SV_topic_modelling/russian-gsd-ud-2.5-191206.udpipe")
+# лемматизируем----
+#russian_gsd <- udpipe_load_model(file = "~/Documents/RESEARCH/rus_hist/SV_topic_modelling/russian-gsd-ud-2.5-191206.udpipe")
 russian_syntagrus <- udpipe_load_model(file = "~/Documents/RESEARCH/rus_hist/SV_topic_modelling/udpipe_models/russian-syntagrus-ud-2.5-191206.udpipe")
 
 syntagrus_lemmatised <- udpipe_annotate(russian_syntagrus, 
@@ -77,4 +75,4 @@ syntagrus_lemmatised <- udpipe_annotate(russian_syntagrus,
   as_tibble() %>% 
   mutate(lemma = tolower(lemma))
 
-write_csv(gsd_lemmatised, "gsd_lemmatised.csv")
+write_csv(gsd_lemmatised, "syntagrus_lemmatised.csv")
