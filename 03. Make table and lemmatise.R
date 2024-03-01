@@ -1,4 +1,5 @@
 library(tidyr)
+library(tidytext)
 library(dplyr)
 library(stringr)
 library(purrr)
@@ -15,7 +16,7 @@ file_paths <- paste0("cleaned_txts/", files)
 all_texts <- map(file_paths, readLines)
 names(all_texts) <- files
 
-# преобразуем список в таблицу, выносим год, выпуск, имя автора, название в отдельный столбец
+# преобразуем список в таблицу, выносим год, выпуск, имя автора, название в отдельный столбец----
 texts_tbl <- all_texts %>% 
   stack() %>% 
   rename(text = values) %>% 
@@ -65,14 +66,81 @@ metadata_only <- texts_gendered %>%
 write.csv(metadata_only, "metadata.csv")
 write.csv(metadata_only, "texts_tbl.csv")
 
+#texts_tbl <- read.csv("texts_tbl_full.csv")
+
 # лемматизируем----
 #russian_gsd <- udpipe_load_model(file = "~/Documents/RESEARCH/rus_hist/SV_topic_modelling/russian-gsd-ud-2.5-191206.udpipe")
 russian_syntagrus <- udpipe_load_model(file = "~/Documents/RESEARCH/rus_hist/SV_topic_modelling/udpipe_models/russian-syntagrus-ud-2.5-191206.udpipe")
 
 syntagrus_lemmatised <- udpipe_annotate(russian_syntagrus, 
                                 texts_tbl$text, 
-                                doc_id = texts_tbl$id) %>% 
+                                doc_id = texts_tbl$article_id) %>% 
   as_tibble() %>% 
   mutate(lemma = tolower(lemma))
 
-write_csv(gsd_lemmatised, "syntagrus_lemmatised.csv")
+#save(syntagrus_lemmatised, file = "data/lemm_dirty.Rdata")
+write.csv(syntagrus_lemmatised, "syntagrus_lemmatised.csv")
+# 6 560 000 слов до чистки
+
+# причесываем -------
+# удалить стоп-слова и мусор
+sw_ru <- stopwords("ru")
+
+lemm_clean <- syntagrus_lemmatised %>% 
+  filter(nchar(lemma) > 2) %>% 
+  filter(!lemma %in% sw_ru) %>% 
+  select(doc_id, lemma, upos) %>% 
+  mutate(lemma = case_when(str_detect(lemma, "божия") ~ "божий",
+                           str_detect(lemma, "отц") ~ "отец",
+                           str_detect(lemma, "уколово|уколовый") ~ "уколова",
+                           str_detect(lemma, "бойцова") ~ "бойцов",
+                           str_detect(lemma, "увар|уварова") ~ "уваров",
+                           str_detect(lemma, "сванидз|сванидзй") ~ "сванидзе",
+                           str_detect(lemma, "тогоев|тогоевой") ~ "тогоева", 
+                           str_detect(lemma, "ястребицкий") ~ "ястребицая", 
+                           str_detect(lemma, "симоние") ~ "симония",
+                           str_detect(lemma, "неусыхину|неусыхина|неусыхиный") ~ "неусыхин",
+                           str_detect(lemma, "христианска|христиэ|христь") ~ "христианский",
+                           str_detect(lemma, "христофора") ~ "христофор",
+                           str_detect(lemma, "христ") ~ "христос",
+                           str_detect(lemma, "абрамсона") ~ "абрамсон",
+                           str_detect(lemma, "аббатис|аббатисс") ~ "аббатисса",
+                           str_detect(lemma, "абзаец") ~ "абзац",
+                           str_detect(lemma, "убликация") ~ "публикация",
+                           #str_detect(lemma, "убликация") ~ "публикация",
+                           #str_detect(lemma, "убликация") ~ "публикация",
+                           #str_detect(lemma, "убликация") ~ "публикация",
+                           #str_detect(lemma, "убликация") ~ "публикация",
+                           #str_detect(lemma, "тсрмин") ~ "термин",
+                           #многое еще можно исправить
+                           .default = lemma)) %>% 
+  filter(!str_detect(lemma, "[[:punct:]]")) %>% 
+  filter(upos %in% c("ADJ", "NOUN", "PROPN"))
+
+save(lemm_clean, file = "data/lemm_clean.Rdata")
+
+#load("~/Sveta/SV_from_Github/data/lemm_clean.Rdata")
+
+# считаем частотность
+text_count <- lemm_clean %>% 
+  group_by(doc_id, lemma) %>% 
+  count(lemma)
+
+#удаляем слова, которые встречаются 1 раз
+total <- text_count %>% 
+  group_by(lemma) %>% 
+  summarise(total = sum(n))
+
+text_count_pruned <- text_count %>% 
+  left_join(total) %>% 
+  filter(total > 1) %>% 
+  select(-total)
+
+# преобразует датафрейм в разреженную матрицу----
+# Каждая строка соответствует документу (doc_id), 
+# каждый столбец - лемме (lemma), 
+# а значения в ячейках - количеству вхождений леммы в документ (n).
+text_dtm <- text_count_pruned %>% 
+  cast_sparse(doc_id, lemma, n) 
+
+save(text_dtm, file = "data/Sparse.Rdata")
