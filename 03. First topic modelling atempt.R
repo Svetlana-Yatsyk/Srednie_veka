@@ -25,7 +25,7 @@ library(ggplot2)
 
 ### Define variables
 # here you define the variables for your topic modeling
-num_topics <- 20 # number of topics
+num_topics <- 40 # number of topics
 num_iterations <- 2000 # number of iterations. В этом отличие от package topic_models
 len_split <- 20000 # length of the split texts (they will be the actual documents to work on)
 

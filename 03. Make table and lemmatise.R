@@ -68,6 +68,7 @@ metadata_only <- texts_gendered %>%
   select(-text)
 
 write.csv(metadata_only, "metadata.csv")
+write.csv(texts_tbl, "texts_.csv")
 
 #texts_tbl <- read.csv("texts_tbl_full.csv")
 #texts_tbl <- texts_gendered
