@@ -50,27 +50,31 @@ determine_gender <- function(author_surname) {
 texts_tbl$Gender <- sapply(texts_tbl$Author, determine_gender)
 
 # то, что автоматически не определилось, правим руками и мерджим
-add_gender <- read.csv("gendered.csv")
+add_gender <- read.csv("~/Documents/RESEARCH/rus_hist/SV_topic_modelling_local/gendered.csv")
 
 # объединение датафреймов
 texts_gendered <- texts_tbl %>%
-  left_join(select(add_gender), by = c("article_id" = "id"))
+  left_join(add_gender, by = c("article_id" = "id"))
 
 texts_gendered <- texts_gendered %>%
   select(-Author) %>% # удаление старого столбца Author
   rename(Author = Author_new) # его замена новым (да, это тяжеловесно)
 
+# texts_gendered <- texts_gendered %>%
+#   select(-Gender.x, -Issue.x)  %>%
+#   rename(Gender = Gender.y, Issue = Issue.y)
+
 metadata_only <- texts_gendered %>%
   select(-text)
 
 write.csv(metadata_only, "metadata.csv")
-write.csv(metadata_only, "texts_tbl.csv")
 
 #texts_tbl <- read.csv("texts_tbl_full.csv")
+#texts_tbl <- texts_gendered
 
 # лемматизируем----
 #russian_gsd <- udpipe_load_model(file = "~/Documents/RESEARCH/rus_hist/SV_topic_modelling/russian-gsd-ud-2.5-191206.udpipe")
-russian_syntagrus <- udpipe_load_model(file = "~/Documents/RESEARCH/rus_hist/SV_topic_modelling/udpipe_models/russian-syntagrus-ud-2.5-191206.udpipe")
+russian_syntagrus <- udpipe_load_model(file = "~/Documents/RESEARCH/rus_hist/SV_topic_modelling_local/udpipe_models/russian-syntagrus-ud-2.5-191206.udpipe")
 
 syntagrus_lemmatised <- udpipe_annotate(russian_syntagrus, 
                                 texts_tbl$text, 
