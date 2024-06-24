@@ -17,14 +17,14 @@ topic_trends <- articles_and_topics %>%
 #   theme(legend.position = "none")
 
 topic_trends_2 <- articles_and_topics %>%
-  count(Year, weighted_frequency_topic_1) %>%
-  mutate(frequency = n / sum(n)) # Вы можете рассчитать частоту, если это необходимо
+  count(Year, topic_1) %>%
+  mutate(frequency = n / sum(n))
 
 # Строим график популярности каждого топика во времени
-ggplot(topic_trends_2, aes(x = Year, y = frequency, group = weighted_frequency_topic_1)) +
-  geom_point(aes(color = as.factor(weighted_frequency_topic_1))) + # Точки для отображения данных
-  geom_line(aes(color = as.factor(weighted_frequency_topic_1)), alpha = 0.3) + # Линии для тенденций
-  facet_wrap(~ weighted_frequency_topic_1, scales = "free_y") + # Создаем отдельные графики для каждого топика
+ggplot(topic_trends_2, aes(x = Year, y = frequency, group = topic_1)) +
+  geom_point(aes(color = as.factor(topic_1))) + # Точки для отображения данных
+  geom_line(aes(color = as.factor(topic_1)), alpha = 0.3) + # Линии для тенденций
+  facet_wrap(~ topic_1, scales = "free_y") + # Создаем отдельные графики для каждого топика
   labs(x = "Year", y = "Frequency", color = "Topic") +
   theme_minimal() +
   theme(legend.position = "none")
@@ -42,14 +42,10 @@ ggplot(topic_trends_2, aes(x = Year, y = frequency, group = weighted_frequency_t
 # 
 # # Рассчитываем взвешенную частоту
 # articles_and_topics <- articles_and_topics %>%
-#   mutate(weighted_frequency_topic_1 = 1 / total_docs)
+#   mutate(topic_1 = 1 / total_docs)
 
 
 # главный автор каждого топика---
-library(dplyr)
-
-# Предполагается, что ваш датафрейм называется df
-
 # Считаем количество документов для каждой комбинации топика и автора
 author_counts <- articles_and_topics %>%
   group_by(topic_1, Author) %>%
@@ -64,3 +60,4 @@ most_active_authors <- author_counts %>%
 
 # Результат
 print(most_active_authors)
+write.csv(most_active_authors, "most_active_authors_30topics.csv")
