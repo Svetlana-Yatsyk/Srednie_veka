@@ -16,7 +16,7 @@ my_texts <- character()
 # Список файлов в папке corpus в вашей рабочей директории
 file_list <- list.files("corpus_lemmatised/", full.names = TRUE)
 
-stop_words <- "путь_к_файлу/stopwords_ru.txt" # Укажите правильный путь к файлу со стоп-словами
+stop_words <- "./stopwords_ru.txt"
 
 for(i in 1:length(file_list)){
   
@@ -43,7 +43,7 @@ clean_text <- function(texts) {
   return(cleaned_texts)
 }
 
-# Apply the text cleaning function to your texts
+# Apply the text cleaning function
 my_texts <- clean_text(my_texts)
 
 
@@ -52,10 +52,10 @@ text.instances <- mallet.import(text.array = my_texts,
                                 stoplist = stop_words, # Удаление стоп-слов
                                 id.array = names(my_texts))
 
-# Определение переменных для модели тем
+# Определение переменных
 topic.model60 <- MalletLDA(num.topics=num_topics, alpha.sum = 1, beta = 0.1)
 
-# Загрузка документов для моделирования тем
+# Загрузка документов для моделирования
 topic.model60$loadDocuments(text.instances)
 
 # Подготовка параметров модели
@@ -120,45 +120,3 @@ p2
 
 # save it
 ggsave(p2, filename = "60Topics_barchart.png", scale = 2)
-
-### Cluster the documents per topic
-# 
-# # first assign names that correspond to:
-# # the first five words of the topics
-# colnames(doc.topics) <- firstwords
-# # the titles of the documents
-# rownames(doc.topics) <- names(my_texts) # to make them look better, remove "corpus" from the names
-# 
-# # visualize an heatmap and save it to a file
-# png(filename = "heatmap_40_topics_2000_iterarions.png", width = 4000, height = 4000)
-# heatmap(doc.topics, margins = c(50,50), cexRow = 2, cexCol = 2)
-# dev.off()
-# 
-# # simplify the visualization 
-# 
-# # start by changing variable type
-# doc.topics <- as.data.frame(doc.topics)
-# 
-# # create a variable that contains the groups (i.e. the books)
-# groups_tmp <- rownames(doc.topics)
-# groups_tmp <- strsplit(groups_tmp, "_")
-# groups_tmp <- sapply(groups_tmp, function(x) paste(x[1:3], collapse = "_"))
-# 
-# # add it to the dataframe
-# doc.topics$group <- groups_tmp
-# 
-# # calculate mean for each topic probability per group
-# doc.topics.simple <- doc.topics %>% 
-#   group_by(group) %>%
-#   summarise(across(everything(), mean))
-# 
-# # re-convert the format to matrix
-# groups_tmp <- doc.topics.simple$group
-# doc.topics.simple$group <- NULL
-# doc.topics.simple <- as.matrix(doc.topics.simple)
-# rownames(doc.topics.simple) <- groups_tmp
-# 
-# # visualize another heatmap and save it to a file
-# png(filename = "heatmap_simple_40_topics_2000_iterarions.png", width = 1500, height = 1500)
-# heatmap(doc.topics.simple, margins = c(50,50), cexRow = 2, cexCol = 2)
-# dev.off()
